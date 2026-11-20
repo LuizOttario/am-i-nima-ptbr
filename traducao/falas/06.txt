@@ -1,0 +1,160 @@
+830|O espírito do período Cambriano solta o controle do seu corpo e você volta ao seu eu normal.
+831|E se um tubarão estivesse na Era Cambriana? Ele teria alguma chance de sobreviver? Provavelmente não, né, não teria presa suficiente pra comer.
+832|VOCÊ: Hmm.
+833|Acho que não é nisso que a cientista está interessada.
+834|Talvez não, mas mesmo assim é interessante.
+835|Você boceja.
+836|Toda essa busca interior está te deixando cansada. Você torce para que seja a última pergunta.
+837|MÃE: Você ainda não pode dormir, só passamos da metade das perguntas.
+838|Metade!? Melhor acelerar isso.
+839|Como se chama um asilo pra algo que está super, super morto?
+840|Um museu?
+841|Não… mas a ideia é parecida.
+842|Por que você está pensando em asilos?
+843|Um estrondo na bacia e lama chovendo do céu. Então um cobertor repentino de terra puxado sobre você, vindo de algum lugar muito além da sua visão.
+844|Você tem quase certeza de que ser enterrada viva seria assim.
+845|MÃE: Nima, isso te lembra o quê?
+846|VOCÊ: Eca, isso é um inseto?
+847|MÃE: Não exatamente.
+848|Você se lembra de um lugar gostoso onde armaram a barraca debaixo das árvores.
+849|Vocês estão perto de uma cachoeira e a névoa no ar é suficiente para manter os mosquitos mais ou menos longe.
+850|Foi uma viagem longa até aqui e sua mãe só queria se sentar perto da água e ler.
+851|Você, por outro lado, quer fugir dos bichos voando e mergulhar no rio.
+852|Tudo isso parece não ter nada a ver com o fóssil, mas… você acha que de algum jeito eles estão conectados.
+853|Essa pedra estranha de camarão ficaria ótima num Aquário.
+854|Isso é tristeza? Não, não exatamente tristeza. Mais um tédio, uma solidão, um anseio.
+855|É um sentimento complexo.
+856|Você acha mesmo que cabe dentro dessa coisa?
+857|Não, também não parece muito acolhedor, parece mais uma prisão.
+858|Você se lembra de algo, uma coisa que sua mãe te contou sobre leitos marinhos sendo empurrados para cima até virarem montanhas depois de alguns milhões de anos de atividade tectônica.
+859|Bem legal, mas do que ela estava falando?
+860|Você se lembra de rodopiar despreocupada na água, sentindo-se mais você mesma enquanto nadava e se esforçava para ajudar sua mãe a realizar os sonhos dela.
+861|Isso contrasta com a sensação de estar Presa.
+862|Você sente uma pressão te esmagando. Água fluindo e te empurrando para baixo, para a escuridão. Você quer ser livre; quer nadar, mas não consegue.
+863|Você não devia ir por aí, vai deixar algo sombrio sair.
+864|VOCÊ: Quase lá.
+865|Isso te lembra a história de origem da marca Brocs.
+866|Jackson Broc, morador de Fort McMurray, Alberta, é o mais albertano possível. Ele teve uma sacada que mudou o mundo dos calçados para sempre.
+867|De uma enorme indústria de petróleo a uma riqueza de fósseis, Alberta é só dinossauros. Então ele teve a ideia de pegar esse amor e colocar nos seus pés.
+868|Ele inventou um material feito de petróleo bruto que depois usou nos sapatos que levam seu nome.
+869|Então, pensando bem, Brocs são dinossauros!
+870|MÃE: Nima, você está viajando?
+871|VOCÊ: Não…
+872|VOCÊ: Isso é só uma pedra.
+873|MÃE: Não é <i>só</i> uma pedra!
+874|VOCÊ: É uma pedra importante.
+875|MÃE: Por que você acha que é importante…?
+876|VOCÊ: Devo comparar-te a um xisto de verão?
+877|MÃE: Agora não, Nima.
+878|VOCÊ: Público duro feito rocha…
+879|Esse é um velho amigo seu, você tem certeza. Tem uma sensação familiar que você não consegue afastar, e isso provavelmente é uma pista.
+880|VOCÊ: Essa é minha pedra de estimação, Rocky Lee!
+881|VOCÊ: Ele é um membro querido da família.
+882|VOCÊ: Você acha que eu poderia ter esquecido do Rocky!?
+883|MÃE: Você não tem pedra de estimação.
+884|MÃE: Você está só inventando coisa pra ganhar tempo ou não sabe o que é isso?
+885|VOCÊ: Você hesitou em me mostrar isso. Por quê?
+886|MÃE: Vou começar a te fazer perguntas mais difíceis.
+887|VOCÊ: Mais difíceis como?
+888|MÃE: Se eu explicasse, estragaria o objetivo do teste.
+889|Isso não é bom. Melhor descobrir rápido o que é essa pedra esquisita.
+890|Bom, claramente isso é um fóssil.
+891|Mas provavelmente esse não é o objetivo do teste. Pelo tubarão do teste anterior, a ideia provavelmente é que isso seja importante pra você e pra ela.
+892|Considerando tudo isso, provavelmente é um Presente que você deu a ela.
+893|VOCÊ: Isso meio que está me fazendo sentir orgulho de mim mesma, mas não sei por quê.
+894|MÃE: Isso, siga essa memória. Sabe por quê?
+895|A Mãe coloca um par de óculos de natação na mesa e os empurra na sua direção. A amostra tem um leve cheiro de cloro e vitória.
+896|MÃE: “Esses óculos te lembram o quê?”
+897|VOCÊ: “Eu ganhei o campeonato de natação do ano passado.”
+898|Você fala hesitante e a memória vai se preenchendo de trás pra frente enquanto você fala.
+899|VOCÊ: “Nadei tão forte na última volta que a vedação dos óculos rompeu e eles encheram de água. Eu estava praticamente cega quando terminei. Só soube que ganhei quando o Treinador me deu parabéns.”
+900|MÃE: “Isso mesmo!”
+901|VOCÊ: “Como você saberia disso?”
+902|A memória vem misturada com ansiedade, glória e decepção. Quando te entregaram aquele troféu, você varreu a plateia com os olhos procurando sua mãe. Você já esperava não vê-la… e estava certa.
+903|VOCÊ: “Você não estava lá.”
+904|A Mãe desvia os olhos e olha para os óculos. Ela os pega e os vira na mão.
+905|MÃE: “Eu comprei outros depois que você me contou o que aconteceu.”
+906|MÃE: “Mas esses se perderam no rio.”
+907|MÃE: “Acho que já chega por hoje.”
+908|Uma memória lambe os cantos da sua mente. Você ouve o rugido titânico do rio. A força e o poder dele pressionando seus tímpanos.
+909|Você vê um par de óculos flutuando à sua frente como um peixe dançando na correnteza.
+910|As tiras de plástico que os prendem à sua cabeça estão presas numa fenda da rocha.
+911|VOCÊ: “Eu engoli água pros pulmões e foi como respirar fogo. Aí meu cérebro desligou devagar. Mas eu não fui embora. Eu voltei.”
+912|Você começa a falar sem pensar, como se possuída pelas memórias que agora inundam seu cérebro.
+913|A respiração da sua mãe desacelera. Um olhar de medo cravado nos olhos dela.
+914|VOCÊ: “Eu lembro de você e das enfermeiras conversando, mas era como se eu ainda estivesse debaixo d'água e vocês andando em terra firme.”
+915|MÃE: “Mas você estava em coma.”
+916|VOCÊ: “Acho que sim, só parecia que eu estava presa numa caixa.
+917|Os olhos da sua mãe se arregalam num horror mudo; ela olha para a mesa, reconhecendo cada um dos próprios erros enquanto desfilam pela mente dela.
+918|Você tem outra memória. Foi depois do acidente; seu corpo lutava para continuar vivo. Seu cérebro estava se religando ativamente para continuar funcionando depois de sofrer uma concussão e ficar sem oxigênio.
+919|Poderia ter sido um sonho, mas você sabe que essa memória é real. Quando você voltou à vida, a voz que te chamou não era da sua mãe. Havia um homem ali, um pescador que viu seu corpo descendo o rio e nadou para te resgatar.
+920|VOCÊ: “Você mentiu pra mim ontem.”
+921|VOCÊ: “Você disse que me resgatou, mas não foi você.”
+922|Sua mãe tosse de repente, engasgando com a mentira em que você a pegou. Ela evita seu olhar.
+923|VOCÊ: “Por que você está tão desesperada pra eu achar que você me resgatou?”
+924|Você se lembra da sua mãe discutindo com os médicos para te manter nos aparelhos. Ela exigiu que fizessem o impossível e te trouxessem de volta de onde você estava, suspensa no véu entre a vida e a morte.
+925|MÃE: “Porque acho que posso ter piorado tudo.”
+926|VOCÊ: “O que você fez comigo, mãe?”
+927|Uma memória lambe os cantos da sua mente. Óculos flutuando à sua frente como um peixe dançando na correnteza.
+928|Alegria tingida de sombra molhada, nadando em círculos sem parar. Descendo em círculos, subindo em espiral. Repetição e êxtase.
+929|VOCÊ: “Me lembra a última vez que fui nadar.”
+930|VOCÊ: “A vedação dos óculos rompeu um pouco e eles encheram de água. Eu estava praticamente cega lá no fundo do lago."
+931|VOCÊ: "Acho que entrei um pouco em pânico, pensei em subir de novo e arrumar meus olhinhos. Acabei rachando a cabeça que nem um ovo.”
+932|Sua mãe se remexe desconfortável do outro lado da mesa.
+933|MÃE: “Você não precisa falar disso se não quiser.”
+934|Mas você quer falar disso. Você sorri, percebendo que ela não deseja o silêncio para te proteger, mas para proteger a si mesma.
+935|VOCÊ: “Eu virei sopa por um segundo, eu sabia claramente que estava em apuros, mas era como se os fios que ligavam meu cérebro titereiro ao meu corpo de marionete tivessem sido cortados de repente. Tentei nadar, mas tudo que eu conseguia era me contorcer que nem um peixe.”
+936|MÃE: “Você lembra com tanta clareza?”
+937|VOCÊ: “Está tudo voltando agora.”
+938|Ela não estava lá.
+939|VOCÊ: Você mentiu pra mim. Não foi você que me resgatou. Foi algum estranho que viu meu corpo quebrado descendo o rio.
+940|MÃE: Não me orgulho do que tive que fazer pra te trazer de volta. Coisas que espero levar comigo pro túmulo.
+941|MÃE: Eu só queria que você me agradecesse.
+942|VOCÊ: Por que eu te agradeceria?
+943|MÃE: Acho que já chega por hoje.
+944|Acho que isso não faz sentido nenhum aqui.
+945|Você faz uns estalinhos com a boca.
+946|MÃE: Leve o tempo que precisar.
+947|VOCÊ: “Eles me lembram de nadar por aí, dar um mergulho, entrar na água.”
+948|Você dá de ombros. Há uma expectativa envolvendo a apresentação do objeto. A Mãe os considera importantes. Sem certeza, você faz estalinhos com a boca, um banimento brincalhão do silêncio do porão.
+949|MÃE: “Isso é… uma conexão razoável.”
+950|A Mãe parece murcha; está claro que ela esperava uma resposta mais precisa.
+951|MÃE: “Nada mais pessoal?”
+952|Claramente os óculos têm um propósito além da simples função.
+953|VOCÊ: “Eu gosto de nadar.”
+954|MÃE: “Gosta mesmo.”
+955|A Mãe assente e sorri, se recostando um pouco e tomando sua confirmação como meia vitória.
+956|MÃE: “Eu esperava que isso desse uma pista de algo importante que aconteceu com você. Talvez não seja um símbolo bom o suficiente. Talvez se eu tivesse achado o troféu, teria despertado algo mais específico.”
+957|MÃE: Tem certeza de que eles não te lembram nada?
+958|VOCÊ: Isso é meu?
+959|MÃE: Sim, são seus.
+960|Você tem uma vaga memória de entregar algo à sua mãe; os óculos estão embaçados e atrapalham sua visão. A memória vem com uma sensação firme de que, nadando, você pode ser útil para sua mãe.
+961|VOCÊ: Você quer que eu lembre do acidente ou tem outra coisa aqui?
+962|Sua mãe olha para baixo, confusa.
+963|MÃE: Ah! Não tinha pensado nisso. Quer parar?
+964|Faça ela se contorcer pra variar, vamos inventar algo sobre o acidente.
+965|VOCÊ: Não, tudo bem.
+966|MÃE: Eu esperava te lembrar de outra coisa.
+967|Você tem uma memória repentina de ser criança e seu pai te ensinando a nadar.
+968|VOCÊ: Me lembra as aulas de natação com o pai.
+969|MÃE: Acho que começou mesmo com ele.
+970|MÃE: Mas você continuou sozinha.
+971|Ela para por aí, te incentivando a tentar de novo.
+972|O leve cheiro de cloro é muito reconfortante.
+973|VOCÊ:  Eu amo nadar.
+974|MÃE: É, ama mesmo.
+975|VOCÊ: Hmm, por que será.
+976|MÃE: Leve o tempo que precisar, tenho certeza de que você vai lembrar.
+977|VOCÊ: Não gosto de pensar em água.
+978|MÃE: Ah? Desculpa. Quer parar?
+979|MÃE: Eu esperava terminar os testes de hoje num tom mais positivo, mas acho que estraguei tudo.
+980|VOCÊ: Não é uma coisa ruim que você quer que eu lembre?
+981|MÃE: Não, com certeza não.
+982|Ia ser bem desagradável pra ela se você trouxesse aquele acidente à tona.
+983|VOCÊ: Tá bom.
+984|Você se lembra do sonho estranho da noite anterior.
+985|O que os sussurros estavam te dizendo pra pensar mesmo?
+986|MÃE: Nima, você está bem?
+987|Você pega os óculos e os coloca na boca, chupando o plástico.
+988|Não tem um gosto bom. Você cospe ao perceber que não é comestível.
+989|MÃE: Por quê?!

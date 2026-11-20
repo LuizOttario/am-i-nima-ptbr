@@ -1,0 +1,170 @@
+160|MÃE: Ah, você lembra disso?
+161|VOCÊ: Talvez?
+162|MÃE: Não se preocupa com isso agora, come um pouco.
+163|VOCÊ: Aquilo ali é uma pedra?
+164|A Mãe se inclina e examina o mingau.
+165|MÃE: Ah, hã, como isso foi parar aí.
+166|Tirar a pedra melhora o congee só um tiquinho.
+167|MÃE: Pronto, agora está perfeito. Dá uma mordida!
+168|VOCÊ: Tenho a sensação de que cozinho melhor que você.
+169|MÃE: Bom… Que bom que você lembra disso.
+170|MÃE: Mesmo assim, você está doente e eu estou bem, então come tudo.
+171|Ver as espinhas de peixe aperta seu peito, mas você não sabe por quê.
+172|A sensação vem sem nenhuma memória específica. Só tem um buraco em forma de peixe no seu coração.
+173|MÃE: Hã, não chora… é só congee.
+174|Você encara o mingau empelotado e sua mente divaga.
+175|Se você não estivesse amarrada, ficaria meio tentada a se esticar por cima da mesa e enfiar a cara dela nesse mingau.
+176|Acrescentar o sangue e o cérebro dela à cacofonia de sabores que te foi servida.
+177|Velha e cansada do jeito que ela parece, você se pergunta que gosto ela teria.
+178|MÃE: Por que você está sorrindo, Nima?
+179|Você dá de ombros.
+180|VOCÊ: Salgado que nem lágrimas.
+181|MÃE: Você nem provou.
+182|VOCÊ: Deixou o ar salgado.
+183|VOCÊ: A aura dele é puro sal.
+184|MÃE: Você gosta de comida salgada.
+185|VOCÊ: Parece um cerebrozinho.
+186|VOCÊ: Tem um peixinho rastejando aí dentro.
+187|MÃE: Não é um cérebro, é congee.
+188|Embora o cheiro seja forte, seu estômago ronca.
+189|Seu estômago não é tão eloquente quanto sua mente, mas está dizendo que a essa altura aceita qualquer coisa.
+190|MÃE: Eu ouvi isso, você deve estar morrendo de fome. Vai, come.
+191|VOCÊ: Olha só esse projetinho de ciências.
+192|VOCÊ: Isso é uma amostra?
+193|MÃE: É o jantar.
+194|VOCÊ: Parece que vai pular pra fora da tigela.
+195|MÃE: Isso é Congee, é comida, você come, não está vivo.
+196|MÃE: Só come que você vai entender… <size=12>Eu espero.
+197|Feliz? A gente está feliz com isso?
+198|O que vale é a intenção.
+199|Você engole em seco.
+200|MÃE: Nima? Você está bem? <size=12>Sua expressão está meio vazia.
+201|Seja lá o que for essa coisa, ela dissolveu o resto do peixe, deixando só o esqueleto para trás.
+202|Você sente o poder desse monstro, seu hálito pútrido ardendo no ar.
+203|Se ele encostar em você, você vai se dissolver igualzinho ao peixe.
+204|Quem é essa mãe, que tem tais monstruosidades sob seu comando?
+205|MÃE: Nima? Alô, suas pupilas estão dilatadas... você está bem?
+206|Você não quer ser mimada nem nada, mas não podia ser sushi? Um hambúrguer, talvez?
+207|A Mãe sorri para você, inclinando a cabeça de lado, olhando de você para a tigela e da tigela para você.
+208|Ela sinceramente não acha que tem nada de errado aqui?
+209|Você precisa dizer a ela o quanto isso é nojento.
+210|Você boceja; a tigela de congee com certeza espantou seu apetite.
+211|Agora você preferia achar uma toca gostosa pra se enfiar e dormir.
+212|A MÃE põe a tigela de lado e solta um longo suspiro. Ela te encara fixamente, se preparando para algo.
+213|MÃE: Quanto do acidente você lembra?
+214|Você balança a cabeça. Algumas coisas simplesmente vêm até você, mas, até onde você sabe, tudo o que aconteceu antes de acordar neste porão parece um sonho.
+215|MÃE: Você estava <b>nadando</b> e bateu a cabeça.
+216|MÃE: Você teve sorte de eu conseguir te resgatar.
+217|Você agarra a cabeça quando uma pontada de dor percorre do topo do crânio até a espinha.
+218|Ai.
+219|Sei, sei…
+220|Uma memória surge para você. Você se lembra de olhar para o rosto de pedra da sua mãe. Na mão dela, uma pequena faca afiada, feita para cortar carne e órgãos.
+221|Sua mãe parece preocupada ao se aproximar para te consolar.
+222|Você se encolhe para longe dela.
+223|MÃE: Talvez seja melhor falarmos disso depois.
+224|MÃE: Amanhã começam os testes de verdade. Se você passar neles, vai poder sair do porão e tudo pode voltar ao normal.
+225|VOCÊ: Como eu vou passar se mal consigo lembrar de alguma coisa...?
+226|...
+227|MÃE: Acho que é justo você ter a chance de me fazer algumas perguntas também.
+228|Uma dor estremecedora toma conta do seu cérebro. Você está quase sem forças por hoje.
+229|Escolha bem suas próximas palavras.
+230|MÃE: O que você quer saber?
+231|Suas pálpebras estão ficando pesadas, sua energia está acabando.
+232|MÃE: Mais alguma coisa que você queira me perguntar?
+233|Você boceja e sua mãe percebe.
+234|MÃE: Nima, meu bem, não acha que está na hora de ir pra cama?
+235|VOCÊ: Só tenho mais uma pergunta.
+236|MÃE: Tá bom, o que você quer perguntar?
+237|Cadê o Pai..?
+238|VOCÊ: Eu sou a Nima?
+239|Sua mãe parece abalada e se afasta de você. Ela fecha o coração e, em vez de um sorriso, você vê o mesmo rosto de pedra que viu na memória que passou pela sua cabeça.
+240|VOCÊ: Tô brincando, eu sei que meu nome é Nima.
+241|Sua mãe não ri.
+242|MÃE: Nima, por favor, não é hora de brincadeira. Preciso que você leve isso a sério.
+243|Bom, foi uma pergunta desperdiçada, mas valeu pela cara dela.
+244|VOCÊ: Você é mesmo minha mãe?
+245|Ela parece não saber se fica irritada ou preocupada.
+246|MÃE: Sim, Nima, eu sou mesmo sua mãe.
+247|VOCÊ: Você podia estar fingindo? Minha memória não está muito inteira agora.
+248|MÃE: Meu nome é Annabelle Lee, sou de Vancouver e trabalho como Paleontóloga. Já escrevi vários livros.
+249|MÃE: Isso confere?
+250|VOCÊ: Sim. Parece coisa de mãe.
+251|Você sorri para ela.
+252|Será que todas as mães também são cientistas?
+253|MÃE: Por favor, para de brincadeira.
+254|VOCÊ: Você está bem, Mãe?
+255|Ela parece surpresa e depois olha para o próprio cardigã.
+256|MÃE: Eu não pareço bem?
+257|VOCÊ: Parece que você parou de se cuidar faz muito tempo.
+258|Você tenta sorrir calorosamente para ela.
+259|MÃE: Eu estava preocupada com você.
+260|MÃE: Mas está tudo bem agora, só preciso fazer esses testes.
+261|MÃE: Que tal, depois disso, a gente passar a última semana das férias de verão em Radium?
+262|MÃE: Uma viagem às fontes termais vai nos fazer bem.
+263|VOCÊ: Claro.
+264|VOCÊ: Posso te ajudar de algum jeito?
+265|MÃE: Só se concentra em melhorar.
+266|VOCÊ: Cadê o resto da nossa família?
+267|A MÃE estende a mão e a coloca sobre a sua.
+268|MÃE: Somos só eu e você, Nima.
+269|VOCÊ: Não é verdade, tem mais dois, não tem?
+270|Ela recolhe a mão e te olha intrigada.
+271|MÃE: Teve um dia, mas agora somos só nós, tá bom?
+272|VOCÊ: Por que eu tenho medo de você?
+273|MÃE: Você tem medo de mim?
+274|VOCÊ:  Eu não devia estar em outro lugar, um lugar pra gente doente? Por que estamos no porão?
+275|MÃE: Eles não estavam te dando o cuidado que você precisava. Tive que resolver as coisas com as minhas próprias mãos.
+276|MÃE: Mas funcionou, você acordou, está indo bem, só está um pouco confusa. A gente pode consertar isso.
+277|MÃE: Você não precisa ter medo de mim.
+278|MÃE: Eu sou sua mãe, vou te ajudar.
+279|Ela está escondendo algo de você…
+280|VOCÊ: Cadê o pai?
+281|Sua mãe olha para as próprias mãos.
+282|MÃE: O Pai não está aqui.
+283|MÃE: O que você lembra dele?
+284|Você vasculha a mente atrás de qualquer coisa que consiga lembrar sobre seu pai.
+285|A memória que volta não é um acontecimento nem uma história, mas um cheiro.
+286|VOCÊ: Ele tem cheiro de peixe.
+287|O rosto de pedra da sua mãe se racha num sorriso, e então ela ri.
+288|MÃE: É, tinha mesmo.
+289|VOCÊ: Eu lembro que você me machucou.
+290|A MÃE estremece; dá pra ver que você tocou numa ferida. Ela começa a tremer.
+291|MÃE: Nima... Querida.
+292|MÃE: Eu sei que nem sempre estou presente... Mas eu nunca...
+293|Uma segunda memória vem até você. Você está presa num abismo, olhos fechados e desconectada do próprio cérebro. Você sente sua mãe segurando sua mão.
+294|Não, se faz de boba...
+295|VOCÊ: Desculpa, mãe.
+296|VOCÊ: Tô confusa.
+297|A MÃE relaxa um pouco, embora não largue o espinho que você cravou nela.
+298|MÃE: Ultimamente eu tenho priorizado meu trabalho em vez de você, e isso não é justo. Vai ser diferente agora, eu prometo.
+299|MÃE: Isso não quer dizer que eu já tenha querido te machucar.
+300|MÃE: Mas não posso negar que você se machucou porque eu não estive lá quando você precisou de mim.
+301|A conversa morre; nenhuma das duas quer olhar para a outra.
+302|VOCÊ: Eu me machuquei nadando?
+303|Você sente que não confia nessa explicação.
+304|MÃE: Você foi nadar sozinha e bateu a cabeça numa pedra. Eu disse pra não ir porque a correnteza estava forte, mas você não escutou, como sempre.
+305|MÃE: Você teve sorte de eu te encontrar a tempo.
+306|VOCÊ: Sério?
+307|MÃE: Sério.
+308|A voz dela tem um toque de arrependimento.
+309|Ela está mentindo pra você.
+310|VOCÊ: Você está feliz que eu estou bem?
+311|MÃE: Sim, meu bem, claro!
+312|O rosto dela se suaviza, mas dá pra ver que tem algo contido na resposta.
+313|Um levíssimo toque de medo nas ruguinhas dos olhos dela.
+314|VOCÊ: E o seu trabalho?
+315|MÃE: Meu trabalho pode esperar.
+316|MÃE: Você é mais importante.
+317|VOCÊ: Eu não tenho que ir pra escola?
+318|MÃE: Primeiro você precisa melhorar.
+319|MÃE: Isso me lembrou. Seus colegas de classe fizeram um cartão de ‘Melhoras’ pra você.
+320|VOCÊ: Sério? Que legal.
+321|MÃE: Está lá em cima. Trago pra você amanhã.
+322|A MÃE tira o caderninho do bolso e rabisca alguma coisa.
+323|VOCÊ: Não esquece, tá?
+324|MÃE: O quê?
+325|Ela já esqueceu.
+326|VOCÊ: Foi você que cozinhou isso?
+327|MÃE: Confesso que foi meio de última hora, então eu meio que juntei qualquer coisa.
+328|MÃE: Essa é a vantagem do congee, dá pra pegar tudo que tem na geladeira, jogar numa panela e meio que funciona.
+329|Então ela só joga merda na parede pra ver o que gruda?

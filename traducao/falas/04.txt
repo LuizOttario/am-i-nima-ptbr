@@ -1,0 +1,170 @@
+500|MÃE: Seu pai te amava mais que tudo, mas ele nunca vai voltar.
+501|MÃE: Você é tudo que me resta e precisamos ficar juntas, por ele.
+502|NHAC
+503|BLÉ
+504|Você cospe as entranhas felpudas da falsa fera.
+505|VOCÊ: Eca! Que nojo!
+506|MÃE: Ei! Nima, isso não é de comer. Você não lembra?
+507|VOCÊ: Mas ele parece tão gostoso!
+508|Sua mãe te olha com profunda preocupação.
+509|Qual é o problema dela?
+510|VOCÊ: É… Hã.
+511|Seu corpo trava; só de ver essa fera horrenda, seu instinto de lutar ou fugir dispara.
+512|MATA ELE.
+513|Você quer fugir desse porão nojento e nunca mais olhar para trás.
+514|MÃE: Nima, o que foi?
+515|Sem conseguir se mexer, você fica sentada em puro horror enquanto o predador mais temido do mar repousa sobre a mesa, a centímetros do seu rosto.
+516|Nenhum lugar pra correr.
+517|MÃE: Você está bem? Nima!
+518|MÃE: Você está bem? Nima?
+519|VOCÊ: O que aconteceu?
+520|MÃE: Você desmaiou por um tempão. Tem alguma coisa sobre seu tubarão que você não está me contando? Alguma memória desagradável?
+521|TIRA ISSO DA MINHA FRENTE.
+522|VOCÊ: Eu… não sei. Podemos só seguir em frente por agora? Por favor?
+523|MÃE: Tá bom.
+524|MÃE: <size=12> Você <i>amava</i> esse tubarão. O que aconteceu?
+525|Você admira a fera colossal à sua frente.
+526|VOCÊ: Mandíbulas tão fortes. Trezentos dentes afiados como navalhas, capazes de exercer mil e oitocentos quilos de força. Perfeito pra estraçalhar qualquer coisa.
+527|VOCÊ: Queria ser igual a ele.
+528|A MÃE rapidamente anota algo no caderno.
+529|MÃE: <size=12><shake a=.1 d=.3><i>Continue…</i>
+530|Você não sabe por que acabou de dizer isso.
+531|VOCÊ: Hã. Se eu fosse igual a ele, eu estaria no controle.
+532|MÃE: E por que você ia querer isso?
+533|VOCÊ: Você não ia conseguir me amarrar nem me manter presa aqui embaixo.
+534|MÃE: Você <i>não</i> está presa aqui embaixo.
+535|VOCÊ: Então me deixa sair.
+536|VOCÊ: Por que você escolheu isso pra me testar?
+537|MÃE: Não posso te contar. Estragaria o teste.
+538|VOCÊ: Foi você que me deu isso?
+539|MÃE: Não, eu achava a lontra mais fofa.
+540|VOCÊ: O quê!? Mas esse aqui é <i>tão</i> fofo!
+541|Sua mãe revira os olhos.
+542|MÃE: É, ele também dizia isso.
+543|VOCÊ: Esse é um tubarão-branco! O predador máximo das profundezas! Sabia que eles podem ter até <i>trezentos dentes</i> e chegar a <i>seis metros</i> de comprimento!? É sério!
+544|A Mãe solta um suspiro cansado.
+545|MÃE: Sim, Nima, eu sei.
+546|VOCÊ: E sabia também que algumas espécies de tubarão existem há 450 milhões de anos!? Imagina ter 450 milhões de anos!
+547|Nerd.
+548|MÃE: Querida, talvez seja melhor focar em como isso te faz sentir?
+549|VOCÊ: Ah, tá.
+550|Com o objetivo de subir aquelas escadas e sair dessa prisão em mente, você pensa numa estratégia para encarar os testes da sua mãe.
+551|Ela deixou pistas por toda parte. Bugigangas feitas para provocar sua memória e dar a partida nas funções superiores do seu cérebro.
+552|Mente e Corpo podem ser usados para analisar o que as coisas te fazem pensar e sentir.
+553|Tenha tudo isso em mente e vai dar tudo certo.
+554|VOCÊ: Por que ele não está se mexendo? Está dormindo?
+555|MÃE: Isso é um brinquedo.
+556|VOCÊ: Isso é um peixe! Todos os peixes vivem no oceano!
+557|MÃE: Hmm, não exatamente. Isso é um tubarão. E, <i>na verdade</i>, existem espécies que vivem em água doce, como lagos e rios-
+558|VOCÊ: Rios...
+559|VOCÊ: Ele é tão fofo! Posso ficar com ele?
+560|MÃE:  Ele já é seu, Nima.
+561|VOCÊ: Eba!
+562|VOCÊ: Ele sempre está do meu lado quando me sinto sozinha
+563|MÃE: E com que frequência você se sente sozinha?
+564|VOCÊ: ...
+565|VOCÊ: Sabe como é
+566|MÃE: Hm...
+567|Ela escreve algo no caderno.
+568|VOCÊ: Argh… isso é brinquedo de bebê.
+569|VOCÊ: É sério isso? Você está me mantendo aqui embaixo pra brincar de joguinho de criança?
+570|MÃE: Quanto mais rápido você responder, mais rápido a gente segue.
+571|VOCÊ: Mas isso não tem sentido nenhum. Eu já sei o que é essa coisa.
+572|MÃE: Então me prove.
+573|VOCÊ: A gente devia colocar um desses no congee!
+574|MÃE: Não… isso é um brinquedo de pelúcia.
+575|MÃE: E comer tubarão é ilegal.
+576|VOCÊ: Por quê? Parece super gostoso!
+577|MÃE: Tubarões são uma parte crucial do ecossistema.
+578|VOCÊ: ...
+579|VOCÊ: Eu sou uma parte crucial do ecossistema?
+580|MÃE: Você é uma parte crucial do meu ecossistema.
+581|Ela acha que está sendo fofa.
+582|VOCÊ: Valeu.
+583|VOCÊ: Coloca ele numa sopa!
+584|MÃE: Não, isso é cruel.
+585|VOCÊ: Como comer alguma coisa é cruel? É pra isso que a gente foi feito.
+586|A MÃE parece irritada com você.
+587|MÃE: Não estou aqui pra discutir a semântica ética da sopa de barbatana de tubarão, Nima… É cruel e ponto final. Entendeu?
+588|VOCÊ: Tá
+589|VOCÊ: Acho que escrevi uma redação sobre isso na escola.
+590|MÃE: Então você deve saber bastante sobre isso!
+591|Tubarões normais nadam, mas esse aqui é feito só de enchimento.
+592|Ele provavelmente ia ficar encharcado e afundar.
+593|VOCÊ: Você vai cortar ele?
+594|A Mãe te olha de um jeito estranho.
+595|VOCÊ: Ainda bem, acho que isso ia ser perturbador.
+596|MÃE: É, e você sabe por quê?
+597|Não é uma pedra… mas você tem certeza de que esse cara é amigo da pedra.
+598|Se a gente levasse esse cara pra escola, todo mundo ia tirar sarro da gente.
+599|Não pode deixar sua mãe achar que você é sem graça.
+600|VOCÊ: Não conheço esse cara.
+601|MÃE: Conhece sim.
+602|Merda, ela sabe.
+603|A efígie do predador está disfarçada de travesseiro.
+604|Talvez um lobo em pele de cordeiro.
+605|Melhor ficar em guarda.
+606|Isso faz todo o sentido.
+607|Ontem à noite você juraria que faltava um travesseiro em forma de tubarão na sua cama.
+608|VOCÊ: Isso devia estar na minha cama.
+609|MÃE: Sim. Você sabe por quê?
+610|VOCÊ: Ele não está se mexendo!
+611|VOCÊ: O que você fez com ele!?
+612|MÃE: Ele é assim mesmo.
+613|VOCÊ: Ele devia estar morto!?
+614|Sua mãe reúne toda a paciência para se proteger da própria fúria.
+615|MÃE: É um bicho de pelúcia. Sabe, um animal feito de tecido e enchimento.
+616|VOCÊ: É, eu sabia, só estava te testando.
+617|MÃE: Sei.
+618|Você pega o tubarão e o balança de um jeito que faz o rabo dele ir pra lá e pra cá, como se estivesse nadando.
+619|VOCÊ: Eu sou o rei do mar! Isso quer dizer que eu sou o peixe grande que faz todas as regras!
+620|Você engrossa a voz para dar ao tubarão uma aura de comando.
+621|Sua mãe estende a mão, tira o tubarão de você e o coloca de volta na mesa.
+622|MÃE: Talvez depois, Nima.
+623|Deus <i>me livre</i> você se divertir nesse porão.
+624|VOCÊ: O que o peixinho de estimação está fazendo fora de casa?
+625|MÃE: Esse não é seu peixe de estimação.
+626|MÃE: Mas chegou perto, onde os peixes vivem?
+627|VOCÊ: Hã. Aquários redondos? No mar?
+628|MÃE: Você disse peixe de estimação, então onde vivem os peixes de estimação?
+629|VOCÊ: Aquários?
+630|MÃE: Isso mesmo, e no que os Aquários te fazem pensar?
+631|VOCÊ: Peixes..?
+632|MÃE: Nima… não.
+633|Você venceria esse cara fácil, ele não parece nada durão.
+634|Você estremece. Rios traiçoeiros.
+635|Não, ele é do mar.
+636|Você conhece esse cara há muito tempo.
+637|Um velho amigo seu, na verdade.
+638|VOCÊ: Isso é algo que você me deu como pedido de desculpas?
+639|Sua mãe parece chocada.
+640|MÃE: Não… é isso que você acha que um presente é?
+641|VOCÊ: Tipo, um presente de aniversário é um pedido de desculpas por estar viva.
+642|MÃE: Não, seu Pai não te deu isso como pedido de desculpas.
+643|Você pensa um pouco. Além de obviamente ser um brinquedo seu, ela está procurando uma memória de como você o ganhou.
+644|Provavelmente para comemorar algo, como uma viagem a um lugar especial.
+645|Parece que seria muito gostoso de abraçar.
+646|VOCÊ: Ei, por que tubarões são proibidos nos cassinos?
+647|MÃE: ... Porque são trapa–
+648|VOCÊ: Porque eles são tubarões das cartas!
+649|VOCÊ: Você usaria o tubarão contra mim?
+650|MÃE: Nima, esse não é o objetivo do teste, só estou tentando ver do que você se lembra.
+651|Quem ganharia uma corrida: uma equipe inteira de natação do colégio ou um garotinho mordedor?
+652|VOCÊ: Eu nadaria mais rápido que ele fácil.
+653|MÃE: O que foi isso, Nima?
+654|MÃE: Ok, Nima, vamos passar pra outra coisa.
+655|Ela tira um pedaço de rocha com uma formação estranha sepultada na superfície. Há um brilho prismático na rocha, um esqueleto opalizado congelado no tempo e depois partido como um ovo.
+656|A Mãe hesita, sem saber se deveria te mostrar isso. Ainda assim, ela coloca na mesa e empurra na sua direção.
+657|MÃE: Isso te lembra o quê?
+658|Você tem uma memória de estar no topo da escada do porão espiando sua mãe enquanto ela trabalhava sem parar aqui embaixo, no laboratório dela.
+659|Ela olhava para essa rocha, passando todo o tempo com ela como se estivesse enfeitiçada. Não deixava você ver no que estava trabalhando. Toda vez que você interrompia, ela mandava você sair, com firmeza.
+660|Esse é o tema do próximo estudo dela. Um estudo em que ela trabalhou dia e noite durante quase todo o verão.
+661|VOCÊ: Você passou o verão inteiro com esse fóssil.
+662|MÃE: Perdi a noção do tempo.
+663|As memórias estão todas tingidas de solidão e culpa.
+664|Sua mãe te chamava de assistente de laboratório, mas tudo que você fazia pra ajudar era cozinhar e limpar.
+665|Na época você dizia a si mesma que fazia todo aquele trabalho por amor, mas agora não consegue evitar se sentir… indignada.
+666|VOCÊ: Meio que uma perda de tempo. Ficar sentada aqui no escuro enquanto o verão passa.
+667|Você tocou numa ferida; ela reage cerrando os punhos. Um véu de aço cobre os olhos dela.
+668|MÃE: Sua pirralha mimada. Você pode brincar e não fazer nada o verão inteiro.
+669|MÃE: Talvez pra você pareça que eu estou ‘perdendo tempo’, mas fiz todo esse trabalho pra gente poder consertar nossa família.

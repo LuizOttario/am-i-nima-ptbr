@@ -1,0 +1,170 @@
+330|MÃE: Bom.
+331|MÃE: Acho que tem um motivo pra você cuidar da maior parte da cozinha.
+332|VOCÊ: Eu morri no acidente?
+333|MÃE: Não.
+334|MÃE: Você estava em coma.
+335|MÃE: Não vamos nos preocupar com isso agora, tá bom?
+336|VOCÊ: Posso comer outra coisa?
+337|MÃE: Espera aqui um segundo.
+338|Tomara que seja carne!
+339|Sua mãe sobe correndo e volta alguns minutos depois com uns salgadinhos.
+340|Eles não duram muito; você tritura o arroz tufado rapidinho, como se não comesse há anos.
+341|A qualidade nutricional deixa a desejar, mas é melhor que nada.
+342|Droga.
+343|VOCÊ: Obrigada.
+344|VOCÊ: Olha pra você.
+345|Sua mãe olha para si mesma.
+346|VOCÊ: Vai. Trocar. Essa. Camisa.
+347|MÃE: Eu vou, depois.
+348|MÃE: Essa era mesmo uma pergunta que você queria fazer?
+349|VOCÊ: Ninguém mais tinha coragem de dizer, então eu tive que dizer.
+350|MÃE: Nima, não tem mais ninguém aqui.
+351|VOCÊ: Eu tenho que voltar pra escola?
+352|MÃE: Bom, agora não.
+353|MÃE: Mas uma hora você vai voltar pra escola.
+354|VOCÊ: Ah.
+355|MÃE: O que foi?
+356|Falar da escola traz uma onda de ansiedade junto.
+357|Se você começar a fazer amigos de novo, algo ruim vai acontecer.
+358|VOCÊ: Nada.
+359|VOCÊ: Tem alguma coisa que eu estou esquecendo.
+360|VOCÊ: Acho que combinei de estar em algum lugar.
+361|Você se lembra de nadar e de um homem com um relógio cronometrando sua velocidade.
+362|VOCÊ: Acho que tenho treino mais tarde. Não quero perder.
+363|MÃE: Equipe de natação?
+364|VOCÊ: Isso, isso.
+365|MÃE: Nima, você não lembra? Você saiu da equipe de natação quando a gente deixou Vancouver.
+366|VOCÊ: Ah.
+367|VOCÊ: O que você fez comigo?
+368|Você sente que sua mãe não quer compartilhar esse conhecimento com você.
+369|MÃE: Eu só descobri um jeito de te curar.
+370|MÃE: Então eu te curei.
+371|VOCÊ: O que você descobriu?
+372|A MÃE mexe nervosa nos dedos, cravando as unhas na carne da palma.
+373|MÃE: Eu não sei.
+374|Ela desvia o olhar, sinalizando que esse assunto acabou.
+375|VOCÊ: Eu gosto de peixe?
+376|VOCÊ: Meu cérebro tá meio nebuloso, mas tem um monte de peixe nadando na minha cachola.
+377|MÃE: Você quer estudar biologia marinha, então faz sentido.
+378|VOCÊ: Faz sentido mesmo.
+379|Seu cérebro é um aquário e você está pronta para enchê-lo de peixes.
+380|VOCÊ: Eu sou um zumbi?
+381|MÃE: Não, você é a Nima.
+382|MÃE: Você não é um monstro morto-vivo babando. Está falando com coerência, tem consciência de si e está com a mesma aparência de antes do acidente.
+383|Essa fala te pareceu ensaiada?
+384|VOCÊ: Que alívio.
+385|VOCÊ: Não quero ser igual aquele garoto do freezer do Rocky Horror.
+386|VOCÊ: Acho que eu não aguentaria tanta dança.
+387|MÃE: Tá… mais ou menos coerente, mas você está quase bem.
+388|VOCÊ: Não está faltando alguma coisa?
+389|Tem esse buraco em forma de peixe no seu coração que você não consegue explicar.
+390|Ou é só um buraco em forma de peixe no meu estômago?
+391|MÃE: Está faltando muita coisa, meu bem.
+392|MÃE: A gente vai montar tudo de novo, tá bom?
+393|Você assente.
+394|Esses testes vão ser chatos. Talvez você possa jogar uma pegadinha nela só pra deixar mais interessante.
+395|VOCÊ: O que você tomou de café da manhã hoje?
+396|MÃE: O quê? Por que está perguntando?
+397|VOCÊ: Preciso ver se sua memória está intacta.
+398|Você inclina a cabeça pra lá e pra cá, brincando com a elasticidade do elástico que te mantém ereta.
+399|MÃE: Acho que só tomei café.
+400|VOCÊ: Viu alguma coisa legal hoje?
+401|MÃE: Nem saí de casa direito…
+402|VOCÊ: Viu algum filme bom ultimamente?
+403|MÃE: Não… Não tenho feito muita coisa.
+404|VOCÊ: O que você tem feito?
+405|MÃE: Trabalhado.
+406|VOCÊ: O de sempre, então. Acho que isso é bom.
+407|VOCÊ: Acho que eu queria ir pra cama agora.
+408|A dor que percorre seu cérebro termina com um puxão repentino da tomada.
+409|Seus olhos apagam e então você sente seu corpo cair para a frente, sendo segurado pelas cordas que te prendem à cadeira.
+410|Você entra e sai da consciência enquanto descargas elétricas desgarradas sacodem seus neurônios.
+411|A MÃE cantarola uma música familiar; um par de braços ternos carrega todo o peso do seu corpo desnutrido e doente.
+412|Você é colocada num colchão empelotado; coberta de forma rotineira e sem carinho.
+413|Quem quer que tenha te carregado até aqui hesitou em fazê-lo.
+414|Os atos maternos dela não parecem mais que uma encenação.
+415|Mesmo assim, você sente uma mão gentil acariciar amorosamente o lado do seu rosto e, mais uma vez, o mundo escurece.
+416|VOCÊ: Aiii. Minha cabeça dói.
+417|VOCÊ: Esse é... o meu quarto.
+418|VOCÊ: Eu mal me lembro dele.
+419|Ao se aproximar da porta, você ouve sua mãe se mexendo do outro lado.
+420|MÃE: Você está acordada?
+421|VOCÊ: Sim.
+422|Você a ouve destrancar uma série de ferrolhos, abrindo a porta só uma fresta, até ela ser travada pela corrente e ficar quase fechada.
+423|Ela te analisa.
+424|Ela fecha a porta.
+425|Você a ouve soltar a última corrente e abrir a porta de novo.
+426|MÃE: Você não se arrumou.
+427|VOCÊ: A porta do banheiro estava trancada.
+428|O jeito frio dela derrete por um momento.
+429|MÃE: Merda.
+430|Ela bate na própria testa com a palma da mão. Faz sinal para você ir se sentar à mesa enquanto ela volta para o seu quarto e destranca o banheiro.
+431|Rápido, tranca ela lá dentro.
+432|Você hesita, pesando o risco de prender sua mãe na sua prisão. Ela volta, rápida e eficiente.
+433|MÃE: Seu banheiro está destrancado.
+434|Ela nem repara em você, passando direto para subir as escadas num staccato de passos e sair do porão.
+435|Você se remexe na cadeira, se perguntando se fez algo para chateá-la.
+436|Ela não está engolindo essa.
+437|Ela volta descendo as escadas de forma desajeitada.
+438|Ela se segura no corrimão para se equilibrar. Na outra mão, carrega uma sacola grande abarrotada de objetos escondidos.
+439|MÃE: Certo.
+440|Ela se acalma um pouco e sorri serenamente para você.
+441|MÃE: Bom dia, Nima.
+442|VOCÊ: Bom dia.
+443|Não esqueça de chamá-la de ‘Mãe’.
+444|VOCÊ: Dormiu bem, mãe?
+445|Que nojo, ela está usando a mesma roupa de ontem.
+446|Ela parece desgrenhada; não dá pra saber se ela dormiu.
+447|MÃE: Está sentindo alguma dor? Ontem nossa conversa terminou de forma meio abrupta. Seus sinais vitais estão estáveis e parece que você se recuperou totalmente.
+448|VOCÊ: Sim, estou me sentindo bem.
+449|MÃE: Ótimo.
+450|Ela abre um caderno e anota essa resposta.
+451|MÃE: Como foi seu sono? Alguma interrupção ou sonho estranho?
+452|Minta pra ela.
+453|VOCÊ: Nada.
+454|Ela fecha o caderno e o sorriso falso vira um sorriso de verdade.
+455|MÃE: Você vai se sair melhor hoje, né?
+456|MÃE: Hoje vai ser um pouco diferente de ontem.
+457|MÃE: Eu trouxe alguns objetos; você só precisa me dizer como eles te fazem sentir.
+458|MÃE: Pode fazer isso por mim?
+459|Ela coloca um tubarão de pelúcia sobre a mesa à sua frente. Por algum motivo, ele desperta sentimentos desconhecidos dentro de você.
+460|Nostalgia, tristeza e, o mais intrigante…
+461|Amor.
+462|MÃE: Agora.
+463|MÃE: Isso te lembra alguma coisa?
+464|VOCÊ: É o brinquedo que o Pai comprou pra mim no aquário!
+465|VOCÊ: A gente pode ir? Pode comprar ingressos?
+466|Sim, nos tire do aquário
+467|MÃE: Hum… Agora não é bem uma boa hora pra isso.
+468|VOCÊ: Ah, poxa! Promete que a gente vai um dia, tá? Igual a gente ia quando o Pai ainda…
+469|VOCÊ: estava aqui.
+470|Memórias do abraço do seu pai enchem sua mente. Ele não está mais com você, mas a pelúcia ainda conecta vocês dois.
+471|MÃE: Talvez depois que terminarmos tudo aqui. Que tal?
+472|VOCÊ: É. Tá bom.
+473|…
+474|A Mãe solta uma risadinha melancólica.
+475|MÃE: Engraçado, você levava essa coisa pra todo lado. Lembro que você nunca me deixava tirar de você, nem pra lavar.
+476|MÃE: Seu pai dizia que ele estava ficando mais parecido com um bagre do que com um tubarão.
+477|MÃE: Ele até pensou em comprar um segundo pra trocar e a gente poder lavar quando você não estivesse olhando.
+478|VOCÊ: Ei!
+479|MÃE: Ele nunca fez isso, não se preocupa.
+480|MÃE: Depois que ele… faleceu. Vocês ficaram ainda mais inseparáveis.
+481|MÃE: Você queria se agarrar a qualquer coisa que te lembrasse dele.
+482|Você e a Mãe compartilham um momento de silêncio nostálgico. Relembrando o calor de um rosto que se apaga cada vez mais na memória a cada dia.
+483|A MÃE pousa a mão carinhosamente na sua bochecha.
+484|MÃE: <size=10>Só estou feliz de não ter perdido vocês dois.
+485|Você é dominada pelas memórias desbotadas do seu pai. A cada dia fica mais difícil lembrar do rosto dele.
+486|Esse é o brinquedo que ele comprou pra você antes de morrer, uma lembrança.
+487|As emoções incham na sua membrana abdominal, um rio transbordando de amor deságua nos seus olhos e você desaba numa cachoeira de luto.
+488|Lá vem o chororô.
+489|MÃE: Nima? Querida, o que foi?
+490|VOCÊ: É que…
+491|VOCÊ: Sinto tanta falta do Pai.
+492|VOCÊ: Sinto falta da minha vida antiga, sinto falta da cidade…
+493|VOCÊ: Sinto falta das nossas viagens anuais ao aquário.
+494|VOCÊ: E sinto falta de ter uma família de verdade.
+495|Pela primeira vez, sua mãe não hesita em se aproximar, te apertando tão forte que você poderia explodir.
+496|MÃE: Sinto muito, Nima.
+497|E você a aperta de volta.
+498|VOCÊ: Queria que a gente nunca tivesse se mudado pra essa cidade idiota.
+499|Uma vida cheia de potencial desperdiçada por um acidente bizarro. Quem sabe onde você estaria agora se ele ainda estivesse vivo?

@@ -1,0 +1,143 @@
+990|VOCÊ: Estou explorando!
+991|MÃE: Para!
+992|O cheiro de cloro é reconfortante, mas também lembra vagamente um hospital esterilizado. É uma sensação estranha.
+993|MÃE: Você está fazendo uma cara estranha.
+994|VOCÊ: Estou sentindo coisas estranhas.
+995|VOCÊ: Isso tem alguma coisa a ver com o acampamento?
+996|MÃE: Ah! Não, não tinha pensado nisso. Claro, eles provavelmente te lembram de… hã.
+997|VOCÊ: Tudo bem, mãe, vou tentar pensar em outra coisa.
+998|A gente podia deixar ela bem chateada trazendo o acidente de novo, isso pode ser divertido.
+999|VOCÊ: A gente pode colocar eles no tubarão?
+1000|MÃE: Por quê?
+1001|VOCÊ: É meio engraçado, tipo, pra que um peixe precisaria de óculos de natação?
+1002|MÃE: Eu… A gente pode só focar nos óculos por enquanto?
+1003|Os óculos parecem ser algo feliz e triste ao mesmo tempo pra você. É difícil de processar.
+1004|Você tem uma memória de se mover muito rápido sob a água azul-turquesa. Você sente que ninguém pode te parar, como se tivesse transcendido seu corpo humano e se tornado um espírito irmão dos peixes.
+1005|A memória te transmite algo. Você se sente mais viva quando está nadando.
+1006|Mas a água machuca seus olhos.
+1007|VOCÊ: Preciso ir rápido.
+1008|Há uma sensação estranha ao olhar esses óculos. Você sabe que não tem relação, mas evoca uma sensação de estar presa.
+1009|Você sabe que amava a água; agora sente que ela é uma prisão.
+1010|Você sente vontade de fugir, de voltar para a terra e esquecer seu amor pela natação.
+1011|Você se remexe desconfortável no assento. Lembrando que ainda está presa.
+1012|Só descubra o que ela quer ouvir e diga.
+1013|VOCÊ: Qual é a dos óculos de natação, afinal?
+1014|VOCÊ: Tipo, oi, sim, meus olhos não funcionam bem debaixo d'água.
+1015|VOCÊ: Se as pessoas fossem espertas, iam entender que isso quer dizer que não deviam ir pra debaixo d'água.
+1016|VOCÊ: Mas nããão, a gente tem que inventar olhos aquáticos secundários.
+1017|MÃE: O quê… quem você está citando?
+1018|VOCÊ: Isso é tudo material original.
+1019|MÃE: Nima, por favor, foco.
+1020|A pedra é a bancada e sua cabeça é um ovo. Bam, splat, é assim que funciona. Mexido e servido fumegando no jantar.
+1021|MÃE: Nima, você está bem?
+1022|VOCÊ: Ainda estou bem confusa.
+1023|Você vai mesmo perguntar se os óculos são seu bichinho de estimação?
+1024|Você abre a boca, confiante de que sabe o que os óculos são.
+1025|Não, você não sabe!
+1026|VOCÊ: Meu bichi- bah… gnnn… gol
+1027|Suas palavras se enroscam na boca.
+1028|Deus me livre você se divertir um pouco por aqui.
+1029|MÃE: Você está bem, Nima?
+1030|Você faz joinha pra ela e massageia a boca.
+1031|VOCÊ: Sabe o que é doido?
+1032|MÃE: O quê, Nima?
+1033|VOCÊ: Peixes não precisam de óculos de natação!
+1034|MÃE: … É, é verdade.
+1035|VOCÊ: Não é muito doido!?
+1036|MÃE: A Opabinia tinha olhos duros de silício, então meio que já vinha com óculos embutidos.
+1037|VOCÊ: Que massa!
+1038|Algo importante sobre tempo.
+1039|Você tem que nadar rápido pra fazer o melhor tempo.
+1040|Mas isso não faz sentido, nadar é sempre um bom tempo.
+1041|Você sente que pode estimular melhor seu cérebro usando os óculos do jeito que eles foram feitos pra ser usados.
+1042|Você os pega da mesa e os prende na cabeça.
+1043|VOCÊ: Estou pronta pra mergulhar.
+1044|Sua mãe quer te repreender por fazer graça durante a avaliação séria dela, mas o desagrado disfarçado se quebra numa risada.
+1045|MÃE: Para com isso, Nima.
+1046|Ela se estica por cima da mesa e tira os óculos da sua cabeça.
+1047|Você é boa em natação. Não, você é muito boa em natação.
+1048|Isso é bem legal.
+1049|Provavelmente é isso que a mãe quer saber, o quanto você é boa em natação. Você tem aquele Troféu brilhante e tudo.
+1050|Se concentrando muito para lembrar de informações específicas, sua memória salta entre momentos felizes e assustadores da sua vida.
+1051|Uma coisa se destaca para você.
+1052|É a voz de um estranho, um homem, gritando para alguém chamar uma ambulância.
+1053|Esquisito.
+1054|Você tem um flash de sangue suspenso na água. No verde-água do rio glacial, parece que um pincel roxo riscou a água.
+1055|Você não quer muito pensar nisso agora.
+1056|Você está curtindo muito o som de fazer estalinhos com a boca agora.
+1057|Muito satisfatório.
+1058|MÃE: Nima, por favor!
+1059|MÃE: Só foca no teste.
+1060|Pra que você precisa disso, afinal? Não dá pra ser normal e enxergar perfeitamente debaixo d'água?
+1061|Você faz bico e inclina a cabeça de lado.
+1062|MÃE: Essa é difícil?
+1063|VOCÊ: Meio que sim.
+1064|MÃE: Ah é?
+1065|É muito escuro no fundo do oceano.
+1066|VOCÊ: Eu esqueço.
+1067|MÃE: É… esse é o objetivo dos testes.
+1068|VOCÊ: Ah, é.
+1069|Tá, pensa, isso é um par de óculos de natação, são de plástico e são importantes pra você.
+1070|Qual é a coisa mais provável que ela está tentando te fazer dizer aqui?
+1071|Natação é óbvio demais; provavelmente é algo relacionado à natação, algo que você valoriza.
+1072|Sua mãe cerra os dentes para se segurar e não falar mais nada.
+1073|Bruscamente, ela te levanta pelos braços e te arrasta de volta para o seu quarto.
+1074|Ela te larga do outro lado da porta e rapidamente a fecha atrás de você.
+1075|Você ouve a voz dela resmungando algo sobre estímulo controlado enquanto se afasta pisando duro e começa a subir as escadas do porão.
+1076|Você estragou tudo, apertou demais os botões dela. Ela não te ama mais.
+1077|Você bane o pensamento errante da mente. Depois do interrogatório de hoje, você não deseja nada além do conforto da cama.
+1078|Você se vê acordada na cama. Há pesos nos seus braços. Você tenta se mexer, e seus braços empurram uma série de cordas apertadas que te mantêm imóvel.
+1079|Eu te disse, ela não gosta de fracasso.
+1080|Sua mãe entra no quarto limpando uma pequena agulha de aço com um lenço antisséptico.
+1081|MÃE: Você está acordada?
+1082|MÃE: Não usei anestesia suficiente.
+1083|Você tenta gritar, mas descobre que sua boca está amordaçada.
+1084|MÃE: Tudo bem, você não vai precisar.
+1085|Ela se debruça sobre você, apoiando o joelho na sua barriga para te prender e agarrando seu rosto com uma mão em garra. A agulha se aproxima do seu olho.
+1086|MÃE: Não se culpe.
+1087|MÃE: A culpa é minha, de verdade.
+1088|MÃE: Algo deve ter dado errado no procedimento pra você sair assim... desse jeito.
+1089|Ela começa a acariciar sua bochecha. As mãos dela tremem levemente.
+1090|MÃE: Mas tudo bem-
+1091|MÃE: Sempre tem a próxima vez.
+1092|Você sente a lâmina raspar pela sua órbita e avançar até os nervos do seu cérebro.
+1093|Sua vida termina com um estalo quando ela corta seu cérebro ao meio.
+1094|De repente fica escuro.
+1095|Você passa uma eternidade nessa escuridão.
+1096|Até que uma voz familiar...
+1097|???: Nima... É você?
+1098|Você se lembra de um dia do verão que poderia ter sido qualquer dia. Você está sozinha no calor escaldante da sua casa, esperando sua mãe voltar.
+1099|O ar-condicionado quebrou em algum momento. Agora você se esconde da luz, fechando bem todas as cortinas e segurando um ventiladorzinho zumbindo na mão.
+1100|Nessa escuridão e calor você vaga como um fantasma, lavando a louça de novo e de novo só pra ter algo pra passar o tempo. Você molha as mãos em água morna e depois as gruda no fundo do congelador.
+1101|Acima de tudo, você se pergunta o que fez de errado, o que fez pra merecer essa solidão.
+1102|De repente você ouve a campainha e vai meio deslizando, meio correndo até a porta.
+1103|Na porta, em vez da sua mãe, você encontra a Pearl. Ela sorri pra você e oferece uma sacola cheia de isotônicos, comida gelada e sorvete.
+1104|Pearl: Olá, Nima, trouxe umas coisas pra você e pra sua mãe.
+1105|Você ficou triste de avisar o asilo que não podia mais trabalhar lá. Sua mãe precisava mais da sua ajuda. Agora você e a Pearl tinham trocado de papéis: ela começou a cuidar de você em vez do contrário.
+1106|Era estranho, considerando que ela não tinha nem de longe a sua idade, mas você se perguntava se era assim que era ter uma amiga.
+1107|Nima: Obrigada, Pearl!
+1108|Você pegou a sacola dela com avidez e tirou um pacote de ervilhas congeladas. Equilibrou no topo da cabeça pra aliviar a sensação de cérebro assando.
+1109|Nima: Quer entrar e jogar um jogo de tabuleiro? A gente tem Xadrez, Damas e Mahjong.
+1110|Pearl: Ah, eu sempre tenho tempo pra te ganhar no Mahjong. Sua mãe está em casa?
+1111|Nima: Ela está no trabalho agora.
+1112|Pearl: Você não está com ela? Achei que você fosse assistente de laboratório dela.
+1113|Nima: Eu sou, ela volta aqui de vez em quando e eu dou uma marmita nova e uma muda de roupa limpa pra ela.
+1114|Fiel à palavra, ela ganhou no Mahjong, e ganhou de novo quando você tentou recuperar sua honra.
+1115|Pearl: Só isso? Você só entrega as coisas e ela vai embora? Achei que ela ia te levar pra montanha.
+1116|Nima: É, mas isso foi antes…
+1117|A imagem do fóssil de xisto ainda pairava na sua mente.
+1118|No dia em que você o encontrou, estava tão feliz que não conseguia parar de sorrir.
+1119|E quando você olhou para baixo, poderia jurar que viu o fóssil sorrindo de volta.
+1120|Você se conteve.
+1121|Nima: Ela já me levou.
+1122|Nima: Não aconteceu nada de interessante. Só vi um monte de pedras.
+1123|Pearl: Ah, é mesmo? Nada de interessante?
+1124|Você balança a cabeça com força. Não pode arriscar chatear sua mãe mais do que já chateou.
+1125|Pearl: Tá bom, tá bom, mas se um dia quiser fofocar, a velha Pearl está sempre aqui pra ouvir.
+1126|Vocês voltam a jogar em silêncio.
+1127|Você se lembra de que ela se levantou no meio de uma partida, foi até o ar-condicionado e deu um chute. Você ficou horrorizada, mas de algum jeito isso o consertou. Ele voltou à vida engasgando.
+1128|Você pôde acender as luzes de novo. Mais que isso, pôde ligar o forno sem o calor vazar e assar o cômodo inteiro.
+1129|Vocês fizeram biscoitos juntas, trocaram histórias e planejaram uma viagem a Vancouver que as duas sabiam que você nunca teria permissão pra fazer.
+1130|Por um momento, ela te libertou do calor e do isolamento.
+1131|Se ao menos ela estivesse aqui pra te salvar agora.
+1132|.

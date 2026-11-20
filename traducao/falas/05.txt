@@ -1,0 +1,160 @@
+670|Você não devia ter dito isso.
+671|Por que não? É a verdade.
+672|VOCÊ: Brincar? Você não me deixava sair de casa. Eu me sentia numa prisão.
+673|MÃE: Você precisava aprender a lição.
+674|VOCÊ: Que lição?
+675|Você realmente não devia ter dito isso.
+676|MÃE: Acho que não devemos continuar falando disso. Hoje quero focar em memórias felizes.
+677|MÃE: Você é minha filha boa e feliz, Nima.
+678|Ela fala como se estivesse lembrando a si mesma quem você é, mas o tom deixa claro que você começou a sair do roteiro que ela preparou pra você.
+679|VOCÊ: Que lição, mãe?
+680|MÃE: Não venha se fazer de santa comigo, como se fosse culpa minha a gente ter acabado assim.
+681|MÃE: Foi você que traiu minha confiança, foi você que colocou todo esse experimento em risco.
+682|MÃE: Eu estava pronta pra te perdoar, pra gente voltar a ser como antes, mas parece que você é rancorosa demais pra seguir em frente.
+683|MÃE: Você não é a Nima, a Nima nunca agiria assim. A Nima nunca me questionaria assim.
+684|MÃE: Chega, hora de dormir.
+685|VOCÊ: Esse é um dos fósseis que você estuda no trabalho.
+686|Você se lembra de todo o tempo que sua mãe passa no escritório, ralando em descrições e classificações de fósseis como esse.
+687|Um trabalho que toma tanto tempo dela e paga tão pouco.
+688|VOCÊ: Você trabalha com esses fósseis praticamente o tempo todo. Escreveu livros sobre eles.
+689|MÃE: Você lembra o nome desse aqui?
+690|Quando você olha para esse fóssil, o único pensamento que vem à cabeça é que ele parece a silhueta de um homem nas sombras.
+691|Tem algo nele que te chama. Como se o formato da pedra fosse perfeito para te encaixar. Você sente vontade de rastejar para dentro da pedra e ficar sepultada nela.
+692|VOCÊ: Não.
+693|MÃE: Marrella Splendens.
+694|MÃE: Mas tudo bem, isso não é importante agora.
+695|Você suspira; ela vivia te testando com essas merdas inúteis.
+696|Essa pequena faísca de raiva destrava um baú inteiro de ressentimento escondido que você guardava contra sua mãe e o trabalho dela.
+697|O quanto ela jogou nas suas costas para priorizar a pesquisa dela.
+698|VOCÊ: Meio que uma perda de tempo.
+699|MÃE: O que foi isso?
+700|VOCÊ: Você passou o verão inteiro aqui embaixo obcecada com coisas que estão mortas há milhões de anos.
+701|VOCÊ: Eu achei esse fóssil. Achei no Rio Kicking Horse. Você ficou tão feliz quando eu te dei de presente.
+702|A MÃE parece satisfeita. Ela estende a mão e começa a passar o dedo pelo fóssil.
+703|MÃE: Sim, fiquei. Me surpreendeu porque normalmente não se acha fósseis assim debaixo d'água. Ele deve ter escorregado lá da montanha até parar ali.
+704|Você começa a lembrar do dia em que mergulhou. A transparência da água turquesa que deixava ver o fundo com facilidade. A pedra que parecia te chamar. O sorriso despreocupado da sua mãe.
+705|VOCÊ: Mas parece que está quebrado.
+706|A Mãe assente, sem olhar para o fóssil; ela já sabia que estava quebrado.
+707|MÃE: Eu extraí o fóssil depois que você me deu, mas algumas marcas ainda estão aí.
+708|Você sente que a Mãe não está te contando tudo; havia algo especial nesse fóssil quando você o encontrou. Um motivo para você ter corrido pelas pedras para entregá-lo a ela.
+709|VOCÊ: Posso ver?
+710|MÃE: Não, agora não. Ainda estou estudando ele.
+711|VOCÊ: Tudo bem. Posso esperar até você estar pronta.
+712|VOCÊ: Até lá, fico feliz em te ajudar como eu puder.
+713|VOCÊ: Cozinhar, cuidar da casa, arrumar suas bagunças. Tudo bem, desde que você consiga realizar seus sonhos.
+714|MÃE: O que você quer dizer com isso?
+715|VOCÊ: Não é justo eu ter que fazer todo esse trabalho sem nem saber por quê.
+716|MÃE: Todo esse trabalho? Fazer suas tarefas é o mínimo. Não seja ingrata. Esse projeto… Ele vai consertar nossa família.
+717|VOCÊ: O mínimo? Você não me deixava sair de casa, eu me sentia numa prisão.
+718|VOCÊ: Seu único amor verdadeiro.
+719|MÃE: Isso não é verdade.
+720|VOCÊ: Eu achei isso no fundo do rio e trouxe pra você. Aí você passou o verão inteiro obcecada com ele.
+721|VOCÊ: Eu descia aqui todo dia pra te trazer comida e você me enxotava. Acho que você não fala comigo há meses.
+722|MÃE: Esse trabalho que estou fazendo é pra consertar nossa família. Talvez você tenha que sofrer agora, mas, no fim, tudo vai ficar perfeito de novo. Igualzinho a antes.
+723|VOCÊ: Por que eu tenho que fazer tudo sozinha? Eu nunca quis me mudar pra cá; sempre foi pra te deixar feliz.
+724|MÃE: Você tem uma vida boa. Minha mãe era sufocante; ela controlava cada aspecto da minha vida.
+725|MÃE: Eu estava na faculdade estudando Engenharia Química, mas larguei pela paleontologia.
+726|MÃE: Foi a primeira decisão de verdade que eu tomei.
+727|MÃE: Quando você nasceu, prometi a mim mesma que você não ia passar por isso, então… decidi que sua liberdade seria absoluta.
+728|VOCÊ: Se minha liberdade é absoluta, por que estou presa no porão?
+729|MÃE: Só porque eu quero que você tenha liberdade não quer dizer que você está livre das consequências. Você tomou uma decisão ruim e agora tem que sofrer por ela.
+730|Não insista nisso, só muda de assunto.
+731|VOCÊ: Eu tomei uma decisão ruim? Eu achei que se conseguisse outro fóssil, talvez você olhasse pra mim. O único motivo de eu ter voltado ao rio foi porque eu estava tentando te ajudar.
+732|MÃE: Você está me dizendo que é culpa minha você ter se machucado?
+733|VOCÊ: Acho que sim.
+734|Não foi por isso que você estava no rio.
+735|Que diferença faz, como se ela fosse saber que você está mentindo.
+736|Ela sabe que você está mentindo. Ela sempre sabe.
+737|VOCÊ: Eu morri porque você é uma mãe ruim.
+738|Ela pergunta o que isso significa pra você, e algo complicado e sem palavras borbulha na sua garganta.
+739|Ódio.
+740|VOCÊ: Por que você ia me mostrar isso!?
+741|Você soca a mesa e se levanta para encarar sua mãe de cima.
+742|Olhar para a pedra invoca memórias de ardência e esmagamento, água sem fim te empurrando para baixo.
+743|Presa e sem conseguir se mexer, tudo que você consegue é bater os dentes, sem nem abrir a mandíbula o suficiente para morder a própria língua.
+744|MÃE: Eu… não entendo, Nima, o que foi?
+745|VOCÊ: Estou presa. Não consigo me mexer.
+746|Memórias sensoriais passam pelo seu cérebro e arrepiam sua pele. Seu corpo não responde, você está se afogando.
+747|Você segura os lados da cabeça e se balança pra frente e pra trás na cadeira.
+748|Você quer atacar, pular por cima da mesa e martelar essa pedra no crânio dela igualzinho….
+749|Igualzinho –
+750|– ao que aconteceu com você.
+751|Ei, mantenha o controle, você tem que continuar no personagem.
+752|Algo está te impedindo; uma pequena parte de você que implora para não machucá-la.
+753|VOCÊ: Socorro! Minha mãe me prendeu no porão! Socorro!
+754|Você começa a gritar. Talvez os vizinhos te ouçam e venham te resgatar.
+755|Sua mãe se lança por cima da mesa e agarra seu pescoço com força. Ela te puxa para a frente e tapa sua boca com a mão.
+756|MÃE: Certo, acho que já vi o suficiente.
+757|Enquanto vocês se engalfinham na mesa, ela tira uma seringa do bolso.
+758|Seus gritos saem abafados pelas mãos dela.
+759|MÃE: Hora de dormir, Nima.
+760|VOCÊ: Um velho amigo.
+761|MÃE: Então você reconhece?
+762|VOCÊ: Ah, sim.
+763|Sua mãe vivia te testando sobre todos os fósseis da Era Cambriana. Cada um tem um nome chique e você sabe todos.
+764|VOCÊ: Esse é a Marrella Splendens.
+765|MÃE: Sim, isso mesmo, você lembra como eu o consegui?
+766|VOCÊ: Eles existem aos montes, nadavam suavemente perto do fundo do mar. Coisas maiores vinham descendo, uns monstros grandes em forma de tubo com cinco olhos dispostos em anel. Eles os sugavam e comiam.
+767|MÃE: Não, eu quis dizer… Espera, o que você está tentando descrever?
+768|VOCÊ: A boca do céu. O corpo deles era translúcido, menos o cérebro e a boca.
+769|Você abre bem a boca para sua mãe entender a circunferência da bocarra do monstro. Sua mandíbula estala alto quando você a força além da abertura natural.
+770|MÃE: Nima, para de inventar coisas.
+771|VOCÊ: Aí tem o outro cara, aquela coisa que voa baixo com dedos na boca. Como se o rosto fosse uma mão.
+772|Você põe as mãos nas bochechas e mexe os dedos.
+773|MÃE: Você está falando do Anomalocaris?
+774|VOCÊ: Como se chama aquela coisa que parece uma caveira com órbitas em volta do topo da cabeça e mil tentáculos saindo da boca que a puxam pelo fundo do mar?
+775|MÃE: Nima, eu sou uma das maiores especialistas no período Cambriano, então sei que você está só inventando.
+776|MÃE: Meu trabalho é importante e não vou tolerar você fazendo piada dele.
+777|Você tocou numa ferida; ela reage cerrando os punhos e virando as costas pra você.
+778|VOCÊ: Ah. Certo.
+779|Ela claramente confunde seu interesse genuíno com mais um insulto.
+780|Que insegura.
+781|MÃE: Por favor, responda a pergunta original.
+782|Não.
+783|Será que uma Carpa Koi sobreviveria na época em que essa coisa estava viva… ou seria um predador máximo?
+784|Por um lado, provavelmente é uma das maiores coisas por perto. Por outro, provavelmente não tem muito o que comer?
+785|Fome é um estado de espírito, além de um estado de necessidade.
+786|MÃE: Nima?
+787|Você provavelmente devia focar no teste.
+788|Seu estômago ronca.
+789|Sua mãe te olha e puxa o fóssil para longe do seu alcance.
+790|VOCÊ: Eu sei que não dá pra comer pedra!
+791|Fora sal e as pedras de moela, mas humanos não têm isso, né? Seria legal ter uma moela, aí você podia <i>triturar</i> sua presa enquanto a engole inteira.
+792|Sua mãe coloca a pedra na mesa, mas a mantém mais perto dela.
+793|MÃE: Ele é muito precioso pra mim, sabe por quê?
+794|VOCÊ: É coisa de doutor?
+795|MÃE: Doutor médico ou doutorado?
+796|VOCÊ: Hã.
+797|MÃE: Acho que você está tentando pensar numa palavra parecida, né?
+798|VOCÊ: Isso é uma Erosão? É uma coisa relacionada a pedra, né?
+799|MÃE: Ah, relacionada. De certa forma, isso é um produto da erosão.
+800|VOCÊ: O que é erosão?
+801|MÃE: É quando a água desgasta e move as rochas, isso pode criar várias formações geológicas interessantes, como…
+802|Uma hora se passa em agonia, e você aprende tudo e nada sobre erosão.
+803|VOCÊ: Nossa, obrigada. Acho que estou pronta pra responder sua pergunta.
+804|MÃE: Ah… certo…
+805|MÃE: Nada disso tinha a ver com o teste, aliás…
+806|VOCÊ: Acho que tem alguma coisa a ver com o pai.
+807|A Mãe balança a cabeça.
+808|MÃE: Eu curto pedras, ele curte peixes, sempre foi a nossa coisa.
+809|Por que você não pega a pedra e esmaga o crânio dela?
+810|Vamos ver o quanto ela ‘curte pedras’ depois disso.
+811|MÃE: Tente pensar onde você pode ter visto isso antes.
+812|VOCÊ: Cara, agora eu estudo em casa? É isso que está acontecendo?
+813|MÃE: Não, não é… bom, é educativo, mas também é importante pra um aspecto da sua vida.
+814|Você olha para o cardigã dela, depois para o laboratório, depois para o fóssil.
+815|VOCÊ: É você?
+816|MÃE: Essa é sua resposta?
+817|Bom, agora parece pegadinha.
+818|Você começa a chorar.
+819|Dá pra fazer isso sob demanda?
+820|A persona científica e fria da sua mãe cai por terra para ela poder te consolar.
+821|MÃE: Nima, você está bem?
+822|VOCÊ: Tô, tô bem.
+823|Vida… desde o início de tudo, aqui está ela.
+824|VOCÊ: O início da vida em grande escala na Terra, a Explosão Cambriana.
+825|VOCÊ: Alguns se perguntam: ‘por que o Cambriano explodiu de vida?’, e sabe de uma coisa? Ninguém sabe ao certo. Pode ter muito a ver com a invenção de uma nova dinâmica evolutiva: predador e presa.
+826|VOCÊ: Se isso for verdade, acho que dá pra dizer que o sentido da existência da vida é comer outras vidas!
+827|MÃE: Interessante.
+828|MÃE: E como isso te faz sentir?
+829|Não sei. Meio com fome.
