@@ -26,7 +26,7 @@ unzip -oq "$TMP/bep.zip" -d "$GAME"
 unzip -oq "$TMP/xu.zip" -d "$GAME"
 mkdir -p "$GAME/BepInEx/config" "$GAME/BepInEx/Translation/pt/Text"
 cp "$HERE/AutoTranslatorConfig.ini" "$GAME/BepInEx/config/"
-cp "$HERE/traducao/AmINima_ptBR.txt" "$GAME/BepInEx/Translation/pt/Text/"
+cp "$HERE/traducao/AmINima_ptBR.txt" "$HERE/traducao/AmINima_resizer.txt" "$GAME/BepInEx/Translation/pt/Text/"
 
 echo "== Proton: carregar winhttp.dll do BepInEx"
 if [ -f "$PREFIX" ]; then

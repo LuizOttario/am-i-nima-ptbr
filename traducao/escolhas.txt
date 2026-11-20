@@ -1,0 +1,148 @@
+0|"Bah! Abadá'ba!"
+1|Quem é essa? 
+2|É...
+3|Mãe? 
+4|"Pai?" 
+5|Olá, membro da família. 
+6|O que tá acontecendo!? 
+7|GRRRR
+8|Eca! 
+9|Congee..?
+10|Assustador...
+11|Nima..?
+12|Jantares em família...
+13|Peixes nadando...
+14|Eu amo..!
+15|Meio solitário...
+16|Molhado.
+17|Acampar?
+18|Ai...
+19|Uma pedra..?
+20|Melhor que você...
+21|*Peito aperta*
+22|Hm...
+23|Tipo lágrimas...
+24|Cérebro..?
+25|*Barriga ronca*
+26|Projeto de ciências...
+27|Feliz?
+28|Coitado do peixe
+29|Só isso?
+30|Fome... 
+31|Eu sou a Nima?
+32|Mãe?
+33|Você tá bem?
+34|Resto da família?
+35|Você me assusta.
+36|Você me machucou.
+37|Natação?
+38|Feliz que tô bem?
+39|Seu trabalho?
+40|Minha escola?
+41|Você que cozinhou?
+42|Eu morri?
+43|Fome...
+44|Olha pra você.
+45|Voltar pra escola?
+46|Time de natação?
+47|O que aconteceu comigo?
+48|Eu gosto de peixe?
+49|Eu sou um zumbi?
+50|Falta alguma coisa...
+51|Quero dormir.
+52|A viagem!
+53|*lacrimeja*
+54|CORRE
+55|Incrível...
+56|Hmm...
+57|Obrigada, mãe.
+58|Tubarão!
+59|Como eu saio?
+60|Tá dormindo?
+61|Um peixe!
+62|Own
+63|Tá lá quando me sinto só
+64|Argh...
+65|Testar no congee.
+66|Gostoso?
+67|Redação
+68|Nadar?
+69|Cortar ele?
+70|Pedra de estimação?
+71|Que vergonha
+72|Fofo e perigoso
+73|O lugar dele é na cama
+74|Por que ele tá morto?
+75|*Brincar com o tubarão*
+76|Peixe de estimação?
+77|Eu sou mais forte
+78|Rio...
+79|Velho amigo
+80|Presente de desculpas?
+81|Pensar...
+82|Sentir...
+83|Piada de tubarão
+84|Até tu, Tubarus?
+85|Eu sou mais rápida
+86|Seu trabalho.
+87|Eu que achei.
+88|Seu amor.
+89|Por que mostrar isso?
+90|Como vai uma carpa?
+91|Um velho amigo.
+92|*Barriga resmunga*
+93|Coisa de médico?
+94|Isso é erosão?
+95|Um fóssil do trabalho.
+96|Algo sobre o papai.
+97|Estudar em casa?
+98|*chora*
+99|Isso... é a vida.
+100|Um tubarão?
+101|*boceja*
+102|Lembra uma piada.
+103|*Sensação de peso*
+104|Eeeca
+105|Memórias...
+106|Isso ia ficar bonito.
+107|Isso é tristeza?
+108|Será que eu caibo?
+109|Fundo do mar?
+110|Memórias de ser livre.
+111|A origem dos Brocs.
+112|Uma pedra.
+113|Hora da piada!
+114|Parece familiar.
+115|Você se sente culpada?
+116|Vamos pensar...
+117|Me deixa meio orgulhosa...
+118|Eu ganhei isso.
+119|O coma...
+120|A última vez que fui nadar.
+121|Me lembra natação.
+122|Isso é meu?
+123|Uma memória da mamãe.
+124|Me lembra o papai.
+125|Eu amo nadar.
+126|Não gosto de água...
+127|Sonhos estranhos.
+128|*Colocar na boca*
+129|Blé...
+130|Algo sobre acampar?
+131|Colocar no tubarão
+132|Me sentindo triste...
+133|Uma memória boa.
+134|Me sinto presa...
+135|Uma piada vai aliviar o clima.
+136|Ovo...?
+137|É meu bichinho?
+138|Peixes são legais.
+139|É sobre o tempo?
+140|Vamos experimentar.
+141|Sou ótima em natação.
+142|Eu lembro de algo...
+143|Vejo sangue...
+144|Pra que preciso disso.
+145|Escuridão...
+146|Esqueci.
+147|Tá, pensa...

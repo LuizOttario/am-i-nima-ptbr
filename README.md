@@ -22,7 +22,7 @@ Se o jogo estiver em outra pasta: `./install.sh "/caminho/Am I Nima Demo"`.
 ## Instalar — Windows
 
 1. Extraia o [BepInEx 5 x64](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.6) e o [XUnity.AutoTranslator-BepInEx](https://github.com/bbepis/XUnity.AutoTranslator/releases/tag/v5.6.3.1) na pasta do jogo.
-2. Copie `AutoTranslatorConfig.ini` para `BepInEx/config/` e `traducao/AmINima_ptBR.txt` para `BepInEx/Translation/pt/Text/`.
+2. Copie `AutoTranslatorConfig.ini` para `BepInEx/config/` e `traducao/AmINima_ptBR.txt` + `traducao/AmINima_resizer.txt` para `BepInEx/Translation/pt/Text/`.
 3. Faça backup de `Am I Nima_Data/data.unity3d` (ex.: `data.unity3d.orig`) e rode:
    ```
    pip install UnityPy
@@ -36,7 +36,9 @@ Verifique a integridade dos arquivos na Steam e apague a pasta `BepInEx` e o `wi
 ## Estrutura
 
 - `traducao/falas/*.txt` — falas no formato `ID|texto`. Os IDs seguem a ordem do roteiro do jogo, e as tags (`{voice a=1}`, `<i>` etc.) precisam ficar iguais às do original.
+- `traducao/escolhas.txt` — texto dos pensamentos que você arrasta para falar (`ID|texto`).
 - `traducao/AmINima_ptBR.txt` — `Original=Tradução` para palavras e interface.
+- `traducao/AmINima_resizer.txt` — encolhe a fonte das caixas onde o texto em PT não cabe.
 - `patch.py` — confere se a tradução bate com a versão do jogo e aplica.
 
 Achou algo em inglês ou um erro? Abra uma issue.

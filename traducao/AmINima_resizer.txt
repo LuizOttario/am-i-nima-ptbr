@@ -1,0 +1,3 @@
+// Encolhe a fonte quando o texto em PT não cabe na caixa (tamanho original 16).
+Story Canvas/Name Container=AutoResize(true, 10, 16)
+Tutorial Canvas /Tutorial=AutoResize(true, 10, 16)
