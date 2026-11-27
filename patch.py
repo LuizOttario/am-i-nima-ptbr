@@ -99,7 +99,8 @@ def main(src, out, pasta="traducao"):
         import fonte
         n = fonte.aplicar(env, os.path.join(os.path.dirname(os.path.abspath(src)), "Managed"))
         print(f"fonte: {n} letras desenhadas")
-        print(f"fonte Nima: {fonte.aplicar_nima(env)} letras desenhadas")
+        fonte.aplicar_nima(env)  # cópia no data.unity3d (antes da troca de fonte por idioma)
+        print(f"fonte Nima (pacote de fontes): {fonte.aplicar_addressables(os.path.dirname(os.path.abspath(src)))} letras desenhadas")
     open(out, "wb").write(env.file.save(packer="lz4"))
     print(f"ok: {len(en)} falas e {len(enc)} escolhas traduzidas -> {out}")
 

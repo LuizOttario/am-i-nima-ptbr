@@ -46,13 +46,13 @@ Verifique a integridade dos arquivos na Steam. Depois apague a pasta `BepInEx` e
 - `AmINima_ptBR.txt` — `Original=Tradução` para palavras e interface.
 - `AmINima_resizer.txt` — encolhe a fonte das caixas onde o texto em PT não cabe.
 
-`fonte.py` desenha as letras acentuadas (ã, é, ç…) nas fontes do jogo que não têm acentos: a "Nima" (texto da mente, traço de pincel) e a pixelada NotJamScrawl9, no mesmo estilo das outras letras.
+`fonte.py` desenha as letras acentuadas (ã, é, ç…) nas fontes do jogo que não têm acentos: a "Nima" (texto da mente, traço de pincel; fica no pacote de fontes do Addressables, cujo CRC é zerado no catálogo) e a pixelada NotJamScrawl9, no mesmo estilo das outras letras.
 
 `plugin/` tem um plugin BepInEx (código e DLL compilada) que faz a busca da biblioteca aceitar o nome em português, sem acentos, e traduz o nome de quem fala (MÃE, VOCÊ) na tabela de localização do jogo.
 
 `patch.py` confere se a tradução bate com a versão do jogo e aplica.
 
-Se o jogo receber uma atualização, apague `Am I Nima_Data/data.unity3d.orig` (ele é da versão antiga) e rode a instalação de novo. Se o `patch.py` reclamar que a quantidade de falas mudou, a tradução precisa ser atualizada para a nova versão.
+Se o jogo receber uma atualização, apague os arquivos `.orig` (`Am I Nima_Data/data.unity3d.orig`, `StreamingAssets/aa/catalog.json.orig` e o `.bundle.orig` em `StreamingAssets/aa/StandaloneWindows64`), porque são da versão antiga, e rode a instalação de novo. Se o `patch.py` reclamar que a quantidade de falas mudou, a tradução precisa ser atualizada para a nova versão.
 
 Achou algo em inglês ou um erro? Abra uma issue.
 Am I Nima é © HO! Games. Projeto de fã, sem afiliação.

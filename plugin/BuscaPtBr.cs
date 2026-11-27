@@ -54,7 +54,26 @@ public class BuscaPtBr : BaseUnityPlugin
             if (e != null) e.Value = kv.Value;
         }
         feito = t;
-        Logger.LogInfo("Nomes de falante traduzidos na tabela Keywords");
+        Logger.LogInfo("Nomes de falante traduzidos na tabela Keywords: MOM -> " + t.GetEntry("MOM")?.GetLocalizedString() + ", YOU -> " + t.GetEntry("YOU")?.GetLocalizedString());
+        // autoteste: as fontes conseguem gerar as letras acentuadas sozinhas (sem fonte reserva)?
+        foreach (var f in UnityEngine.Resources.FindObjectsOfTypeAll<TMPro.TMP_FontAsset>())
+        {
+            if (f.name != "Nima SDF" && f.name != "NotJamScrawl9 SDF") continue;
+            uint[] faltando;
+            f.HasCharacters("ãâáàéêíóôõúçÃÁÉÊÍÓÕÚÇ", out faltando, false, true);
+            var sb = new StringBuilder();
+            if (faltando != null) foreach (var u in faltando) sb.Append((char)u);
+            Logger.LogInfo("Fonte " + f.name + ": " + (sb.Length == 0 ? "todas as letras acentuadas OK" : "faltando " + sb));
+            if (sb.Length > 0)
+            {
+                var src = f.sourceFontFile;
+                var err = src == null ? "src null" : UnityEngine.TextCore.LowLevel.FontEngine.LoadFontFace(src, f.faceInfo.pointSize).ToString();
+                uint ia = 0, it = 0;
+                bool ga = src != null && UnityEngine.TextCore.LowLevel.FontEngine.TryGetGlyphIndex('a', out ia);
+                bool gt = src != null && UnityEngine.TextCore.LowLevel.FontEngine.TryGetGlyphIndex(0xE3, out it);
+                Logger.LogInfo("diag " + f.name + ": modo=" + f.atlasPopulationMode + " src=" + (src == null ? "null" : src.name) + " load=" + err + " a=" + ga + "/" + ia + " ã=" + gt + "/" + it + " atlasReadable=" + (f.atlasTexture != null && f.atlasTexture.isReadable));
+            }
+        }
     }
 
     static void Postfix(string __0, string __1, ref bool __result)

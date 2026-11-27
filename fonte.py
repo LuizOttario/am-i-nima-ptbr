@@ -313,3 +313,38 @@ def aplicar_nima(env):
                 fo.save()
                 return len(NOVAS)
     return 0
+
+
+BUNDLE_FONTES = "localization-assets-english(en)_assets_all.bundle"
+
+
+def aplicar_addressables(data_dir):
+    """A Nima usada em jogo vem do pacote de fontes em inglês (Addressables). Põe os acentos lá
+    e zera o CRC desse pacote no catálogo (CRC 0 = sem checagem), sem mudar o tamanho do texto."""
+    import base64, json, os, re, shutil, UnityPy
+    aa = os.path.join(data_dir, "StreamingAssets", "aa")
+    bundle = os.path.join(aa, "StandaloneWindows64", BUNDLE_FONTES)
+    cat = os.path.join(aa, "catalog.json")
+    if not os.path.exists(bundle): return 0
+    for p in (bundle, cat):
+        if not os.path.exists(p + ".orig"): shutil.copy2(p, p + ".orig")
+    env = UnityPy.load(bundle + ".orig")
+    n = aplicar_nima(env)
+    if not n: return 0
+    tamanho = os.path.getsize(bundle + ".orig")
+    c = json.load(open(cat + ".orig", encoding="utf-8"))
+    raw = base64.b64decode(c["m_ExtraDataString"])
+    feito = False
+    for off in (0, 1):  # o JSON das opções está em UTF-16, alinhado em 0 ou 1
+        t = raw[off:].decode("utf-16-le", errors="replace")
+        for m in re.finditer(r'"m_Crc":(\d+)', t):
+            if re.search(r'"m_BundleSize":%d\b' % tamanho, t[m.start():m.start() + 400]):
+                velho = m.group(0).encode("utf-16-le")
+                novo = ('"m_Crc":0' + " " * (len(m.group(1)) - 1)).encode("utf-16-le")
+                assert raw.count(velho) == 1, "CRC do pacote de fontes não é único no catálogo"
+                raw = raw.replace(velho, novo); feito = True
+    assert feito, "pacote de fontes não encontrado no catálogo (versão diferente do jogo?)"
+    c["m_ExtraDataString"] = base64.b64encode(raw).decode("ascii")
+    open(bundle, "wb").write(env.file.save(packer="lz4"))
+    json.dump(c, open(cat, "w", encoding="utf-8"), separators=(",", ":"))
+    return n
