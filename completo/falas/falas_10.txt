@@ -1,119 +1,119 @@
 5000|Está claro que o que ela mais precisa agora é que você a console.
 5001|Ela é uma mulher adulta, não é ela quem deveria consolar você?
 5002|Talvez com outras pessoas, mas a relação de vocês é especial. Você é o porto seguro dela, é seu dever apoiá-la.
-5003|VOCÊ: Tem sido difícil... né?
+5003|YOU: Tem sido difícil... né?
 5004|Ela te olha com desconfiança. A sobrancelha dela treme.
-5005|MÃE: O que você quer de mim?
-5006|VOCÊ: Você tem razão, eu não sei como foi pra você depois do acidente.
-5007|VOCÊ: Quer me contar?
-5008|MÃE: Eu estava completamente sozinha... Eu não sabia o que ia fazer se você...
-5009|MÃE: Eu não tive escolha, precisei me recompor.
-5010|MÃE: Te visitar no hospital era a única coisa que me mantinha de pé. Eu ia lá e só... ficava sentada com você.
-5011|MÃE: Cantava pra você aquela canção de ninar que eu sempre cantava quando você era bebê...
-5012|MÃE: Foi difícil, ninguém quis me ajudar, só ficavam olhando e julgando...
-5013|MÃE: Até que... eu fiz uma descoberta e percebi que podia resolver tudo.
-5014|MÃE: Você está melhor, não está? Funcionou, não foi?
-5015|MÃE: Você não está mais triste?
+5005|MOM: O que você quer de mim?
+5006|YOU: Você tem razão, eu não sei como foi pra você depois do acidente.
+5007|YOU: Quer me contar?
+5008|MOM: Eu estava completamente sozinha... Eu não sabia o que ia fazer se você...
+5009|MOM: Eu não tive escolha, precisei me recompor.
+5010|MOM: Te visitar no hospital era a única coisa que me mantinha de pé. Eu ia lá e só... ficava sentada com você.
+5011|MOM: Cantava pra você aquela canção de ninar que eu sempre cantava quando você era bebê...
+5012|MOM: Foi difícil, ninguém quis me ajudar, só ficavam olhando e julgando...
+5013|MOM: Até que... eu fiz uma descoberta e percebi que podia resolver tudo.
+5014|MOM: Você está melhor, não está? Funcionou, não foi?
+5015|MOM: Você não está mais triste?
 5016|Você se força a sorrir e balança a cabeça.
-5017|VOCÊ: Eu não lembro direito do que aconteceu naquela noite.
-5018|VOCÊ: Talvez seja melhor assim... A gente pode recomeçar do zero agora.
+5017|YOU: Eu não lembro direito do que aconteceu naquela noite.
+5018|YOU: Talvez seja melhor assim... A gente pode recomeçar do zero agora.
 5019|Você não pode explodir com ela... A razão está do seu lado, não vale a pena jogar isso fora numa gritaria.
-5020|VOCÊ: Como é que alguma coisa disso justifica o jeito que você tem me tratado?
-5021|VOCÊ: Uma coisa é a minha memória, mas agora você está testando a minha <i>ética!?</i>
-5022|VOCÊ: Você não pode dizer que se importa com o meu bem-estar ou com a minha saúde se vai me jogar na sala da caldeira.
-5023|MÃE: Eu não pedi pra você se machucar.
-5024|VOCÊ: Parecia que eu estava queimando!
-5025|MÃE: Isso é só... psicossomático... Algum delírio. Não significa nada.
-5026|VOCÊ: Acho que não...
-5027|VOCÊ: Desde o começo você não me trata como sua filha.
-5028|VOCÊ: Você mantém distância de mim. Me deixou amarrada no começo.
-5029|VOCÊ: A verdade é que você está fazendo experimentos comigo, não está?
-5030|MÃE: Isso não é um jogo de faz de conta, Nima... Você está psicologicamente perturbada.
-5031|VOCÊ: Se isso fosse verdade, por que você está ficando brava comigo!?
-5032|VOCÊ: Nada disso faz sentido. Você <i>fez</i> alguma coisa comigo.
-5033|VOCÊ: O objetivo disso não é me consertar. Você só quer me ter completamente sob o seu controle.
+5020|YOU: Como é que alguma coisa disso justifica o jeito que você tem me tratado?
+5021|YOU: Uma coisa é a minha memória, mas agora você está testando a minha <i>ética!?</i>
+5022|YOU: Você não pode dizer que se importa com o meu bem-estar ou com a minha saúde se vai me jogar na sala da caldeira.
+5023|MOM: Eu não pedi pra você se machucar.
+5024|YOU: Parecia que eu estava queimando!
+5025|MOM: Isso é só... psicossomático... Algum delírio. Não significa nada.
+5026|YOU: Acho que não...
+5027|YOU: Desde o começo você não me trata como sua filha.
+5028|YOU: Você mantém distância de mim. Me deixou amarrada no começo.
+5029|YOU: A verdade é que você está fazendo experimentos comigo, não está?
+5030|MOM: Isso não é um jogo de faz de conta, Nima... Você está psicologicamente perturbada.
+5031|YOU: Se isso fosse verdade, por que você está ficando brava comigo!?
+5032|YOU: Nada disso faz sentido. Você <i>fez</i> alguma coisa comigo.
+5033|YOU: O objetivo disso não é me consertar. Você só quer me ter completamente sob o seu controle.
 5034|Ela desvia o olhar e reflete. A respiração dela desacelera enquanto ela tenta controlar as emoções.
-5035|MÃE: Você tem razão....
-5036|MÃE: Depois de tudo que você passou, eu não deveria ficar brava com você desse jeito. A gente pode ter essa conversa depois...
+5035|MOM: Você tem razão....
+5036|MOM: Depois de tudo que você passou, eu não deveria ficar brava com você desse jeito. A gente pode ter essa conversa depois...
 5037|Você é obrigada a aceitar o recuo dela. Se você tivesse alguma teoria sobre o que ela fez com você, talvez ela tivesse se aberto mais.
-5038|MÃE: Por hoje chega.
+5038|MOM: Por hoje chega.
 5039|Sim... está vendo... você sabe o que realmente está acontecendo.
 5040|Você balança a cabeça com firmeza. Você também sabe até onde ela está disposta a ir pra te manter neste labirinto.
-5041|VOCÊ: Uma coisa é a minha memória, mas agora você está tentando testar a minha <i>ética!?</i>
+5041|YOU: Uma coisa é a minha memória, mas agora você está tentando testar a minha <i>ética!?</i>
 5042|Não que isso seja um problema... afinal, você vai sarar mesmo.
-5043|VOCÊ: É assim que você trataria a sua própria filha?
-5044|VOCÊ: Eu sinto que...
+5043|YOU: É assim que você trataria a sua própria filha?
+5044|YOU: Eu sinto que...
 5045|Que você não é ela. Que você está só fingindo.
-5046|MÃE: Isso não é um jogo de faz de conta, Nima... Você está psicologicamente perturbada.
+5046|MOM: Isso não é um jogo de faz de conta, Nima... Você está psicologicamente perturbada.
 5047|Você pondera: tem lutado contra isso inconscientemente. Você poderia contar a ela como encontrou o bunker, que sabe o que ela fez.
 5048|Você poderia perguntar a ela por quê...
 5049|Pra quê? Você tem razão. Isso é sobre controle. Você não deveria se importar tanto em passar nos testes dela. Tudo de que você precisa pra fugir é força de vontade.
 5050|Mas... o que seria da sua vida sem essa máscara pra te proteger?
-5051|MÃE: Depois de tudo que você passou, eu não deveria ficar brava com você desse jeito. A gente pode ter essa conversa depois...
+5051|MOM: Depois de tudo que você passou, eu não deveria ficar brava com você desse jeito. A gente pode ter essa conversa depois...
 5052|Isso, as cartas, as cartas das suas amigas que ela <i>roubou</i> de você. Isso é algo que você pode facilmente usar contra ela.
 5053|Não seria sensato mencionar que você fugiu ontem à noite.
 5054|Tudo bem, você pode simplesmente inventar uma mentira sobre isso.
-5055|VOCÊ: Sabe... logo antes do acidente aconteceu uma coisa <i>estranha</i>.
-5056|VOCÊ: Eu recebi uma carta lá de casa. De uma das minhas amigas da Equipe de Natação. Ela queria saber por que eu não tinha respondido nenhuma das <i>outras</i> cartas que as minhas amigas me mandaram o ano inteiro!
+5055|YOU: Sabe... logo antes do acidente aconteceu uma coisa <i>estranha</i>.
+5056|YOU: Eu recebi uma carta lá de casa. De uma das minhas amigas da Equipe de Natação. Ela queria saber por que eu não tinha respondido nenhuma das <i>outras</i> cartas que as minhas amigas me mandaram o ano inteiro!
 5057|Se você esperava que ela ficasse chocada com a acusação, decepcionantemente o que encontra é confusão.
-5058|MÃE: O que isso tem a ver com qualquer coisa?
-5059|VOCÊ: Você roubou todas as cartas que as minhas amigas me mandaram no ano passado!
-5060|MÃE: Elas só iam te atrasar, te deixar com mais raiva por a gente ter se mudado pra cá. Até parece que amizades da sua idade duram até o ensino médio.
-5061|MÃE: Não é como se eu tivesse jogado fora; eu só queria que você se acostumasse a morar aqui antes de te deixar ficar com as cartas.
-5062|MÃE: Elas estão... por aqui em algum lugar.
-5063|MÃE: Nada disso tem a ver com a gente, Nima.
-5064|MÃE: Você mesma me disse que tinha brigado com uma daquelas meninas e que não ia mais falar com elas.
-5065|MÃE: Não vem tocar nesse assunto agora como se fosse secretamente importante pra você.
+5058|MOM: O que isso tem a ver com qualquer coisa?
+5059|YOU: Você roubou todas as cartas que as minhas amigas me mandaram no ano passado!
+5060|MOM: Elas só iam te atrasar, te deixar com mais raiva por a gente ter se mudado pra cá. Até parece que amizades da sua idade duram até o ensino médio.
+5061|MOM: Não é como se eu tivesse jogado fora; eu só queria que você se acostumasse a morar aqui antes de te deixar ficar com as cartas.
+5062|MOM: Elas estão... por aqui em algum lugar.
+5063|MOM: Nada disso tem a ver com a gente, Nima.
+5064|MOM: Você mesma me disse que tinha brigado com uma daquelas meninas e que não ia mais falar com elas.
+5065|MOM: Não vem tocar nesse assunto agora como se fosse secretamente importante pra você.
 5066|Lá vai ela de novo.
-5067|VOCÊ: Deixar eu me machucar?! Não sou eu que estou me machucando, você que me enfiou naquela sala!
-5068|MÃE: Você não está ferida.
-5069|VOCÊ: Olha pra mim!
+5067|YOU: Deixar eu me machucar?! Não sou eu que estou me machucando, você que me enfiou naquela sala!
+5068|MOM: Você não está ferida.
+5069|YOU: Olha pra mim!
 5070|Você tenta confrontá-la com a sua carne ferida, mas descobre que a ferida sumiu.
-5071|VOCÊ: O quê... mas eu acabei de...
-5072|MÃE: Você deve ter imaginado.
-5073|VOCÊ: Se você precisava de ajuda, por que fugiu da sua própria família? Por que fugiu da família do Pai?
-5074|MÃE: O único motivo de você conseguir falar assim é porque eles não estão aqui.
-5075|VOCÊ: O quê!? Conseguir me defender?
+5071|YOU: O quê... mas eu acabei de...
+5072|MOM: Você deve ter imaginado.
+5073|YOU: Se você precisava de ajuda, por que fugiu da sua própria família? Por que fugiu da família do Pai?
+5074|MOM: O único motivo de você conseguir falar assim é porque eles não estão aqui.
+5075|YOU: O quê!? Conseguir me defender?
 5076|Você não tem muita certeza de que entende o que isso significa.
 5077|Você não pode deixar ela usar a sua confusão como fraqueza, ataque onde dói!
-5078|VOCÊ: Sacrifícios? Você <i>nunca</i> me apoiou.
-5079|MÃE: Além da roupa do seu corpo e da comida que você come?
-5080|VOCÊ: Você queria que eu desistisse de ser bióloga marinha como o Pai. Você me disse que ele se arrependia da carreira dele.
-5081|MÃE: É uma profissão glamorosa quando se é criança, cheia de aquários e submarinos.
-5082|MÃE: O seu pai nunca cresceu depois disso...
-5083|VOCÊ: Você é burra!
-5084|MÃE: Eu sou uma das especialistas mais respeitadas do mundo no Cambriano. Meus livros didáticos foram escolhidos por <i>várias</i> faculdades da Região Metropolitana de Vancouver como material de curso.
-5085|VOCÊ: Grande coisa! Legal, você sabe um monte sobre coisas que morreram há <i>milhões</i> de anos.
-5086|VOCÊ: Isso não quer dizer que você saiba alguma coisa sobre <i>todo o resto.
-5087|MÃE: Os fundamentos do princípio científico podem ser aplicados à maioria das outras coisas.
-5088|VOCÊ: Você não sabe o que está fazendo! Esses testes todos são só pseudociência.
-5089|MÃE: Você tem treze anos, não sabe do que está falando.
-5090|VOCÊ: Você faz isso porque está apodrecendo, Mãe.
+5078|YOU: Sacrifícios? Você <i>nunca</i> me apoiou.
+5079|MOM: Além da roupa do seu corpo e da comida que você come?
+5080|YOU: Você queria que eu desistisse de ser bióloga marinha como o Pai. Você me disse que ele se arrependia da carreira dele.
+5081|MOM: É uma profissão glamorosa quando se é criança, cheia de aquários e submarinos.
+5082|MOM: O seu pai nunca cresceu depois disso...
+5083|YOU: Você é burra!
+5084|MOM: Eu sou uma das especialistas mais respeitadas do mundo no Cambriano. Meus livros didáticos foram escolhidos por <i>várias</i> faculdades da Região Metropolitana de Vancouver como material de curso.
+5085|YOU: Grande coisa! Legal, você sabe um monte sobre coisas que morreram há <i>milhões</i> de anos.
+5086|YOU: Isso não quer dizer que você saiba alguma coisa sobre <i>todo o resto.
+5087|MOM: Os fundamentos do princípio científico podem ser aplicados à maioria das outras coisas.
+5088|YOU: Você não sabe o que está fazendo! Esses testes todos são só pseudociência.
+5089|MOM: Você tem treze anos, não sabe do que está falando.
+5090|YOU: Você faz isso porque está apodrecendo, Mãe.
 5091|Você vê que ela começa a formular uma resposta, mas não deixa.
-5092|VOCÊ: Eu vejo isso toda vez que olho pra você. Você tem essa cavidade feia e podre por dentro que acha que consegue preencher - me machucando ou me controlando - mas ela nunca vai ser preenchida.
-5093|VOCÊ: Talvez você já tenha sido uma pessoa, um ser humano de verdade. Mas é óbvio que essa parte de você foi consumida há muito tempo.
-5094|VOCÊ: Não sobrou nada pra você, Mãe. Ninguém pra amar. Ninguém pra te dar amor. Você destruiu tudo na sua vida.
-5095|VOCÊ: A melhor coisa que você poderia fazer por si mesma agora é simplesmente morrer.
+5092|YOU: Eu vejo isso toda vez que olho pra você. Você tem essa cavidade feia e podre por dentro que acha que consegue preencher - me machucando ou me controlando - mas ela nunca vai ser preenchida.
+5093|YOU: Talvez você já tenha sido uma pessoa, um ser humano de verdade. Mas é óbvio que essa parte de você foi consumida há muito tempo.
+5094|YOU: Não sobrou nada pra você, Mãe. Ninguém pra amar. Ninguém pra te dar amor. Você destruiu tudo na sua vida.
+5095|YOU: A melhor coisa que você poderia fazer por si mesma agora é simplesmente morrer.
 5096|Sua mãe não responde de imediato.
-5097|MÃE: Eu sei quando você está tentando me machucar, Nima.
-5098|VOCÊ: E toda a comida que eu faço pra você, hein? Você não sabe cozinhar nem pra salvar a própria vida.
-5099|MÃE: O único motivo de você cozinhar é que você odeia a comida que eu faço.
-5100|VOCÊ: É intragável. Até você concorda que a minha comida é melhor.
-5101|MÃE: É bom que você tente se fazer útil.
-5102|VOCÊ: Tente!? Eu sou o único motivo de você ainda estar viva!
-5103|MÃE: Não seja dramática.
-5104|VOCÊ: Eu nunca te pedi pra fazer sacrifícios por mim! Você é que sempre decidiu se isolar.
-5105|VOCÊ: Por que você não tem nenhum amigo, hein? Por que você não faz alguma coisa da vida em vez de ficar infeliz e reclamando?
-5106|MÃE: Cuidar de você é um trabalho em tempo integral, Nima. Eu não tenho tempo pra vida social.
-5107|VOCÊ: Não! Você passa tanto tempo fora trabalhando que não tem tempo pra mais nada.
-5108|MÃE: Eu faço esse trabalho justamente pra cuidar de você!
-5109|VOCÊ: Você não é médica - você não sabe nem o básico sobre curar pessoas.
-5110|VOCÊ: Eu não deveria estar aqui - eu deveria estar no hospital.
-5111|MÃE: O único motivo de você estar aqui agora falando comigo é <i>porque</i> eu te tirei do hospital.
-5112|MÃE: Eles queriam te matar, sabia? Liberar o seu leito pra outro paciente!
-5113|MÃE: Mas não, eu tomei a frente, garanti que a gente tivesse tudo de que precisava pra você se curar em casa.
-5114|VOCÊ: Ah, que ótimo, um porão empoeirado e uma cela de prisão, era exatamente disso que eu precisava.
-5115|MÃE: Eu preciso garantir que você esteja segura.
+5097|MOM: Eu sei quando você está tentando me machucar, Nima.
+5098|YOU: E toda a comida que eu faço pra você, hein? Você não sabe cozinhar nem pra salvar a própria vida.
+5099|MOM: O único motivo de você cozinhar é que você odeia a comida que eu faço.
+5100|YOU: É intragável. Até você concorda que a minha comida é melhor.
+5101|MOM: É bom que você tente se fazer útil.
+5102|YOU: Tente!? Eu sou o único motivo de você ainda estar viva!
+5103|MOM: Não seja dramática.
+5104|YOU: Eu nunca te pedi pra fazer sacrifícios por mim! Você é que sempre decidiu se isolar.
+5105|YOU: Por que você não tem nenhum amigo, hein? Por que você não faz alguma coisa da vida em vez de ficar infeliz e reclamando?
+5106|MOM: Cuidar de você é um trabalho em tempo integral, Nima. Eu não tenho tempo pra vida social.
+5107|YOU: Não! Você passa tanto tempo fora trabalhando que não tem tempo pra mais nada.
+5108|MOM: Eu faço esse trabalho justamente pra cuidar de você!
+5109|YOU: Você não é médica - você não sabe nem o básico sobre curar pessoas.
+5110|YOU: Eu não deveria estar aqui - eu deveria estar no hospital.
+5111|MOM: O único motivo de você estar aqui agora falando comigo é <i>porque</i> eu te tirei do hospital.
+5112|MOM: Eles queriam te matar, sabia? Liberar o seu leito pra outro paciente!
+5113|MOM: Mas não, eu tomei a frente, garanti que a gente tivesse tudo de que precisava pra você se curar em casa.
+5114|YOU: Ah, que ótimo, um porão empoeirado e uma cela de prisão, era exatamente disso que eu precisava.
+5115|MOM: Eu preciso garantir que você esteja segura.
 5116|Você tenta aplicar um pouco de racionalidade à situação.
 5117|O padrão de pergunta e resposta desmoronou. Agora é livre.
 5118|Se você conseguir controlar a sua raiva, talvez consiga arrancar algumas respostas dela.
@@ -121,25 +121,25 @@
 5120|Ela está mentindo. Você não pulou daquele penhasco. Você sabe que não pulou.
 5121|Seus batimentos estão fracos. Seu rosto parece frio.
 5122|Você está se esforçando muito pra não chorar.
-5123|VOCÊ: Você me chama de infantil, mas isso é tudo o que eu tenho pra continuar seguindo em frente!
-5124|MÃE: O quê? Seus joguinhos de faz de conta? Sua obsessão esquisita por desenho animado?
-5125|MÃE: Você precisa parar de negar a realidade, Nima.
-5126|VOCÊ: Você me fez largar a natação!
-5127|MÃE: Eu já te disse várias vezes que você pode fazer o que quiser.
-5128|MÃE: Olha, eu achei muito empático da sua parte sair da equipe de natação depois que percebeu o quanto aquilo me assustava.
-5129|MÃE: Mas pelo visto foi igual a todo o resto, né.
-5130|MÃE: Você só está se fazendo de vítima de novo pra se vingar de mim.
-5131|VOCÊ: Eu odeio esta cidade! Eu nunca quis me mudar pra cá.
-5132|MÃE: Sim, eu sei. Você deixou muito claro o que sente sobre isso, Nima.
-5133|MÃE: Acho que você não entende que eu <i>precisei</i> me mudar pra cá.
-5134|VOCÊ: Não, não precisou. Eu sei por que a gente está aqui de verdade. Você queria fugir!
-5135|VOCÊ: Você fugiu do mesmo jeito que eu fugi.
-5136|MÃE: Não! A gente precisava deixar o passado pra trás. O que você fez foi fugir da realidade!
-5137|VOCÊ: Nenhum desses testes tem sentido! Você vive me mandando fazer uma coisa e esperando que eu faça outra!
-5138|MÃE: O objetivo dos testes não é avaliar a sua capacidade de resolver problemas. Estamos aqui pra determinar se a sua personalidade está correta.
-5139|MÃE: Você nunca seguiu as minhas instruções no passado, não vejo por que estar no porão faria você começar agora.
-5140|VOCÊ: Porque você pode me machucar se eu não fizer o que você manda.
-5141|MÃE: Não seja ridícula, eu nunca te machucaria.
+5123|YOU: Você me chama de infantil, mas isso é tudo o que eu tenho pra continuar seguindo em frente!
+5124|MOM: O quê? Seus joguinhos de faz de conta? Sua obsessão esquisita por desenho animado?
+5125|MOM: Você precisa parar de negar a realidade, Nima.
+5126|YOU: Você me fez largar a natação!
+5127|MOM: Eu já te disse várias vezes que você pode fazer o que quiser.
+5128|MOM: Olha, eu achei muito empático da sua parte sair da equipe de natação depois que percebeu o quanto aquilo me assustava.
+5129|MOM: Mas pelo visto foi igual a todo o resto, né.
+5130|MOM: Você só está se fazendo de vítima de novo pra se vingar de mim.
+5131|YOU: Eu odeio esta cidade! Eu nunca quis me mudar pra cá.
+5132|MOM: Sim, eu sei. Você deixou muito claro o que sente sobre isso, Nima.
+5133|MOM: Acho que você não entende que eu <i>precisei</i> me mudar pra cá.
+5134|YOU: Não, não precisou. Eu sei por que a gente está aqui de verdade. Você queria fugir!
+5135|YOU: Você fugiu do mesmo jeito que eu fugi.
+5136|MOM: Não! A gente precisava deixar o passado pra trás. O que você fez foi fugir da realidade!
+5137|YOU: Nenhum desses testes tem sentido! Você vive me mandando fazer uma coisa e esperando que eu faça outra!
+5138|MOM: O objetivo dos testes não é avaliar a sua capacidade de resolver problemas. Estamos aqui pra determinar se a sua personalidade está correta.
+5139|MOM: Você nunca seguiu as minhas instruções no passado, não vejo por que estar no porão faria você começar agora.
+5140|YOU: Porque você pode me machucar se eu não fizer o que você manda.
+5141|MOM: Não seja ridícula, eu nunca te machucaria.
 5142|Isso te lembra da briga que vocês tiveram antes da mudança. Quando ela te contou que tinha perdido o emprego e que o único lugar querendo contratá-la era o centro de geologia daqui.
 5143|Isso te lembra da briga que você teve com ela quando ela disse que você ia fazer aulas de natação, pra não acabar igual ao seu pai.
 5144|Elas se misturam todas, esta briga é única e, ainda assim, é igual a todas as outras.
@@ -150,7 +150,7 @@
 5149|Mesmo que seja verdade, brigar com ela não vai fazê-la mudar de ideia.
 5150|Ela está te dizendo o que você sente de novo! Ela não está ouvindo!
 5151|As lágrimas formam gotinhas no canto dos seus olhos. Você tenta piscar pra afastá-las. Você não pode deixar ela achar que te fez chorar.
-5152|MÃE: Para com isso! Fingir que está chorando não vai me fazer ter pena de você.
+5152|MOM: Para com isso! Fingir que está chorando não vai me fazer ter pena de você.
 5153|Você está cheia de raiva, mas não sabe direito de onde ela vem.
 5154|Parece quase alienígena. Uma emoção que outra pessoa jogou nas suas costas.
 5155|A raiva é sua, você só não quer assumi-la.
@@ -184,7 +184,7 @@
 5183|Melhor do que ficar à toa num porão ouvindo essa mulher.
 5184|Ela enfia a mão na sacola de pano e tira um saco plástico com um misto-quente dentro.
 5185|Ela tira o sanduíche e o coloca no centro de um prato de papel.
-5186|MÃE: Certo, Nima, hora de dormir.
+5186|MOM: Certo, Nima, hora de dormir.
 5187|Você quer protestar, a mudança repentina de emoções dela é perturbadora. Você tem certeza de que isso é uma armadilha.
 5188|Mas... você também não come há vários dias.
 5189|Você a segue. Ainda insegura sobre as intenções dela.
@@ -210,94 +210,94 @@
 5209|Você mantém os olhos bem fechados enquanto se levanta e caminha devagar até a cama. Você desaba nela.
 5210|Ela nunca vai aceitar quem você realmente é.
 5211|Ela olha ao redor do quarto, tentando achar uma desculpa pra escapar desta conversa.
-5212|MÃE: O tratamento que eu desenvolvi pra você. Ele é... <i>holístico.</i> Eu ainda só tenho uma compreensão abstrata dele... mas ele se mostrou muito eficaz em te curar.
-5213|MÃE: O fóssil que você me deu. Eu <i>encontrei</i> uma coisa lá dentro.
-5214|MÃE: Uma Marrella Splendens <i>viva</i>...
-5215|MÃE: Eu sabia... Eu tinha encontrado algo incrível - eu precisava entender como funcionava.
-5216|MÃE: Depois que eu a dissequei, descobri que tinha um verme dentro. Um simbionte... que a manteve viva dentro da pedra por milhões de anos.
-5217|MÃE: Você tem razão, aquilo... me abalou. Eu fiquei paranoica, mas você consegue imaginar? Encontrar algo assim...
-5218|MÃE: Aí... o acidente aconteceu. Eu...
-5219|MÃE: Eu pensei... que ele podia fazer o mesmo por você.
-5220|VOCÊ: Você colocou... um verme no meu cérebro...
-5221|MÃE: Sim...
+5212|MOM: O tratamento que eu desenvolvi pra você. Ele é... <i>holístico.</i> Eu ainda só tenho uma compreensão abstrata dele... mas ele se mostrou muito eficaz em te curar.
+5213|MOM: O fóssil que você me deu. Eu <i>encontrei</i> uma coisa lá dentro.
+5214|MOM: Uma Marrella Splendens <i>viva</i>...
+5215|MOM: Eu sabia... Eu tinha encontrado algo incrível - eu precisava entender como funcionava.
+5216|MOM: Depois que eu a dissequei, descobri que tinha um verme dentro. Um simbionte... que a manteve viva dentro da pedra por milhões de anos.
+5217|MOM: Você tem razão, aquilo... me abalou. Eu fiquei paranoica, mas você consegue imaginar? Encontrar algo assim...
+5218|MOM: Aí... o acidente aconteceu. Eu...
+5219|MOM: Eu pensei... que ele podia fazer o mesmo por você.
+5220|YOU: Você colocou... um verme no meu cérebro...
+5221|MOM: Sim...
 5222|Suas mãos voam até a cabeça, você apalpa procurando qualquer anormalidade no seu crânio.
-5223|MÃE: Funcionou... mas...
-5224|MÃE: Você tem tido efeitos colaterais.
-5225|VOCÊ: Que tipo de efeitos colaterais!?
-5226|MÃE: Mudanças de humor... principalmente.
+5223|MOM: Funcionou... mas...
+5224|MOM: Você tem tido efeitos colaterais.
+5225|YOU: Que tipo de efeitos colaterais!?
+5226|MOM: Mudanças de humor... principalmente.
 5227|Você não é a Nima de quem ela se lembra. Tem algo de errado com você.
-5228|MÃE: Eu tenho feito esses testes pra tentar descobrir a causa.
+5228|MOM: Eu tenho feito esses testes pra tentar descobrir a causa.
 5229|Isso te parece estranho, você tenta se lembrar se teve alguma mudança de humor. Você não sente que fez nada tão suspeito assim.
-5230|VOCÊ: Eu não... tenho estado normal?
-5231|MÃE: Sim! Sim, tem. Eu...
-5232|MÃE: Às vezes a sua perda de memória volta. Não é algo com que você deva se preocupar.
-5233|VOCÊ: A gente... já conversou sobre isso antes?
-5234|MÃE: Não... mas... bom, eu já te mostrei o tubarão algumas vezes...
-5235|VOCÊ: Há quanto tempo a gente está aqui embaixo!?
-5236|MÃE: Não se preocupe com isso. Eu vou ficar com você até você se curar... mesmo que a gente tenha que ter essa conversa de novo e de novo.
+5230|YOU: Eu não... tenho estado normal?
+5231|MOM: Sim! Sim, tem. Eu...
+5232|MOM: Às vezes a sua perda de memória volta. Não é algo com que você deva se preocupar.
+5233|YOU: A gente... já conversou sobre isso antes?
+5234|MOM: Não... mas... bom, eu já te mostrei o tubarão algumas vezes...
+5235|YOU: Há quanto tempo a gente está aqui embaixo!?
+5236|MOM: Não se preocupe com isso. Eu vou ficar com você até você se curar... mesmo que a gente tenha que ter essa conversa de novo e de novo.
 5237|Você sente uma pontada súbita de dor fantasma na órbita do olho esquerdo.
 5238|Você se lembra, não lembra... do que ela faz com você quando você falha?
-5239|VOCÊ: Eu me sinto estranha...
+5239|YOU: Eu me sinto estranha...
 5240|Você esfrega a cabeça, ainda se perguntando se consegue sentir o verme debaixo da pele.
-5241|MÃE: Desculpa, querida. Você entende, não entende? Por que eu não queria te contar? Por que eu tive que te manter aqui embaixo?
-5242|VOCÊ: Você... pode tirar o verme?
+5241|MOM: Desculpa, querida. Você entende, não entende? Por que eu não queria te contar? Por que eu tive que te manter aqui embaixo?
+5242|YOU: Você... pode tirar o verme?
 5243|<shake>...Não faça isso.
 5244|<shake>Não faça isso. Não faça isso. <size=150%>Não faça isso.</size> Não faça isso.</shake>
 5245|A ansiedade sobe arrepiando a sua espinha. Seu coração começa a disparar. Sua respiração fica curta. Você não sabe por quê.
-5246|MÃE: É possível... Talvez a gente possa tentar quando descobrirmos como parar esses efeitos colaterais.
+5246|MOM: É possível... Talvez a gente possa tentar quando descobrirmos como parar esses efeitos colaterais.
 5247|O medo não parece pertencer a você. É como se o seu cérebro tivesse acabado de encostar uma faca na sua garganta.
-5248|MÃE: Desculpa por discutir com você. Vamos parar por aqui esta noite.
-5249|MÃE: Quando eu voltar amanhã, não vai ser pra um teste... A gente só vai conversar. Temos muita coisa pra colocar em dia.
+5248|MOM: Desculpa por discutir com você. Vamos parar por aqui esta noite.
+5249|MOM: Quando eu voltar amanhã, não vai ser pra um teste... A gente só vai conversar. Temos muita coisa pra colocar em dia.
 5250|De repente, você não quer ficar sozinha.
-5251|VOCÊ: Espera! Não vai!
-5252|MÃE: O que foi, Nima?
-5253|VOCÊ: ...Acho que eu sei o que tem de errado comigo.
+5251|YOU: Espera! Não vai!
+5252|MOM: O que foi, Nima?
+5253|YOU: ...Acho que eu sei o que tem de errado comigo.
 5254|Não conta nada pra ela! Os testes não acabaram!
 5255|Agora é a vez dela de te encarar com intensidade. Você não pode voltar atrás agora.
 5256|Não! Não conta isso pra ela!
-5257|MÃE: ...O que a voz diz?
+5257|MOM: ...O que a voz diz?
 5258|Você duvida de si mesma. A voz tem sido útil, mas você não pode negar que ela não parece pertencer a você de verdade.
-5259|MÃE: Nima, isso é sério, eu não fazia ideia de que essa anomalia estava te afetando.
-5260|MÃE: Você precisa me contar tudo, <i>agora.
-5261|VOCÊ: É que... ela é malvada. Ela fala muito sobre o quanto quer te machucar.
-5262|MÃE: Eu devia ter estudado química cerebral... Eu sei que ele tem aplicadores químicos, mas não sei o que eles fazem.
-5263|MÃE: Eu não tenho certeza sobre essa voz, com certeza não faz sentido. Imagino que, com um coquetel químico específico, seja possível que você tenha desenvolvido algum tipo de psicose.
-5264|MÃE: Existe a possibilidade de que todos os problemas que temos tido sejam porque o verme está influenciando a química do seu cérebro.
+5259|MOM: Nima, isso é sério, eu não fazia ideia de que essa anomalia estava te afetando.
+5260|MOM: Você precisa me contar tudo, <i>agora.
+5261|YOU: É que... ela é malvada. Ela fala muito sobre o quanto quer te machucar.
+5262|MOM: Eu devia ter estudado química cerebral... Eu sei que ele tem aplicadores químicos, mas não sei o que eles fazem.
+5263|MOM: Eu não tenho certeza sobre essa voz, com certeza não faz sentido. Imagino que, com um coquetel químico específico, seja possível que você tenha desenvolvido algum tipo de psicose.
+5264|MOM: Existe a possibilidade de que todos os problemas que temos tido sejam porque o verme está influenciando a química do seu cérebro.
 5265|Você se lembra da sua vida de antes. Você não pode voltar a ser aquela pessoa enquanto tiver essa coisa na cabeça.
-5266|MÃE: Acho que... Ele já cumpriu o seu papel, você está curada e as suas memórias voltaram.
-5267|MÃE: A última coisa que precisamos fazer pra te curar... Está na hora de remover o verme.
+5266|MOM: Acho que... Ele já cumpriu o seu papel, você está curada e as suas memórias voltaram.
+5267|MOM: A última coisa que precisamos fazer pra te curar... Está na hora de remover o verme.
 5268|Você sente um calafrio subir pela espinha, as palavras dela de algum jeito ativaram o seu instinto de lutar ou fugir.
 5269|Por favor, não dê ouvidos a ela. Você precisa matá-la antes que ela te mate.
-5270|VOCÊ: Mãe... eu estou com medo.
-5271|MÃE: Você não tem motivo nenhum pra ter medo, Nima!
+5270|YOU: Mãe... eu estou com medo.
+5271|MOM: Você não tem motivo nenhum pra ter medo, Nima!
 5272|Ela estende os braços pra te consolar e você aceita o conforto dela. O gesto parece caloroso, como antigamente. Você finalmente conseguiu fazê-la contar a verdade. Você finalmente sabe por que a relação de vocês estava quebrada.
-5273|MÃE: Talvez seja uma reação instintiva, ele pode te fazer sentir ansiedade se temer pela própria vida.
-5274|MÃE: O verme pode ser mais complexo do que eu pensava...
-5275|MÃE: Certo, amanhã vamos tentar removê-lo sem cirurgia invasiva.
-5276|MÃE: Eu tenho algumas ideias, mas preciso consultar as minhas anotações primeiro.
-5277|MÃE: Você... vai ficar bem sozinha? Eu temo que, agora que ele sente que está em perigo, possa te causar um desconforto enorme.
-5278|VOCÊ: Tá tudo bem... Não é real, né? Ele só está me fazendo acreditar que eu estou em perigo.
-5279|MÃE: Isso, querida. Nada do que você está sentindo é real.
+5273|MOM: Talvez seja uma reação instintiva, ele pode te fazer sentir ansiedade se temer pela própria vida.
+5274|MOM: O verme pode ser mais complexo do que eu pensava...
+5275|MOM: Certo, amanhã vamos tentar removê-lo sem cirurgia invasiva.
+5276|MOM: Eu tenho algumas ideias, mas preciso consultar as minhas anotações primeiro.
+5277|MOM: Você... vai ficar bem sozinha? Eu temo que, agora que ele sente que está em perigo, possa te causar um desconforto enorme.
+5278|YOU: Tá tudo bem... Não é real, né? Ele só está me fazendo acreditar que eu estou em perigo.
+5279|MOM: Isso, querida. Nada do que você está sentindo é real.
 5280|Você confia mesmo mais nela do que em mim?
-5281|MÃE: Eu vou resolver isso, tá bom? A mamãe sempre resolve.
+5281|MOM: Eu vou resolver isso, tá bom? A mamãe sempre resolve.
 5282|Você a abraça desesperadamente. Você está cansada dessa sensação, como se não tivesse nenhum controle sobre a própria vida. Você não pode deixar esse verme ficar na sua cabeça.
-5283|MÃE: Eu vou dormir no laboratório, se precisar de mim é só gritar que eu venho correndo.
+5283|MOM: Eu vou dormir no laboratório, se precisar de mim é só gritar que eu venho correndo.
 5284|Você assente e se levanta sozinha. Você volta pro seu quarto como uma criminosa a caminho da forca. Sua mãe te segue, estoica.
 5285|Você ouve uma tranca se fechar na porta. Agora, sozinha, você se aconchega na cama e se esforça ao máximo pra pegar no sono.
-5286|MÃE: Eu não gosto disso, Nima. Isso não é do seu feitio. Tem muitas discrepâncias na sua personalidade entre agora e antes do acidente.
-5287|VOCÊ: É a voz! Às vezes, ela me manda fazer alguma coisa estranha e eu faço porque estou com medo.
-5288|MÃE: Como é a sensação? Quando essa tal voz fala com você.
-5289|VOCÊ: Assustadora... A minha cabeça fica toda embaralhada e confusa. Eu fico meio com raiva, mas... eu sei que isso não é meu. Eu não sou uma pessoa raivosa.
+5286|MOM: Eu não gosto disso, Nima. Isso não é do seu feitio. Tem muitas discrepâncias na sua personalidade entre agora e antes do acidente.
+5287|YOU: É a voz! Às vezes, ela me manda fazer alguma coisa estranha e eu faço porque estou com medo.
+5288|MOM: Como é a sensação? Quando essa tal voz fala com você.
+5289|YOU: Assustadora... A minha cabeça fica toda embaralhada e confusa. Eu fico meio com raiva, mas... eu sei que isso não é meu. Eu não sou uma pessoa raivosa.
 5290|Depois de deliberar consigo mesma, ela finalmente volta a olhar pra você.
-5291|MÃE: Você se lembra do fóssil que encontrou e me deu de presente? Eu <i>encontrei</i> uma coisa lá dentro.
-5292|MÃE: Uma Marrella Splendens viva...
-5293|VOCÊ: Um verme... no meu cérebro...
+5291|MOM: Você se lembra do fóssil que encontrou e me deu de presente? Eu <i>encontrei</i> uma coisa lá dentro.
+5292|MOM: Uma Marrella Splendens viva...
+5293|YOU: Um verme... no meu cérebro...
 5294|Não, não sou, eu sou você! <shake>Sua idiota.</shake> Se tem alguém aqui que é a Nima de verdade, sou eu, e você é o verme.
-5295|MÃE: Existe a possibilidade de que todos os problemas que temos tido sejam porque o verme está influenciando levemente a química do seu cérebro.
-5296|MÃE: Acho que sim. Ele já te curou, se tomarmos cuidado, talvez a gente consiga separar o verme sem te machucar.
-5297|MÃE: Você... vai ficar bem sozinha?
-5298|MÃE: Eu vou resolver isso, tá bom? Eu vou... dormir do seu lado. Só pra garantir que nada aconteça.
-5299|VOCÊ: Acho que... seria mais seguro pra você se não dormisse. Acho que você estava certa em trancar a porta.
+5295|MOM: Existe a possibilidade de que todos os problemas que temos tido sejam porque o verme está influenciando levemente a química do seu cérebro.
+5296|MOM: Acho que sim. Ele já te curou, se tomarmos cuidado, talvez a gente consiga separar o verme sem te machucar.
+5297|MOM: Você... vai ficar bem sozinha?
+5298|MOM: Eu vou resolver isso, tá bom? Eu vou... dormir do seu lado. Só pra garantir que nada aconteça.
+5299|YOU: Acho que... seria mais seguro pra você se não dormisse. Acho que você estava certa em trancar a porta.
 5300|Você ouve uma tranca se fechar na porta. Agora, convenientemente sozinha, você se aconchega na cama e se esforça ao máximo pra pegar no sono.
 5301|Você acorda com fome e insatisfeita.
 5302|Você sonhou com um banquete. Waffles com chantili num sábado de manhã, seu pai comemorando o fim de semana com você.
@@ -309,192 +309,192 @@
 5308|Você se pergunta por um momento se o seu confronto fez algum barulho. Você inclina a cabeça e escuta o andar de cima.
 5309|Você tenta ouvir algum sinal de que a sua mãe está acordada e andando.
 5310|Só o silêncio vem lá de cima.
-5311|MÃE: Nima! Hora de acordar.
+5311|MOM: Nima! Hora de acordar.
 5312|Você começa a ouvir trancas chacoalhando. Logo ela vai entrar no seu quarto. Você torce desesperadamente pra que ela não tenha te ouvido falando sozinha.
-5313|VOCÊ: Eu tô no banheiro!
+5313|YOU: Eu tô no banheiro!
 5314|Você sai do banheiro e cambaleia pela lateral da cama.
 5315|Você chega à porta bem a tempo de a última trava ser removida.
-5316|VOCÊ: Bom dia, mamãe.
+5316|YOU: Bom dia, mamãe.
 5317|Você se aproxima.
-5318|VOCÊ: Estou pronta pra começar os testes de hoje.
-5319|MÃE: Achei que tinha ouvido alguma coisa.
-5320|VOCÊ: Hã... Acho que eu não estava fazendo barulho nenhum.
-5321|MÃE: ...Estranho.
+5318|YOU: Estou pronta pra começar os testes de hoje.
+5319|MOM: Achei que tinha ouvido alguma coisa.
+5320|YOU: Hã... Acho que eu não estava fazendo barulho nenhum.
+5321|MOM: ...Estranho.
 5322|Ela se afasta, deixando a porta entreaberta pra você segui-la.
 5323|Vocês duas assumem suas posições, uma de cada lado da mesa.
 5324|Você espera em silêncio enquanto os olhos dela te examinam. Dá pra perceber que ela está olhando as suas bochechas, as suas sobrancelhas. Ela está procurando imperfeições.
-5325|MÃE: Fico feliz em informar que hoje é o último dia de testes.
-5326|VOCÊ: Sério? Quer dizer que finalmente acabou?
+5325|MOM: Fico feliz em informar que hoje é o último dia de testes.
+5326|YOU: Sério? Quer dizer que finalmente acabou?
 5327|Sua mãe sorri com ar compreensivo, mas não há compaixão nenhuma nos olhos dela.
-5328|MÃE: Muito em breve, sim.
-5329|MÃE: O jeito que as coisas terminaram ontem… não era assim que eu queria que fosse.
-5330|MÃE: Quero que a gente esteja em sintonia. Você concorda?
+5328|MOM: Muito em breve, sim.
+5329|MOM: O jeito que as coisas terminaram ontem… não era assim que eu queria que fosse.
+5330|MOM: Quero que a gente esteja em sintonia. Você concorda?
 5331|Parece que a tensão da noite passada ainda está no ar.
-5332|VOCÊ: É, acho que sim.
-5333|MÃE: Ótimo. Então vamos voltar ao básico por um segundo. Um curso de revisão sobre o que estamos fazendo aqui.
+5332|YOU: É, acho que sim.
+5333|MOM: Ótimo. Então vamos voltar ao básico por um segundo. Um curso de revisão sobre o que estamos fazendo aqui.
 5334|Ela pega o caderno em que vem escrevendo nos últimos dias e folheia várias páginas.
-5335|MÃE: Ao longo desses testes, eu tenho observado o seu comportamento, analisando o jeito que você age, o jeito que você fala - qualquer coisa que possa servir de evidência.
-5336|MÃE: O meu objetivo, como você sabe, é ver se as suas memórias estão como deveriam. Ver se você possui os aspectos que fazem da Nima quem ela é.
+5335|MOM: Ao longo desses testes, eu tenho observado o seu comportamento, analisando o jeito que você age, o jeito que você fala - qualquer coisa que possa servir de evidência.
+5336|MOM: O meu objetivo, como você sabe, é ver se as suas memórias estão como deveriam. Ver se você possui os aspectos que fazem da Nima quem ela é.
 5337|O jeito que ela formula isso te perturba.
-5338|VOCÊ: O que você quer dizer com isso?
-5339|MÃE: Bom, eu estou mais interessada no que isso significa pra você. Afinal, você é a especialista.
+5338|YOU: O que você quer dizer com isso?
+5339|MOM: Bom, eu estou mais interessada no que isso significa pra você. Afinal, você é a especialista.
 5340|Ela ri sozinha.
 5341|Ela não está contente com a gente.
-5342|MÃE: Por favor, me diga. O que significa ser a Nima?
-5343|VOCÊ: Ser a Nima significa nunca desistir de fugir.
-5344|MÃE: Isso não está correto.
-5345|VOCÊ: Eu não ligo pra quem você acha que eu sou. Eu conheço o meu próprio coração.
-5346|VOCÊ: Eu não ligo pra que joguinho você está fazendo aqui, eu cansei de entrar nele. Por que você não fala logo o que vai falar?
-5347|MÃE: Tudo bem... Vamos logo com isso.
+5342|MOM: Por favor, me diga. O que significa ser a Nima?
+5343|YOU: Ser a Nima significa nunca desistir de fugir.
+5344|MOM: Isso não está correto.
+5345|YOU: Eu não ligo pra quem você acha que eu sou. Eu conheço o meu próprio coração.
+5346|YOU: Eu não ligo pra que joguinho você está fazendo aqui, eu cansei de entrar nele. Por que você não fala logo o que vai falar?
+5347|MOM: Tudo bem... Vamos logo com isso.
 5348|Você pensa no bunker...
 5349|Você sabe o que realmente é.
 5350|Ainda não é a hora. Espere até ela chegar perto de você.
-5351|VOCÊ: Você não liga de verdade pro que eu tenho a dizer.
-5352|VOCÊ: Vai em frente, <i>Mãe,</i> que expectativa eu deixei de cumprir desta vez?
-5353|VOCÊ: Significa que eu tenho que ser feliz...
+5351|YOU: Você não liga de verdade pro que eu tenho a dizer.
+5352|YOU: Vai em frente, <i>Mãe,</i> que expectativa eu deixei de cumprir desta vez?
+5353|YOU: Significa que eu tenho que ser feliz...
 5354|Mesmo quando você não está.
-5355|MÃE: Sim. Você não tem problema nenhum com isso. Desde que começamos, você tem estado positivamente <i>animadinha.</i>
-5356|MÃE: A sua felicidade não é uma preocupação pra mim.
-5357|MÃE: Sim. Então você entende isso.
-5358|MÃE: Uma parte deste teste é te ajudar a processar algumas dessas emoções inúteis.
-5359|MÃE: Parece que não tivemos sucesso...
-5360|VOCÊ: Ser a Nima significa...
-5361|VOCÊ: Significa sofrer em silêncio. Ser triste, sozinha e esquecida.
+5355|MOM: Sim. Você não tem problema nenhum com isso. Desde que começamos, você tem estado positivamente <i>animadinha.</i>
+5356|MOM: A sua felicidade não é uma preocupação pra mim.
+5357|MOM: Sim. Então você entende isso.
+5358|MOM: Uma parte deste teste é te ajudar a processar algumas dessas emoções inúteis.
+5359|MOM: Parece que não tivemos sucesso...
+5360|YOU: Ser a Nima significa...
+5361|YOU: Significa sofrer em silêncio. Ser triste, sozinha e esquecida.
 5362|Se ao menos você ganhasse pontos por honestidade...
-5363|MÃE: Sério? Você tem estado consistentemente feliz desde que os testes começaram.
-5364|MÃE: Talvez você perceba que eu estou insatisfeita e isso esteja te chateando.
-5365|MÃE: Então vou direto ao ponto.
-5366|MÃE: Sim... É isso que me incomoda.
-5367|MÃE: Uma parte deste teste serve pra ajudar a processar algumas dessas emoções inúteis.
-5368|VOCÊ: Ter vergonha de mim mesma.
+5363|MOM: Sério? Você tem estado consistentemente feliz desde que os testes começaram.
+5364|MOM: Talvez você perceba que eu estou insatisfeita e isso esteja te chateando.
+5365|MOM: Então vou direto ao ponto.
+5366|MOM: Sim... É isso que me incomoda.
+5367|MOM: Uma parte deste teste serve pra ajudar a processar algumas dessas emoções inúteis.
+5368|YOU: Ter vergonha de mim mesma.
 5369|Nada em ser a Nima parece certo.
 5370|Ela inspira devagar pelo nariz.
-5371|MÃE: Eu não gosto quando você fica buscando pena.
+5371|MOM: Eu não gosto quando você fica buscando pena.
 5372|Ela olha nos seus olhos, procurando qualquer coisa genuína.
-5373|MÃE: Mas você está certa. Você deveria ter vergonha, sabe por quê?
-5374|VOCÊ: A Nima é responsável.
+5373|MOM: Mas você está certa. Você deveria ter vergonha, sabe por quê?
+5374|YOU: A Nima é responsável.
 5375|Ela carrega o peso do mundo.
-5376|MÃE: Sim, você tem razão.
-5377|MÃE: Você agiu como uma adulta durante esses testes. Superou as minhas expectativas.
-5378|MÃE: Não é isso que me preocupa.
-5379|MÃE: Você sabe disso... e mesmo assim...
-5380|MÃE: Deixa eu explicar.
-5381|VOCÊ: A Nima é uma criança! Ela gosta de desenho animado, de arte, e passa a maior parte do tempo vivendo no mundinho dela.
+5376|MOM: Sim, você tem razão.
+5377|MOM: Você agiu como uma adulta durante esses testes. Superou as minhas expectativas.
+5378|MOM: Não é isso que me preocupa.
+5379|MOM: Você sabe disso... e mesmo assim...
+5380|MOM: Deixa eu explicar.
+5381|YOU: A Nima é uma criança! Ela gosta de desenho animado, de arte, e passa a maior parte do tempo vivendo no mundinho dela.
 5382|É a forma de fuga mais alcançável.
-5383|MÃE: Que resposta estranha, considerando o quanto você tem sido consistentemente madura.
-5384|MÃE: Não... Você tem treze anos. Esse comportamento não é apropriado pra sua idade.
+5383|MOM: Que resposta estranha, considerando o quanto você tem sido consistentemente madura.
+5384|MOM: Não... Você tem treze anos. Esse comportamento não é apropriado pra sua idade.
 5385|Ela espera que você já saiba a resposta, e tem razão em esperar; a resposta está bem na sua cara.
-5386|VOCÊ: A parte mais importante da minha vida é você. Você me deu tanta coisa, Mãe.
-5387|VOCÊ: Você me ama muito e prova isso pra mim todo dia, mesmo quando as coisas estão difíceis.
-5388|VOCÊ: Ser a Nima significa retribuir esse amor.
+5386|YOU: A parte mais importante da minha vida é você. Você me deu tanta coisa, Mãe.
+5387|YOU: Você me ama muito e prova isso pra mim todo dia, mesmo quando as coisas estão difíceis.
+5388|YOU: Ser a Nima significa retribuir esse amor.
 5389|Sua mãe sorri pra você com carinho.
-5390|MÃE: Muito bem, Nima. Foi lindo ouvir isso.
-5391|MÃE: Você parece entender perfeitamente.
+5390|MOM: Muito bem, Nima. Foi lindo ouvir isso.
+5391|MOM: Você parece entender perfeitamente.
 5392|Você sorri de volta pra ela, saboreando este momento compartilhado de cumplicidade.
-5393|MÃE: Se ao menos fosse tão simples.
+5393|MOM: Se ao menos fosse tão simples.
 5394|Você vê os olhos dela ficarem distantes e o sorriso caloroso e maternal dela derreter.
 5395|Isso não está certo.
-5396|MÃE: Seria bom se o seu amor bastasse pra eu acreditar em você. Mas ser a Nima não se resume a me encher de clichês.
-5397|VOCÊ: Eu fiz alguma coisa errada?
+5396|MOM: Seria bom se o seu amor bastasse pra eu acreditar em você. Mas ser a Nima não se resume a me encher de clichês.
+5397|YOU: Eu fiz alguma coisa errada?
 5398|Você sorri pra sua mãe esperando que ela retribua, mas em vez disso vê que ela não está impressionada.
-5399|MÃE: Você está sendo sarcástica de novo?
-5400|MÃE: Se você finalmente aprendeu a lição, receio que essa revelação tenha chegado tarde demais.
-5401|VOCÊ: Significa... <i>odiar</i> você.
+5399|MOM: Você está sendo sarcástica de novo?
+5400|MOM: Se você finalmente aprendeu a lição, receio que essa revelação tenha chegado tarde demais.
+5401|YOU: Significa... <i>odiar</i> você.
 5402|Toda vez que ela te castiga por esses sentimentos, eles se entranham ainda mais fundo na sua mente.
 5403|O ódio está entalhado na sua alma.
 5404|Que coisa sombria e soturna. Seria legal se você realmente se sentisse assim.
-5405|MÃE: Não seja dramática...
-5406|MÃE: Não, o problema está em outro lugar.
-5407|MÃE: Por que você <i>insiste</i> em me tratar assim?
-5408|MÃE: É como se você tivesse se transformado num demônio de repente.
-5409|VOCÊ: Significa ser boa.
+5405|MOM: Não seja dramática...
+5406|MOM: Não, o problema está em outro lugar.
+5407|MOM: Por que você <i>insiste</i> em me tratar assim?
+5408|MOM: É como se você tivesse se transformado num demônio de repente.
+5409|YOU: Significa ser boa.
 5410|Significa ser 'humana'.
-5411|MÃE: Você tem sido boa.
-5412|MÃE: É importante, não só aqui, mas pra quando você finalmente sair pro mundo.
-5413|MÃE: Mas esse não é o meu problema...
-5414|MÃE: Sim... o seu comportamento.
-5415|MÃE: O mundo não vai tolerar a existência de um monstro como você.
-5416|VOCÊ: Significa... desafiar a minha natureza.
-5417|VOCÊ: Você acha que eu sou um monstro fingindo ser humano.
+5411|MOM: Você tem sido boa.
+5412|MOM: É importante, não só aqui, mas pra quando você finalmente sair pro mundo.
+5413|MOM: Mas esse não é o meu problema...
+5414|MOM: Sim... o seu comportamento.
+5415|MOM: O mundo não vai tolerar a existência de um monstro como você.
+5416|YOU: Significa... desafiar a minha natureza.
+5417|YOU: Você acha que eu sou um monstro fingindo ser humano.
 5418|Seria bom sentir o sangue escorregadio dela nos seus dentes.
-5419|MÃE: Não é bom brincar com essas coisas.
-5420|MÃE: Isso certamente não é científico. É a criação, não a natureza, que define uma pessoa.
-5421|MÃE: Não, o seu problema é outro...
-5422|MÃE: Sim... É importante que você faça isso.
-5423|MÃE: O mundo não vai tolerar a existência de um monstro como você.
-5424|VOCÊ: Lembrar?
+5419|MOM: Não é bom brincar com essas coisas.
+5420|MOM: Isso certamente não é científico. É a criação, não a natureza, que define uma pessoa.
+5421|MOM: Não, o seu problema é outro...
+5422|MOM: Sim... É importante que você faça isso.
+5423|MOM: O mundo não vai tolerar a existência de um monstro como você.
+5424|YOU: Lembrar?
 5425|Apesar de querer desesperadamente esquecer.
-5426|MÃE: Sim. Você se saiu bem nesse quesito. Não tenho dúvida de que você, de fato, se lembra de quem é.
-5427|MÃE: Mas há outras coisas a considerar.
-5428|MÃE: Sim... Conhecer a si mesma tão bem quanto eu te conheço.
-5429|MÃE: Tenho algumas preocupações aqui...
-5430|VOCÊ: Ser a sua filha <i>perfeita</i>.
+5426|MOM: Sim. Você se saiu bem nesse quesito. Não tenho dúvida de que você, de fato, se lembra de quem é.
+5427|MOM: Mas há outras coisas a considerar.
+5428|MOM: Sim... Conhecer a si mesma tão bem quanto eu te conheço.
+5429|MOM: Tenho algumas preocupações aqui...
+5430|YOU: Ser a sua filha <i>perfeita</i>.
 5431|Bem treinada e obediente.
-5432|MÃE: Ao que tudo indica, você é. Você alcançou o nosso objetivo mais importante, reconstruir as suas memórias.
-5433|MÃE: Mas uma pessoa é mais do que só as suas memórias. Também temos que levar em conta personalidade e princípios...
-5434|MÃE: Boa tentativa...
-5435|MÃE: Eu venho te avaliando desde que você acordou. Antes mesmo de eu te apresentar o tubarão.
-5436|MÃE: Só pra garantir que o tratamento esteja... de acordo com as expectativas.
-5437|MÃE: O problema é...
-5438|MÃE: Eu conheço a minha filha. Ela era tantas coisas ao mesmo tempo, e eu amava cada parte dela.
-5439|MÃE: A alegria dela. A bondade dela. A maturidade dela. As memórias que compartilhamos. Ela era a filha perfeita.
-5440|MÃE: Mas de que adianta ter uma filha perfeita se ela não consegue nem amar a própria mãe?
-5441|MÃE: Ao longo desses testes, você mostrou que não tem o aspecto mais importante de ser a Nima - o amor dela.
-5442|MÃE: Cada desenho só revelou desprezo e ingratidão.
-5443|MÃE: Você me desenhou como um monstro a ser morto.
-5444|MÃE: Você se desenhou me esfaqueando.
-5445|MÃE: Você me desenhou como um... monstro.
-5446|MÃE: Você acha que eu sou a sua carcereira.
-5447|MÃE: Tudo o que você quer é ir embora.
-5448|MÃE: Você até me disse que ia me matar.
-5449|MÃE: Você me disse que ia me matar.
-5450|MÃE: Você parece perder a paciência por qualquer coisa e me culpar por tudo.
-5451|MÃE: Você me chamou de assassina...
-5452|MÃE: Você é raivosa e rancorosa. A Nima não era assim.
-5453|MÃE: A Nima era uma criança bem-comportada. Ela nunca perdeu a paciência comigo nem uma vez.
-5454|MÃE: Na verdade, era ela quem me acalmava quando eu ficava frustrada.
-5455|MÃE: Não importa o quanto eu sentisse que o mundo estava contra mim, eu sempre sabia que tinha ela do meu lado.
-5456|MÃE: Eu sempre podia contar com o amor da Nima.
-5457|VOCÊ: Por que você está falando de mim como se eu não estivesse aqui?!
-5458|MÃE: Porque você não é a Nima.
+5432|MOM: Ao que tudo indica, você é. Você alcançou o nosso objetivo mais importante, reconstruir as suas memórias.
+5433|MOM: Mas uma pessoa é mais do que só as suas memórias. Também temos que levar em conta personalidade e princípios...
+5434|MOM: Boa tentativa...
+5435|MOM: Eu venho te avaliando desde que você acordou. Antes mesmo de eu te apresentar o tubarão.
+5436|MOM: Só pra garantir que o tratamento esteja... de acordo com as expectativas.
+5437|MOM: O problema é...
+5438|MOM: Eu conheço a minha filha. Ela era tantas coisas ao mesmo tempo, e eu amava cada parte dela.
+5439|MOM: A alegria dela. A bondade dela. A maturidade dela. As memórias que compartilhamos. Ela era a filha perfeita.
+5440|MOM: Mas de que adianta ter uma filha perfeita se ela não consegue nem amar a própria mãe?
+5441|MOM: Ao longo desses testes, você mostrou que não tem o aspecto mais importante de ser a Nima - o amor dela.
+5442|MOM: Cada desenho só revelou desprezo e ingratidão.
+5443|MOM: Você me desenhou como um monstro a ser morto.
+5444|MOM: Você se desenhou me esfaqueando.
+5445|MOM: Você me desenhou como um... monstro.
+5446|MOM: Você acha que eu sou a sua carcereira.
+5447|MOM: Tudo o que você quer é ir embora.
+5448|MOM: Você até me disse que ia me matar.
+5449|MOM: Você me disse que ia me matar.
+5450|MOM: Você parece perder a paciência por qualquer coisa e me culpar por tudo.
+5451|MOM: Você me chamou de assassina...
+5452|MOM: Você é raivosa e rancorosa. A Nima não era assim.
+5453|MOM: A Nima era uma criança bem-comportada. Ela nunca perdeu a paciência comigo nem uma vez.
+5454|MOM: Na verdade, era ela quem me acalmava quando eu ficava frustrada.
+5455|MOM: Não importa o quanto eu sentisse que o mundo estava contra mim, eu sempre sabia que tinha ela do meu lado.
+5456|MOM: Eu sempre podia contar com o amor da Nima.
+5457|YOU: Por que você está falando de mim como se eu não estivesse aqui?!
+5458|MOM: Porque você não é a Nima.
 5459|Isso é muito ruim.
 5460|Você começa a sentir a raiva fervilhante de ontem se espalhar pelo seu corpo de novo.
 5461|É claro que essa seria a conclusão dela. Ela simplesmente não te entende, e nunca vai entender.
-5462|VOCÊ: O único motivo de você achar isso é que você não faz a menor ideia de quem a 'Nima' é!
-5463|VOCÊ: Você sabe quantas vezes a Nima quis gritar com você? Quantas vezes ela quis te dizer que você era uma mãe horrível?
-5464|MÃE: Ela nunca faria isso. A Nima sabia que eu era uma boa mãe.
-5465|VOCÊ: A Nima te odiava! Toda vez que você a menosprezava, toda vez que você a negligenciava ou machucava. Ela te odiava. E ela também se odiava por isso.
-5466|VOCÊ: Você disse pra ela exatamente o que acabou de me dizer! Que ficar com raiva era errado. Que só de ser capaz de sentir ressentimento ela já era uma filha ruim.
-5467|VOCÊ: Então ela decidiu guardar tudo, todo aquele ódio, toda aquela raiva. Ela deixou aquilo crescer dentro dela até se sentir quebrada.
-5468|VOCÊ: Por que você acha que ela fugiu? Ela tinha vergonha do quanto pensava em te machucar. De achar que, se você estivesse morta, a vida dela seria muito melhor.
+5462|YOU: O único motivo de você achar isso é que você não faz a menor ideia de quem a 'Nima' é!
+5463|YOU: Você sabe quantas vezes a Nima quis gritar com você? Quantas vezes ela quis te dizer que você era uma mãe horrível?
+5464|MOM: Ela nunca faria isso. A Nima sabia que eu era uma boa mãe.
+5465|YOU: A Nima te odiava! Toda vez que você a menosprezava, toda vez que você a negligenciava ou machucava. Ela te odiava. E ela também se odiava por isso.
+5466|YOU: Você disse pra ela exatamente o que acabou de me dizer! Que ficar com raiva era errado. Que só de ser capaz de sentir ressentimento ela já era uma filha ruim.
+5467|YOU: Então ela decidiu guardar tudo, todo aquele ódio, toda aquela raiva. Ela deixou aquilo crescer dentro dela até se sentir quebrada.
+5468|YOU: Por que você acha que ela fugiu? Ela tinha vergonha do quanto pensava em te machucar. De achar que, se você estivesse morta, a vida dela seria muito melhor.
 5469|Sua mãe congela por completo. Ela olha através de você, através da parede atrás de você.
-5470|VOCÊ: Eu sei que eu sou a Nima.
-5471|MÃE: Para de falar.
-5472|VOCÊ: <b>Eu sei porque eu ainda te odeio!
-5473|MÃE: O amor dela. A bondade dela. A maturidade dela. As memórias que compartilhamos. Ela era a filha perfeita.
-5474|MÃE: Mas de que adianta ter uma filha tão perfeita se ela não consegue enxergar isso por si mesma? Se ela não é grata pela vida que recebeu?
-5475|MÃE: A parte mais importante da Nima era a felicidade dela. Era o que eu mais valorizava nela.
-5476|MÃE: Ao longo desses testes, você mostrou que existe uma doença na sua mente.
-5477|MÃE: Você finge estar deprimida... Como se chafurdar em autopiedade e autodesprezo fosse te ajudar.
-5478|MÃE: Eu enxergo através dos seus truques, sabia?
-5479|MÃE: As suas lágrimas de crocodilo e a sua "arte" não me enganam.
-5480|MÃE: Eu sei que você não se despreza de verdade.
-5481|MÃE: Você é um caso perdido. Não consegue lidar com nada.
-5482|MÃE: Pior de tudo... Você se joga no perigo toda vez que tem uma chance...
-5483|MÃE: A Nima não era assim. Ela era brincalhona e tinha esperança mesmo quando a vida estava difícil.
-5484|MÃE: Depois que o Allan morreu, foi a Nima quem me consolou. Ela sempre tinha um sorriso no rosto. Ela era o meu porto seguro.
-5485|VOCÊ: Por que você está falando de mim como se eu não estivesse aqui?
+5470|YOU: Eu sei que eu sou a Nima.
+5471|MOM: Para de falar.
+5472|YOU: <b>Eu sei porque eu ainda te odeio!
+5473|MOM: O amor dela. A bondade dela. A maturidade dela. As memórias que compartilhamos. Ela era a filha perfeita.
+5474|MOM: Mas de que adianta ter uma filha tão perfeita se ela não consegue enxergar isso por si mesma? Se ela não é grata pela vida que recebeu?
+5475|MOM: A parte mais importante da Nima era a felicidade dela. Era o que eu mais valorizava nela.
+5476|MOM: Ao longo desses testes, você mostrou que existe uma doença na sua mente.
+5477|MOM: Você finge estar deprimida... Como se chafurdar em autopiedade e autodesprezo fosse te ajudar.
+5478|MOM: Eu enxergo através dos seus truques, sabia?
+5479|MOM: As suas lágrimas de crocodilo e a sua "arte" não me enganam.
+5480|MOM: Eu sei que você não se despreza de verdade.
+5481|MOM: Você é um caso perdido. Não consegue lidar com nada.
+5482|MOM: Pior de tudo... Você se joga no perigo toda vez que tem uma chance...
+5483|MOM: A Nima não era assim. Ela era brincalhona e tinha esperança mesmo quando a vida estava difícil.
+5484|MOM: Depois que o Allan morreu, foi a Nima quem me consolou. Ela sempre tinha um sorriso no rosto. Ela era o meu porto seguro.
+5485|YOU: Por que você está falando de mim como se eu não estivesse aqui?
 5486|Algum poço fundo e raivoso na sua alma começa a fervilhar.
 5487|O único motivo de ela achar que você é feliz é que ela acredita ser a mãe perfeita.
 5488|Sua fúria ferve até a superfície, mas emerge como outra coisa. Uma sensação oca que incha até preencher o seu peito.
-5489|VOCÊ: O que você sabe? Você nunca tentou de verdade entender como a 'Nima' se sentia esse tempo todo.
-5490|MÃE: E lá vem você de novo, me culpando!
-5491|VOCÊ: Ela tentou te contar, sabia? Sobre estar triste, sozinha. Deprimida.
-5492|VOCÊ: Se você tivesse simplesmente ouvido naquela época, talvez ela não tivesse fugido.
-5493|MÃE: Do que você está falando? Ela era saudável, tinha um teto sobre a cabeça, uma mãe amorosa.
-5494|MÃE: Ela não estava 'deprimida' de verdade. Era nova demais até pra saber o que isso significava.
-5495|VOCÊ: Você já disse isso pra ela antes.
-5496|VOCÊ: Ela levou muito tempo pra criar coragem de te procurar pra falar disso. E esperou mais tempo ainda depois que percebeu, pelo seu bem.
-5497|VOCÊ: Ela queria que as coisas tivessem se acalmado mais depois da mudança. Não que isso tenha feito diferença no fim.
-5498|MÃE: Isso é só mais uma das suas táticas de manipulação.
-5499|VOCÊ: Ela se sentia vazia o tempo todo, como se nada que ela fizesse ou dissesse importasse. Você só piorou essa sensação, dizendo pra ela exatamente o que acabou de me dizer!
+5489|YOU: O que você sabe? Você nunca tentou de verdade entender como a 'Nima' se sentia esse tempo todo.
+5490|MOM: E lá vem você de novo, me culpando!
+5491|YOU: Ela tentou te contar, sabia? Sobre estar triste, sozinha. Deprimida.
+5492|YOU: Se você tivesse simplesmente ouvido naquela época, talvez ela não tivesse fugido.
+5493|MOM: Do que você está falando? Ela era saudável, tinha um teto sobre a cabeça, uma mãe amorosa.
+5494|MOM: Ela não estava 'deprimida' de verdade. Era nova demais até pra saber o que isso significava.
+5495|YOU: Você já disse isso pra ela antes.
+5496|YOU: Ela levou muito tempo pra criar coragem de te procurar pra falar disso. E esperou mais tempo ainda depois que percebeu, pelo seu bem.
+5497|YOU: Ela queria que as coisas tivessem se acalmado mais depois da mudança. Não que isso tenha feito diferença no fim.
+5498|MOM: Isso é só mais uma das suas táticas de manipulação.
+5499|YOU: Ela se sentia vazia o tempo todo, como se nada que ela fizesse ou dissesse importasse. Você só piorou essa sensação, dizendo pra ela exatamente o que acabou de me dizer!

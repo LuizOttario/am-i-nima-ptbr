@@ -34,8 +34,8 @@
 4533|Por que você achou que isso ia funcionar? É claro que a Mãe colocaria uma armadilha bem na frente desse buraco óbvio na parede!
 4534|Pelo menos ele está livre agora…
 4535|Isso não é liberdade.
-4536|VOCÊ: Você é burra pra caralho, Nima.
-4537|VOCÊ: Por que você achou que isso ia funcionar?!
+4536|YOU: Você é burra pra caralho, Nima.
+4537|YOU: Por que você achou que isso ia funcionar?!
 4538|Você poderia salvá-lo… se simplesmente aceitasse que…
 4539|Você não está pronta para o céu se partir.
 4540|Você abre e fecha a boca algumas vezes.
@@ -45,71 +45,71 @@
 4544|Que <i>interessante</i> sentir uma emoção assim.
 4545|Você tem que fazer alguma coisa.
 4546|O que você pode fazer…?
-4547|MÃE: Como você conseguiu isso?
+4547|MOM: Como você conseguiu isso?
 4548|Você fica indignada por ela estar brava com você por roubar, quando ela já roubou tanto de você.
 4549|É uma boa oportunidade para tocar no assunto, mas você não pode deixar que ela descubra a passagem secreta. Você sabe que sua mãe é esquecida; pode usar isso a seu favor.
-4550|VOCÊ: Você deixou minha porta destrancada ontem à noite.
-4551|MÃE: Não, eu não deixei… Eu…
+4550|YOU: Você deixou minha porta destrancada ontem à noite.
+4551|MOM: Não, eu não deixei… Eu…
 4552|Você tem certeza de que ela não lembra. Ela estava distraída, ainda pensando nos testes quando passou o ferrolho.
-4553|VOCÊ: Tá, beleza, você passou o ferrolho, mas ficou tão frouxo que eu só precisei sacudir um pouco a porta.
+4553|YOU: Tá, beleza, você passou o ferrolho, mas ficou tão frouxo que eu só precisei sacudir um pouco a porta.
 4554|A pose dela desmorona e, em pânico, ela olha para trás, para o laboratório. Depois, curiosa, para a porta do armário.
-4555|VOCÊ: Dei uma olhadinha por aí. Achei que a chave podia ser útil, e foi mesmo. Ah, e também encontrei uma coleção interessante de cartas, todas endereçadas a mim.
-4556|VOCÊ: Você tá brava comigo de verdade por eu ter pegado a chave, sendo que você roubou cada uma das cartas que meus amigos me mandaram no ano passado?
-4557|MÃE: Elas só iam te atrasar, te deixar com raiva por a gente ter se mudado pra cá. Até parece que amizade nessa idade dura até o ensino médio. E não é como se eu tivesse jogado fora; eu só queria que você se acostumasse a morar aqui antes de te deixar ficar com as cartas.
-4558|VOCÊ: Tem certeza de que não era algum tipo de ciúme esquisito?
-4559|MÃE: Por que eu teria ciúme de um bando de crianças? Amigos são volúveis, família é para sempre.
-4560|VOCÊ: Você fala muito isso. É estranho, desde que eu me lembro acho que você nunca teve um amigo. Toda vez que você me fala dos seus colegas de trabalho, é só pra reclamar de como eles são burros.
-4561|MÃE: As pessoas só são gentis quando querem alguma coisa de você.
-4562|VOCÊ: Então fazer tudo isso comigo é gentileza de verdade pra você?
-4563|MÃE: Eu não sou a minha mãe! Isso é temporário. Assim que a gente voltar lá pra cima, tudo vai ficar normal de novo. Você vai poder fazer o que quiser. Eu só preciso ter certeza de que… Tudo está como deveria estar.
-4564|VOCÊ: Eu não falei nada sobre a Vov–
-4565|MÃE: Precisamos recomeçar.
-4566|MÃE: A sala da caldeira era pra testar a sua ética... Agora vamos precisar de algum teste substituto.
-4567|VOCÊ: Ainda bem que eu peguei, já que você me trancou na sala da caldeira!
-4568|MÃE: Era um teste de moralidade! O objetivo era ver se você mataria o rato para se salvar.
-4569|VOCÊ: Que idiotice.
-4570|MÃE: Não é idiotice! Eu sou sua mãe, e você vive me tratando como se eu fosse sua inimiga. Acho que o seu senso de certo e errado foi afetado pelo acidente.
+4555|YOU: Dei uma olhadinha por aí. Achei que a chave podia ser útil, e foi mesmo. Ah, e também encontrei uma coleção interessante de cartas, todas endereçadas a mim.
+4556|YOU: Você tá brava comigo de verdade por eu ter pegado a chave, sendo que você roubou cada uma das cartas que meus amigos me mandaram no ano passado?
+4557|MOM: Elas só iam te atrasar, te deixar com raiva por a gente ter se mudado pra cá. Até parece que amizade nessa idade dura até o ensino médio. E não é como se eu tivesse jogado fora; eu só queria que você se acostumasse a morar aqui antes de te deixar ficar com as cartas.
+4558|YOU: Tem certeza de que não era algum tipo de ciúme esquisito?
+4559|MOM: Por que eu teria ciúme de um bando de crianças? Amigos são volúveis, família é para sempre.
+4560|YOU: Você fala muito isso. É estranho, desde que eu me lembro acho que você nunca teve um amigo. Toda vez que você me fala dos seus colegas de trabalho, é só pra reclamar de como eles são burros.
+4561|MOM: As pessoas só são gentis quando querem alguma coisa de você.
+4562|YOU: Então fazer tudo isso comigo é gentileza de verdade pra você?
+4563|MOM: Eu não sou a minha mãe! Isso é temporário. Assim que a gente voltar lá pra cima, tudo vai ficar normal de novo. Você vai poder fazer o que quiser. Eu só preciso ter certeza de que… Tudo está como deveria estar.
+4564|YOU: Eu não falei nada sobre a Vov–
+4565|MOM: Precisamos recomeçar.
+4566|MOM: A sala da caldeira era pra testar a sua ética... Agora vamos precisar de algum teste substituto.
+4567|YOU: Ainda bem que eu peguei, já que você me trancou na sala da caldeira!
+4568|MOM: Era um teste de moralidade! O objetivo era ver se você mataria o rato para se salvar.
+4569|YOU: Que idiotice.
+4570|MOM: Não é idiotice! Eu sou sua mãe, e você vive me tratando como se eu fosse sua inimiga. Acho que o seu senso de certo e errado foi afetado pelo acidente.
 4571|Pra que se dar ao trabalho de inventar uma desculpa? Hora da verdade.
-4572|VOCÊ: Você não entende?
-4573|VOCÊ: Não importa o que você faça, eu não vou parar de tentar sair daqui. Uma hora eu vou chegar lá em cima e vou fugir de novo.
-4574|MÃE: Por que você é assim!?
-4575|MÃE: A Nima me entendia! Ela entendia as regras que eu impunha.
-4576|MÃE: Por que você não consegue aceitar a realidade? Tá, tudo bem, você não pode sair do porão, mas um hospital é uma prisão só porque você não pode sair até melhorar?
-4577|VOCÊ: Eu tô bem.
+4572|YOU: Você não entende?
+4573|YOU: Não importa o que você faça, eu não vou parar de tentar sair daqui. Uma hora eu vou chegar lá em cima e vou fugir de novo.
+4574|MOM: Por que você é assim!?
+4575|MOM: A Nima me entendia! Ela entendia as regras que eu impunha.
+4576|MOM: Por que você não consegue aceitar a realidade? Tá, tudo bem, você não pode sair do porão, mas um hospital é uma prisão só porque você não pode sair até melhorar?
+4577|YOU: Eu tô bem.
 4578|Ela sai do personagem, trocando o estoicismo por uma preocupação materna genuína.
-4579|MÃE: Mas não está, a sua memória está uma bagunça, a sua personalidade oscila.
-4580|MÃE: Você só não está pronta pra sair ainda. E se você for pra escola, pegar comida na cantina e surtar? E se estiver calor lá fora no meio do verão e você simplesmente ficar parada lá e começar a gritar?
-4581|VOCÊ: Isso não importa, eu não vou parar de lutar contra você. Eu vou escapar.
-4582|MÃE: Sabe o que o teste da sala da caldeira deveria avaliar? O seu senso de ética.
-4583|MÃE: Agora vamos ter que inventar algum tipo de substituto...
-4584|VOCÊ: É, eu peguei a chave.
-4585|VOCÊ: Achei que era da porta grande lá em cima, mas pelo jeito não. Na próxima oportunidade, eu pego a chave que preciso.
-4586|VOCÊ: Ah, você acha que eu quero escapar? Não, acho que já faz tempo que eu descobri que só tem um jeito de eu conseguir sair daqui.
-4587|VOCÊ: Por cima do seu cadáver.
-4588|MÃE: Bom... A sala da caldeira foi projetada pra interrogar o seu senso de ética.
-4589|MÃE: Pelo visto, a julgar por essa reação, você teria falhado de qualquer jeito.
+4579|MOM: Mas não está, a sua memória está uma bagunça, a sua personalidade oscila.
+4580|MOM: Você só não está pronta pra sair ainda. E se você for pra escola, pegar comida na cantina e surtar? E se estiver calor lá fora no meio do verão e você simplesmente ficar parada lá e começar a gritar?
+4581|YOU: Isso não importa, eu não vou parar de lutar contra você. Eu vou escapar.
+4582|MOM: Sabe o que o teste da sala da caldeira deveria avaliar? O seu senso de ética.
+4583|MOM: Agora vamos ter que inventar algum tipo de substituto...
+4584|YOU: É, eu peguei a chave.
+4585|YOU: Achei que era da porta grande lá em cima, mas pelo jeito não. Na próxima oportunidade, eu pego a chave que preciso.
+4586|YOU: Ah, você acha que eu quero escapar? Não, acho que já faz tempo que eu descobri que só tem um jeito de eu conseguir sair daqui.
+4587|YOU: Por cima do seu cadáver.
+4588|MOM: Bom... A sala da caldeira foi projetada pra interrogar o seu senso de ética.
+4589|MOM: Pelo visto, a julgar por essa reação, você teria falhado de qualquer jeito.
 4590|A hipocrisia do momento faz sua sobrancelha se contrair.
-4591|VOCÊ: Você tá brava <i>comigo</i>? Você acabou de me prender numa sala da caldeira e tá puta porque eu tô com a sua chave!?
-4592|MÃE: Esses testes são controlados. Você não estava em perigo nenhum, eu estava tentando avaliar o seu senso de ética.
-4593|MÃE: Se você simplesmente <i>confiasse</i> em mim, ia entender que—
-4594|VOCÊ: Ah, então a culpa é <i>minha</i>!
-4595|MÃE: É!
-4596|MÃE: Você não entende? Tem alguma coisa muito errada com você. Eu estou <i>tentando</i> te consertar.
-4597|MÃE: Você está nessa situação porque vive duvidando de mim. Essa chave é a prova. Você está convencida de que eu sou sua inimiga!
-4598|VOCÊ: Você é minha inimiga!
+4591|YOU: Você tá brava <i>comigo</i>? Você acabou de me prender numa sala da caldeira e tá puta porque eu tô com a sua chave!?
+4592|MOM: Esses testes são controlados. Você não estava em perigo nenhum, eu estava tentando avaliar o seu senso de ética.
+4593|MOM: Se você simplesmente <i>confiasse</i> em mim, ia entender que—
+4594|YOU: Ah, então a culpa é <i>minha</i>!
+4595|MOM: É!
+4596|MOM: Você não entende? Tem alguma coisa muito errada com você. Eu estou <i>tentando</i> te consertar.
+4597|MOM: Você está nessa situação porque vive duvidando de mim. Essa chave é a prova. Você está convencida de que eu sou sua inimiga!
+4598|YOU: Você é minha inimiga!
 4599|Você entra em pânico e se pega apelando para algo absurdo.
-4600|VOCÊ: Você não lembra!? Você me deu ela.
-4601|MÃE: <shake>Mas é claro que não dei!
-4602|MÃE: <shake>PARA DE MENTIR PRA MIM!
-4603|VOCÊ: Ééééé…
-4604|VOCÊ: Nada de mais, né?
-4605|VOCÊ: Como você sempre diz, a família sempre perdoa!
-4606|MÃE: Quando foi que eu disse isso!?
+4600|YOU: Você não lembra!? Você me deu ela.
+4601|MOM: <shake>Mas é claro que não dei!
+4602|MOM: <shake>PARA DE MENTIR PRA MIM!
+4603|YOU: Ééééé…
+4604|YOU: Nada de mais, né?
+4605|YOU: Como você sempre diz, a família sempre perdoa!
+4606|MOM: Quando foi que eu disse isso!?
 4607|Isso se chama dois pesos e duas medidas... não se preocupe muito com isso.
-4608|VOCÊ: Mãe! Você tá me assustando!
-4609|MÃE: Se alguém aqui assusta, é você! E pensar que você roubaria de mim.
-4610|MÃE: Você sempre foi uma ladrazinha, mas eu nunca imaginei que teria a audácia de me roubar. Depois de tudo que eu fiz por você, é assim que você me retribui!?
-4611|VOCÊ: Desculpa! Por favor, não me machuca!
+4608|YOU: Mãe! Você tá me assustando!
+4609|MOM: Se alguém aqui assusta, é você! E pensar que você roubaria de mim.
+4610|MOM: Você sempre foi uma ladrazinha, mas eu nunca imaginei que teria a audácia de me roubar. Depois de tudo que eu fiz por você, é assim que você me retribui!?
+4611|YOU: Desculpa! Por favor, não me machuca!
 4612|Isso é intenso.
 4613|Mas é meio legal que ela esteja prestando atenção em você.
 4614|Você deveria contar a verdade?
@@ -118,16 +118,16 @@
 4617|Quando foi que contar a verdade deu certo com ela?
 4618|Contra isso não há argumento.
 4619|Escuta, acho que dá pra inventar algo lógico, só temos que pensar rápido. Você começa a mentira e eu continuo, combinado?
-4620|VOCÊ: Isso não é uma chave de verdade…
-4621|VOCÊ: Hã… É um doce.
-4622|MÃE: <shake>EU TE VI ABRINDO A PORTA, SUA MENTIROSA!
-4623|VOCÊ: Mãe, eu <shake>nunca</shake> faria uma coisa dessas, roubar de você.
-4624|VOCÊ: Armaram pra mim! Você tem que acreditar em mim!
-4625|VOCÊ: Bom, a casa também é minha. Qual o problema se eu peguei as chaves?
-4626|VOCÊ: Você sempre disse que eu não tô presa aqui embaixo, né?
-4627|MÃE: Isso…
-4628|MÃE: Isso não tem nada a ver com a questão.
-4629|MÃE: O problema é que você roubou de mim!
+4620|YOU: Isso não é uma chave de verdade…
+4621|YOU: Hã… É um doce.
+4622|MOM: <shake>EU TE VI ABRINDO A PORTA, SUA MENTIROSA!
+4623|YOU: Mãe, eu <shake>nunca</shake> faria uma coisa dessas, roubar de você.
+4624|YOU: Armaram pra mim! Você tem que acreditar em mim!
+4625|YOU: Bom, a casa também é minha. Qual o problema se eu peguei as chaves?
+4626|YOU: Você sempre disse que eu não tô presa aqui embaixo, né?
+4627|MOM: Isso…
+4628|MOM: Isso não tem nada a ver com a questão.
+4629|MOM: O problema é que você roubou de mim!
 4630|A reação dela parece mesmo um pouco exagerada...
 4631|Ela está preocupada que você tenha entrado no laboratório.
 4632|Você entrou mesmo no laboratório.
@@ -138,49 +138,49 @@
 4637|Ela não liga se você roubar dela, isso é algo que a Nima faria.
 4638|A Nima era ladra?
 4639|Ela fazia isso pra chamar atenção... Não importa. Só finja que você roubou dela.
-4640|VOCÊ: Você vive me perguntando se eu vi as suas chaves…
-4641|VOCÊ: É só a primeira vez que eu sei mesmo!
-4642|MÃE: Isso era pra ser engraçado!?
-4643|VOCÊ: Hã... Um amigo me deu.
+4640|YOU: Você vive me perguntando se eu vi as suas chaves…
+4641|YOU: É só a primeira vez que eu sei mesmo!
+4642|MOM: Isso era pra ser engraçado!?
+4643|YOU: Hã... Um amigo me deu.
 4644|Boa, cabeção.
-4645|VOCÊ: Whiskers! O Whiskers me deu.
-4646|MÃE: <shake a=.5>NÃO MINTA PRA MIM!
+4645|YOU: Whiskers! O Whiskers me deu.
+4646|MOM: <shake a=.5>NÃO MINTA PRA MIM!
 4647|Lá no asilo, todas as fechaduras abriam com a mesma chave velha.
 4648|Você tem quase certeza de que existe só uma chave para todas as portas velhas.
 4649|Isso não ajuda na nossa situação.
-4650|VOCÊ: Essa é a minha chave de estimação… hã, a Chavelina!
-4651|MÃE: <shake a=.5>VOCÊ NÃO TEM UMA CHAVE DE ESTIMAÇÃO!
-4652|VOCÊ: Tinha um estranho na sala da caldeira.
-4653|VOCÊ: Ele me deu a chave.
-4654|MÃE: <shake a=.5>PARA COM ISSO!
-4655|MÃE: Pirralha esquisita, mentir não vai fazer esse problema sumir.
-4656|VOCÊ: Ah, então agora que eu tô com a chave você dá a mínima.
-4657|MÃE: Não me responda. Onde você achou essa chave?
+4650|YOU: Essa é a minha chave de estimação… hã, a Chavelina!
+4651|MOM: <shake a=.5>VOCÊ NÃO TEM UMA CHAVE DE ESTIMAÇÃO!
+4652|YOU: Tinha um estranho na sala da caldeira.
+4653|YOU: Ele me deu a chave.
+4654|MOM: <shake a=.5>PARA COM ISSO!
+4655|MOM: Pirralha esquisita, mentir não vai fazer esse problema sumir.
+4656|YOU: Ah, então agora que eu tô com a chave você dá a mínima.
+4657|MOM: Não me responda. Onde você achou essa chave?
 4658|Você fecha os olhos com força e se odeia por ter se colocado nessa situação.
 4659|Desculpa, desculpa...
 4660|Uma ajudinha pra sair dessa viria bem a calhar.
 4661|Diga qualquer coisa, menos a verdade. Eu prometo que vai passar.
-4662|VOCÊ: É… a sala da caldeira tava chata, então eu saí.
-4663|MÃE: Eu tô perguntando da chave!
-4664|VOCÊ: Desculpa, Mãe. Eu não devia ter roubado…
-4665|MÃE: Onde você conseguiu a chave?
+4662|YOU: É… a sala da caldeira tava chata, então eu saí.
+4663|MOM: Eu tô perguntando da chave!
+4664|YOU: Desculpa, Mãe. Eu não devia ter roubado…
+4665|MOM: Onde você conseguiu a chave?
 4666|Você olha para ela e pisca algumas vezes.
-4667|MÃE: É óbvio que você roubou a chave. Estou perguntando como você roubou.
+4667|MOM: É óbvio que você roubou a chave. Estou perguntando como você roubou.
 4668|Você aproveita um segundo só para curtir o ar fresco. É gostoso na sua pele assada.
 4669|Saiu da frigideira, caiu no fogo.
-4670|VOCÊ: Por favor, não me mata, Mãe!
-4671|MÃE: Não seja burra, Nima, é claro que eu não vou te matar.
-4672|MÃE: Existem outras maneiras, <i>melhores</i>, de lidar com isso.
-4673|MÃE: <speed=0.5>Confesse...
-4674|VOCÊ: Chave... que chave?
-4675|MÃE: A chave que você usou pra destrancar a porta!
-4676|VOCÊ: Ah... Hã...
-4677|VOCÊ: Deve ter sido aquela amnésia chata de novo.
-4678|VOCÊ: Nima boba, sempre esquecendo.
-4679|MÃE: <shake a=.5>NÃO SE FAÇA DE BOBA E RESPONDA A PERGUNTA!
-4680|VOCÊ: Um inseto me deu.
-4681|MÃE: Que tipo de inseto?
-4682|VOCÊ: ...Um camarão?
+4670|YOU: Por favor, não me mata, Mãe!
+4671|MOM: Não seja burra, Nima, é claro que eu não vou te matar.
+4672|MOM: Existem outras maneiras, <i>melhores</i>, de lidar com isso.
+4673|MOM: <speed=0.5>Confesse...
+4674|YOU: Chave... que chave?
+4675|MOM: A chave que você usou pra destrancar a porta!
+4676|YOU: Ah... Hã...
+4677|YOU: Deve ter sido aquela amnésia chata de novo.
+4678|YOU: Nima boba, sempre esquecendo.
+4679|MOM: <shake a=.5>NÃO SE FAÇA DE BOBA E RESPONDA A PERGUNTA!
+4680|YOU: Um inseto me deu.
+4681|MOM: Que tipo de inseto?
+4682|YOU: ...Um camarão?
 4683|Até ela já se cansou de gritar. Só te encara com raiva.
 4684|Você vasculha a mente em busca de respostas.
 4685|Não existe solução racional pra isso. Isso não é bem um teste. Ela só está brava porque você pegou a chave. Talvez seu coração possa te dar uma resposta.
@@ -191,33 +191,33 @@
 4690|Você se sente sobrecarregada.
 4691|Você não queria estar nessa situação. É óbvio que foi errado, mas você não conseguiu se controlar. Você só queria tanto sair da sala da caldeira.
 4692|Você começa a chorar.
-4693|MÃE: PARA DE CHORAR!
-4694|VOCÊ: Eu não consigo.
-4695|MÃE: Eu sei que você chora quando quer, sua desgraçada. Essa covardia você puxou do seu pai. Eu nunca faria algo tão fraco.
-4696|MÃE: Me diga a verdade, onde você achou a chave?
+4693|MOM: PARA DE CHORAR!
+4694|YOU: Eu não consigo.
+4695|MOM: Eu sei que você chora quando quer, sua desgraçada. Essa covardia você puxou do seu pai. Eu nunca faria algo tão fraco.
+4696|MOM: Me diga a verdade, onde você achou a chave?
 4697|Vamos... Não chore, vai ficar tudo bem.
 4698|Eu estou aqui com você.
-4699|VOCÊ: Quando eu dormia na noite passada, fui visitada por uma figura.
-4700|VOCÊ: Um homem alto, envolto em sombras. Ofereceu-me uma dádiva, uma chave, e eu a tomei de suas mãos.
-4701|VOCÊ: Quando despertei, eis que estava em meu bolso!
-4702|MÃE: Para de falar desse jeito.
+4699|YOU: Quando eu dormia na noite passada, fui visitada por uma figura.
+4700|YOU: Um homem alto, envolto em sombras. Ofereceu-me uma dádiva, uma chave, e eu a tomei de suas mãos.
+4701|YOU: Quando despertei, eis que estava em meu bolso!
+4702|MOM: Para de falar desse jeito.
 4703|Ela balança a cabeça e esfrega o alto do nariz.
-4704|MÃE: Isso é sério, Nima, eu não estou brincando com você.
+4704|MOM: Isso é sério, Nima, eu não estou brincando com você.
 4705|Você estufa o peito e olha para ela, à altura da raiva dela.
-4706|VOCÊ: E daí se eu peguei... <wiggle>queridinha.
+4706|YOU: E daí se eu peguei... <wiggle>queridinha.
 4707|Ela te dá um tapa na cara. As unhas dela deixam sulcos ensanguentados nas suas bochechas.
-4708|MÃE: <shake>ISSO NÃO É FAZ DE CONTA!
+4708|MOM: <shake>ISSO NÃO É FAZ DE CONTA!
 4709|Isso é exaustivo.
 4710|Você faz o possível para não ouvi-la. Em vez disso, se concentra na vista da mesa dela, por cima do ombro.
-4711|MÃE: Não me ignore.
+4711|MOM: Não me ignore.
 4712|Você a ignora.
 4713|Os olhos dela percorrem seu rosto, como se tentassem rastejar para dentro da sua cabeça e implantar sentimentos.
-4714|MÃE: Onde você conseguiu isso?
+4714|MOM: Onde você conseguiu isso?
 4715|Você sente os olhos predatórios dela te examinando na sua visão periférica. O fundo daqueles olhos aos poucos te prega de volta à realidade.
 4716|Você sente o suor brotar na testa.
-4717|VOCÊ: Desculpa… Eu só me desliguei por um segundo.
-4718|MÃE: Me ignorar não vai me fazer ir embora.
-4719|MÃE: Eu sou uma parte de você.
+4717|YOU: Desculpa… Eu só me desliguei por um segundo.
+4718|MOM: Me ignorar não vai me fazer ir embora.
+4719|MOM: Eu sou uma parte de você.
 4720|Você pondera sobre seus ideais; talvez seja melhor simplesmente contar a verdade…
 4721|Dizer que você não vai parar diante de nada para se livrar dela.
 4722|Roubar é antiético.
@@ -233,268 +233,268 @@
 4732|Isso te deixava indignada. Sua mãe não estava lá por você, você precisava… ou talvez queria… você <i>necessitava</i> de sapatos.
 4733|Você achou que ia resolver sozinha; achou que, se já te viam como ladra, bem que podia fazer a vontade deles.
 4734|Você pegou a carteira dela e comprou um par de sapatos novos. Eles ainda estão guardados debaixo da sua cama.
-4735|VOCÊ: Você quer saber da minha moral, e você!? Você me trancou naquela sala e <i>me deixou queimar!</i>
-4736|MÃE: Se você tivesse parado pra pensar racionalmente, teria percebido que eu <i>nunca</i> te colocaria em nenhum perigo duradouro.
-4737|VOCÊ: Sério? Não tinha motivo nenhum pra você fazer aquilo.
-4738|VOCÊ: Sabe o que eu acho? Você <i>queria</i> me machucar.
-4739|MÃE: Eu precisava!
-4740|VOCÊ: Você não precisa fazer nada, quem tem o controle é você, sempre foi. Tudo nesta casa gira em torno de você.
-4741|MÃE: Você não tem o direito de falar assim comigo!
-4742|MÃE: Não depois de tudo que você me fez passar.
+4735|YOU: Você quer saber da minha moral, e você!? Você me trancou naquela sala e <i>me deixou queimar!</i>
+4736|MOM: Se você tivesse parado pra pensar racionalmente, teria percebido que eu <i>nunca</i> te colocaria em nenhum perigo duradouro.
+4737|YOU: Sério? Não tinha motivo nenhum pra você fazer aquilo.
+4738|YOU: Sabe o que eu acho? Você <i>queria</i> me machucar.
+4739|MOM: Eu precisava!
+4740|YOU: Você não precisa fazer nada, quem tem o controle é você, sempre foi. Tudo nesta casa gira em torno de você.
+4741|MOM: Você não tem o direito de falar assim comigo!
+4742|MOM: Não depois de tudo que você me fez passar.
 4743|Você sabe que não deveria falar com ela desse jeito. É ela quem tem o controle.
 4744|Mesmo assim, a hipocrisia faz a raiva subir pela sua garganta antes que você consiga parar pra racionalizar.
-4745|VOCÊ: <i>E tudo que você me fez passar!?</i>
+4745|YOU: <i>E tudo que você me fez passar!?</i>
 4746|Ela respira fundo e fecha os olhos, ignorando você.
-4747|MÃE: Por nove meses eu te carreguei no meu corpo, te alimentei com a minha própria carne e sangue.
-4748|MÃE: Quando chegou a hora, eu passei dias sentindo uma dor excruciante.
-4749|MÃE: Você era grande demais pra nascer de parto normal, então me abriram, me rasgaram ao meio pra te tirar. Meu corpo nunca se recuperou completamente.
+4747|MOM: Por nove meses eu te carreguei no meu corpo, te alimentei com a minha própria carne e sangue.
+4748|MOM: Quando chegou a hora, eu passei dias sentindo uma dor excruciante.
+4749|MOM: Você era grande demais pra nascer de parto normal, então me abriram, me rasgaram ao meio pra te tirar. Meu corpo nunca se recuperou completamente.
 4750|Lembranças sobrepostas da sua mãe reclamando do próprio corpo vão corroendo a sua raiva.
-4751|MÃE: Por treze anos depois disso, eu deixei minhas necessidades de lado e me sacrifiquei pra te dar tudo de que você pudesse precisar. Tudo que eu fiz, eu fiz por você.
-4752|MÃE: Mas, no fim, eu fiz com prazer. Porque, afinal, não importava o que acontecesse, eu sabia que tinha você.
-4753|MÃE: Eu te criei. Minha linda filha.
-4754|MÃE: Você tentou tirar isso de mim.
+4751|MOM: Por treze anos depois disso, eu deixei minhas necessidades de lado e me sacrifiquei pra te dar tudo de que você pudesse precisar. Tudo que eu fiz, eu fiz por você.
+4752|MOM: Mas, no fim, eu fiz com prazer. Porque, afinal, não importava o que acontecesse, eu sabia que tinha você.
+4753|MOM: Eu te criei. Minha linda filha.
+4754|MOM: Você tentou tirar isso de mim.
 4755|Com que delírio ela está se engasgando agora?
-4756|MÃE: Você sabe como foi difícil pra mim depois que você se machucou? Eu via como as pessoas me olhavam, como se eu fosse...
-4757|MÃE: Elas se perguntavam se eu te maltratava. Todo mundo achava que, de algum jeito, a culpa era minha.
-4758|MÃE: A culpa não foi minha, Nima! Por mais que você queira que tenha sido!
-4759|MÃE: Você foi egoísta! Você queria me machucar o máximo possível...
+4756|MOM: Você sabe como foi difícil pra mim depois que você se machucou? Eu via como as pessoas me olhavam, como se eu fosse...
+4757|MOM: Elas se perguntavam se eu te maltratava. Todo mundo achava que, de algum jeito, a culpa era minha.
+4758|MOM: A culpa não foi minha, Nima! Por mais que você queira que tenha sido!
+4759|MOM: Você foi egoísta! Você queria me machucar o máximo possível...
 4760|As acusações dela só te deixam mais confusa.
-4761|VOCÊ: Quê!? Eu não queria isso!
-4762|MÃE: <b><shake>Queria, sim!
-4763|MÃE: <b><shake>Foi você quem pulou do penhasco, Nima!
-4764|MÃE: Eu vi, não foi um acidente, você deu o último passo sabendo o que significava.
+4761|YOU: Quê!? Eu não queria isso!
+4762|MOM: <b><shake>Queria, sim!
+4763|MOM: <b><shake>Foi você quem pulou do penhasco, Nima!
+4764|MOM: Eu vi, não foi um acidente, você deu o último passo sabendo o que significava.
 4765|Você se pergunta se é verdade, mas as palavras dela são contrariadas pela memória do seu coração...
 4766|Você se lembra do que realmente aconteceu. Se existe algum momento em que você poderia falar sobre isso... é agora.
 4767|Você não quer deixar que ela minta pra você de novo.
 4768|Ela começa a lacrimejar, puxando o ar num fungado longo e catarrento.
-4769|MÃE: Eu não conseguia comer, não conseguia dormir, não conseguia nem sair da cama.
-4770|MÃE: Foi pior do que quando o seu pai morreu. Eu não tinha nada.
-4771|MÃE: Você tirou tudo de mim.
+4769|MOM: Eu não conseguia comer, não conseguia dormir, não conseguia nem sair da cama.
+4770|MOM: Foi pior do que quando o seu pai morreu. Eu não tinha nada.
+4771|MOM: Você tirou tudo de mim.
 4772|Eu odeio ela... falando assim depois de <i>tudo</i> que ela fez comigo. Como se ela fosse a verdadeira vítima.
-4773|MÃE: Eu fiz o que precisava... pra te consertar. Entendeu?
-4774|MÃE: Te trancar aqui embaixo, fazer esses testes. É pra te manter segura!
+4773|MOM: Eu fiz o que precisava... pra te consertar. Entendeu?
+4774|MOM: Te trancar aqui embaixo, fazer esses testes. É pra te manter segura!
 4775|Ela está fazendo experimentos com você.
-4776|MÃE: Eu preciso saber que você está melhor.
+4776|MOM: Eu preciso saber que você está melhor.
 4777|Tudo isso faz parte da pesquisa dela.
-4778|MÃE: Eu não vou deixar você se machucar nunca mais.
+4778|MOM: Eu não vou deixar você se machucar nunca mais.
 4779|Então ela te fez perfeita.
 4780|Você vai deixar que ela continue mentindo pra você?
-4781|VOCÊ: Eu me lembro de tudo...
+4781|YOU: Eu me lembro de tudo...
 4782|A história que levou você a fugir.
-4783|VOCÊ: Você sempre teve o hábito de trabalhar demais. Eu lembro que o Pai tinha dificuldade pra fazer você largar a pesquisa por tempo suficiente pra jantar.
-4784|VOCÊ: Ele sempre dizia que era porque isso te deixava feliz, mas sei lá... você só parece tão sozinha.
-4785|VOCÊ: Quando eu te dei aquele fóssil, você sumiu com ele, eu fiquei meses sem te ver.
-4786|VOCÊ: Você sempre colocou o trabalho na minha frente... mas nunca foi tão ruim quanto naquele verão.
-4787|VOCÊ: A gente se mudou pra esta cidade pra você ser feliz e aí... você me abandonou.
-4788|VOCÊ: O seu trabalho com o fóssil. Não sei o que ele tinha a ver comigo. Você mandou eu largar tudo. Eu tive que parar de ser voluntária no asilo.
-4789|VOCÊ: Seja lá no que você estava trabalhando...
-4790|VOCÊ: Aquilo te deixou muito paranoica... Você vivia dizendo que eu não podia 'contar pras pessoas o que eu sabia.' Eu não sabia do que você estava falando, mas fiz o que você mandou mesmo assim.
-4791|MÃE: Eu... A minha pesquisa é bem delicada. Nas mãos erradas...
-4792|VOCÊ: Eu <i>tentei</i> falar com você. Você achou que eu estava te ameaçando...
-4793|VOCÊ: Eu estava tão triste... e sozinha.
-4794|VOCÊ: Ninguém conseguia me ajudar... Você claramente não ligava. Então... eu fugi.
-4795|MÃE: Eu fui atrás de você; se eu não ligasse, nem teria percebido que você tinha sumido.
-4796|VOCÊ: Eu achei que você ia me matar!
-4797|MÃE: Isso é ridículo!
-4798|VOCÊ: Você não entende! Do jeito que você estava paranoica e com raiva, eu não sabia se você ainda era a minha mãe!
-4799|VOCÊ: Então, quando você me encontrou... eu não achei que você estava ali pra ajudar. Então eu fugi de novo.
-4800|VOCÊ: Eu não sabia que a beira do penhasco estava ali.
-4801|VOCÊ: Eu estava com medo.
-4802|MÃE: ...Nima.
+4783|YOU: Você sempre teve o hábito de trabalhar demais. Eu lembro que o Pai tinha dificuldade pra fazer você largar a pesquisa por tempo suficiente pra jantar.
+4784|YOU: Ele sempre dizia que era porque isso te deixava feliz, mas sei lá... você só parece tão sozinha.
+4785|YOU: Quando eu te dei aquele fóssil, você sumiu com ele, eu fiquei meses sem te ver.
+4786|YOU: Você sempre colocou o trabalho na minha frente... mas nunca foi tão ruim quanto naquele verão.
+4787|YOU: A gente se mudou pra esta cidade pra você ser feliz e aí... você me abandonou.
+4788|YOU: O seu trabalho com o fóssil. Não sei o que ele tinha a ver comigo. Você mandou eu largar tudo. Eu tive que parar de ser voluntária no asilo.
+4789|YOU: Seja lá no que você estava trabalhando...
+4790|YOU: Aquilo te deixou muito paranoica... Você vivia dizendo que eu não podia 'contar pras pessoas o que eu sabia.' Eu não sabia do que você estava falando, mas fiz o que você mandou mesmo assim.
+4791|MOM: Eu... A minha pesquisa é bem delicada. Nas mãos erradas...
+4792|YOU: Eu <i>tentei</i> falar com você. Você achou que eu estava te ameaçando...
+4793|YOU: Eu estava tão triste... e sozinha.
+4794|YOU: Ninguém conseguia me ajudar... Você claramente não ligava. Então... eu fugi.
+4795|MOM: Eu fui atrás de você; se eu não ligasse, nem teria percebido que você tinha sumido.
+4796|YOU: Eu achei que você ia me matar!
+4797|MOM: Isso é ridículo!
+4798|YOU: Você não entende! Do jeito que você estava paranoica e com raiva, eu não sabia se você ainda era a minha mãe!
+4799|YOU: Então, quando você me encontrou... eu não achei que você estava ali pra ajudar. Então eu fugi de novo.
+4800|YOU: Eu não sabia que a beira do penhasco estava ali.
+4801|YOU: Eu estava com medo.
+4802|MOM: ...Nima.
 4803|A raiva dela derrete e você percebe que, em algum momento, ela começou a chorar.
-4804|VOCÊ: Eu sei que você fez alguma coisa comigo, Mãe. Eu sei daquele experimento esquisito que você estava fazendo antes, aquilo que me deixou tão sozinha.
-4805|VOCÊ: Foi assim que você me trouxe de volta. Eu... meio que entendo o que você fez, mas não sei exatamente.
-4806|VOCÊ: Só o que eu sei é... que eu morri e você me trouxe de volta.
-4807|MÃE: ...Isso é ridículo, Nima.
-4808|MÃE: Você estava em coma, eu... hã... eu conversava com você todo dia, coloquei umas músicas pra você e você acordou.
-4809|MÃE: É só isso...
-4810|VOCÊ: Mãe... Por favor, eu quero conversar sobre isso.
-4811|MÃE: Não. Não. É melhor a gente simplesmente seguir em frente.
+4804|YOU: Eu sei que você fez alguma coisa comigo, Mãe. Eu sei daquele experimento esquisito que você estava fazendo antes, aquilo que me deixou tão sozinha.
+4805|YOU: Foi assim que você me trouxe de volta. Eu... meio que entendo o que você fez, mas não sei exatamente.
+4806|YOU: Só o que eu sei é... que eu morri e você me trouxe de volta.
+4807|MOM: ...Isso é ridículo, Nima.
+4808|MOM: Você estava em coma, eu... hã... eu conversava com você todo dia, coloquei umas músicas pra você e você acordou.
+4809|MOM: É só isso...
+4810|YOU: Mãe... Por favor, eu quero conversar sobre isso.
+4811|MOM: Não. Não. É melhor a gente simplesmente seguir em frente.
 4812|Você se sente errada. Você não deveria ser uma pessoa raivosa.
-4813|VOCÊ: Tem... alguma coisa errada comigo, não tem?
-4814|MÃE: É o que eu estou dizendo, Nima, tem alguma coisa <i>muito</i> errada com você.
-4815|VOCÊ: Não... Quer dizer... Hã...
+4813|YOU: Tem... alguma coisa errada comigo, não tem?
+4814|MOM: É o que eu estou dizendo, Nima, tem alguma coisa <i>muito</i> errada com você.
+4815|YOU: Não... Quer dizer... Hã...
 4816|Você tenta achar algum jeito de explicar o que está sentindo.
 4817|Não adianta. Ela nunca vai te entender.
-4818|VOCÊ: Quando eu acordei, você tinha me amarrado na cadeira. Você estava até parada ali.
-4819|VOCÊ: Depois... você começou a me testar. No começo você só se preocupava com as minhas memórias, mas... Agora você está testando a minha moral?
-4820|VOCÊ: Às vezes eu me pergunto se você duvida que eu seja humana.
-4821|MÃE: Você anda se comportando de um jeito estranho...
-4822|VOCÊ: É... Porque...
-4823|VOCÊ: Tem uma voz na minha cabeça.
-4824|MÃE: Nima, eu não ligo pro que os seus amigos imaginários diziam. Você já tá grande demais pra inventar alguém pra levar a culpa por você.
+4818|YOU: Quando eu acordei, você tinha me amarrado na cadeira. Você estava até parada ali.
+4819|YOU: Depois... você começou a me testar. No começo você só se preocupava com as minhas memórias, mas... Agora você está testando a minha moral?
+4820|YOU: Às vezes eu me pergunto se você duvida que eu seja humana.
+4821|MOM: Você anda se comportando de um jeito estranho...
+4822|YOU: É... Porque...
+4823|YOU: Tem uma voz na minha cabeça.
+4824|MOM: Nima, eu não ligo pro que os seus amigos imaginários diziam. Você já tá grande demais pra inventar alguém pra levar a culpa por você.
 4825|Quem pode dizer o que realmente aconteceu? Já acabou tudo. Todo mundo está vivo e bem e... Provavelmente é melhor só pedir desculpas.
 4826|Deixe sua raiva comigo. Ela está fraca agora, não vai perceber uma mentira se você disser o que ela quer ouvir.
 4827|Você inspira e expira com força, tentando tirar a raiva dos pulmões.
 4828|Você se entrega à respiração; quase parece que você está soluçando.
-4829|VOCÊ: Desculpa... Mãe.
+4829|YOU: Desculpa... Mãe.
 4830|Ela te olha desconfiada.
-4831|VOCÊ: Eu perdi muitas memórias, mas lembro do que é mais importante pra mim.
-4832|VOCÊ: Você é a minha melhor amiga! Você se sacrificou tanto por mim e eu fico feliz que você possa contar comigo pra te ajudar.
-4833|VOCÊ: Eu... não tenho mais ninguém na minha vida. Você é a única que sobrou. Eu <i>não</i> vou perder você também.
-4834|VOCÊ: Meu lar é com você, não importa onde a gente esteja, desde que a gente esteja junto, a gente dá um jeito.
-4835|VOCÊ: Os testes são difíceis, é... mas tem sido bom só passar um tempo com você.
-4836|VOCÊ: Eu tô tentando ser feliz por você. Você me disse uma vez que as minhas emoções te afetam. Então eu pensei... se eu estiver feliz, você também vai ficar.
-4837|VOCÊ: Na verdade, eu tenho dado muito valor a esse tempo que a gente tem junto... Enquanto a gente tem... sabe?
-4838|VOCÊ: Eu achei aquele fóssil de Marrella pra você. Eu sou uma assistente de laboratório muito boa, né?
-4839|VOCÊ: Talvez tenha tido alguns problemas. Talvez eu não saiba o que rolou com aqueles óculos de natação. Provavelmente não era importante, né?
-4840|VOCÊ: Meus amigos lá de casa... eles se esqueceram de mim e eu acabei esquecendo deles também... Eles não eram importantes.
-4841|VOCÊ: Eu posso até cozinhar melhor... mas mesmo assim. Fico grata que você tentou.
-4842|VOCÊ: Eu te amo, Mãe.
-4843|VOCÊ: Apesar de tudo... você e eu <i>sempre</i> vamos ser família.
-4844|VOCÊ: A gente tem os nossos problemas, mas... a gente é forte. Já sobrevivemos a coisa muito pior que isso.
-4845|MÃE: Já sobrevivemos...
-4846|VOCÊ: Desculpa... Eu não devia ter discutido com você.
-4847|VOCÊ: Eu sei que você tá fazendo isso por mim. Só é difícil não lembrar de nada.
-4848|VOCÊ: Acho que...
-4849|VOCÊ: Eu não sei por que eu fugi... mas talvez isso seja uma coisa boa.
-4850|VOCÊ: A gente pode recomeçar do zero agora, né?
+4831|YOU: Eu perdi muitas memórias, mas lembro do que é mais importante pra mim.
+4832|YOU: Você é a minha melhor amiga! Você se sacrificou tanto por mim e eu fico feliz que você possa contar comigo pra te ajudar.
+4833|YOU: Eu... não tenho mais ninguém na minha vida. Você é a única que sobrou. Eu <i>não</i> vou perder você também.
+4834|YOU: Meu lar é com você, não importa onde a gente esteja, desde que a gente esteja junto, a gente dá um jeito.
+4835|YOU: Os testes são difíceis, é... mas tem sido bom só passar um tempo com você.
+4836|YOU: Eu tô tentando ser feliz por você. Você me disse uma vez que as minhas emoções te afetam. Então eu pensei... se eu estiver feliz, você também vai ficar.
+4837|YOU: Na verdade, eu tenho dado muito valor a esse tempo que a gente tem junto... Enquanto a gente tem... sabe?
+4838|YOU: Eu achei aquele fóssil de Marrella pra você. Eu sou uma assistente de laboratório muito boa, né?
+4839|YOU: Talvez tenha tido alguns problemas. Talvez eu não saiba o que rolou com aqueles óculos de natação. Provavelmente não era importante, né?
+4840|YOU: Meus amigos lá de casa... eles se esqueceram de mim e eu acabei esquecendo deles também... Eles não eram importantes.
+4841|YOU: Eu posso até cozinhar melhor... mas mesmo assim. Fico grata que você tentou.
+4842|YOU: Eu te amo, Mãe.
+4843|YOU: Apesar de tudo... você e eu <i>sempre</i> vamos ser família.
+4844|YOU: A gente tem os nossos problemas, mas... a gente é forte. Já sobrevivemos a coisa muito pior que isso.
+4845|MOM: Já sobrevivemos...
+4846|YOU: Desculpa... Eu não devia ter discutido com você.
+4847|YOU: Eu sei que você tá fazendo isso por mim. Só é difícil não lembrar de nada.
+4848|YOU: Acho que...
+4849|YOU: Eu não sei por que eu fugi... mas talvez isso seja uma coisa boa.
+4850|YOU: A gente pode recomeçar do zero agora, né?
 4851|Ela sorri muito de leve. Dá pra ver um pouco de arrependimento vincado na testa dela.
-4852|MÃE: Eu ia gostar disso...
-4853|MÃE: Eu não tinha planejado nenhum outro teste. Vamos só... parar por aqui, tá bom?
+4852|MOM: Eu ia gostar disso...
+4853|MOM: Eu não tinha planejado nenhum outro teste. Vamos só... parar por aqui, tá bom?
 4854|Sua raiva evoca memórias adormecidas. Um desfile de brigas antigas, todas girando em torno do mesmo tema: ela se recusa a te entender.
 4855|Você tenta se explicar, tenta abrir seu coração para ela. Não importa o que você diga, a resposta dela é sempre a mesma.
 4856|Você está feliz? Lembre-se de que é feliz por causa dela. Está triste? Que ingratidão. Está de luto? O luto dela é maior. Está com raiva? Que motivo você tem pra ter raiva?
-4857|VOCÊ: Assim que eu acordei aqui embaixo, você começou a mentir pra mim. Primeiro você disse que o 'acidente' aconteceu porque eu fui nadar, depois foi porque eu caí na água.
-4858|VOCÊ: Ontem você me disse que eu fugi e agora tá dizendo que me <i>viu</i> naquele penhasco!?
-4859|VOCÊ: Acho que eu sei que verdade você tá tentando negar.
-4860|VOCÊ: Eu não preciso das minhas memórias pra saber que, no <i>segundo</i> em que eu acordei aqui embaixo, tudo que eu quis foi <i>fugir de você.</i>
-4861|VOCÊ: Eu não acho que você me salvou. <i>Eu acho que você é o motivo de eu ter morrido!</i>
+4857|YOU: Assim que eu acordei aqui embaixo, você começou a mentir pra mim. Primeiro você disse que o 'acidente' aconteceu porque eu fui nadar, depois foi porque eu caí na água.
+4858|YOU: Ontem você me disse que eu fugi e agora tá dizendo que me <i>viu</i> naquele penhasco!?
+4859|YOU: Acho que eu sei que verdade você tá tentando negar.
+4860|YOU: Eu não preciso das minhas memórias pra saber que, no <i>segundo</i> em que eu acordei aqui embaixo, tudo que eu quis foi <i>fugir de você.</i>
+4861|YOU: Eu não acho que você me salvou. <i>Eu acho que você é o motivo de eu ter morrido!</i>
 4862|Sem te deixar dizer mais nenhuma palavra, ela estica o braço por cima da mesa e te dá um tapa na cara.
 4863|Ela se encolhe para trás, segurando a mão, com lágrimas se formando no canto dos olhos.
 4864|Há uma quietude no cômodo.
-4865|MÃE: Que tipo de monstro <i>ia querer</i> machucar o próprio filho?
-4866|MÃE: Se eu não te quisesse mais, podia simplesmente te botar pra fora por aquela porta agora mesmo e lavar as mãos.
-4867|MÃE: Em vez disso, eu estou aqui embaixo, trabalhando pra consertar isso.
+4865|MOM: Que tipo de monstro <i>ia querer</i> machucar o próprio filho?
+4866|MOM: Se eu não te quisesse mais, podia simplesmente te botar pra fora por aquela porta agora mesmo e lavar as mãos.
+4867|MOM: Em vez disso, eu estou aqui embaixo, trabalhando pra consertar isso.
 4868|Ela enxuga as lágrimas dos olhos.
-4869|VOCÊ: <i>Eu</i> é que preciso de conserto!?
-4870|VOCÊ: Você precisa de ajuda, Mãe! Você não é mais a mesma desde que o Pai morreu. Depois do acidente dele você começou a agir... sei lá... Você começou a agir feito louca!
-4871|MÃE: Não se atreva a falar dele! Ele foi lá e jogou a vida fora do mesmo jeito que você!
-4872|VOCÊ: Você acha que o que aconteceu com ele foi de propósito!?
-4873|MÃE: <b><shake>É claro que foi!
+4869|YOU: <i>Eu</i> é que preciso de conserto!?
+4870|YOU: Você precisa de ajuda, Mãe! Você não é mais a mesma desde que o Pai morreu. Depois do acidente dele você começou a agir... sei lá... Você começou a agir feito louca!
+4871|MOM: Não se atreva a falar dele! Ele foi lá e jogou a vida fora do mesmo jeito que você!
+4872|YOU: Você acha que o que aconteceu com ele foi de propósito!?
+4873|MOM: <b><shake>É claro que foi!
 4874|As palavras saem dela num estalo defensivo.
-4875|MÃE: Ele sabia que o que estava fazendo era perigoso! Eu disse um milhão de vezes que ele não devia ir!
-4876|MÃE: Eu insisti e insisti, mas ele disse que eu era paranoica! Ele decidiu fazer o que queria.
-4877|MÃE: Você acha que eu tô ficando louca?! <shake>É claro que eu tô ficando louca!</shake> Ninguém <i>nunca</i> me escuta!
-4878|MÃE: Agora olha pra gente! <i>Olha o que ele fez com você!
-4879|MÃE: Você admirava tanto ele que decidiu seguir exatamente os passos dele!
-4880|MÃE: <shake><size=120%>Você decidiu me deixar! Vocês dois <i>decidiram me deixar!<size=100%>
+4875|MOM: Ele sabia que o que estava fazendo era perigoso! Eu disse um milhão de vezes que ele não devia ir!
+4876|MOM: Eu insisti e insisti, mas ele disse que eu era paranoica! Ele decidiu fazer o que queria.
+4877|MOM: Você acha que eu tô ficando louca?! <shake>É claro que eu tô ficando louca!</shake> Ninguém <i>nunca</i> me escuta!
+4878|MOM: Agora olha pra gente! <i>Olha o que ele fez com você!
+4879|MOM: Você admirava tanto ele que decidiu seguir exatamente os passos dele!
+4880|MOM: <shake><size=120%>Você decidiu me deixar! Vocês dois <i>decidiram me deixar!<size=100%>
 4881|A última frase dela reverbera pelo cômodo enquanto ela para um segundo para recuperar o fôlego.
-4882|MÃE: Como eu poderia perdoar você por isso?
+4882|MOM: Como eu poderia perdoar você por isso?
 4883|Você quer ficar com raiva dela, devolver os gritos com a mesma força, mas há uma parte de você se segurando.
 4884|Você olha para o estado em que sua mãe está e não consegue se forçar a aumentar a dor dela.
-4885|VOCÊ: Eu não acho que você tá louca.
-4886|VOCÊ: Eu vejo que você tá cansada, que tá infeliz e com medo. Eu sei que você passou por muita coisa.
-4887|VOCÊ: Mas é por isso que eu acho que você precisa de ajuda. Não acho que isso seja algo que dê pra simplesmente <i>consertar</i>. Não acho que eu consiga consertar também.
-4888|MÃE: Eu já te disse. Isso não é sobre mim.
-4889|VOCÊ: Parece que você não tá presente de verdade, Mãe. Eu tô preocupada com o que esses testes estão fazendo com você também. Eu só quero que isso acabe.
+4885|YOU: Eu não acho que você tá louca.
+4886|YOU: Eu vejo que você tá cansada, que tá infeliz e com medo. Eu sei que você passou por muita coisa.
+4887|YOU: Mas é por isso que eu acho que você precisa de ajuda. Não acho que isso seja algo que dê pra simplesmente <i>consertar</i>. Não acho que eu consiga consertar também.
+4888|MOM: Eu já te disse. Isso não é sobre mim.
+4889|YOU: Parece que você não tá presente de verdade, Mãe. Eu tô preocupada com o que esses testes estão fazendo com você também. Eu só quero que isso acabe.
 4890|Sua mãe range os dentes, fazendo o possível para não demonstrar fraqueza.
-4891|MÃE: Eu também, Nima.
+4891|MOM: Eu também, Nima.
 4892|Por fim ela cede, e você vê o rosto dela se suavizar.
-4893|VOCÊ: Você não liga nem um pouco pra mim!
-4894|VOCÊ: Você é só um monstro sádico e insensível que sente um prazer pervertido em me machucar.
-4895|MÃE: <i>Isso não é verdade!</i>
-4896|VOCÊ: Você não quer me consertar nem me ajudar.
-4897|VOCÊ: O verdadeiro motivo de a gente estar aqui embaixo é que aqui você pode fazer o que quiser comigo, <i>sem culpa,</i> e eu não tenho como revidar!
+4893|YOU: Você não liga nem um pouco pra mim!
+4894|YOU: Você é só um monstro sádico e insensível que sente um prazer pervertido em me machucar.
+4895|MOM: <i>Isso não é verdade!</i>
+4896|YOU: Você não quer me consertar nem me ajudar.
+4897|YOU: O verdadeiro motivo de a gente estar aqui embaixo é que aqui você pode fazer o que quiser comigo, <i>sem culpa,</i> e eu não tenho como revidar!
 4898|Você diz tudo isso com um sorriso cheio de dentes, inclinando a cabeça de lado para provocá-la.
-4899|VOCÊ: Aqui você é um deus. Por que você ia querer me deixar ir embora?
-4900|VOCÊ: Sinceramente, não sei nem por que você me deixou sair da sala da caldeira. Aposto que você ia se sentir muito melhor agora se pudesse me ouvir gritando de dor.
+4899|YOU: Aqui você é um deus. Por que você ia querer me deixar ir embora?
+4900|YOU: Sinceramente, não sei nem por que você me deixou sair da sala da caldeira. Aposto que você ia se sentir muito melhor agora se pudesse me ouvir gritando de dor.
 4901|Que infantil. Está satisfeita agora?
 4902|Você está satisfeita. É bom finalmente dizer a verdade para a sua mãe.
 4903|Estranhamente, a raiva da sua mãe parece se dissipar.
-4904|MÃE: Chega, Nima. Eu entendi.
-4905|MÃE: Tudo bem ficar chateada. Te colocar na sala da caldeira foi a coisa mais difícil que eu tive que fazer até agora.
-4906|MÃE: Eu não queria fazer aquilo. Eu chorei ontem à noite, sabia?
-4907|MÃE: Mas eu sabia que <i>precisava</i>.
-4908|MÃE: É isso que você não entende, Nima.
+4904|MOM: Chega, Nima. Eu entendi.
+4905|MOM: Tudo bem ficar chateada. Te colocar na sala da caldeira foi a coisa mais difícil que eu tive que fazer até agora.
+4906|MOM: Eu não queria fazer aquilo. Eu chorei ontem à noite, sabia?
+4907|MOM: Mas eu sabia que <i>precisava</i>.
+4908|MOM: É isso que você não entende, Nima.
 4909|A estranha guinada dela para mãe magnânima só te deixa ainda mais puta.
-4910|VOCÊ: Então você admite, 'eu preciso de conserto.'
-4911|MÃE: Sim!
-4912|VOCÊ: A verdade é que você não gosta de quem eu sou. Você tá se esforçando tanto pra me transformar em outra pessoa. Alguém que você consiga amar.
+4910|YOU: Então você admite, 'eu preciso de conserto.'
+4911|MOM: Sim!
+4912|YOU: A verdade é que você não gosta de quem eu sou. Você tá se esforçando tanto pra me transformar em outra pessoa. Alguém que você consiga amar.
 4913|Sua mãe revira os olhos para você.
-4914|MÃE: Eu já disse isso mil vezes. Tudo que eu quero é que você seja você mesma!
-4915|MÃE: Isso não devia ser tão difícil.
+4914|MOM: Eu já disse isso mil vezes. Tudo que eu quero é que você seja você mesma!
+4915|MOM: Isso não devia ser tão difícil.
 4916|A leviandade dela aumenta a sua sensação de sufocamento.
-4917|VOCÊ: E se eu não quiser ser eu?
-4918|MÃE: ...O que foi que você disse?
-4919|VOCÊ: Você não liga nem um pouco pra mim.
-4920|VOCÊ: Eu sou só a sua cobaia. Você fez alguma coisa comigo e agora tá tentando provar que o seu método funciona.
-4921|MÃE: Sim, temos que garantir que você está se curando direito, Nima.
-4922|VOCÊ: Não é isso que eu tô dizendo. Pra você, eu sou só uma nova e empolgante oportunidade de pesquisa, algo que você pode cutucar e futucar à vontade em nome do avanço do conhecimento.
-4923|VOCÊ: Eu vejo a alegria que isso te dá. A perspectiva de finalmente trabalhar em algo importante.
-4924|VOCÊ: Que bom que o meu acidente finalmente te deu um propósito.
-4925|MÃE: Eu tô cagando pra ciência. Nada disso é importante. Eu largaria meu emprego num piscar de olhos se precisasse.
-4926|MÃE: Entendeu? <i>Você</i> é o meu propósito.
-4927|VOCÊ: Você tá fazendo isso porque é vingativa e mesquinha.
-4928|MÃE: Você não ouviu uma palavra do que eu disse?
-4929|MÃE: Sou eu quem está fazendo todos os sacrifícios aqui!
-4930|VOCÊ: Eu não estava fazendo o que você queria, então você tá me castigando. Simples assim.
-4931|VOCÊ: Você quer tanto ser a vítima, mas, assim que as coisas não saem do seu jeito, você começa a agir feito criança.
-4932|VOCÊ: Tudo isso? É só parte de uma longa birra.
-4933|MÃE: Você acha que eu tô agindo feito criança? Você ainda dorme com bicho de pelúcia, pelo amor de Deus.
+4917|YOU: E se eu não quiser ser eu?
+4918|MOM: ...O que foi que você disse?
+4919|YOU: Você não liga nem um pouco pra mim.
+4920|YOU: Eu sou só a sua cobaia. Você fez alguma coisa comigo e agora tá tentando provar que o seu método funciona.
+4921|MOM: Sim, temos que garantir que você está se curando direito, Nima.
+4922|YOU: Não é isso que eu tô dizendo. Pra você, eu sou só uma nova e empolgante oportunidade de pesquisa, algo que você pode cutucar e futucar à vontade em nome do avanço do conhecimento.
+4923|YOU: Eu vejo a alegria que isso te dá. A perspectiva de finalmente trabalhar em algo importante.
+4924|YOU: Que bom que o meu acidente finalmente te deu um propósito.
+4925|MOM: Eu tô cagando pra ciência. Nada disso é importante. Eu largaria meu emprego num piscar de olhos se precisasse.
+4926|MOM: Entendeu? <i>Você</i> é o meu propósito.
+4927|YOU: Você tá fazendo isso porque é vingativa e mesquinha.
+4928|MOM: Você não ouviu uma palavra do que eu disse?
+4929|MOM: Sou eu quem está fazendo todos os sacrifícios aqui!
+4930|YOU: Eu não estava fazendo o que você queria, então você tá me castigando. Simples assim.
+4931|YOU: Você quer tanto ser a vítima, mas, assim que as coisas não saem do seu jeito, você começa a agir feito criança.
+4932|YOU: Tudo isso? É só parte de uma longa birra.
+4933|MOM: Você acha que eu tô agindo feito criança? Você ainda dorme com bicho de pelúcia, pelo amor de Deus.
 4934|Isso foi golpe baixo.
-4935|MÃE: Quem precisa crescer é você...
-4936|MÃE: ...e parte de crescer é aprender sobre responsabilidade.
-4937|VOCÊ: Responsabilidade!?
-4938|VOCÊ: Você não estava lá quando eu precisei de você!
-4939|VOCÊ: Tudo de terrível que aconteceu no último ano. A mudança, perder meus amigos, sofrer bullying, ficar sozinha...
-4940|VOCÊ: Tudo isso aconteceu por sua causa.
-4941|VOCÊ: Desculpa por eu ter ido até a Pearl... Desculpa...
-4942|VOCÊ: Mas ela me decepcionou! Ela não me ajudou, só deixou tudo pior. Igual a todo mundo. Igual a você e o Pai-
+4935|MOM: Quem precisa crescer é você...
+4936|MOM: ...e parte de crescer é aprender sobre responsabilidade.
+4937|YOU: Responsabilidade!?
+4938|YOU: Você não estava lá quando eu precisei de você!
+4939|YOU: Tudo de terrível que aconteceu no último ano. A mudança, perder meus amigos, sofrer bullying, ficar sozinha...
+4940|YOU: Tudo isso aconteceu por sua causa.
+4941|YOU: Desculpa por eu ter ido até a Pearl... Desculpa...
+4942|YOU: Mas ela me decepcionou! Ela não me ajudou, só deixou tudo pior. Igual a todo mundo. Igual a você e o Pai-
 4943|Você não acredita que acabou de dizer isso.
-4944|VOCÊ: Eu só...
-4945|VOCÊ: Por que eu não posso contar com nenhum de vocês?
-4946|MÃE: Quem você pensa que é pra falar isso pra mim?
-4947|MÃE: Você é tão arrogante quanto o seu pai, acha que tudo gira em torno de você.
-4948|MÃE: <i>Não</i> é você quem cuida de mim, você é minha filha.
+4944|YOU: Eu só...
+4945|YOU: Por que eu não posso contar com nenhum de vocês?
+4946|MOM: Quem você pensa que é pra falar isso pra mim?
+4947|MOM: Você é tão arrogante quanto o seu pai, acha que tudo gira em torno de você.
+4948|MOM: <i>Não</i> é você quem cuida de mim, você é minha filha.
 4949|Você se lembra de algo, isso é familiar.
-4950|VOCÊ: Espera um pouco. Eu tentei te dizer no ano passado que...
+4950|YOU: Espera um pouco. Eu tentei te dizer no ano passado que...
 4951|Você não quer falar sobre isso. Quer rodear o assunto, insinuar em vez de dizer diretamente.
-4952|VOCÊ: Eu estava... Eu estava triste no ano passado. Eu pedi ajuda e você disse que eu estava inventando.
-4953|MÃE: Você já tinha tentado vários truques pra me fazer sentir culpada por a gente ter se mudado pra cá.
-4954|MÃE: Eu não tinha motivo nenhum pra acreditar em você.
-4955|VOCÊ: O quê, então agora você acha que o acidente foi...
+4952|YOU: Eu estava... Eu estava triste no ano passado. Eu pedi ajuda e você disse que eu estava inventando.
+4953|MOM: Você já tinha tentado vários truques pra me fazer sentir culpada por a gente ter se mudado pra cá.
+4954|MOM: Eu não tinha motivo nenhum pra acreditar em você.
+4955|YOU: O quê, então agora você acha que o acidente foi...
 4956|É por isso que você está com tanta raiva. Ela negou seus sentimentos quando eram verdadeiros e agora eles viraram uma desculpa.
 4957|Essa raiva que você está sentindo vem de algum lugar.
 4958|Se você conseguir rastreá-la até a origem, talvez consiga se lembrar do que realmente aconteceu naquela noite.
 4959|Você fecha os olhos e se concentra, pedindo a si mesma, com delicadeza, que explique como se sente.
 4960|É perturbador saber como ela te vê... Isso entra em conflito com a forma como você se vê.
 4961|Você se lembra do rosto dela, retorcido de raiva. Você estava apavorada com a ideia de ela te pegar.
-4962|VOCÊ: Naquela noite... na beira do penhasco. Eu não estava triste.
-4963|VOCÊ: Você estava me perseguindo e gritando comigo. Eu achei que você ia me matar.
-4964|MÃE: Você sumiu! Eu achei que tinha acontecido alguma coisa terrível com você.
-4965|VOCÊ: Eu senti que você não me queria mais... que você me odiava.
-4966|MÃE: Para com isso...
-4967|VOCÊ: Eu achei que, se você me pegasse, ia me matar.
-4968|VOCÊ: Você me perseguiu até eu cair da beira daquele penhasco.
+4962|YOU: Naquela noite... na beira do penhasco. Eu não estava triste.
+4963|YOU: Você estava me perseguindo e gritando comigo. Eu achei que você ia me matar.
+4964|MOM: Você sumiu! Eu achei que tinha acontecido alguma coisa terrível com você.
+4965|YOU: Eu senti que você não me queria mais... que você me odiava.
+4966|MOM: Para com isso...
+4967|YOU: Eu achei que, se você me pegasse, ia me matar.
+4968|YOU: Você me perseguiu até eu cair da beira daquele penhasco.
 4969|Há algo, um traço de angústia no vazio das suas memórias, que te diz que ela não está totalmente errada.
-4970|VOCÊ: Agora você se importa!?
+4970|YOU: Agora você se importa!?
 4971|Embora você não consiga se lembrar do que aconteceu naquela noite, nem por que foi parar na beira daquele penhasco, você sabe que já pensou em pular antes.
 4972|Toda vez que você atravessava a velha ponte de treliça no caminho da escola pra casa.
 4973|Toda vez que você subia no telhado do asilo para almoçar.
 4974|Era como uma coceira.
-4975|VOCÊ: Eu te disse meses atrás que precisava de ajuda e você mandou eu superar!
-4976|MÃE: Que motivo você poderia ter pra ficar triste!? Você tem tanta coisa que eu nunca tive na sua idade.
-4977|MÃE: Você tem uma mãe que te ama e a liberdade de sair pelo mundo sozinha.
-4978|VOCÊ: Você não me ama!
-4979|MÃE: Não se <i>atreva.</i>
-4980|VOCÊ: Você não quer passar tempo nenhum comigo. Parece que você não me suporta.
-4981|VOCÊ: Eu não consigo lembrar, talvez eu tenha pulado mesmo.
-4982|VOCÊ: Se eu pulei, não foi por <i>sua causa,</i> foi porque ninguém no mundo liga pra mim.
-4983|VOCÊ: Me surpreende você ter até percebido.
+4975|YOU: Eu te disse meses atrás que precisava de ajuda e você mandou eu superar!
+4976|MOM: Que motivo você poderia ter pra ficar triste!? Você tem tanta coisa que eu nunca tive na sua idade.
+4977|MOM: Você tem uma mãe que te ama e a liberdade de sair pelo mundo sozinha.
+4978|YOU: Você não me ama!
+4979|MOM: Não se <i>atreva.</i>
+4980|YOU: Você não quer passar tempo nenhum comigo. Parece que você não me suporta.
+4981|YOU: Eu não consigo lembrar, talvez eu tenha pulado mesmo.
+4982|YOU: Se eu pulei, não foi por <i>sua causa,</i> foi porque ninguém no mundo liga pra mim.
+4983|YOU: Me surpreende você ter até percebido.
 4984|Isso não é bom. Você não deveria ficar com raiva. Ela não gosta disso.
 4985|Em vez de pensar nas coisas que te deixam com raiva, você evoca um desfile de tudo que te deixa feliz. Pelúcias e peixes de desenho animado, seu amigo Sr. Tubarão, o Garoto Tomate, a turma toda.
 4986|Com os poderes combinados deles, você se <i>força</i> a ficar feliz.
-4987|VOCÊ: Eu não tô triste, juro!
+4987|YOU: Eu não tô triste, juro!
 4988|Você abre um sorrisão. Em vez de se acalmar, ela te olha com medo.
-4989|VOCÊ: Afinal, eu sou a sua filha boazinha e feliz!
-4990|VOCÊ: Eu gosto de desenho animado, de peixe e de desenhar. Eu amo a minha mãe mais do que tudo no mundo.
-4991|VOCÊ: Posso estar meio perdida na minha própria cabeça, mas esse é só um dos meus defeitos adoráveis, né!?
-4992|MÃE: Para...
-4993|VOCÊ: Você tem que acreditar em mim! Eu nunca faria uma coisa tipo pular de um penhasco pra fugir de você. Eu nunca mentiria pra você nem esconderia nada.
-4994|VOCÊ: Minha vida pertence a você, de corpo e alma. Eu te amo, Mãe. Até a lua e de volta.
-4995|VOCÊ: Eu... fiz alguma coisa errada?
-4996|MÃE: O que eu tô fazendo...
-4997|MÃE: Não é isso que eu quero, eu quero a minha filha de volta...
-4998|MÃE: Não é culpa sua...
+4989|YOU: Afinal, eu sou a sua filha boazinha e feliz!
+4990|YOU: Eu gosto de desenho animado, de peixe e de desenhar. Eu amo a minha mãe mais do que tudo no mundo.
+4991|YOU: Posso estar meio perdida na minha própria cabeça, mas esse é só um dos meus defeitos adoráveis, né!?
+4992|MOM: Para...
+4993|YOU: Você tem que acreditar em mim! Eu nunca faria uma coisa tipo pular de um penhasco pra fugir de você. Eu nunca mentiria pra você nem esconderia nada.
+4994|YOU: Minha vida pertence a você, de corpo e alma. Eu te amo, Mãe. Até a lua e de volta.
+4995|YOU: Eu... fiz alguma coisa errada?
+4996|MOM: O que eu tô fazendo...
+4997|MOM: Não é isso que eu quero, eu quero a minha filha de volta...
+4998|MOM: Não é culpa sua...
 4999|Você se acalma. Não pode se deixar envolver pelos sentimentos dela.

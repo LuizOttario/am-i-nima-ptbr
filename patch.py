@@ -2,7 +2,7 @@
 
 Uso: python patch.py <data.unity3d original> <saida.unity3d> [pasta]
   pasta: "traducao" (demo, padrão) ou "completo" (jogo completo)
-Requer: pip install UnityPy
+Requer: pip install UnityPy (jogo completo: também numpy TypeTreeGeneratorAPI)
 """
 import glob, json, os, re, sys
 import UnityPy
@@ -94,6 +94,11 @@ def main(src, out, pasta="traducao"):
         trees[name]["root"] = choices(walk(trees[name]["root"], m.__getitem__), mc.__getitem__)
         assets[name].m_Script = "﻿" + json.dumps(trees[name], ensure_ascii=False, separators=(",", ":"))
         assets[name].save()
+    if pasta == "completo":
+        sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+        import fonte
+        n = fonte.aplicar(env, os.path.join(os.path.dirname(os.path.abspath(src)), "Managed"))
+        print(f"fonte: {n} letras desenhadas")
     open(out, "wb").write(env.file.save(packer="lz4"))
     print(f"ok: {len(en)} falas e {len(enc)} escolhas traduzidas -> {out}")
 

@@ -1,39 +1,39 @@
-9000|MÃE: Quer dizer… Eu sempre tive medo de que as pessoas descobrissem isso.
-9001|MÃE: Não dá pra confiar nelas…
-9002|VOCÊ: A gente não sabe disso.
-9003|VOCÊ: Lembra quando eu falei da voz na minha cabeça?
-9004|MÃE: Sim… Se você se lembra disso, querida, então com certeza percebe que a sua noção de realidade não está muito firme.
-9005|VOCÊ: Ela sumiu agora.
-9006|MÃE: Ah… é mesmo?
-9007|VOCÊ: Eu achava que era a voz do parasita… ou algo assim. Acho que soa meio estranho falando em voz alta.
-9008|VOCÊ: Acho que… Era só difícil ser duas pessoas ao mesmo tempo.
-9009|VOCÊ: Tinha a eu que você via… E tinha a eu que só eu via.
-9010|VOCÊ: Acho que, pra maioria das pessoas, as duas seriam a mesma pessoa, mas… Não pra mim.
-9011|VOCÊ: Admitir que a Nima se foi, acho que isso é importante. Se eu não admitisse, eu ia voltar a ser duas pessoas.
+9000|MOM: Quer dizer… Eu sempre tive medo de que as pessoas descobrissem isso.
+9001|MOM: Não dá pra confiar nelas…
+9002|YOU: A gente não sabe disso.
+9003|YOU: Lembra quando eu falei da voz na minha cabeça?
+9004|MOM: Sim… Se você se lembra disso, querida, então com certeza percebe que a sua noção de realidade não está muito firme.
+9005|YOU: Ela sumiu agora.
+9006|MOM: Ah… é mesmo?
+9007|YOU: Eu achava que era a voz do parasita… ou algo assim. Acho que soa meio estranho falando em voz alta.
+9008|YOU: Acho que… Era só difícil ser duas pessoas ao mesmo tempo.
+9009|YOU: Tinha a eu que você via… E tinha a eu que só eu via.
+9010|YOU: Acho que, pra maioria das pessoas, as duas seriam a mesma pessoa, mas… Não pra mim.
+9011|YOU: Admitir que a Nima se foi, acho que isso é importante. Se eu não admitisse, eu ia voltar a ser duas pessoas.
 9012|Os olhos dela correm de um lado pro outro, confusos; você sente que ela está se esforçando muito pra não te chamar de louca.
-9013|MÃE: Querida… Eu não entendo.
-9014|VOCÊ: …É difícil de explicar.
+9013|MOM: Querida… Eu não entendo.
+9014|YOU: …É difícil de explicar.
 9015|Esse sentimento não é humano; você acha que foi algo que você mesma fez. Um jeito de entender a sua própria natureza.
-9016|VOCÊ: Você já deixou a Nima ir uma vez.
+9016|YOU: Você já deixou a Nima ir uma vez.
 9017|Ela desvia o olhar para a mesa.
-9018|MÃE: Por favor, eu…
-9019|VOCÊ: Quando você me apresentou ao corpo dela, não sabia se ia funcionar.
-9020|VOCÊ: Ela tinha partido, e você tinha fé de que eu ia trazê-la de volta.
-9021|VOCÊ: No começo não eram testes… Da primeira vez que você me trouxe de volta, não deu certo.
-9022|VOCÊ: Eu sei… Se você deixar a Nima ir, vai ter que admitir que estava errada.
-9023|MÃE: <shake>Para!</shake>
-9024|VOCÊ: Eu também me lembro do momento em que me tornei a Nima.
-9025|VOCÊ: Eu me lembro da passagem de existir para saber que existo. Tenho dificuldade de conceber isso, estou limitada pelo que o cérebro dela consegue entender.
-9026|MÃE: Você só é… muito imaginativa!
-9027|VOCÊ: Foi como se eu estivesse numa caverna, e o meu horizonte fosse a parede, e de repente eu saísse e visse o oceano pela primeira vez.
-9028|VOCÊ: Eu vejo a mesa e o meu cérebro se enche de todas essas associações. Tipo... ela não é <i>só</i> uma mesa.
+9018|MOM: Por favor, eu…
+9019|YOU: Quando você me apresentou ao corpo dela, não sabia se ia funcionar.
+9020|YOU: Ela tinha partido, e você tinha fé de que eu ia trazê-la de volta.
+9021|YOU: No começo não eram testes… Da primeira vez que você me trouxe de volta, não deu certo.
+9022|YOU: Eu sei… Se você deixar a Nima ir, vai ter que admitir que estava errada.
+9023|MOM: <shake>Para!</shake>
+9024|YOU: Eu também me lembro do momento em que me tornei a Nima.
+9025|YOU: Eu me lembro da passagem de existir para saber que existo. Tenho dificuldade de conceber isso, estou limitada pelo que o cérebro dela consegue entender.
+9026|MOM: Você só é… muito imaginativa!
+9027|YOU: Foi como se eu estivesse numa caverna, e o meu horizonte fosse a parede, e de repente eu saísse e visse o oceano pela primeira vez.
+9028|YOU: Eu vejo a mesa e o meu cérebro se enche de todas essas associações. Tipo... ela não é <i>só</i> uma mesa.
 9029|Essa era a mesa onde o Pai limpava os peixes… Isso me faz pensar em <b>Pai</b> e <b>peixe.</b>
-9030|VOCÊ: No começo era demais, mas eu aprendi a me concentrar.
-9031|VOCÊ: Como você consegue? Você fica meio anestesiada com todas as coisas por aqui?
-9032|MÃE: …Não sei do que você está falando.
-9033|VOCÊ: Eu provavelmente conseguiria passar horas olhando pra tudo e só… <i>pensando</i> nisso.
+9030|YOU: No começo era demais, mas eu aprendi a me concentrar.
+9031|YOU: Como você consegue? Você fica meio anestesiada com todas as coisas por aqui?
+9032|MOM: …Não sei do que você está falando.
+9033|YOU: Eu provavelmente conseguiria passar horas olhando pra tudo e só… <i>pensando</i> nisso.
 9034|Ela olha ao redor da sala. Sorri quando os olhos passam pela árvore de Natal.
-9035|MÃE: Acho que… Eu só não penso nisso.
+9035|MOM: Acho que… Eu só não penso nisso.
 9036|Como explicar que você é… bem… <i>você.</i>
 9037|Você não é a Nima, mas isso não ajuda muito a definir o que você é.
 9038|Talvez você possa começar com um nome novo.
@@ -65,23 +65,23 @@
 9064|Não é de se espantar que ela prefira se agarrar a esse cobertor de mentiras.
 9065|Melhor convencê-la a abrir mão da própria história do que arrancá-la dela… Mesmo assim… isso provavelmente não vai funcionar.
 9066|Depois disso, você vai estar livre, e o trabalho duro de viver a sua própria vida pode começar.
-9067|VOCÊ: Lá no penhasco… Você disse pra Nima que era você quem queria fugir.
+9067|YOU: Lá no penhasco… Você disse pra Nima que era você quem queria fugir.
 9068|Você sabe que ela não quer estar aqui. Ela é uma participante relutante da própria vida.
 9069|Se ela pudesse aceitar que a Nima se foi. Talvez isso a ajudasse a se encontrar de novo.
-9070|VOCÊ: Algumas vezes eu me perguntei se a verdade não é que você achava a Nima um fardo. Que você se sentia tão presa quanto ela.
-9071|MÃE: <size=75%>Isso não é verdade.
-9072|VOCÊ: Você disse isso em algum momento, aqui embaixo, quando achou que eu não ia lembrar- Você nunca levou jeito pra ser mãe.
-9073|MÃE: O que você quer que eu diga? Que eu sou uma mãe ruim?
-9074|MÃE: É por isso que você está dizendo tudo isso? Pra me castigar de novo?
-9075|VOCÊ: Por que você se importa se eu sou a Nima ou não! Se ela se foi, você finalmente pode ser feliz.
-9076|MÃE: Você acha que eu teria feito <i>qualquer</i> coisa disso se eu realmente quisesse isso!?
-9077|MÃE: Eu estava com raiva. Eu disse que você não tinha o direito de se chamar de minha filha, e você fugiu.
-9078|MÃE: Eu não quis dizer aquilo.
-9079|MÃE: A culpa é minha.
-9080|MÃE: Tá feliz? Nada disso teria acontecido se o Allan ainda estivesse aqui.
-9081|VOCÊ: Eu só acho que a gente é igual.
-9082|VOCÊ: O Allan e a Nima estão te prendendo.
-9083|MÃE: Como você pode dizer isso…?
+9070|YOU: Algumas vezes eu me perguntei se a verdade não é que você achava a Nima um fardo. Que você se sentia tão presa quanto ela.
+9071|MOM: <size=75%>Isso não é verdade.
+9072|YOU: Você disse isso em algum momento, aqui embaixo, quando achou que eu não ia lembrar- Você nunca levou jeito pra ser mãe.
+9073|MOM: O que você quer que eu diga? Que eu sou uma mãe ruim?
+9074|MOM: É por isso que você está dizendo tudo isso? Pra me castigar de novo?
+9075|YOU: Por que você se importa se eu sou a Nima ou não! Se ela se foi, você finalmente pode ser feliz.
+9076|MOM: Você acha que eu teria feito <i>qualquer</i> coisa disso se eu realmente quisesse isso!?
+9077|MOM: Eu estava com raiva. Eu disse que você não tinha o direito de se chamar de minha filha, e você fugiu.
+9078|MOM: Eu não quis dizer aquilo.
+9079|MOM: A culpa é minha.
+9080|MOM: Tá feliz? Nada disso teria acontecido se o Allan ainda estivesse aqui.
+9081|YOU: Eu só acho que a gente é igual.
+9082|YOU: O Allan e a Nima estão te prendendo.
+9083|MOM: Como você pode dizer isso…?
 9084|Você suspira, isso não está funcionando. É mais fácil reabrir velhas feridas do que curá-las.
 9085|Você se pergunta por um momento se família é mesmo importante pra você.
 9086|Você herdou da Nima um álbum inteiro de lembranças borradas. Mas é só isso que elas são: lembranças.
@@ -94,27 +94,27 @@
 9093|Você se lembra de que ela não pode mais te machucar.
 9094|Depois de ter esse desfecho, você pode ir embora.
 9095|Ela não vai conseguir te impedir.
-9096|VOCÊ: O que era mesmo que você dizia, cada vez que me matava? "Minha filha boa e feliz", né?
-9097|MÃE: Bom… você estava sendo malvada. Me ameaçando… mesmo agindo como a Nima, você não estava agindo como um ser humano.
-9098|MÃE: Eu precisava te lembrar de quem você devia ser.
+9096|YOU: O que era mesmo que você dizia, cada vez que me matava? "Minha filha boa e feliz", né?
+9097|MOM: Bom… você estava sendo malvada. Me ameaçando… mesmo agindo como a Nima, você não estava agindo como um ser humano.
+9098|MOM: Eu precisava te lembrar de quem você devia ser.
 9099|Às vezes isso era verdade. A primeira vez que ela te trouxe de volta foi confusa; você a atacou.
 9100|Mais tarde, porém, houve algumas "rodadas" em que ela te matou só porque você tinha falado errado.
-9101|VOCÊ: Você sabia o que estava fazendo naquela época. Às vezes só dizer aquela frase já bastava pra eu ter medo de você.
-9102|MÃE: Você parecia nunca guardar suas memórias, mas parecia se lembrar de estímulos fortes, como a sala da caldeira.
+9101|YOU: Você sabia o que estava fazendo naquela época. Às vezes só dizer aquela frase já bastava pra eu ter medo de você.
+9102|MOM: Você parecia nunca guardar suas memórias, mas parecia se lembrar de estímulos fortes, como a sala da caldeira.
 9103|Você estremece ao lembrar o quanto tinha medo daquela sala.
-9104|VOCÊ: Eu me lembro de você me amarrando naquela caldeira…
-9105|MÃE: ...Depois de você tentar me matar.
+9104|YOU: Eu me lembro de você me amarrando naquela caldeira…
+9105|MOM: ...Depois de você tentar me matar.
 9106|Ela desvia o olhar para a porta da sala da caldeira. As sobrancelhas formam uma linha, transmitindo uma mistura de teimosia e vergonha.
-9107|MÃE: Eu nunca vou me perdoar pelo que fiz… Mas ainda acredito que era necessário.
-9108|VOCÊ: É claro que não era.
-9109|MÃE: Você está aqui agora porque cada teste conseguiu te ensinar honestidade, compaixão e medo. É tudo de que você precisa pra viver uma vida feliz no nosso mundo.
-9110|VOCÊ: Se você queria que eu agisse como um ser humano, devia ter me tratado como um. Tudo o que você conseguiu foi me fazer ter raiva de você.
-9111|MÃE: Você tem razão, eu sou mesquinha e rancorosa. Eu aprendi essas lições exatamente do mesmo jeito que te ensinei.
-9112|MÃE: Considerando tudo, você até que saiu bem.
-9113|VOCÊ: Você vivia me dizendo que a Nima cair no rio foi um acidente.
-9114|VOCÊ: Nunca funcionou de verdade- isso sempre me dava a pista de que você não estava me contando a história toda.
-9115|VOCÊ: Por que você continuava fazendo isso?
-9116|MÃE: Se você aceitasse, então podia se tornar verdade.
+9107|MOM: Eu nunca vou me perdoar pelo que fiz… Mas ainda acredito que era necessário.
+9108|YOU: É claro que não era.
+9109|MOM: Você está aqui agora porque cada teste conseguiu te ensinar honestidade, compaixão e medo. É tudo de que você precisa pra viver uma vida feliz no nosso mundo.
+9110|YOU: Se você queria que eu agisse como um ser humano, devia ter me tratado como um. Tudo o que você conseguiu foi me fazer ter raiva de você.
+9111|MOM: Você tem razão, eu sou mesquinha e rancorosa. Eu aprendi essas lições exatamente do mesmo jeito que te ensinei.
+9112|MOM: Considerando tudo, você até que saiu bem.
+9113|YOU: Você vivia me dizendo que a Nima cair no rio foi um acidente.
+9114|YOU: Nunca funcionou de verdade- isso sempre me dava a pista de que você não estava me contando a história toda.
+9115|YOU: Por que você continuava fazendo isso?
+9116|MOM: Se você aceitasse, então podia se tornar verdade.
 9117|Você tenta sentir alguma coisa.
 9118|Aquilo meio que quica pelo seu cérebro, mas a sensação é estranha. É como a Nima se sente, não você. É uma emoção que você conjurou puxando memórias associadas.
 9119|A Nima teria ficado furiosa se a Annabelle fizesse isso com ela. Mas ela nunca teria coragem de dizer isso em voz alta.
@@ -129,10 +129,10 @@
 9128|A Annabelle tinha medo de que a Pearl fosse tirar a Nima dela. A parte assustadora é que você não tem certeza do que a Nima achava dessa possibilidade.
 9129|Você vai ter que lembrar disso no futuro.
 9130|Uma parte de você sempre vai achar pessoas "heroicas" o máximo, mesmo que o heroísmo delas, na prática, só seja destrutivo.
-9131|VOCÊ: Você não sabe do que está falando. Não sei por que eu ainda tenho que tentar te convencer depois de tudo isso.
-9132|MÃE: Você está confusa, sofreu um traumatismo craniano, tem um verme no seu cérebro e ainda é uma criança.
-9133|MÃE: Você se lembrou de tudo, mas isso não quer dizer que você sabe o que aconteceu!
-9134|VOCÊ: Nem você!
+9131|YOU: Você não sabe do que está falando. Não sei por que eu ainda tenho que tentar te convencer depois de tudo isso.
+9132|MOM: Você está confusa, sofreu um traumatismo craniano, tem um verme no seu cérebro e ainda é uma criança.
+9133|MOM: Você se lembrou de tudo, mas isso não quer dizer que você sabe o que aconteceu!
+9134|YOU: Nem você!
 9135|Ela desvia o olhar de você e franze a testa.
 9136|Você se lembra de que essa é a coisa certa a fazer.
 9137|É melhor dizer a verdade do que vocês duas continuarem vivendo uma mentira.
@@ -146,58 +146,58 @@
 9145|Essas memórias são excruciantes; a Nima sabia que estava morrendo, que a mãe ia fazer alguma coisa com ela.
 9146|Ela não conseguia se mexer, não conseguia sinalizar de jeito nenhum que ainda estava ali.
 9147|Você quer consolá-la de algum jeito.
-9148|MÃE: É tão difícil assim só <i>fingir</i> ser a Nima…
-9149|MÃE: Você não acha que me deve isso?
-9150|MÃE: Eu sacrifiquei tanto por você, eu despedacei a minha vida por você…
-9151|MÃE: Eu te dei o corpo da minha filha!
+9148|MOM: É tão difícil assim só <i>fingir</i> ser a Nima…
+9149|MOM: Você não acha que me deve isso?
+9150|MOM: Eu sacrifiquei tanto por você, eu despedacei a minha vida por você…
+9151|MOM: Eu te dei o corpo da minha filha!
 9152|Com uma última confissão rouca, o último fio da ilusão se rompe.
 9153|Você vê o choque da percepção passar pelos olhos dela. Ao contrário da fúria, ela já aceitou a verdade.
-9154|MÃE: Ela se foi.
+9154|MOM: Ela se foi.
 9155|As lágrimas se acumulam nos cantos dos olhos dela e escorrem pelas bochechas.
-9156|MÃE: Ela se foi de verdade.
+9156|MOM: Ela se foi de verdade.
 9157|Você fica em silêncio com ela. Sem vontade de consolá-la, mas também sem vontade de ir embora.
-9158|MÃE: O que eu estou fazendo… qual era o sentido de tudo isso?
-9159|MÃE: Eu matei ela.
-9160|MÃE: O que eu vou fazer?
+9158|MOM: O que eu estou fazendo… qual era o sentido de tudo isso?
+9159|MOM: Eu matei ela.
+9160|MOM: O que eu vou fazer?
 9161|Ela funga uma última frase antes de desabar numa bagunça entrecortada de lágrimas e soluços.
 9162|Você espera por ela, enquanto a sombra passa.
-9163|VOCÊ: Eu odeio este porão.
-9164|MÃE: ...Eu também.
-9165|VOCÊ: Quanto tempo levou pra sua vida inteira vir parar aqui embaixo?
-9166|VOCÊ: Primeiro era só um depósito, depois virou o seu laboratório, e agora nós duas moramos aqui embaixo…
-9167|VOCÊ: A Nima não ia querer que você fizesse isso consigo mesma.
-9168|MÃE: Eu sei disso. Eu não quero que você seja assim.
-9169|MÃE: Eu quero ser uma boa mãe... Compassiva, confiável. Um bom exemplo.
-9170|MÃE: Mas essa não sou eu.... Eu nunca devia ter tido uma filha.
-9171|MÃE: Quando o Allan morreu, eu quis ir com ele. Eu fui infeliz... todos os dias em que tive que fazer isso sozinha.
-9172|MÃE: Eu tinha tanto medo disso... de arruinar a vida dela.
-9173|MÃE: Eu sei que sou uma mãe ruim.
-9174|MÃE: Mas eu sempre amei ela... Ainda amo.
-9175|MÃE: Eu não sei o que fazer...
-9176|MÃE: Eu não sei onde colocar todo esse amor que ainda tenho por ela.
+9163|YOU: Eu odeio este porão.
+9164|MOM: ...Eu também.
+9165|YOU: Quanto tempo levou pra sua vida inteira vir parar aqui embaixo?
+9166|YOU: Primeiro era só um depósito, depois virou o seu laboratório, e agora nós duas moramos aqui embaixo…
+9167|YOU: A Nima não ia querer que você fizesse isso consigo mesma.
+9168|MOM: Eu sei disso. Eu não quero que você seja assim.
+9169|MOM: Eu quero ser uma boa mãe... Compassiva, confiável. Um bom exemplo.
+9170|MOM: Mas essa não sou eu.... Eu nunca devia ter tido uma filha.
+9171|MOM: Quando o Allan morreu, eu quis ir com ele. Eu fui infeliz... todos os dias em que tive que fazer isso sozinha.
+9172|MOM: Eu tinha tanto medo disso... de arruinar a vida dela.
+9173|MOM: Eu sei que sou uma mãe ruim.
+9174|MOM: Mas eu sempre amei ela... Ainda amo.
+9175|MOM: Eu não sei o que fazer...
+9176|MOM: Eu não sei onde colocar todo esse amor que ainda tenho por ela.
 9177|Você pensa no seu próprio amor pela Nima.
 9178|Você sente uma tristeza profunda por ela e pela vida que ela nunca chegou a viver.
 9179|Há gratidão também, misturada com a culpa.
 9180|Sem a morte dela, você ainda estaria presa naquela pedra.
 9181|Depois de passar tanto tempo em estase, cada emoção e sensação que você tem é um presente.
 9182|Você só queria que nenhuma de vocês duas tivesse precisado sofrer tanto pra recebê-lo.
-9183|VOCÊ: Vamos lá pra cima.
-9184|MÃE: M-Mas…
+9183|YOU: Vamos lá pra cima.
+9184|MOM: M-Mas…
 9185|Você se levanta e, com um sorriso, faz sinal para que ela a siga.
 9186|Ela cede e começa a te seguir escada acima. Evita olhar pra você. Mantém os olhos nos sapatos enquanto se arrasta atrás de você.
 9187|Você esperava que a porta estivesse trancada, mas ela se abre facilmente com um empurrãozinho.
 9188|A casa está escura.
 9189|Você sente o cheiro da poeira suspensa no ar, junto com o odor pungente de comida apodrecendo.
 9190|Você conhece este corredor; ele leva direto à porta da frente. Você vê pequenos feixes de luz escorrendo e arranhando as venezianas.
-9191|MÃE: Espera!
+9191|MOM: Espera!
 9192|<waitfor=1>A mão da Annabelle dispara, e os dedos dela se cravam no seu pulso. Um aperto possessivo que você conhece bem.
-9193|MÃE: Por favor… não vai embora.
-9194|MÃE: Eu sei que as coisas que fiz com você são imperdoáveis. Eu te machuquei de novo e de novo.
-9195|MÃE: Você devia me odiar. Eu também me odeio.
-9196|MÃE: Mas…
-9197|MÃE: Mesmo que você não seja a Nima… Eu te criei.
-9198|MÃE: Eu ainda sou sua mãe.
-9199|MÃE: Não importa o que aconteça, eu sempre vou te amar.
+9193|MOM: Por favor… não vai embora.
+9194|MOM: Eu sei que as coisas que fiz com você são imperdoáveis. Eu te machuquei de novo e de novo.
+9195|MOM: Você devia me odiar. Eu também me odeio.
+9196|MOM: Mas…
+9197|MOM: Mesmo que você não seja a Nima… Eu te criei.
+9198|MOM: Eu ainda sou sua mãe.
+9199|MOM: Não importa o que aconteça, eu sempre vou te amar.
 9200|Ela decide ignorar a complexidade da situação. Vai direto a algo… estranhamente reconfortante.
 9201|Você tira um segundo pra colocar todos os seus pensamentos no lugar.
 9202|Você a ama?
@@ -218,14 +218,14 @@
 9217|Você olha pra Annabelle. Anos de luto, raiva e desespero estão gravados nas linhas do rosto dela, no aperto firme das mãos dela em volta das suas.
 9218|Quando você se olhava no espelho, era ela que você via refletida.
 9219|Você não quer ser consumida do jeito que ela foi.
-9220|VOCÊ: Eu não quero mais te odiar.
+9220|YOU: Eu não quero mais te odiar.
 9221|Ela pisca, espantando as lágrimas, em choque.
-9222|VOCÊ: O ódio que eu sentia por você parecia necessário pra minha sobrevivência, mas agora parece… inútil. Como se só estivesse me prendendo.
-9223|VOCÊ: Depois de passar todo esse tempo juntas, eu vi todos os lados possíveis de você.
-9224|VOCÊ: Eu passei a te aceitar como a pessoa que você é.
-9225|VOCÊ: Você não é minha mãe.
-9226|VOCÊ: Esse amor que você tem pela Nima, esse amor que você tem por mim… Eu não posso aceitar.
-9227|VOCÊ: Mesmo que você mudasse agora, mesmo que a gente pudesse ser uma família, não é isso que eu quero.
+9222|YOU: O ódio que eu sentia por você parecia necessário pra minha sobrevivência, mas agora parece… inútil. Como se só estivesse me prendendo.
+9223|YOU: Depois de passar todo esse tempo juntas, eu vi todos os lados possíveis de você.
+9224|YOU: Eu passei a te aceitar como a pessoa que você é.
+9225|YOU: Você não é minha mãe.
+9226|YOU: Esse amor que você tem pela Nima, esse amor que você tem por mim… Eu não posso aceitar.
+9227|YOU: Mesmo que você mudasse agora, mesmo que a gente pudesse ser uma família, não é isso que eu quero.
 9228|Ela afrouxa o aperto na sua mão. Você sente as lágrimas dela pingando nos seus dedos. Ela leva um tempo pra formular uma resposta.
 9229|ANNABELLE: Então… Você vai mesmo embora.
 9230|Você olha pra ela, encolhida na escuridão do corredor.
@@ -234,9 +234,9 @@
 9233|É um dia de outono perfeito. O céu parece impossivelmente azul contra as folhas de outono.
 9234|Está fresco o bastante para um suéter, e o ar limpo e revigorante se acomoda gostoso nos seus pulmões.
 9235|Parece um novo começo.
-9236|VOCÊ: Eu também vou sentir falta dela.
-9237|VOCÊ: Tem uma parte de mim que ainda se agarra a ela.
-9238|VOCÊ: Mas está na hora de deixá-la descansar.
+9236|YOU: Eu também vou sentir falta dela.
+9237|YOU: Tem uma parte de mim que ainda se agarra a ela.
+9238|YOU: Mas está na hora de deixá-la descansar.
 9239|A Annabelle solta a sua mão.
 9240|Você vê o corpo dela se retesar e a respiração vacilar.
 9241|Quando ela finalmente olha nos seus olhos, parece em paz.
@@ -251,22 +251,22 @@
 9250|A Annabelle te olha, maravilhada.
 9251|Você reconhece essa emoção.
 9252|O rosto dela tem o mesmo encanto que tinha quando a Nima nasceu.
-9253|VOCÊ: Adeus, Annabelle.
+9253|YOU: Adeus, Annabelle.
 9254|Você se obriga a olhar a Annabelle nos olhos.
 9255|Anos de luto, raiva e desespero estão gravados nas linhas do rosto dela, no aperto firme das mãos dela em volta das suas.
 9256|Você não quer nada com ela…
-9257|VOCÊ: Você acha mesmo que eu consigo acreditar nisso depois de tudo o que você fez.
-9258|MÃE: Não. Eu… Eu quero mudar.
-9259|MÃE: Eu já perdi a Nima... Não quero perder você também.
-9260|MÃE: Eu te entendo agora. Todas as suas partes.
-9261|MÃE: Eu posso te ajudar a descobrir quem você quer ser.
+9257|YOU: Você acha mesmo que eu consigo acreditar nisso depois de tudo o que você fez.
+9258|MOM: Não. Eu… Eu quero mudar.
+9259|MOM: Eu já perdi a Nima... Não quero perder você também.
+9260|MOM: Eu te entendo agora. Todas as suas partes.
+9261|MOM: Eu posso te ajudar a descobrir quem você quer ser.
 9262|Você volta a algumas das suas primeiras memórias do porão. O amor dela já foi tudo o que você mais desejava.
-9263|VOCÊ: Eu me lembro de olhar pra você pela primeira vez através dos olhos dela.
-9264|VOCÊ: Eu me lembro de sentir o amor que ela tinha por você. A confiança.
-9265|VOCÊ: Você se aproveitou disso.
-9266|VOCÊ: Você nunca nem me deu uma chance.
-9267|VOCÊ: Talvez a gente pudesse ter sido uma família... mas é tarde demais pra isso.
-9268|VOCÊ: Eu não preciso mais de você.
+9263|YOU: Eu me lembro de olhar pra você pela primeira vez através dos olhos dela.
+9264|YOU: Eu me lembro de sentir o amor que ela tinha por você. A confiança.
+9265|YOU: Você se aproveitou disso.
+9266|YOU: Você nunca nem me deu uma chance.
+9267|YOU: Talvez a gente pudesse ter sido uma família... mas é tarde demais pra isso.
+9268|YOU: Eu não preciso mais de você.
 9269|ANNABELLE: Se você quer mesmo ir embora… Eu não vou te impedir.
 9270|ANNABELLE: Só saiba que sempre vai ter um lugar pra você aqui… Se você mudar de ideia.
 9271|As mãos dela se soltam, deixando você ir.
@@ -497,4 +497,4 @@
 9496|Uma trilha de papel!
 9497|Aonde será que isso leva...?
 9498|Finalmente, limpinho.
-9499|VOCÊ: As minhas mãos estão meio empoeiradas.
+9499|YOU: As minhas mãos estão meio empoeiradas.

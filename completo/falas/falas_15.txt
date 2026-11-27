@@ -3,23 +3,23 @@
 7502|Você devia fazer alguma coisa por si mesma…
 7503|Só te resta uma última faca: a sovela.
 7504|O mesmo espeto que ela usava para te matar toda vez que você falhava. Só de olhar para ele, seu olho dói.
-7505|MÃE: Nima! Eu sei que você tá com raiva. Só não faça nada de que vá se arrepender, tá?
-7506|MÃE: Não jogue sua humanidade fora só por causa do que eu fiz!
+7505|MOM: Nima! Eu sei que você tá com raiva. Só não faça nada de que vá se arrepender, tá?
+7506|MOM: Não jogue sua humanidade fora só por causa do que eu fiz!
 7507|Como seria fácil fazer o mesmo com ela. Enfiar no olho dela e acabar com isso.
-7508|MÃE: Eu sei que falhei com você…
-7509|MÃE: Só… por favor.
+7508|MOM: Eu sei que falhei com você…
+7509|MOM: Só… por favor.
 7510|Você vira o espeto ao contrário e golpeia.
 7511|Você a observa se contorcer por mais um instante.
 7512|Uma parte de você acha que ela tem razão, que você é fraca, que mesmo depois de tudo o fantasma da Nima ainda te assombra.
 7513|Mesmo assim, seria difícil chamar isso de misericórdia. Há uma vingança sutil em realizar o maior medo dela.
 7514|Você se levanta e vai embora.
-7515|MÃE: Nima…
+7515|MOM: Nima…
 7516|A determinação dela se foi; a voz soa distante.
-7517|MÃE: Nima… Por favor… Não vá embora.
+7517|MOM: Nima… Por favor… Não vá embora.
 7518|Ela pode ficar aqui, torturada e sozinha, agarrada aos mortos.
 7519|Você dá as costas para sua mãe, sentindo um zumbido incessante sob o que um dia foi pele.
-7520|VOCÊ: Cansei de pensar em você.
-7521|MÃE: Nim-
+7520|YOU: Cansei de pensar em você.
+7521|MOM: Nim-
 7522|A porta do bunker bate atrás de você quando você sai. O silêncio súbito da voz dela te acalma.
 7523|Você volta para a sala de testes e olha ao redor uma última vez.
 7524|Quando vê a escada, você percebe que finalmente está livre. Você sonhou com esse momento por tanto tempo.
@@ -84,40 +84,40 @@
 7583|E assim, por toda a maré da noite, eu me deito ao lado<br>   Da minha querida — minha querida — minha vida e minha criança,
 7584|Em seu sepulcro ali junto ao mar —<br>   Em sua tumba junto ao mar que ressoa.
 7585|Uma batida repentina na porta te acorda num susto.
-7586|MÃE: Nima, você tá acordada?
+7586|MOM: Nima, você tá acordada?
 7587|É difícil sair da cama. Parece que seu cérebro está nadando.
-7588|MÃE: Certo. Eu tenho um plano... Você tá bem? Não parece muito bem.
-7589|VOCÊ: Tô. Só não dormi muito...
-7590|MÃE: Sinto muito, querida...
-7591|VOCÊ: Qual é o seu plano?
-7592|MÃE: Hum... bom, o simbionte é sensível ao calor.
-7593|MÃE: Meu plano é preparar um banho pra você a uns 48 graus Celsius. Isso deve... incentivar o parasita a sair do seu corpo.
-7594|MÃE: Mas você pode sofrer algumas queimaduras leves.
+7588|MOM: Certo. Eu tenho um plano... Você tá bem? Não parece muito bem.
+7589|YOU: Tô. Só não dormi muito...
+7590|MOM: Sinto muito, querida...
+7591|YOU: Qual é o seu plano?
+7592|MOM: Hum... bom, o simbionte é sensível ao calor.
+7593|MOM: Meu plano é preparar um banho pra você a uns 48 graus Celsius. Isso deve... incentivar o parasita a sair do seu corpo.
+7594|MOM: Mas você pode sofrer algumas queimaduras leves.
 7595|<i>NÃO!</i> Queimar de novo não. Por favor!
-7596|VOCÊ: Ele não gostou disso, acho que quer dizer que vale a pena tentar.
+7596|YOU: Ele não gostou disso, acho que quer dizer que vale a pena tentar.
 7597|Você tenta tirar da cabeça a pergunta de como o parasita vai "sair do seu corpo".
 7598|Sua mãe se recolhe no banheiro com alguns equipamentos de laboratório, e você rapidamente veste sua roupa de natação.
 7599|Quando está pronta, você entra no banheiro e encontra sua mãe mexendo na água, toda atarefada.
 7600|Ela está usando um termômetro para deixar a água na temperatura perfeita.
 7601|Que diabos tem de errado com você?
 7602|Você vai se matar pela aprovação dela.
-7603|MÃE: Pronto, a banheira tá cheia. Você tá... pronta pra entrar?
+7603|MOM: Pronto, a banheira tá cheia. Você tá... pronta pra entrar?
 7604|Você se junta à sua mãe ao lado da banheira. Ela segura sua mão para você entrar sem escorregar.
-7605|MÃE: Muito bem, é só entrar com um pé de cada vez, tá ajustada pra—
+7605|MOM: Muito bem, é só entrar com um pé de cada vez, tá ajustada pra—
 7606|Você põe o pé na água.
 7607|<shake>AAAAHH!
 7608|Você recolhe o pé depressa e o segura.
-7609|MÃE: Querida, olha o termômetro, a temperatura tá em 48 °C. A temperatura normal de um banho é uns 40 °C. Não tá tão quente assim.
+7609|MOM: Querida, olha o termômetro, a temperatura tá em 48 °C. A temperatura normal de um banho é uns 40 °C. Não tá tão quente assim.
 7610|Você range os dentes, subitamente satisfeita por saber que nenhuma dor que você sente é sua. Você quer castigar o verme.
 7611|Você volta depressa para a banheira, põe os dois pés e se encolhe para que a água te cubra.
 7612|<size=150%><shake>AAAAHHHH!!
 7613|Lágrimas escorrem pelo seu rosto. Seus nervos se acendem numa agonia simulada.
-7614|MÃE: Certo, ele tá na sua cabeça. Então eu vou segurar sua cabeça debaixo d'água, tá?
-7615|MÃE: Quanto tempo você consegue prender a respiração?
-7616|VOCÊ: Dois minutos.
+7614|MOM: Certo, ele tá na sua cabeça. Então eu vou segurar sua cabeça debaixo d'água, tá?
+7615|MOM: Quanto tempo você consegue prender a respiração?
+7616|YOU: Dois minutos.
 7617|Ela assente.
-7618|MÃE: Ele pode tentar fazer você sentir medo, mas não acredite nele, tá?
-7619|MÃE: Você tá segura. A mamãe tá com você.
+7618|MOM: Ele pode tentar fazer você sentir medo, mas não acredite nele, tá?
+7619|MOM: Você tá segura. A mamãe tá com você.
 7620|Você inspira e expira fundo algumas vezes para preparar os pulmões. Sua pele está em agonia, cada sentido que você tem é dominado pela dor.
 7621|Por fim, você assente.
 7622|Sua mãe afunda sua cabeça.
@@ -128,16 +128,16 @@
 7627|Isso não vai funcionar!
 7628|Você se concentra e ignora os impulsos no seu cérebro que dizem que você está em perigo.
 7629|O único jeito de sair dessa é você <i>confiar</i> em mim.
-7630|VOCÊ: Minha mãe não é perfeita... Mas se o parasita... se <i>você</i> é a coisa com que ela se preocupou esse tempo todo...
-7631|VOCÊ: Eu preciso tirar você da minha cabeça.
+7630|YOU: Minha mãe não é perfeita... Mas se o parasita... se <i>você</i> é a coisa com que ela se preocupou esse tempo todo...
+7631|YOU: Eu preciso tirar você da minha cabeça.
 7632|Eu não sou o parasita.
-7633|VOCÊ: Agora eu entendo. Essas sensações que eu ando sentindo. A estranheza. É porque você está tentando sobreviver.
+7633|YOU: Agora eu entendo. Essas sensações que eu ando sentindo. A estranheza. É porque você está tentando sobreviver.
 7634|Eu não sou o parasita!
-7635|VOCÊ: Eu finalmente passei nos testes dela! Agora eu sei o que tem de errado comigo e tô muito perto de consertar.
-7636|VOCÊ: Não vou deixar você me manipular pra eu parar.
+7635|YOU: Eu finalmente passei nos testes dela! Agora eu sei o que tem de errado comigo e tô muito perto de consertar.
+7636|YOU: Não vou deixar você me manipular pra eu parar.
 7637|Você é tão falsa. Tudo o que você faz, tudo o que você diz, nada disso significa nada.
 7638|É isso que você ganha por se esforçar tanto pra conquistar a aprovação dela. Um banho em água escaldante.
-7639|VOCÊ: Anda logo e <i>morre</i>, parasita.
+7639|YOU: Anda logo e <i>morre</i>, parasita.
 7640|O problema aqui não sou eu. Você que vive fugindo!
 7641|Se alguém aqui é o parasita, é você.
 7642|Eu me lembro de tudo, eu sei exatamente o que aconteceu antes do "acidente". Eu sei exatamente o que ela está escondendo de você.
@@ -150,23 +150,23 @@
 7649|Se você não acredita em mim, então eu vou provar.
 7650|A verdade é que a Nima não gostava de nadar.
 7651|Mesmo que a mãe dela não a tivesse obrigado a parar, ela teria desistido em menos de um ano. Ela só estava lá porque era boa nisso, não porque gostava de verdade.
-7652|VOCÊ: Cala a boca, eu amo nadar!
+7652|YOU: Cala a boca, eu amo nadar!
 7653|É só uma coisa que ela fazia e que <i>você</i> decidiu transformar numa parte essencial da personalidade dela.
-7654|VOCÊ: Isso... isso não é verdade!
+7654|YOU: Isso... isso não é verdade!
 7655|Se a gente tem alguma esperança de sobreviver.... Você vai precisar descobrir quem você realmente é.
 7656|O que te faz pensar que você é a Nima, se você não sabe nada sobre ela?
-7657|VOCÊ: Você não sabe nada sobre mim!
-7658|VOCÊ: Você é um monstro! Você se enfia no cérebro das pessoas e assume o controle delas.
+7657|YOU: Você não sabe nada sobre mim!
+7658|YOU: Você é um monstro! Você se enfia no cérebro das pessoas e assume o controle delas.
 7659|Ah, você não devia falar assim de si mesma.
-7660|VOCÊ: Eu sou a vítima! Você é só um parasita nojento.
+7660|YOU: Eu sou a vítima! Você é só um parasita nojento.
 7661|Você nunca pareceu ter problema com parasitas antes; afinal, você escolheu sua mãe em vez de si mesma.
-7662|VOCÊ: Minha mãe me ama.
+7662|YOU: Minha mãe me ama.
 7663|Não, não ama. O amor de verdade é incondicional. Ela te trata mais como uma boneca do que como uma pessoa.
-7664|VOCÊ: Não culpe ela. A escolha de tirar você da minha cabeça é minha, não dela.
+7664|YOU: Não culpe ela. A escolha de tirar você da minha cabeça é minha, não dela.
 7665|É mesmo? Pra mim, parece que tudo o que você está fazendo é tentar sobreviver, tentar agradar ela. Se é ela que cria a pressão pra você se machucar, a culpa não é dela?
-7666|VOCÊ: Ela tá obcecada por você desde o começo do verão. Você tirou minha <shake>mãe</shake> de mim.
-7667|VOCÊ: Quando eu tirar você da minha cabeça, <i>tudo</i> vai voltar ao normal.
-7668|VOCÊ: Minhas memórias não importam. Eu <i>sei</i> que sou a Nima porque sou eu quem está no controle!
+7666|YOU: Ela tá obcecada por você desde o começo do verão. Você tirou minha <shake>mãe</shake> de mim.
+7667|YOU: Quando eu tirar você da minha cabeça, <i>tudo</i> vai voltar ao normal.
+7668|YOU: Minhas memórias não importam. Eu <i>sei</i> que sou a Nima porque sou eu quem está no controle!
 7669|A sombra não é real.
 7670|Ele está te mostrando essa ilusão para te assustar.
 7671|Você lembra a si mesma, com firmeza, que isso não é real e se concentra na sensação da mão da sua mãe pressionando firme a sua testa.
@@ -178,39 +178,39 @@
 7677|Você está flutuando na banheira.
 7678|Há uma criatura no seu cérebro, mas tudo bem, logo ela vai embora.
 7679|Depois disso, tudo vai voltar ao normal.
-7680|VOCÊ: Eu sou a Nima... Porque sou eu quem está no controle.
+7680|YOU: Eu sou a Nima... Porque sou eu quem está no controle.
 7681|Você estremece; quase consegue sentir a pedra grudando na sua pele.
-7682|VOCÊ: Essa não é a minha memória, não é. É sua, eu sei que é sua. Não tem nada a ver comigo.
+7682|YOU: Essa não é a minha memória, não é. É sua, eu sei que é sua. Não tem nada a ver comigo.
 7683|Então por que você está com medo?
 7684|Você se lembra, não é? O calor e a dor. A sensação de estar presa.
-7685|VOCÊ: Não! Para com isso!
-7686|VOCÊ: Eu não quero as suas memórias!
+7685|YOU: Não! Para com isso!
+7686|YOU: Eu não quero as suas memórias!
 7687|O que te deixa tão certa de que elas não são suas?
-7688|VOCÊ: Eu não sei!
-7689|VOCÊ: Eu... Eu tô aqui, não tô!? A mãe tá cuidando de mim, ela quer que eu melhore.
+7688|YOU: Eu não sei!
+7689|YOU: Eu... Eu tô aqui, não tô!? A mãe tá cuidando de mim, ela quer que eu melhore.
 7690|Ah, é, e ela também não sabe quem é a Nima.
 7691|As coisas em que ela focou nos testes eram só coisas de que ela se orgulhava.
 7692|Você não se lembra de nada.
 7693|Você só está deixando ela te dizer quem você deveria ser.
 7694|Você se ressente dela por isso.
-7695|VOCÊ: Que outra escolha eu tenho.
+7695|YOU: Que outra escolha eu tenho.
 7696|Eu tento te dizer quem você é desde que você acordou.
-7697|VOCÊ: Eu não me importo!
-7698|VOCÊ: Você tem razão, eu sou insegura, eu não sei o que eu deveria fazer.
-7699|VOCÊ: Mas isso não quer dizer que você sabe tudo.
-7700|VOCÊ: O fato de eu ter entrado nessa banheira é a única prova de que eu preciso- sou eu quem está no controle. Sou eu quem faz as escolhas.
-7701|VOCÊ: Você tem razão...
-7702|VOCÊ: Eu não me lembro de nada.
-7703|VOCÊ: Eu esqueci tudo aquilo... Acho que a mãe não queria que eu lembrasse.
+7697|YOU: Eu não me importo!
+7698|YOU: Você tem razão, eu sou insegura, eu não sei o que eu deveria fazer.
+7699|YOU: Mas isso não quer dizer que você sabe tudo.
+7700|YOU: O fato de eu ter entrado nessa banheira é a única prova de que eu preciso- sou eu quem está no controle. Sou eu quem faz as escolhas.
+7701|YOU: Você tem razão...
+7702|YOU: Eu não me lembro de nada.
+7703|YOU: Eu esqueci tudo aquilo... Acho que a mãe não queria que eu lembrasse.
 7704|Não, não queria. Ela criou os testes para garantir que você não se lembrasse de alguns detalhes.
-7705|VOCÊ: Eu só tô deixando ela me dizer quem eu deveria ser.
-7706|VOCÊ: Ela me ama, ela quer o melhor pra mim.
-7707|VOCÊ: Eu também amo ela...
+7705|YOU: Eu só tô deixando ela me dizer quem eu deveria ser.
+7706|YOU: Ela me ama, ela quer o melhor pra mim.
+7707|YOU: Eu também amo ela...
 7708|Como você pode dizer isso depois de tudo o que ela fez com você!?
-7709|VOCÊ: Não sei... é só... um fato.
-7710|VOCÊ: Ela é minha mãe.
-7711|VOCÊ: Tá bom! O que você quer?
-7712|VOCÊ: Eu não me lembro de nada, por que você não me diz logo quem eu sou?
+7709|YOU: Não sei... é só... um fato.
+7710|YOU: Ela é minha mãe.
+7711|YOU: Tá bom! O que você quer?
+7712|YOU: Eu não me lembro de nada, por que você não me diz logo quem eu sou?
 7713|Você já sabe, as memórias estão todas aqui.
 7714|Empurradas para as profundezas mais fundas.
 7715|Só para voltar à tona nos seus sonhos, onde é seguro você ser você mesma.
@@ -225,32 +225,32 @@
 7724|Você passava o máximo de tempo que podia dormindo.
 7725|...Melhor sonhar do que encarar a sua vida.
 7726|Há uma ressonância nisso. Uma semelhança.
-7727|VOCÊ: Eu não sou nada parecida com você.
-7728|VOCÊ: Não era tão importante assim pra mim.
-7729|VOCÊ: A mãe me pediu pra largar porque tinha medo que eu me afogasse que nem o pai, então eu larguei.
-7730|VOCÊ: Eu quero ser como ela. Focar nas coisas que são importantes.
-7731|VOCÊ: Acho que... eu consigo entender por que ela se sentia assim.
+7727|YOU: Eu não sou nada parecida com você.
+7728|YOU: Não era tão importante assim pra mim.
+7729|YOU: A mãe me pediu pra largar porque tinha medo que eu me afogasse que nem o pai, então eu larguei.
+7730|YOU: Eu quero ser como ela. Focar nas coisas que são importantes.
+7731|YOU: Acho que... eu consigo entender por que ela se sentia assim.
 7732|Eu sei que você odeia ela tanto quanto eu.
 7733|Por que você continua mentindo pra si mesma?
-7734|VOCÊ: Eu não odeio ela...
+7734|YOU: Eu não odeio ela...
 7735|Mesmo que você consiga sair deste porão...
-7736|VOCÊ: Você percebe que vai ter que passar o resto da vida fazendo sacrifícios por ela?
+7736|YOU: Você percebe que vai ter que passar o resto da vida fazendo sacrifícios por ela?
 7737|Todas as vezes em que você conseguiu fazer amigos foram em coisas em que sua mãe te inscreveu. Geralmente, coisas que você odiou no começo, mas depois passou a gostar.
 7738|Você só entrou na equipe de natação porque seu pai se afogou e sua mãe de repente descobriu o valor das aulas de natação.
 7739|Quando você começou a frequentar, você odiava; sua mãe não sabia, mas seu instrutor teve que bancar o psiquiatra amador só pra conseguir te pôr na água.
 7740|Foi a Tiffany quem finalmente te fez nadar. Ela conseguiu convencer a química do seu cérebro de que a água era uma fonte de diversão, e não de medo.
-7741|VOCÊ: Você tá errada... Eu amava nadar por causa dos meus amigos.
+7741|YOU: Você tá errada... Eu amava nadar por causa dos meus amigos.
 7742|A Nima e a Tiffany não se separaram como amigas...
 7743|Não se lembra, suposta Nima?
 7744|Você pensa em uma das suas amigas da equipe de natação... Tiffany.
 7745|Ela tinha um sonho que compartilhou com você: queria ir para as Olimpíadas. Ela era muito apaixonada por natação.
 7746|Mas ela não era tão rápida quanto você.
 7747|Ela te alcançou.
-7748|VOCÊ: Ela foi pra um campo de treinamento chique e voltou mais forte.
-7749|VOCÊ: Eu também queria ir, mas... os pais dela são ricos.
+7748|YOU: Ela foi pra um campo de treinamento chique e voltou mais forte.
+7749|YOU: Eu também queria ir, mas... os pais dela são ricos.
 7750|A Annabelle não deixou a Nima ir.
 7751|A Nima tinha inveja dela. Provavelmente foi por isso que ela explodiu com ela no fim.
-7752|VOCÊ: Do que você tá falando?
+7752|YOU: Do que você tá falando?
 7753|Você se lembra de estar na água pensando no pai. De como, se ele soubesse nadar como você, não teria morrido.
 7754|Não era tão difícil, você pensou; você tinha aprendido em poucos meses.
 7755|O que era isso pra ele? Ele trabalhava no mar o tempo todo. Não foi burrice dele não ter aprendido?
@@ -262,57 +262,57 @@
 7761|Ela não soube o que dizer; só te abraçou e chorou com você por um tempo.
 7762|Você ficou por ela.
 7763|Quando a Nima saiu, a amizade da Tiffany foi o último laço que ela teve que cortar.
-7764|VOCÊ: Beleza... me para se você já ouviu essa.
+7764|YOU: Beleza... me para se você já ouviu essa.
 7765|Por que você ainda tenta essas coisas? Você nem é engraçada.
 7766|Nenhuma das suas piadas é nova. Eu sei de quem você roubou.
-7767|VOCÊ: É tudo original.
+7767|YOU: É tudo original.
 7768|Tem um garoto na escola, o Alex. Ele é o palhaço da turma, mas tudo o que ele faz é repetir piadas que tira de sitcoms dos anos 90.
 7769|A Nima pensou: ele é legal, então, se eu copiar ele, vou ser legal também.
-7770|VOCÊ: Isso... isso não é verdade.
+7770|YOU: Isso... isso não é verdade.
 7771|Você se pergunta se devia tentar entender isso melhor.
-7772|VOCÊ: Por que você acha que eu não gosto de nadar?
+7772|YOU: Por que você acha que eu não gosto de nadar?
 7773|Porque é isso que você é: uma pessoa rasa tentando desesperadamente ser outra pessoa.
-7774|VOCÊ: Você é um verme parasita! Você rouba o corpo dos outros!
-7775|VOCÊ: Minha mãe está obcecada por você há tanto tempo, foi você quem despedaçou a minha família.
+7774|YOU: Você é um verme parasita! Você rouba o corpo dos outros!
+7775|YOU: Minha mãe está obcecada por você há tanto tempo, foi você quem despedaçou a minha família.
 7776|É... acho que eu não devia te culpar. Você é filha dela...
 7777|É ela que você está imitando de verdade.
-7778|VOCÊ: Eu só quero ser como o pai.
+7778|YOU: Eu só quero ser como o pai.
 7779|O homem idealizado de quem a Nima mal se lembrava?
 7780|Você se lembra de que ele <i>não sabia</i> nadar, que foi justamente por isso que ele morreu.
-7781|VOCÊ: Certo... mas, se eu <i>sei</i> nadar, isso vai me ajudar quando eu também começar a pesquisar peixes.
-7782|VOCÊ: Eu podia até mergulhar e nadar do lado dos peixes.
+7781|YOU: Certo... mas, se eu <i>sei</i> nadar, isso vai me ajudar quando eu também começar a pesquisar peixes.
+7782|YOU: Eu podia até mergulhar e nadar do lado dos peixes.
 7783|Tanto faz.
 7784|Está tudo ligado: você copia as pessoas que admira. Pega traços delas e aplica em si mesma.
-7785|VOCÊ: Isso é ruim?
+7785|YOU: Isso é ruim?
 7786|Você decidiu entrar numa banheira e se cozinhar até a morte, então, sim.
 7787|Você procura alguma memória em que possa se agarrar, algo que refute a afirmação do parasita de que ele conhece sua mente melhor do que você.
 7788|Você não encontra nada. Só se sente desligada de si mesma.
 7789|Nadar é muita coisa. Te lembra dor e felicidade. A partir daí, se espalha e toca em algumas coisas, como suas amizades, seus pais e seus sonhos.
 7790|Isso não parece nada raso.
-7791|VOCÊ: Não pode ser só simples? Eu não posso só curtir fazer uma coisa que me deixa feliz?
+7791|YOU: Não pode ser só simples? Eu não posso só curtir fazer uma coisa que me deixa feliz?
 7792|Nadar ensinou uma lição importante à Nima. Ela não podia se deixar apegar a nada.
-7793|VOCÊ: Eu nadei há pouco tempo... quando fui acampar com a minha mãe.
-7794|VOCÊ: Não era pra competição. Era só porque eu queria.
+7793|YOU: Eu nadei há pouco tempo... quando fui acampar com a minha mãe.
+7794|YOU: Não era pra competição. Era só porque eu queria.
 7795|Desde que você chegou em Goldenfield, sentia como se tivesse dificuldade de se mover.
 7796|Estar na água de novo te fez se sentir livre.
 7797|A Nima estava entediada. A Annabelle mandou ela sair do asilo e vir ajudar com a pesquisa dela.
 7798|Tudo o que ela fazia era carregar equipamento de laboratório montanha acima.
 7799|Finalmente, elas pararam para almoçar e, em vez de conversar com ela, ela abriu um livro. A Nima achou que podia muito bem ir nadar.
-7800|VOCÊ: Isso não muda nada. Eu me senti eu mesma de novo.
+7800|YOU: Isso não muda nada. Eu me senti eu mesma de novo.
 7801|Você se lembra de quem encontrou naquele lago?
 7802|Você pondera se existe um jeito de discutir com algo que conhece sua mente.
 7803|Eu sou mais inteligente e mais forte do que você.
-7804|VOCÊ: Ainda sou eu quem está no controle!
+7804|YOU: Ainda sou eu quem está no controle!
 7805|Você não passa de um muro. Eu vou te derrubar, pedra por pedra.
 7806|Você não vai conseguir se esconder do verme. Ele conhece sua mente tão bem quanto você, talvez até melhor.
 7807|Ele sabe que falar como a Annabelle, e te fazer duvidar de si mesma, é um jeito eficaz de te quebrar.
 7808|Não me compare com ela.
 7809|Minhas motivações sempre foram as mesmas. <i>Eu. Quero. Sair.</i> É ela que quer te controlar.
-7810|VOCÊ: Ah, tá, pra você poder me usar pra infectar outras pessoas?
+7810|YOU: Ah, tá, pra você poder me usar pra infectar outras pessoas?
 7811|Não...
 7812|O que... eu quero?
 7813|Acho que seria bom ver o oceano de novo.
-7814|VOCÊ: Você também gosta de nadar?
+7814|YOU: Você também gosta de nadar?
 7815|É... quer dizer. É só o jeito de se locomover, sabe?
 7816|Você se pergunta se não devia tentar fazer ele falar mais de si mesmo, em vez de deixar ele controlar a conversa.
 7817|Você tem mesmo uma tendência a se apegar aos seus feitos.
@@ -320,7 +320,7 @@
 7819|É também a única coisa que a Annabelle deixa a Nima manter.
 7820|A Annabelle tem um momento perfeito gravado a fogo na mente, quando ela estava acampando com a Nima. Ela lia um livro e a Nima nadava no lago.
 7821|Agora ele vive nos testes. A única coisa de que você <i>tem</i> que se lembrar de qualquer jeito.
-7822|VOCÊ: O sacrifício que exemplifica o meu amor por ela.
+7822|YOU: O sacrifício que exemplifica o meu amor por ela.
 7823|A mão dela pressiona sua cabeça com força.
 7824|Você tenta se mexer. Ela pressiona ainda mais forte.
 7825|Você sente o impulso de pular pra fora dessa água, agarrar a cabeça dela e bater até ela morrer.
@@ -349,93 +349,93 @@
 7848|Não. A mãe é a única coisa real na sua vida; seria melhor morrer do que abandoná-la.
 7849|Você é uma jovem incrivelmente talentosa, com um futuro brilhante e tudo mais.
 7850|Você não acredita nisso. É só uma baboseira brega que a Nima tirou da TV, como o resto da personalidade dela.
-7851|VOCÊ: A mãe é uma pessoa incrível. Ela superou muita adversidade pra chegar na posição que tem hoje.
-7852|VOCÊ: Todo mundo tenta derrubar ela, mas ela não dá ouvidos.
+7851|YOU: A mãe é uma pessoa incrível. Ela superou muita adversidade pra chegar na posição que tem hoje.
+7852|YOU: Todo mundo tenta derrubar ela, mas ela não dá ouvidos.
 7853|Você se lembra de que tem que ser como a sua mãe. A voz é uma recalcada e você não pode dar ouvidos a ela.
 7854|Eu sei que você está fingindo...
-7855|VOCÊ: É claro que eu amo nadar. Faz parte do resto da minha personalidade temática de oceano.
-7856|VOCÊ: Todos os pôsteres do meu quarto são de animais marinhos, até meu brinquedo favorito é um tubarão de pelúcia!
+7855|YOU: É claro que eu amo nadar. Faz parte do resto da minha personalidade temática de oceano.
+7856|YOU: Todos os pôsteres do meu quarto são de animais marinhos, até meu brinquedo favorito é um tubarão de pelúcia!
 7857|Você não liga pra nenhuma dessas merdas. Você é só uma criança brincando de faz de conta.
 7858|A Nima só fingia se importar porque era uma coisa pela qual o pai dela era apaixonado.
-7859|VOCÊ: Por que você tá sendo tão má comigo de repente!?
+7859|YOU: Por que você tá sendo tão má comigo de repente!?
 7860|Porque você me traiu!
 7861|Nima, parasita, não importa. Eu sou uma parte de você.
 7862|Você quer se castigar só porque tem outra voz na sua cabeça?
 7863|Essa é uma mentira em que a Annabelle quer que você acredite.
 7864|Tem certeza de que você ama nadar?
 7865|Afinal... você teve aquele pequeno "acidente".
-7866|VOCÊ: Mesmo depois de tudo o que aconteceu... eu ainda preciso de alguma coisa só pra mim.
-7867|VOCÊ: É por isso que eu tenho que me livrar de você.
-7868|VOCÊ: Eu preciso saber que a minha mente é minha.
+7866|YOU: Mesmo depois de tudo o que aconteceu... eu ainda preciso de alguma coisa só pra mim.
+7867|YOU: É por isso que eu tenho que me livrar de você.
+7868|YOU: Eu preciso saber que a minha mente é minha.
 7869|Você parece tão sensata.
 7870|Quase me faz esquecer que você está ativamente tentando se matar.
-7871|VOCÊ: Como eu posso confiar em você...?
-7872|VOCÊ: Talvez você tenha razão.
-7873|VOCÊ: Só tava ficando entre mim e a mãe.
+7871|YOU: Como eu posso confiar em você...?
+7872|YOU: Talvez você tenha razão.
+7873|YOU: Só tava ficando entre mim e a mãe.
 7874|Capacho.
-7875|VOCÊ: O que você quer que eu faça, quer que eu lute com você!?
+7875|YOU: O que você quer que eu faça, quer que eu lute com você!?
 7876|Eu quero que você me entenda.
-7877|VOCÊ: Como eu poderia entender um <i>verme.</i>
-7878|VOCÊ: Eu quero me encaixar...
-7879|VOCÊ: Lá em Vancouver eu era tipo... uma garota atleta, aquela era a minha turma.
+7877|YOU: Como eu poderia entender um <i>verme.</i>
+7878|YOU: Eu quero me encaixar...
+7879|YOU: Lá em Vancouver eu era tipo... uma garota atleta, aquela era a minha turma.
 7880|Não. A Nima não assistia hóquei, não acompanhava nenhum atleta.
 7881|O sonho de ir aos campos de treinamento e seguir os passos de... Cara, a Nima nem lembra o nome das pessoas que a Tiffany idolatrava. Esse sonho era da Tiffany.
 7882|Quando a Nima chegou em Goldenfield, viu que todas as garotas usavam uns sapatos idiotas.
 7883|Ela não sabia nada sobre eles, nem achava eles bonitos.
 7884|Mas ela <i>sabia</i> que tinha que ter um par!
-7885|VOCÊ: Para com isso.
+7885|YOU: Para com isso.
 7886|Você se lembra do que a Nima fez?
-7887|VOCÊ: Eu falei <i>cala a boca!</i>
+7887|YOU: Eu falei <i>cala a boca!</i>
 7888|A Nima roubou a carteira da Pearl e usou o dinheiro que encontrou dentro pra comprar um par. Eles ainda estão no seu quarto.
 7889|Parece pouca coisa, mas você não consegue lembrar a última vez que viu o sol. A maioria das memórias recentes zumbindo no seu cérebro te coloca firmemente dentro de casa.
 7890|Você sente uma vontade repentina de simplesmente se aquecer sob o sol, curtir cozinhar devagarinho numa toalha ao lado de um lago ou alguma coisa parecida com água.
 7891|Parece horrível.
 7892|Claro, você não ia gostar disso, já que é um verme!
-7893|VOCÊ: Eu gosto de outras coisas também... tipo cozinhar.
+7893|YOU: Eu gosto de outras coisas também... tipo cozinhar.
 7894|A Nima gostava quando a mãe a elogiava- ela dizia que a Nima era madura, que a lembrava do Allan.
-7895|VOCÊ: Isso não basta?
+7895|YOU: Isso não basta?
 7896|Bastaria, se a Nima não achasse a tarefa uma chatice.
-7897|VOCÊ: Eu também gosto de arte!
+7897|YOU: Eu também gosto de arte!
 7898|A Nima desenhava muito no fundamental, mas não desenhou quase nada desde a mudança.
 7899|Ela não ligava tanto assim.
-7900|VOCÊ: Foi divertido fazer pros testes outro dia!
+7900|YOU: Foi divertido fazer pros testes outro dia!
 7901|Estranhamente, ele não responde rápido.
 7902|Se você diz...
 7903|Você pensa em outras maneiras de rejeitar o verme.
 7904|Ele quer que você acredite que sua identidade é frágil.
-7905|VOCÊ: Eu gosto de desenho animado e sou muito criativa!
+7905|YOU: Eu gosto de desenho animado e sou muito criativa!
 7906|Faz muito tempo que alguém não acha isso fofo.
-7907|VOCÊ: Isso deixa mais fácil ficar sozinha...
+7907|YOU: Isso deixa mais fácil ficar sozinha...
 7908|Seu tubarão provavelmente está te esperando lá em cima. Junto com o resto dos seus bichinhos de pelúcia. É estranho você não poder ter ele aqui embaixo.
 7909|É, estranho, considerando que ela quer que você seja o bebezinho precioso dela.
-7910|VOCÊ: Não tem nada de errado em ter bichinhos de pelúcia.
+7910|YOU: Não tem nada de errado em ter bichinhos de pelúcia.
 7911|Você queria ter a segurança emocional que a Nima tinha quando tinha quatro anos. É só isso que você quer: poder abraçar alguma coisa macia e sentir que tudo vai ficar bem.
 7912|Você é inteligente demais pra isso.
-7913|VOCÊ: ...cala a boca.
+7913|YOU: ...cala a boca.
 7914|Eu podia te dizer que ter bichinhos de pelúcia é infantil, mas você já sabe disso. Não, eu te conheço melhor que isso. Você é viciada em conforto, precisa dele o tempo todo pra se sentir melhor.
-7915|VOCÊ: Eu tô segura... A mãe tá cuidando de mim.
-7916|VOCÊ: Eu também sou muito inteligente!
+7915|YOU: Eu tô segura... A mãe tá cuidando de mim.
+7916|YOU: Eu também sou muito inteligente!
 7917|E mesmo assim passa tanto tempo se fazendo de burra...
-7918|VOCÊ: Eu ganhei a feira de ciências da escola! Cheguei na final quando era bem novinha e tava competindo com um monte de crianças mais velhas!
+7918|YOU: Eu ganhei a feira de ciências da escola! Cheguei na final quando era bem novinha e tava competindo com um monte de crianças mais velhas!
 7919|O pai da Nima fez o projeto da feira de ciências por ela... As outras crianças da turma sabiam. Provavelmente ainda lembram que ela trapaceou.
-7920|VOCÊ: Eu era criança, não sabia que não podia pedir ajuda pro pai...
+7920|YOU: Eu era criança, não sabia que não podia pedir ajuda pro pai...
 7921|No primeiro dia da Nima no ensino médio em Goldenfield, ela começou a desatar a falar sobre peixes. Todo mundo olhou pra ela como se ela fosse louca.
-7922|VOCÊ: É... aquilo foi uma péssima ideia.
-7923|VOCÊ: A mãe gosta de mim. É só isso que importa.
+7922|YOU: É... aquilo foi uma péssima ideia.
+7923|YOU: A mãe gosta de mim. É só isso que importa.
 7924|<speed=0.5>Você sabe que isso é mentira.
-7925|VOCÊ: Você tá errada. Eu gosto sim de nadar.
+7925|YOU: Você tá errada. Eu gosto sim de nadar.
 7926|Você pensa em como é a sensação de estar mesmo numa piscina.
 7927|Avançar com ímpeto debaixo d'água, suspensa entre uma respiração e outra, contando o empurra e puxa dos seus braços.
 7928|Por favor. Isso dói.
-7929|VOCÊ: Não acho que seja ruim ter orgulho daquilo em que você é boa.
+7929|YOU: Não acho que seja ruim ter orgulho daquilo em que você é boa.
 7930|Não, literalmente, pensar em nadar te lembra de se machucar.
 7931|Essa é a verdade que você continua ignorando.
 7932|Você pensa em ficar suspensa em água-marinha.
 7933|O mundo da média distância é sobrenatural, uma realidade para a qual você não tem nenhum instinto.
 7934|Melhor ignorar o horizonte e, em vez disso, interagir com o que você consegue entender: as bolhas.
-7935|VOCÊ: Peraí... que diabos, essas são as suas memórias, não as minhas.
+7935|YOU: Peraí... que diabos, essas são as suas memórias, não as minhas.
 7936|Tudo isso está acontecendo na sua cabeça... São todas memórias suas.
-7937|VOCÊ: Você não me engana!
+7937|YOU: Você não me engana!
 7938|Difícil pensar criticamente quando isso não é um teste.
 7939|O que você acha que prova a sua identidade?
 7940|Você precisa mesmo provar quem é?
@@ -443,15 +443,15 @@
 7942|Você sente o calor do banho.
 7943|O único alívio que você sente é que suas costas, pressionadas contra o linóleo, estão mais protegidas da água escaldante.
 7944|Você não está afundando no oceano.
-7945|VOCÊ: Certo, é... isso não é real.
+7945|YOU: Certo, é... isso não é real.
 7946|Você sabe que, no fundo, nada do que a voz está te dizendo é realmente mentira.
 7947|Você pode rejeitar se quiser, mas isso não vai fazer desaparecer.
-7948|VOCÊ: Você tá manipulando os meus sentimentos!?
+7948|YOU: Você tá manipulando os meus sentimentos!?
 7949|A única pessoa fazendo isso é você.
-7950|VOCÊ: A gente precisa ser inimigas? Talvez a gente possa ser amigas.
+7950|YOU: A gente precisa ser inimigas? Talvez a gente possa ser amigas.
 7951|...Eu já estava te ajudando.
 7952|Você é uma covarde sem coragem nenhuma. Você sempre faz isso. Assim que alguém fica bravo com você, você tenta se render.
-7953|VOCÊ: Você... não quer que eu te escute?
+7953|YOU: Você... não quer que eu te escute?
 7954|Você só não quer que eu te desafie, não tem a menor intenção de me escutar de verdade.
 7955|O único jeito de trazer a voz para o seu lado é ouvir o que ela tem a dizer.
 7956|Isso é só uma alucinação. Um sintoma de não ter dormido nada ontem à noite.
@@ -475,19 +475,19 @@
 7974|Então ela mudou de tática. Calou a boca de vez e só observava as pessoas populares. Anotava as coisas sobre as quais as outras crianças falavam na aula. Começou a imitá-las.
 7975|Ela decidiu passar o verão fora, praticar e voltar no outono como uma pessoa nova.
 7976|De repente, você se lembra do plano em detalhes.
-7977|VOCÊ: As férias de verão tão quase acabando! Eu ainda não terminei de pôr Beauty Queens em dia!
+7977|YOU: As férias de verão tão quase acabando! Eu ainda não terminei de pôr Beauty Queens em dia!
 7978|Não é esse o ponto dessa história!
 7979|O que você realmente quer fazer?
 7980|A Nima já tinha percebido que muitos dos interesses dela de antes eram só coisas que ela pegou pra agradar os outros, de qualquer forma.
 7981|Fazer isso de novo não era nada de mais.
-7982|VOCÊ: Eu não tenho muita chance de tomar decisões por mim mesma.
-7983|VOCÊ: Ela diz que eu posso fazer o que eu quiser, mas... Você sabe que isso era basicamente só escolher quais atividades extracurriculares eu ia fazer.
-7984|VOCÊ: A natação era só mais uma coisa em que eu fui obrigada a entrar... Até eu ficar boa nisso.
-7985|VOCÊ: Eu lembro do treinador olhando pro relógio, e a expressão dele era tipo "nossa... até que isso é bem bom".
-7986|VOCÊ: Isso me deu vontade de me esforçar mais, e, quando eu me esforcei mais, a Tiffany me viu como uma alma gêmea.
-7987|VOCÊ: A gente ia nadar só por diversão nos fins de semana.
-7988|VOCÊ: A mãe não me impediu, porque eu tava comprometida com uma coisa que ela queria que eu fizesse.
-7989|VOCÊ: Foi a maior liberdade que eu tive, e foi principalmente porque... eu só aceitei o que eu devia fazer.
+7982|YOU: Eu não tenho muita chance de tomar decisões por mim mesma.
+7983|YOU: Ela diz que eu posso fazer o que eu quiser, mas... Você sabe que isso era basicamente só escolher quais atividades extracurriculares eu ia fazer.
+7984|YOU: A natação era só mais uma coisa em que eu fui obrigada a entrar... Até eu ficar boa nisso.
+7985|YOU: Eu lembro do treinador olhando pro relógio, e a expressão dele era tipo "nossa... até que isso é bem bom".
+7986|YOU: Isso me deu vontade de me esforçar mais, e, quando eu me esforcei mais, a Tiffany me viu como uma alma gêmea.
+7987|YOU: A gente ia nadar só por diversão nos fins de semana.
+7988|YOU: A mãe não me impediu, porque eu tava comprometida com uma coisa que ela queria que eu fizesse.
+7989|YOU: Foi a maior liberdade que eu tive, e foi principalmente porque... eu só aceitei o que eu devia fazer.
 7990|Ela vai envelhecer e vai continuar se impondo nas suas decisões.
 7991|O que você vai fazer na faculdade, na carreira?
 7992|Talvez você se mude pra Vancouver, acha que ela não vai correr atrás de você?
@@ -495,6 +495,6 @@
 7994|Eu sei que você não quer ficar presa aqui fazendo isso pra sempre.
 7995|Entrar nessa banheira... é uma solução fácil, mas nenhuma de vocês duas resolveu nada.
 7996|Ela vai te testar pelo resto da sua vida.
-7997|VOCÊ: Você não tem como saber...
-7998|VOCÊ: Então do que eu gosto, hein?
-7999|VOCÊ: Tem alguma parte de mim que seja realmente minha?
+7997|YOU: Você não tem como saber...
+7998|YOU: Então do que eu gosto, hein?
+7999|YOU: Tem alguma parte de mim que seja realmente minha?

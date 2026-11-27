@@ -1,81 +1,81 @@
-500|VOCÊ: Então me ajuda a subir a escada.
-501|MÃE: Não. Nima. A gente não vai subir e ponto final.
-502|VOCÊ: Pô, qual é a dessa, essa é a única hora que eu vou poder fazer perguntas?
-503|MÃE: Daqui pra frente deve ser tudo bem simples, até sua memória ser consertada.
-504|VOCÊ: O que você é, algum tipo de esfinge!?
-505|MÃE: Não. Nada disso é charada.
-506|VOCÊ: Tá bom, se você não é a esfinge, então talvez eu seja. Peraí…
+500|YOU: Então me ajuda a subir a escada.
+501|MOM: Não. Nima. A gente não vai subir e ponto final.
+502|YOU: Pô, qual é a dessa, essa é a única hora que eu vou poder fazer perguntas?
+503|MOM: Daqui pra frente deve ser tudo bem simples, até sua memória ser consertada.
+504|YOU: O que você é, algum tipo de esfinge!?
+505|MOM: Não. Nada disso é charada.
+506|YOU: Tá bom, se você não é a esfinge, então talvez eu seja. Peraí…
 507|Você limpa a garganta e entra no personagem.
-508|VOCÊ: Tu. Pequena mortal. Tenho uma pergunta para ti; passa no meu teste ou deixa-me partir livre.
-509|MÃE: Você não vai partir livre, Nima, você precisa se curar.
-510|VOCÊ: Toc-toc.
-511|MÃE: Isso é uma charada?
-512|VOCÊ: Não, é uma piada de toc-toc.
-513|MÃE: Ah… quem é?
-514|VOCÊ: Acabei de te falar! Uma piada de toc-toc!
+508|YOU: Tu. Pequena mortal. Tenho uma pergunta para ti; passa no meu teste ou deixa-me partir livre.
+509|MOM: Você não vai partir livre, Nima, você precisa se curar.
+510|YOU: Toc-toc.
+511|MOM: Isso é uma charada?
+512|YOU: Não, é uma piada de toc-toc.
+513|MOM: Ah… quem é?
+514|YOU: Acabei de te falar! Uma piada de toc-toc!
 515|Ela nem se digna a rir da sua piada. Sua entrega da fala foi equivalente a um homem caindo da escada.
 516|A gente não vai sair vivo deste porão...
-517|VOCÊ: Eu tenho algum amigo?
-518|MÃE: Só eu.
+517|YOU: Eu tenho algum amigo?
+518|MOM: Só eu.
 519|Isso te deixa muito triste.
-520|VOCÊ: Você me matou?
-521|MÃE: Nima, como você pode me acusar disso!
-522|MÃE: Não! Foi um acidente. Você estava nadando e acabou se machucando.
-523|MÃE: Não quero ouvir mais nenhuma bobagem vinda de você.
+520|YOU: Você me matou?
+521|MOM: Nima, como você pode me acusar disso!
+522|MOM: Não! Foi um acidente. Você estava nadando e acabou se machucando.
+523|MOM: Não quero ouvir mais nenhuma bobagem vinda de você.
 524|Você percebe que as mãos dela estão tremendo.
 525|Você vai precisar reunir mais provas.
-526|VOCÊ: Quanto tempo faz?
+526|YOU: Quanto tempo faz?
 527|Ela olha no caderno, volta algumas páginas até a primeira.
-528|MÃE: Hoje é treze de julho. Uma sexta-feira.
-529|VOCÊ: Ah... legal, eu acho. Quanto tempo eu fiquei inconsciente?
-530|MÃE: Você ficou apagada por uma semana.
-531|VOCÊ: Por que a luz é vermelha, dá pra trocar por uma luz normal?
-532|MÃE: Hã, não.
-533|MÃE: Ela ajuda o porão a parecer mais limpo.
-534|VOCÊ: Por que tem tanto lixo aqui embaixo? É tudo tão entulhado, isso aqui seria muito mais útil se você jogasse fora parte dessas coisas.
-535|MÃE: Nima! Tudo isso são lembranças preciosas pra mim! Eu jamais conseguiria jogar nenhuma delas fora.
-536|VOCÊ: Posso tomar uns analgésicos? Minha cabeça tá doendo.
+528|MOM: Hoje é treze de julho. Uma sexta-feira.
+529|YOU: Ah... legal, eu acho. Quanto tempo eu fiquei inconsciente?
+530|MOM: Você ficou apagada por uma semana.
+531|YOU: Por que a luz é vermelha, dá pra trocar por uma luz normal?
+532|MOM: Hã, não.
+533|MOM: Ela ajuda o porão a parecer mais limpo.
+534|YOU: Por que tem tanto lixo aqui embaixo? É tudo tão entulhado, isso aqui seria muito mais útil se você jogasse fora parte dessas coisas.
+535|MOM: Nima! Tudo isso são lembranças preciosas pra mim! Eu jamais conseguiria jogar nenhuma delas fora.
+536|YOU: Posso tomar uns analgésicos? Minha cabeça tá doendo.
 537|Annabelle tira casualmente umas pílulas soltas do bolso e as deixa cair na sua mão.
-538|VOCÊ: Tá… valeu… foi rápido.
-539|MÃE: Imaginei que você pudesse estar com dor de cabeça.
+538|YOU: Tá… valeu… foi rápido.
+539|MOM: Imaginei que você pudesse estar com dor de cabeça.
 540|Você engole o sortimento.
-541|VOCÊ: Eu quero doce.
-542|MÃE: Não.
-543|VOCÊ: Não era pra um médico estar cuidando de mim?
-544|MÃE: Médicos são todos uns charlatões. Eu consigo cuidar de você melhor do que eles.
-545|MÃE: Até eles concordaram, por isso você foi liberada aos meus cuidados.
-546|MÃE: E não é que eu estava certa? Você está no caminho da cura só com os cuidados especiais da mamãe.
-547|VOCÊ: Tá… acho que sim.
-548|VOCÊ: Então você vai começar a me testar amanhã? Parece muito que… você vai fazer experimentos em mim.
-549|VOCÊ: Vai colocar um chapeuzinho em mim? Me fazer correr por labirintos procurando queijo?
-550|MÃE: Nada disso. A não ser que por labirintos você queira dizer seu <i>cérebro</i> e por queijo você queira dizer <i>lembranças especiais!
-551|VOCÊ: Ah, que bom.
+541|YOU: Eu quero doce.
+542|MOM: Não.
+543|YOU: Não era pra um médico estar cuidando de mim?
+544|MOM: Médicos são todos uns charlatões. Eu consigo cuidar de você melhor do que eles.
+545|MOM: Até eles concordaram, por isso você foi liberada aos meus cuidados.
+546|MOM: E não é que eu estava certa? Você está no caminho da cura só com os cuidados especiais da mamãe.
+547|YOU: Tá… acho que sim.
+548|YOU: Então você vai começar a me testar amanhã? Parece muito que… você vai fazer experimentos em mim.
+549|YOU: Vai colocar um chapeuzinho em mim? Me fazer correr por labirintos procurando queijo?
+550|MOM: Nada disso. A não ser que por labirintos você queira dizer seu <i>cérebro</i> e por queijo você queira dizer <i>lembranças especiais!
+551|YOU: Ah, que bom.
 552|Por que você deveria confiar numa palavra que essa mulher diz? Você acabou de acordar amarrada a uma cadeira num porão e, muito convenientemente para ela, perdeu todas as suas memórias.
 553|Se você apontar isso, ela vai ficar brava.
-554|VOCÊ: Eu ia te amar tanto se você só me desamarrasse e me deixasse subir.
-555|VOCÊ: Seria só por um segundo! Eu só quero ver o céu e depois a gente volta pra baixo.
-556|MÃE: Vou deixar bem claro. Não tente me manipular. Eu percebo e não vai funcionar.
-557|VOCÊ: Eu fiz alguma coisa errada?
-558|MÃE: Não, querida... por que a pergunta?
-559|VOCÊ: Meio que parece que eu tô numa prisão, por algum motivo.
-560|MÃE: Eu trouxe seu quarto inteiro pra cá embaixo. É exatamente igual. Você deve se sentir à vontade rapidinho.
-561|VOCÊ: Então eu tenho amnésia?
-562|VOCÊ: É a primeira vez que a gente tem essa conversa?
-563|MÃE: É a primeira vez...
-564|VOCÊ: Tem alguém na minha cabeça. Uma pessoa… ou talvez… uma ideia.
+554|YOU: Eu ia te amar tanto se você só me desamarrasse e me deixasse subir.
+555|YOU: Seria só por um segundo! Eu só quero ver o céu e depois a gente volta pra baixo.
+556|MOM: Vou deixar bem claro. Não tente me manipular. Eu percebo e não vai funcionar.
+557|YOU: Eu fiz alguma coisa errada?
+558|MOM: Não, querida... por que a pergunta?
+559|YOU: Meio que parece que eu tô numa prisão, por algum motivo.
+560|MOM: Eu trouxe seu quarto inteiro pra cá embaixo. É exatamente igual. Você deve se sentir à vontade rapidinho.
+561|YOU: Então eu tenho amnésia?
+562|YOU: É a primeira vez que a gente tem essa conversa?
+563|MOM: É a primeira vez...
+564|YOU: Tem alguém na minha cabeça. Uma pessoa… ou talvez… uma ideia.
 565|Uma fé, uma crença, um modo de vida.
-566|MÃE: Do que você está falando?
-567|VOCÊ: O Garoto Tomate… Eu sei tanta coisa sobre ele. Eu conheço cada pessoa com quem ele já falou.
-568|MÃE: Ai, meu Deus… isso de novo, não.
-569|MÃE: Olha… só quero que você saiba que o Garoto Tomate não tem nada a ver com os testes. É um quadrinho e uma série de TV dos anos 90. Você cresceu com isso e é um interesse especial seu.
-570|MÃE: Não é nada importante, tá bom?
-571|VOCÊ: Tá bom.
+566|MOM: Do que você está falando?
+567|YOU: O Garoto Tomate… Eu sei tanta coisa sobre ele. Eu conheço cada pessoa com quem ele já falou.
+568|MOM: Ai, meu Deus… isso de novo, não.
+569|MOM: Olha… só quero que você saiba que o Garoto Tomate não tem nada a ver com os testes. É um quadrinho e uma série de TV dos anos 90. Você cresceu com isso e é um interesse especial seu.
+570|MOM: Não é nada importante, tá bom?
+571|YOU: Tá bom.
 572|Mesmo assim, você não consegue deixar de duvidar dela. Talvez, se você reconstruir todo o cânone do Garoto Tomate, possa usar esse conhecimento para fugir dela.
-573|VOCÊ: Eu não gostei do congee… posso comer outra coisa? Quem sabe um sushi!
-574|MÃE: Não seja mimada, Nima.
-575|VOCÊ: Desculpa por ter ido nadar. Foi uma coisa perigosa de se fazer, eu não devia ter feito isso.
-576|MÃE: Obrigada por pedir desculpas. Tudo bem, agora já passou.
-577|MÃE: Você pode compensar fazendo o que eu mando e passando nesses testes.
+573|YOU: Eu não gostei do congee… posso comer outra coisa? Quem sabe um sushi!
+574|MOM: Não seja mimada, Nima.
+575|YOU: Desculpa por ter ido nadar. Foi uma coisa perigosa de se fazer, eu não devia ter feito isso.
+576|MOM: Obrigada por pedir desculpas. Tudo bem, agora já passou.
+577|MOM: Você pode compensar fazendo o que eu mando e passando nesses testes.
 578|Sempre que estiver sendo testada, você pode recorrer à sua mente, ao seu corpo e ao seu coração em busca de conselhos.
 579|Sua mente pode te ajudar a usar suas <bounce a=.1>habilidades de pensamento crítico</bounce> para analisar os parâmetros do teste e ver se você consegue descobrir o que sua mãe quer.
 580|Seu corpo pode te ajudar a analisar como você está fisicamente. Isso é bom para acessar informações sensoriais.
@@ -88,57 +88,57 @@
 587|É sempre bom dar um passo para trás. Entre em contato com o que você está sentindo na <b>mente, no coração, no corpo</b> e...
 588|Você desliga seus pensamentos zumbindo por um segundo e se concentra no seu corpo.
 589|Você sente dor, sono e fome, nessa ordem.
-590|VOCÊ: O que é o Xisto de Burgess? Eu tô pensando nisso, mas não sei por quê.
-591|MÃE: Ah… que interessante. Você deve estar mergulhando bem fundo nos seus pensamentos agora, né?
-592|MÃE: É um leito de fósseis aqui perto. Mais informações vão ser relevantes para os testes, então não quero entregar muita coisa. Mas é bom que você se lembre disso.
-593|VOCÊ: Eu me lembro… Na escuridão.
-594|VOCÊ: Era como se eu estivesse sonhando… Eu estava presa, estava escuro e um calor escaldante. Uma voz sem corpo me julgava de longe.
-595|VOCÊ: Eu estava no inferno?
-596|MÃE: Não! Claro que não.
+590|YOU: O que é o Xisto de Burgess? Eu tô pensando nisso, mas não sei por quê.
+591|MOM: Ah… que interessante. Você deve estar mergulhando bem fundo nos seus pensamentos agora, né?
+592|MOM: É um leito de fósseis aqui perto. Mais informações vão ser relevantes para os testes, então não quero entregar muita coisa. Mas é bom que você se lembre disso.
+593|YOU: Eu me lembro… Na escuridão.
+594|YOU: Era como se eu estivesse sonhando… Eu estava presa, estava escuro e um calor escaldante. Uma voz sem corpo me julgava de longe.
+595|YOU: Eu estava no inferno?
+596|MOM: Não! Claro que não.
 597|Você ainda está no inferno.
-598|VOCÊ: Isso é muito errado, mãe.
-599|VOCÊ: Eu tô amarrada numa cadeira, tô no porão, e tem uma luz vermelha brilhando nos meus olhos. O clima aqui embaixo é horrível. Me faz pensar que você está fazendo alguma coisa terrível comigo!
-600|MÃE: Não estou!
-601|VOCÊ: Como eu vou acreditar nisso!? Eu nem tenho prova de que você é minha mãe.
-602|MÃE: Você é minha filha boazinha e feliz, Nima!
-603|VOCÊ: Desculpa… Eu vou me comportar.
-604|VOCÊ: Posso ter minhas memórias de volta?
-605|MÃE: Eu... Eu não estou escondendo elas de você.
-606|VOCÊ: Aqui embaixo é meio... desconfortável. Cairia bem um vaso de planta ou algo assim.
-607|MÃE: Ia acabar morrendo.
+598|YOU: Isso é muito errado, mãe.
+599|YOU: Eu tô amarrada numa cadeira, tô no porão, e tem uma luz vermelha brilhando nos meus olhos. O clima aqui embaixo é horrível. Me faz pensar que você está fazendo alguma coisa terrível comigo!
+600|MOM: Não estou!
+601|YOU: Como eu vou acreditar nisso!? Eu nem tenho prova de que você é minha mãe.
+602|MOM: Você é minha filha boazinha e feliz, Nima!
+603|YOU: Desculpa… Eu vou me comportar.
+604|YOU: Posso ter minhas memórias de volta?
+605|MOM: Eu... Eu não estou escondendo elas de você.
+606|YOU: Aqui embaixo é meio... desconfortável. Cairia bem um vaso de planta ou algo assim.
+607|MOM: Ia acabar morrendo.
 608|Igual a tudo mais de que ela tenta cuidar.
-609|VOCÊ: Posso entrar na equipe de natação? Eu tô pensando muito nisso.
-610|MÃE: Ah... isso é um bom sinal.
-611|MÃE: Não. Você acabou de se machucar nadando. Acho que não dá pra confiar em você na água.
-612|VOCÊ: Droga.
-613|VOCÊ: Ei, Deus existe?
-614|MÃE: ...essa é uma pergunta e tanto. Hã.
-615|MÃE: Sabe... antes eu diria que não, mas ultimamente têm acontecido muitos milagres na minha vida, e isso meio que...
-616|VOCÊ: Tá bom.
-617|VOCÊ: Mãe... existe alguma forma ética de exercer o poder?
-618|MÃE: Nossa... tá...<speed=1> Eu nem sei se tenho alguma coisa pra dizer sobre isso.
-619|MÃE: Talvez… em vez de poder, você devesse ver isso como amor?
+609|YOU: Posso entrar na equipe de natação? Eu tô pensando muito nisso.
+610|MOM: Ah... isso é um bom sinal.
+611|MOM: Não. Você acabou de se machucar nadando. Acho que não dá pra confiar em você na água.
+612|YOU: Droga.
+613|YOU: Ei, Deus existe?
+614|MOM: ...essa é uma pergunta e tanto. Hã.
+615|MOM: Sabe... antes eu diria que não, mas ultimamente têm acontecido muitos milagres na minha vida, e isso meio que...
+616|YOU: Tá bom.
+617|YOU: Mãe... existe alguma forma ética de exercer o poder?
+618|MOM: Nossa... tá...<speed=1> Eu nem sei se tenho alguma coisa pra dizer sobre isso.
+619|MOM: Talvez… em vez de poder, você devesse ver isso como amor?
 620|Essa não é uma resposta satisfatória. Você desvia o olhar dela; estão te pedindo para sacrificar sua autonomia e se entregar à servidão simplesmente por causa do amor?
 621|Isso não faz dessas emoções ferramentas dos poderosos para manter os impotentes na linha?
 622|Calma lá, Sócrates.
-623|VOCÊ: Mãe… a verdadeira aceitação é mesmo possível? Como duas pessoas tão irreconciliavelmente diferentes podem aprender a aceitar uma à outra?
-624|VOCÊ: Me parece que a violência e a discórdia são simplesmente inevitáveis.
-625|MÃE: Eu… hã… talvez o amor seja a resposta. 
-626|VOCÊ: Amor… 
-627|VOCÊ: Eu tenho uma vovó? 
-628|MÃE: Tem, mas ela não faz parte da nossa vida. 
-629|VOCÊ: A gente perdeu ela por aí? 
-630|MÃE: Sim… de propósito. 
-631|VOCÊ: Tem uma palavra na minha cabeça: "Pearl." Você sabe o que significa? 
-632|MÃE: Hmm, que pena. 
-633|VOCÊ: É uma pessoa ou eu só tô pensando em ostras? 
-634|MÃE: Me diga você. 
+623|YOU: Mãe… a verdadeira aceitação é mesmo possível? Como duas pessoas tão irreconciliavelmente diferentes podem aprender a aceitar uma à outra?
+624|YOU: Me parece que a violência e a discórdia são simplesmente inevitáveis.
+625|MOM: Eu… hã… talvez o amor seja a resposta. 
+626|YOU: Amor… 
+627|YOU: Eu tenho uma vovó? 
+628|MOM: Tem, mas ela não faz parte da nossa vida. 
+629|YOU: A gente perdeu ela por aí? 
+630|MOM: Sim… de propósito. 
+631|YOU: Tem uma palavra na minha cabeça: "Pearl." Você sabe o que significa? 
+632|MOM: Hmm, que pena. 
+633|YOU: É uma pessoa ou eu só tô pensando em ostras? 
+634|MOM: Me diga você. 
 635|Você não tem certeza… mas ela parece brava; talvez ela odeie ostras. 
-636|VOCÊ: Eu tô pensando numa coisa chamada Vancouver… O que é isso?  
-637|MÃE: É uma cidade no Canadá, na costa oeste. Foi onde eu e você nascemos. 
-638|VOCÊ: Ah… que legal. 
-639|VOCÊ: Você tá tentando fazer uma lavagem cerebral em mim!? 
-640|MÃE: Seria ótimo se eu pudesse fazer uma lavagem cerebral em você. Eu poderia lavar todas as esquisitices do seu cérebro, tipo o Garoto Tomate. 
+636|YOU: Eu tô pensando numa coisa chamada Vancouver… O que é isso?  
+637|MOM: É uma cidade no Canadá, na costa oeste. Foi onde eu e você nascemos. 
+638|YOU: Ah… que legal. 
+639|YOU: Você tá tentando fazer uma lavagem cerebral em mim!? 
+640|MOM: Seria ótimo se eu pudesse fazer uma lavagem cerebral em você. Eu poderia lavar todas as esquisitices do seu cérebro, tipo o Garoto Tomate. 
 641|A dor que percorre seu cérebro se encerra como um plugue arrancado de repente da tomada. 
 642|Seus olhos mergulham na cegueira e você sente seu corpo tombar para a frente, sendo segurado pelas cordas que te prendem à cadeira. 
 643|Você entra e sai da consciência enquanto descargas elétricas descontroladas fazem seus neurônios se contorcerem. 
@@ -147,278 +147,278 @@
 646|Os gestos maternais dela parecem pouco mais que uma encenação. 
 647|Você sente uma mão fria acariciar o lado do seu rosto e, mais uma vez, o mundo escurece. 
 648|… 
-649|VOCÊ: Ugh… Minha cabeça dói… 
-650|VOCÊ: Este é… o meu quarto. 
-651|VOCÊ: Eu sempre morei no porão? 
+649|YOU: Ugh… Minha cabeça dói… 
+650|YOU: Este é… o meu quarto. 
+651|YOU: Eu sempre morei no porão? 
 652|Você acorda com uma dor de cabeça surda.
-653|VOCÊ: Que sonho foi esse?
+653|YOU: Que sonho foi esse?
 654|Você sente que está prestes a se lembrar de algo importante.
 655|Sua dor de cabeça se intensifica quanto mais você tenta pensar.
 656|Ignore a dor e pense com mais força.
 657|Você cambaleia em direção à escrivaninha.
 658|As palavras ecoam no seu cérebro, mas os detalhes vão se apagando aos poucos.
-659|VOCÊ: Preciso anotar isso.
+659|YOU: Preciso anotar isso.
 660|Orgulho, Culpa, Fóssil... e Vida.
 661|A dor latejante começa a diminuir.
 662|Você decide dar uma olhada pelo quarto.
 663|... 
 664|Ao se aproximar da porta, você ouve sua mãe se arrastando de um lado para o outro do outro lado. 
-665|MÃE: Nima, querida? Está pronta para começar os testes de hoje? 
-666|VOCÊ: Sim. 
+665|MOM: Nima, querida? Está pronta para começar os testes de hoje? 
+666|YOU: Sim. 
 667|A porta é destrancada e sua mãe te conduz até a sala de testes. 
 668|Que nojo, ela está usando as mesmas roupas de ontem. 
 669|Ela parece desgrenhada; não dá pra saber se ela chegou a dormir.
 670|Ela se aproxima de você para o que você espera ser um abraço. Em vez disso, ela mede seu pulso e olha fundo nos seus olhos. 
-671|MÃE: Você teve uma boa noite de sono? Você desmaiou ontem. Eu medi seus sinais vitais, você parecia bem, e agora olha só pra você… andando por aí. 
-672|MÃE: Acho que não vou precisar te amarrar na cadeira hoje. 
-673|VOCÊ: Que bom. 
-674|MÃE: Você não está sentindo dor nenhuma, está? 
-675|VOCÊ: Não, eu tô bem. 
-676|MÃE: Que bom! 
-677|MÃE: Você não se limpou nem um pouco? 
-678|VOCÊ: O banheiro estava trancado. 
-679|MÃE: Ah, desculpa, Nima. Eu podia jurar que tinha destrancado. 
+671|MOM: Você teve uma boa noite de sono? Você desmaiou ontem. Eu medi seus sinais vitais, você parecia bem, e agora olha só pra você… andando por aí. 
+672|MOM: Acho que não vou precisar te amarrar na cadeira hoje. 
+673|YOU: Que bom. 
+674|MOM: Você não está sentindo dor nenhuma, está? 
+675|YOU: Não, eu tô bem. 
+676|MOM: Que bom! 
+677|MOM: Você não se limpou nem um pouco? 
+678|YOU: O banheiro estava trancado. 
+679|MOM: Ah, desculpa, Nima. Eu podia jurar que tinha destrancado. 
 680|Ela apalpa os bolsos rapidamente e tira um molho de chaves embolado. Ela solta uma do chaveiro e entrega a você. 
-681|MÃE: Toma. 
-682|MÃE: Esta aqui destranca o banheiro. 
-683|MÃE: Os testes não vão demorar, você pode usar depois. 
-684|MÃE: Vou buscar nossos materiais, já volto. 
+681|MOM: Toma. 
+682|MOM: Esta aqui destranca o banheiro. 
+683|MOM: Os testes não vão demorar, você pode usar depois. 
+684|MOM: Vou buscar nossos materiais, já volto. 
 685|Sua mãe sobe a escada num staccato de pancadas e sai do porão. 
 686|Você pensa com saudade no seu objetivo, a liberdade. Você se imagina seguindo-a lá para cima, de mãos dadas, para voltar à sua antiga vida. 
 687|Você está indo bem, ela não desconfia de nada. 
 688|Ela volta descendo a escada aos trancos. 
 689|Ela se segura no corrimão para se equilibrar. Na outra mão, carrega uma bolsa grande, estufada de itens escondidos. 
 690|Ela se senta na sua frente. 
-691|MÃE: Certo, Nima, hoje vai ser um pouco diferente de ontem. 
-692|MÃE: Eu trouxe alguns itens, você só precisa me dizer como eles te fazem sentir. 
-693|MÃE: Pode fazer isso por mim? 
-694|MÃE: Você está acordada? 
+691|MOM: Certo, Nima, hoje vai ser um pouco diferente de ontem. 
+692|MOM: Eu trouxe alguns itens, você só precisa me dizer como eles te fazem sentir. 
+693|MOM: Pode fazer isso por mim? 
+694|MOM: Você está acordada? 
 695|Você a ouve abrir uma série de ferrolhos, abrindo a porta só uma fresta, até ela ser travada pela corrente e mantida quase fechada. 
 696|Ela te examina. 
 697|Ela fecha a porta. 
 698|Você a ouve soltar a última corrente e abrir a porta de novo. 
-699|MÃE: Você não se limpou. 
-700|VOCÊ: A porta do banheiro estava trancada. 
+699|MOM: Você não se limpou. 
+700|YOU: A porta do banheiro estava trancada. 
 701|A frieza dela se derrete por um instante. 
-702|MÃE: Merda. 
+702|MOM: Merda. 
 703|Ela bate na própria cabeça com a palma da mão. Ela faz sinal para você ir se sentar à mesa enquanto ela se recolhe no seu quarto e destranca o banheiro. 
 704|Rápido, tranque ela lá dentro. 
 705|Você hesita, pesando o risco de prender sua mãe na sua prisão. Ela volta, rápida e eficiente. 
-706|MÃE: Seu banheiro está destrancado. 
+706|MOM: Seu banheiro está destrancado. 
 707|Ela nem repara em você, passando direto para subir a escada num staccato de pancadas e sair do porão. 
 708|Você se remexe na cadeira, se perguntando se fez algo que a chateou. 
 709|Ela não está engolindo essa. 
-710|MÃE: Tudo bem. 
+710|MOM: Tudo bem. 
 711|Ela se acalma um pouco e sorri plácida para você. 
-712|MÃE: Bom dia, Nima. 
-713|VOCÊ: Bom dia. 
+712|MOM: Bom dia, Nima. 
+713|YOU: Bom dia. 
 714|Não se esqueça de chamá-la de ‘Mãe’. 
-715|VOCÊ: Dormiu bem, Mãe? 
+715|YOU: Dormiu bem, Mãe? 
 716|Ela parece desgrenhada; não dá pra saber se ela chegou a dormir. 
-717|MÃE: Está sentindo alguma dor? Ontem nossa conversa terminou de um jeito bem abrupto. Seus sinais vitais estão estáveis e você parece ter se recuperado completamente. 
-718|VOCÊ: Sim, eu tô me sentindo bem. 
-719|MÃE: Ótimo. 
+717|MOM: Está sentindo alguma dor? Ontem nossa conversa terminou de um jeito bem abrupto. Seus sinais vitais estão estáveis e você parece ter se recuperado completamente. 
+718|YOU: Sim, eu tô me sentindo bem. 
+719|MOM: Ótimo. 
 720|Ela abre um caderno e anota essa resposta. 
-721|MÃE: Como foi seu sono? Alguma interrupção ou sonho estranho? 
+721|MOM: Como foi seu sono? Alguma interrupção ou sonho estranho? 
 722|Minta para ela. 
-723|VOCÊ: Nada. 
+723|YOU: Nada. 
 724|Ela fecha o caderno e o sorriso falso se transforma num de verdade. 
-725|MÃE: Você vai se sair melhor hoje, né?  
-726|MÃE: Hoje vai ser um pouco diferente de ontem. 
+725|MOM: Você vai se sair melhor hoje, né?  
+726|MOM: Hoje vai ser um pouco diferente de ontem. 
 727|Ela coloca uma <b>pelúcia</b> de <b>tubarão</b> na mesa à sua frente. Por algum motivo, ela desperta sentimentos desconhecidos dentro de você. 
 728|Nostalgia, tristeza e, o mais intrigante… 
 729|<b>Amor. 
-730|MÃE: Agora. 
-731|MÃE: Isso te lembra alguma coisa? 
-732|VOCÊ: É o bichinho que o Papai comprou pra mim no aquário! 
-733|VOCÊ: A gente pode ir? Pode comprar ingresso!? 
+730|MOM: Agora. 
+731|MOM: Isso te lembra alguma coisa? 
+732|YOU: É o bichinho que o Papai comprou pra mim no aquário! 
+733|YOU: A gente pode ir? Pode comprar ingresso!? 
 734|Isso, tire a gente desse aquário. 
-735|MÃE: Hum… Agora não é bem uma boa hora pra isso. 
-736|VOCÊ: Promete que a gente vai um dia, tá? Que nem a gente ia quando o Papai ainda... 
-737|VOCÊ: ...estava aqui. 
+735|MOM: Hum… Agora não é bem uma boa hora pra isso. 
+736|YOU: Promete que a gente vai um dia, tá? Que nem a gente ia quando o Papai ainda... 
+737|YOU: ...estava aqui. 
 738|Lembranças do abraço do seu pai enchem sua mente. Ele não está mais com você, mas a pelúcia ainda liga vocês dois. 
 739|Você se pergunta como pôde ter esquecido algo tão importante.  
-740|MÃE: Quem sabe depois que a gente terminar tudo aqui. Que tal? 
-741|VOCÊ: É. Tá bom. 
+740|MOM: Quem sabe depois que a gente terminar tudo aqui. Que tal? 
+741|YOU: É. Tá bom. 
 742|Ela solta uma risadinha melancólica. 
-743|MÃE: É engraçado, você levava essa coisa pra todo lado. Lembro que você nunca me deixava tirar ela de você, nem pra lavar. 
-744|MÃE: Seu pai dizia que ela estava ficando mais parecida com um bagre do que com um tubarão. 
-745|MÃE: Ele até pensou em comprar uma segunda pra trocar, pra gente poder lavar quando você não estivesse olhando. 
-746|VOCÊ: Ei! 
-747|MÃE: Ele nunca fez isso, não se preocupe. 
-748|MÃE: Depois que ele… faleceu. Vocês ficaram ainda mais inseparáveis. 
-749|MÃE: Você queria se agarrar a qualquer coisa que te lembrasse do seu pai. 
+743|MOM: É engraçado, você levava essa coisa pra todo lado. Lembro que você nunca me deixava tirar ela de você, nem pra lavar. 
+744|MOM: Seu pai dizia que ela estava ficando mais parecida com um bagre do que com um tubarão. 
+745|MOM: Ele até pensou em comprar uma segunda pra trocar, pra gente poder lavar quando você não estivesse olhando. 
+746|YOU: Ei! 
+747|MOM: Ele nunca fez isso, não se preocupe. 
+748|MOM: Depois que ele… faleceu. Vocês ficaram ainda mais inseparáveis. 
+749|MOM: Você queria se agarrar a qualquer coisa que te lembrasse do seu pai. 
 750|Vocês compartilham um momento de silêncio nostálgico. Relembrando o calor de um rosto que se apaga cada vez mais na memória, a cada dia que passa. 
 751|Sua mãe pousa a mão com carinho na sua bochecha. 
-752|MÃE: <size=75%>Só fico feliz de não ter perdido vocês dois. 
+752|MOM: <size=75%>Só fico feliz de não ter perdido vocês dois. 
 753|Você é tomada pelas memórias desbotadas do seu pai. A cada dia fica mais difícil lembrar do rosto dele. 
 754|Este é o brinquedo que ele te deu antes de morrer, uma lembrança. 
 755|As emoções transbordam; um rio cheio de amor deságua nos seus olhos e você desaba numa cachoeira de luto. 
 756|Lá vem o chororô. 
-757|MÃE: Nima? Querida, o que houve? 
-758|VOCÊ: É que… eu sinto tanta falta do Papai. 
-759|VOCÊ: Sinto falta das nossas viagens anuais ao aquário. 
-760|VOCÊ: Sinto falta de ter uma família de verdade. 
+757|MOM: Nima? Querida, o que houve? 
+758|YOU: É que… eu sinto tanta falta do Papai. 
+759|YOU: Sinto falta das nossas viagens anuais ao aquário. 
+760|YOU: Sinto falta de ter uma família de verdade. 
 761|Pela primeira vez, sua mãe não hesita em se aproximar, te apertando tão forte que você poderia explodir. 
-762|MÃE: Eu sinto muito, Nima. 
+762|MOM: Eu sinto muito, Nima. 
 763|Você a aperta de volta. 
-764|VOCÊ: Queria que a gente nunca tivesse se mudado pra essa cidade idiota. 
+764|YOU: Queria que a gente nunca tivesse se mudado pra essa cidade idiota. 
 765|Uma vida cheia de potencial desperdiçada por um acidente bizarro. Quem sabe onde você estaria agora se ele ainda estivesse vivo? 
-766|MÃE: Não se preocupe, Nima. A mamãe vai deixar tudo melhor. 
+766|MOM: Não se preocupe, Nima. A mamãe vai deixar tudo melhor. 
 767|Você dá uma mordida! 
-768|VOCÊ: <shake>ECA! 
+768|YOU: <shake>ECA! 
 769|Você cospe as entranhas felpudas da falsa fera. 
-770|VOCÊ: Eca! Que nojo! 
-771|MÃE: Ei! Nima, isso não é de comer. Você não lembra? 
-772|VOCÊ: Mas ele parece tão gostoso! 
+770|YOU: Eca! Que nojo! 
+771|MOM: Ei! Nima, isso não é de comer. Você não lembra? 
+772|YOU: Mas ele parece tão gostoso! 
 773|Sua mãe te olha com profunda preocupação. 
-774|MÃE: Você não lembra? Esse é o tubarão que seu pai comprou pra você no aquário. 
-775|VOCÊ: Papai? Eu tenho um pai? 
-776|MÃE: Ele faleceu anos atrás... Você não lembra nada? 
+774|MOM: Você não lembra? Esse é o tubarão que seu pai comprou pra você no aquário. 
+775|YOU: Papai? Eu tenho um pai? 
+776|MOM: Ele faleceu anos atrás... Você não lembra nada? 
 777|Você balança a cabeça. 
-778|MÃE: Tudo bem... Bom, não é um bom começo... 
-779|VOCÊ: É... Hã. 
+778|MOM: Tudo bem... Bom, não é um bom começo... 
+779|YOU: É... Hã. 
 780|Seu corpo trava. A simples visão dessa fera horrenda ativa sua reação de luta ou fuga. 
-781|VOCÊ: <shake>Socorro!<shake> 
+781|YOU: <shake>Socorro!<shake> 
 782|Você quer fugir deste porão asqueroso e nunca mais olhar para trás. 
-783|MÃE: Nima, o que houve? 
+783|MOM: Nima, o que houve? 
 784|Incapaz de se mexer, você fica sentada em pavor absoluto enquanto o predador mais temido dos mares repousa sobre a mesa, a centímetros do seu rosto. 
 785|<shake>Não há para onde correr. 
-786|MÃE: Você está bem? Nima! 
-787|VOCÊ: O que aconteceu? 
-788|MÃE: Você desmaiou por um tempinho. Tem alguma coisa sobre o seu tubarão que você não está me contando? Alguma lembrança ruim? 
-789|VOCÊ: Eu... não sei. A gente pode só seguir em frente por enquanto? Por favor? 
-790|MÃE: Tá bom. 
-791|MÃE: <size=75%> Você <i>amava</i> esse tubarão. O que aconteceu? 
-792|MÃE: Você ficou chateada porque ele te lembrou do Papai? 
+786|MOM: Você está bem? Nima! 
+787|YOU: O que aconteceu? 
+788|MOM: Você desmaiou por um tempinho. Tem alguma coisa sobre o seu tubarão que você não está me contando? Alguma lembrança ruim? 
+789|YOU: Eu... não sei. A gente pode só seguir em frente por enquanto? Por favor? 
+790|MOM: Tá bom. 
+791|MOM: <size=75%> Você <i>amava</i> esse tubarão. O que aconteceu? 
+792|MOM: Você ficou chateada porque ele te lembrou do Papai? 
 793|Você faz bico em resposta. 
-794|MÃE: Tudo bem... não é um ótimo começo. 
+794|MOM: Tudo bem... não é um ótimo começo. 
 795|Você admira a fera colossal diante de você. 
-796|VOCÊ: Que mandíbulas fortes. Trezentos dentes afiados como navalhas, capazes de exercer mil e oitocentos quilos de força. Perfeitos pra estraçalhar qualquer coisa. 
-797|VOCÊ: Queria ser igual a ele. 
+796|YOU: Que mandíbulas fortes. Trezentos dentes afiados como navalhas, capazes de exercer mil e oitocentos quilos de força. Perfeitos pra estraçalhar qualquer coisa. 
+797|YOU: Queria ser igual a ele. 
 798|Sua mãe anota algo rapidamente no caderno. 
-799|MÃE: <size=75%><shake a=.1 d=.3><i>Continue…</i> 
+799|MOM: <size=75%><shake a=.1 d=.3><i>Continue…</i> 
 800|Você não sabe por que acabou de dizer isso. 
-801|VOCÊ: Hã. Se eu fosse igual a ele, eu estaria no controle. 
-802|MÃE: E por que você ia querer isso? 
-803|VOCÊ: Você não ia conseguir me amarrar nem me manter presa aqui embaixo. 
-804|MÃE: Você <i>não</i> está presa aqui embaixo. 
-805|VOCÊ: Então me deixa sair. 
+801|YOU: Hã. Se eu fosse igual a ele, eu estaria no controle. 
+802|MOM: E por que você ia querer isso? 
+803|YOU: Você não ia conseguir me amarrar nem me manter presa aqui embaixo. 
+804|MOM: Você <i>não</i> está presa aqui embaixo. 
+805|YOU: Então me deixa sair. 
 806|Vocês ficam em silêncio por um momento enquanto ela te avalia. 
-807|MÃE: Só pra eu registrar: isso não traz nenhuma lembrança do seu pai? 
-808|VOCÊ: Por que você escolheu isso pra me testar? 
-809|MÃE: Não posso te contar. Estragaria o teste. 
-810|VOCÊ: Foi você que me deu isso? 
-811|MÃE: Não, eu achava a lontra mais fofa. 
-812|VOCÊ: Quê!? Mas esse carinha é <i>muito</i> fofo! 
+807|MOM: Só pra eu registrar: isso não traz nenhuma lembrança do seu pai? 
+808|YOU: Por que você escolheu isso pra me testar? 
+809|MOM: Não posso te contar. Estragaria o teste. 
+810|YOU: Foi você que me deu isso? 
+811|MOM: Não, eu achava a lontra mais fofa. 
+812|YOU: Quê!? Mas esse carinha é <i>muito</i> fofo! 
 813|Sua mãe revira os olhos. 
-814|MÃE: É, foi o que ele disse também.  
-815|VOCÊ: Isso é um tubarão-branco! O predador supremo das profundezas! Sabia que eles podem ter até <i>trezentos dentes</i> e chegar a <i>seis metros</i> de comprimento!? É sério! 
+814|MOM: É, foi o que ele disse também.  
+815|YOU: Isso é um tubarão-branco! O predador supremo das profundezas! Sabia que eles podem ter até <i>trezentos dentes</i> e chegar a <i>seis metros</i> de comprimento!? É sério! 
 816|Ela solta um suspiro cansado. 
-817|MÃE: Sim, Nima, eu sei. 
-818|VOCÊ: E sabia também que algumas espécies de tubarão já existiam <bounce>450 milhões de anos atrás!?</bounce> Imagina ter 450 milhões de anos! 
+817|MOM: Sim, Nima, eu sei. 
+818|YOU: E sabia também que algumas espécies de tubarão já existiam <bounce>450 milhões de anos atrás!?</bounce> Imagina ter 450 milhões de anos! 
 819|Nerd. 
-820|MÃE: Querida, talvez seja melhor focar em como ele te faz sentir? 
-821|VOCÊ: Ah, tá bom. 
+820|MOM: Querida, talvez seja melhor focar em como ele te faz sentir? 
+821|YOU: Ah, tá bom. 
 822|Com seu objetivo de subir aquela escada e sair desta prisão em mente, você pondera sua estratégia. 
 823|Ela deixou pistas por toda parte. Pequenas bugigangas feitas para provocar sua memória e dar um empurrão nas funções superiores do seu cérebro. 
 824|<b>Mente</b>, <b>Corpo</b> e <b>Coração</b> podem ser usados para analisar o que as coisas te fazem pensar e sentir. 
 825|Tenha tudo isso em mente e você vai ficar bem. 
-826|VOCÊ: Por que ele não tá se mexendo? Ele tá dormindo? 
-827|MÃE: Isso é um brinquedo. 
-828|VOCÊ: Ah. 
-829|VOCÊ: Isso é meu? 
-830|MÃE: Sim, é seu. 
-831|VOCÊ: Ele é tão fofo! Posso ficar com ele? 
-832|MÃE: Ele já é seu, Nima. 
-833|VOCÊ: Eba! 
-834|VOCÊ: Ele tá sempre comigo quando eu me sinto sozinha. 
-835|MÃE: E com que frequência você se sente sozinha? 
-836|VOCÊ: Ah, sabe como é. 
-837|MÃE: Hm... 
+826|YOU: Por que ele não tá se mexendo? Ele tá dormindo? 
+827|MOM: Isso é um brinquedo. 
+828|YOU: Ah. 
+829|YOU: Isso é meu? 
+830|MOM: Sim, é seu. 
+831|YOU: Ele é tão fofo! Posso ficar com ele? 
+832|MOM: Ele já é seu, Nima. 
+833|YOU: Eba! 
+834|YOU: Ele tá sempre comigo quando eu me sinto sozinha. 
+835|MOM: E com que frequência você se sente sozinha? 
+836|YOU: Ah, sabe como é. 
+837|MOM: Hm... 
 838|Ela escreve algo no caderno. 
 839|Isso é de muito tempo atrás, de quando você estava em casa. Sua casa de verdade, não sua casa de mentira.
 840|De quando você morava no seu <bounce>reino à beira-mar. 
-841|VOCÊ: <shake>Argh...</shake> isso é brinquedo de bebê. 
-842|VOCÊ: É sério que é isso que a gente vai fazer? Você me mantém aqui embaixo pra brincar de joguinho de criança? 
-843|MÃE: Quanto mais rápido você responder, mais rápido a gente segue em frente. 
-844|VOCÊ: Mas isso é tão sem sentido. Eu já sei o que é essa coisa. 
-845|MÃE: Então me prove. 
-846|VOCÊ: A gente devia tentar colocar um desses no congee! 
-847|MÃE: Não… isso é um bicho de pelúcia. 
-848|MÃE: E comer tubarão é ilegal. 
-849|VOCÊ: Por quê? Parece supergostoso! 
-850|MÃE: Os tubarões são uma parte crucial do ecossistema. 
-851|VOCÊ: ...Ah. 
-852|VOCÊ: Eu sou uma parte crucial do ecossistema? 
-853|MÃE: Você é uma parte crucial do meu ecossistema. 
+841|YOU: <shake>Argh...</shake> isso é brinquedo de bebê. 
+842|YOU: É sério que é isso que a gente vai fazer? Você me mantém aqui embaixo pra brincar de joguinho de criança? 
+843|MOM: Quanto mais rápido você responder, mais rápido a gente segue em frente. 
+844|YOU: Mas isso é tão sem sentido. Eu já sei o que é essa coisa. 
+845|MOM: Então me prove. 
+846|YOU: A gente devia tentar colocar um desses no congee! 
+847|MOM: Não… isso é um bicho de pelúcia. 
+848|MOM: E comer tubarão é ilegal. 
+849|YOU: Por quê? Parece supergostoso! 
+850|MOM: Os tubarões são uma parte crucial do ecossistema. 
+851|YOU: ...Ah. 
+852|YOU: Eu sou uma parte crucial do ecossistema? 
+853|MOM: Você é uma parte crucial do meu ecossistema. 
 854|Ela acha que está sendo fofa. 
-855|VOCÊ: Acho que eu escrevi uma redação sobre isso na escola. 
-856|MÃE: Então você deve saber bastante sobre o assunto! 
+855|YOU: Acho que eu escrevi uma redação sobre isso na escola. 
+856|MOM: Então você deve saber bastante sobre o assunto! 
 857|Tubarões normais nadam, mas esse carinha é feito só de enchimento. 
 858|Ele provavelmente ia ficar encharcado e afundar. 
-859|VOCÊ: Você vai cortar ele em pedaços? 
+859|YOU: Você vai cortar ele em pedaços? 
 860|A Mãe te olha de um jeito estranho. 
-861|VOCÊ: Que bom, acho que isso ia ser triste. 
-862|MÃE: É, você sabe por quê? 
+861|YOU: Que bom, acho que isso ia ser triste. 
+862|MOM: É, você sabe por quê? 
 863|Não é uma pedra… mas você tem certeza de que esse carinha é amigo da pedra. 
 864|Se a gente levasse esse carinha pra escola, todo mundo ia tirar sarro da gente. 
 865|Não pode deixar sua mãe achar que você é uma bobona. 
-866|VOCÊ: Eu não conheço esse carinha. 
-867|MÃE: Conhece, sim. 
+866|YOU: Eu não conheço esse carinha. 
+867|MOM: Conhece, sim. 
 868|Merda, ela sabe. 
 869|A efígie do predador é moldada sob o disfarce de um travesseiro. 
 870|Talvez um lobo em pele de cordeiro. 
 871|Melhor ficar de guarda. 
 872|Isso faz todo o sentido. 
 873|Ontem à noite você podia jurar que estava faltando um travesseiro em forma de tubarão na sua cama. 
-874|VOCÊ: Isso devia estar na minha cama. 
-875|MÃE: Sim. Você sabe por quê? 
-876|VOCÊ: Ele não tá se mexendo! 
-877|VOCÊ: O que você fez com ele!? 
-878|MÃE: Ele é assim mesmo.  
-879|VOCÊ: <i>Ele é pra estar morto!? 
+874|YOU: Isso devia estar na minha cama. 
+875|MOM: Sim. Você sabe por quê? 
+876|YOU: Ele não tá se mexendo! 
+877|YOU: O que você fez com ele!? 
+878|MOM: Ele é assim mesmo.  
+879|YOU: <i>Ele é pra estar morto!? 
 880|Sua mãe junta toda a paciência que tem e tenta se acalmar. 
-881|MÃE: É um bicho de pelúcia. Sabe, um animal feito de tecido e enchimento. 
-882|VOCÊ: É, eu sabia, só tava te testando. 
-883|MÃE: Claro. 
+881|MOM: É um bicho de pelúcia. Sabe, um animal feito de tecido e enchimento. 
+882|YOU: É, eu sabia, só tava te testando. 
+883|MOM: Claro. 
 884|Você pega o tubarão e o balança de um jeito que faz o rabo dele ir pra lá e pra cá, como se estivesse nadando. 
-885|VOCÊ: Eu sou o rei dos mares! Isso quer dizer que eu sou o peixe grande que faz todas as regras! 
+885|YOU: Eu sou o rei dos mares! Isso quer dizer que eu sou o peixe grande que faz todas as regras! 
 886|Você engrossa a voz para dar ao tubarão uma aura de comando. 
 887|Sua mãe estica o braço, tira o tubarão de você e o coloca de volta na mesa. 
-888|MÃE: Talvez mais tarde, Nima. 
+888|MOM: Talvez mais tarde, Nima. 
 889|Deus <i>me livre</i> você se divertir neste porão. 
-890|VOCÊ: O que o peixinho de estimação tá fazendo fora de casa? 
-891|MÃE: Esse não é seu peixe de estimação. 
-892|MÃE: Mas chegou meio perto. Onde os peixes vivem? 
-893|VOCÊ: Hã. Em potes? No mar? 
-894|MÃE: Você disse peixe de estimação, então onde vivem os peixes de estimação? 
-895|VOCÊ: <b>Em aquários? 
-896|MÃE: Isso mesmo, e no que os aquários te fazem pensar? 
-897|VOCÊ: Peixes..? 
-898|MÃE: Nima... não. 
+890|YOU: O que o peixinho de estimação tá fazendo fora de casa? 
+891|MOM: Esse não é seu peixe de estimação. 
+892|MOM: Mas chegou meio perto. Onde os peixes vivem? 
+893|YOU: Hã. Em potes? No mar? 
+894|MOM: Você disse peixe de estimação, então onde vivem os peixes de estimação? 
+895|YOU: <b>Em aquários? 
+896|MOM: Isso mesmo, e no que os aquários te fazem pensar? 
+897|YOU: Peixes..? 
+898|MOM: Nima... não. 
 899|Você dava conta desse carinha fácil, ele não parece nem um pouco durão. 
 900|Você estremece. 
 901|Que nada, ele é do mar. 
 902|Você conhece esse carinha há muito tempo. 
 903|Um velho amigo seu, na verdade. 
-904|VOCÊ: Isso é uma coisa que você me deu pra pedir desculpas? 
+904|YOU: Isso é uma coisa que você me deu pra pedir desculpas? 
 905|Sua mãe parece chocada. 
-906|MÃE: Não… é isso que você acha que é um presente? 
-907|VOCÊ: Tipo, um presente de aniversário é um pedido de desculpas por estar viva. 
-908|MÃE: Não, seu <b>pai</b> não te deu isso como pedido de desculpas. 
+906|MOM: Não… é isso que você acha que é um presente? 
+907|YOU: Tipo, um presente de aniversário é um pedido de desculpas por estar viva. 
+908|MOM: Não, seu <b>pai</b> não te deu isso como pedido de desculpas. 
 909|Você pensa a respeito. Além de obviamente ser um brinquedo seu, ela está procurando uma lembrança de como você o ganhou. 
 910|Provavelmente para marcar algum acontecimento, tipo uma viagem a um lugar especial. 
 911|Parece que seria muito gostoso de abraçar. 
 912|Olhar para esse tubarão te deixa <b>triste</b>. Não porque o tubarão em si seja tristonho, mas porque... ele te lembra de alguma coisa.
-913|VOCÊ: Ei, por que tubarões são proibidos nos cassinos? 
-914|MÃE: ...Porque abocanha– 
-915|VOCÊ: <shake>Porque eles sempre abocanham o pote! 
-916|VOCÊ: Você usaria o tubarão contra mim? 
-917|MÃE: Nima, não é esse o objetivo do teste, eu só estou tentando ver do que você se lembra. 
+913|YOU: Ei, por que tubarões são proibidos nos cassinos? 
+914|MOM: ...Porque abocanha– 
+915|YOU: <shake>Porque eles sempre abocanham o pote! 
+916|YOU: Você usaria o tubarão contra mim? 
+917|MOM: Nima, não é esse o objetivo do teste, eu só estou tentando ver do que você se lembra. 
 918|Quem ganharia uma corrida: uma equipe inteira de natação do ensino médio ou um carinha comilão? 
-919|VOCÊ: Eu nadaria mais rápido que ele, fácil. 
-920|MÃE: O que foi isso, Nima? 
+919|YOU: Eu nadaria mais rápido que ele, fácil. 
+920|MOM: O que foi isso, Nima? 
 921|Você olhava para cima, para ele: um peixe colossal circulando devagar num tanque ao lado de uma tartaruga-marinha e de uma arraia-manta. Você se perguntou, naquela hora, como todos esses animais diferentes podiam viver juntos em harmonia. 
 922|Seu pai explicou que a escolha dos peixes para os tanques é feita com muito cuidado. 
 923|Ele disse: ‘tem que manter os predadores bem alimentados, pra eles não acabarem comendo os peixinhos.’ 
@@ -427,74 +427,74 @@
 926|Você se lembra de uma coisa, sim: uma garota na escola... 
 927|Ela pegou seu tubarão. Era a única coisa que restava dele, e ela tirou de você. 
 928|Você fez ela se <shake>arrepender</shake> de ter tentado. 
-929|MÃE: Ok, Nima, vamos passar para outra coisa. 
+929|MOM: Ok, Nima, vamos passar para outra coisa. 
 930|Ela tira um pedaço de rocha com uma formação estranha sepultada na superfície. A rocha tem um brilho prismático: um cadáver congelado no tempo e depois rachado ao meio como um ovo. 
 931|Sua mãe hesita, sem saber se deveria te mostrar essa coisa. Mesmo assim, ela o coloca na mesa e o empurra na sua direção. 
 932|O fóssil do trabalho dela. Você se lembra disso. Seria uma boa hora para tocar no assunto.
-933|MÃE: Isso te lembra o quê? 
+933|MOM: Isso te lembra o quê? 
 934|Você tem uma lembrança de estar no topo da escada do porão, espiando sua mãe lá embaixo enquanto ela se matava de trabalhar no laboratório. 
 935|Ela olhava para esta rocha, passando o tempo todo com ela como se estivesse enfeitiçada. Ela não te deixava ver no que estava trabalhando. Toda vez que você interrompia, ela mandava você sair, com firmeza. 
 936|Esse é o tema do próximo estudo dela. Um estudo em que ela vem trabalhando dia e noite durante quase o verão inteiro. 
-937|VOCÊ: Você passou o verão inteiro com esse fóssil. 
-938|MÃE: Eu perdi a noção do tempo. 
+937|YOU: Você passou o verão inteiro com esse fóssil. 
+938|MOM: Eu perdi a noção do tempo. 
 939|As lembranças estão todas tingidas de solidão e culpa. 
 940|Sua mãe te chamava de assistente de laboratório, mas tudo o que você fazia para ajudar era cozinhar e limpar. 
 941|Naquela época você dizia para si mesma que fazia todo aquele trabalho por amor, mas agora não consegue deixar de se sentir… indignada.  
-942|VOCÊ: É uma perda de tempo. Ficar aqui embaixo no escuro enquanto o verão passa. 
+942|YOU: É uma perda de tempo. Ficar aqui embaixo no escuro enquanto o verão passa. 
 943|Você tocou num ponto sensível; ela reage cerrando os punhos. Um véu de aço cobre os olhos dela. 
-944|MÃE: Sua pirralha mimada. Você pode brincar e não fazer nada o verão inteiro. 
-945|MÃE: Talvez pra você pareça que eu estou ‘perdendo meu tempo’, mas todo esse trabalho eu fiz pra gente poder consertar nossa família. 
+944|MOM: Sua pirralha mimada. Você pode brincar e não fazer nada o verão inteiro. 
+945|MOM: Talvez pra você pareça que eu estou ‘perdendo meu tempo’, mas todo esse trabalho eu fiz pra gente poder consertar nossa família. 
 946|Peça desculpas, diga que ela está fazendo um bom trabalho. 
-947|VOCÊ: Desculpa, Mãe. Você tem razão, você se sacrificou muito pra cuidar de mim até eu melhorar. 
-948|VOCÊ: É que eu sinto… que não te vejo mais, que a gente não passa mais tempo junto como antes. 
-949|MÃE: Ah. 
+947|YOU: Desculpa, Mãe. Você tem razão, você se sacrificou muito pra cuidar de mim até eu melhorar. 
+948|YOU: É que eu sinto… que não te vejo mais, que a gente não passa mais tempo junto como antes. 
+949|MOM: Ah. 
 950|Ela leva a mão à cabeça e dá uma risadinha para si mesma. 
-951|MÃE: Então você só estava descontando em mim porque se sentia sozinha? 
+951|MOM: Então você só estava descontando em mim porque se sentia sozinha? 
 952|Você assente e se encolhe na cadeira, para mostrar com o corpo que se rendeu a ela. Em troca, ela relaxa. 
-953|MÃE: Nima, você não devia fazer isso. É só me dizer que quer passar mais tempo comigo. É fácil te entender mal se você me diz coisas maldosas. 
-954|VOCÊ: Eu sentia que você se importava mais com seu trabalho do que comigo. 
-955|MÃE: Meu trabalho é importante pra mim, Nima, mas preciso que você entenda que tudo o que eu faço, eu faço por você. 
-956|MÃE: Quando isso terminar, eu e você vamos ter <i>todo</i> o tempo do mundo pra passar juntas. 
-957|VOCÊ: Tá… <size=75%>parece bom. 
-958|MÃE: Vamos passar para outra coisa. 
+953|MOM: Nima, você não devia fazer isso. É só me dizer que quer passar mais tempo comigo. É fácil te entender mal se você me diz coisas maldosas. 
+954|YOU: Eu sentia que você se importava mais com seu trabalho do que comigo. 
+955|MOM: Meu trabalho é importante pra mim, Nima, mas preciso que você entenda que tudo o que eu faço, eu faço por você. 
+956|MOM: Quando isso terminar, eu e você vamos ter <i>todo</i> o tempo do mundo pra passar juntas. 
+957|YOU: Tá… <size=75%>parece bom. 
+958|MOM: Vamos passar para outra coisa. 
 959|Você se lembra de todo o tempo que sua mãe passa no escritório, ralando em descrições e classificações de fósseis como este. 
 960|Um trabalho que toma tanto do tempo dela e paga tão pouco. 
-961|VOCÊ: Você trabalha com esses fósseis praticamente o tempo todo. Você ensina as pessoas sobre eles e escreve livros sobre eles. 
-962|MÃE: Você lembra o nome deste aqui? 
+961|YOU: Você trabalha com esses fósseis praticamente o tempo todo. Você ensina as pessoas sobre eles e escreve livros sobre eles. 
+962|MOM: Você lembra o nome deste aqui? 
 963|Ela entra no modo professora. 
 964|Quando você olha para esse fóssil, o único pensamento que te vem à cabeça é que ele parece a silhueta de um homem nas sombras. 
 965|Tem alguma coisa nele que te chama. Como se o formato da pedra fosse o formato perfeito para te encaixar. Você sente vontade de rastejar para dentro da pedra e ficar sepultada nela. 
-966|VOCÊ: Não. 
-967|MÃE: Marrella splendens. 
-968|MÃE: Mas tudo bem, isso não é importante agora. 
-969|VOCÊ: Meio que é uma perda de tempo. Ficar aqui embaixo no escuro enquanto o verão passa. 
+966|YOU: Não. 
+967|MOM: Marrella splendens. 
+968|MOM: Mas tudo bem, isso não é importante agora. 
+969|YOU: Meio que é uma perda de tempo. Ficar aqui embaixo no escuro enquanto o verão passa. 
 970|Você não sabe por que disse isso em voz alta. 
-971|MÃE: Meu trabalho é importante. 
-972|MÃE: Você pode brincar e não fazer nada o verão inteiro.  Talvez pra você pareça que eu estou ‘perdendo meu tempo’, mas todo esse trabalho eu fiz pra gente poder consertar nossa família. 
-973|VOCÊ: É que eu sinto... que não te vejo mais, que a gente não passa mais tempo junto como antes. 
-974|VOCÊ: Eu achei esse fóssil. Achei no rio Kicking Horse. Você ficou tão feliz quando eu te dei ele de presente. 
+971|MOM: Meu trabalho é importante. 
+972|MOM: Você pode brincar e não fazer nada o verão inteiro.  Talvez pra você pareça que eu estou ‘perdendo meu tempo’, mas todo esse trabalho eu fiz pra gente poder consertar nossa família. 
+973|YOU: É que eu sinto... que não te vejo mais, que a gente não passa mais tempo junto como antes. 
+974|YOU: Eu achei esse fóssil. Achei no rio Kicking Horse. Você ficou tão feliz quando eu te dei ele de presente. 
 975|Ela parece satisfeita. Estende a mão e começa a passar o dedo pelo fóssil. 
-976|MÃE: Fiquei, sim. Me surpreendeu, porque normalmente não se encontram fósseis assim debaixo d’água. Ele deve ter deslizado lá do alto da montanha até ir parar ali. 
+976|MOM: Fiquei, sim. Me surpreendeu, porque normalmente não se encontram fósseis assim debaixo d’água. Ele deve ter deslizado lá do alto da montanha até ir parar ali. 
 977|Você começa a se lembrar do dia em que mergulhou. A transparência da água turquesa, que deixava ver o fundo com facilidade. A pedra que parecia te chamar. O sorriso despreocupado da sua mãe. 
-978|VOCÊ: Mas parece que ele tá quebrado. 
+978|YOU: Mas parece que ele tá quebrado. 
 979|Sua mãe assente, sem olhar para o fóssil; ela já sabia que estava quebrado. 
-980|MÃE: Eu extraí o fóssil depois que você me deu, mas algumas das impressões ainda estão aí. 
+980|MOM: Eu extraí o fóssil depois que você me deu, mas algumas das impressões ainda estão aí. 
 981|Você sente que a Mãe não está te contando tudo; havia algo especial nesse fóssil quando você o encontrou. Um motivo para você ter corrido pelas pedras para entregá-lo a ela. 
-982|VOCÊ: Posso ver? 
-983|MÃE: Não, agora não. Ainda estou estudando ele. 
+982|YOU: Posso ver? 
+983|MOM: Não, agora não. Ainda estou estudando ele. 
 984|Seja sincera. Diga que vai servi-la. 
-985|VOCÊ: Eu fico feliz de cuidar de você enquanto você trabalha. Eu faço qualquer coisa. 
-986|MÃE: Não, querida. Nima… esse é o meu papel. Sou eu que devo cuidar de você. 
-987|VOCÊ: Eu não lembro direito, mas lembro de pensar que aquele fóssil ia mudar o mundo. Que ele ia consertar tudo. 
+985|YOU: Eu fico feliz de cuidar de você enquanto você trabalha. Eu faço qualquer coisa. 
+986|MOM: Não, querida. Nima… esse é o meu papel. Sou eu que devo cuidar de você. 
+987|YOU: Eu não lembro direito, mas lembro de pensar que aquele fóssil ia mudar o mundo. Que ele ia consertar tudo. 
 988|Consertar tudo o que estava quebrado entre vocês duas. 
-989|MÃE: É… eu também acho. 
+989|MOM: É… eu também acho. 
 990|A preocupação dela dá lugar a uma felicidade genuína. 
-991|MÃE: Obrigada por lembrar, Nima. 
-992|MÃE: Só mais algumas perguntas e tudo vai começar a voltar ao normal. 
-993|VOCÊ: <shake>MARRELLA! 
-994|VOCÊ: É uma Marrella splendens, o animal mais comum encontrado no Xisto de Burgess!  
-995|VOCÊ: Os apêndices em forma de chifre davam estabilidade enquanto ela nadava e talvez também ajudassem a se defender de predadores! 
-996|MÃE: Exatamente, Nima! 
-997|VOCÊ: Eu achei esse fóssil. Achei no rio Kicking Horse. Você ficou tão feliz quando eu te dei ele de presente. 
+991|MOM: Obrigada por lembrar, Nima. 
+992|MOM: Só mais algumas perguntas e tudo vai começar a voltar ao normal. 
+993|YOU: <shake>MARRELLA! 
+994|YOU: É uma Marrella splendens, o animal mais comum encontrado no Xisto de Burgess!  
+995|YOU: Os apêndices em forma de chifre davam estabilidade enquanto ela nadava e talvez também ajudassem a se defender de predadores! 
+996|MOM: Exatamente, Nima! 
+997|YOU: Eu achei esse fóssil. Achei no rio Kicking Horse. Você ficou tão feliz quando eu te dei ele de presente. 
 998|Você começa a se lembrar do dia em que mergulhou. A transparência da água turquesa deixava ver o fundo com facilidade. A pedra que parecia te chamar. O sorriso despreocupado da sua mãe. 
 999|A Mãe assente, sem olhar para o fóssil. Ela já sabia que estava quebrado. 

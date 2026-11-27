@@ -33,58 +33,58 @@
 32|Metempsychosis - After Dunk
 33|Metempsychosis - Future Hypothesis
 34|repeat 
-35| VOCÊ: É... O que aconteceu? 
-36| VOCÊ: Mãe? O que tá acontecendo? 
+35| YOU: É... O que aconteceu? 
+36| YOU: Mãe? O que tá acontecendo? 
 37|Não, espera, é a outra. 
-38|VOCÊ: Desculpa, quis dizer Mãe. 
-39| VOCÊ: Olá, membro da família. 
-40|VOCÊ: Sou eu... a Nima! 
+38|YOU: Desculpa, quis dizer Mãe. 
+39| YOU: Olá, membro da família. 
+40|YOU: Sou eu... a Nima! 
 41| Uma lágrima solitária escorre pela sua bochecha. 
 42|???: Não chore. 
 43|Você consegue. 
-44|VOCÊ: Sim, Mãe. 
-45| VOCÊ: Oi, você... está mesmo aí? 
+44|YOU: Sim, Mãe. 
+45| YOU: Oi, você... está mesmo aí? 
 46|O som da sua voz te assusta. Você não achava que fosse soar assim. É... aguda. 
 47|???: Sim, estou. 
 48|Você se lembra do seu nome? 
-49|VOCÊ: Eu sou a Nima? 
+49|YOU: Eu sou a Nima? 
 50|set
 51|Ela franze a testa, avançando com cautela em direção ao que parece ser a entrada desta câmara subterrânea. 
 52|Você nota que ela toma um cuidado extra para te manter no campo de visão. Ela parece estar anotando alguma coisa. 
 53|???: <speed=0.5>Hmm...<speed=1> Apresentando perda de memória severa. 
 54|Sua idiota. 
 55|???: Seu nome é Nima, eu sou sua mãe. 
-56|MÃE: Vou... deixar você se readaptar aqui embaixo enquanto trago um pouco de comida. 
-57|VOCÊ: Tá bom... 
+56|MOM: Vou... deixar você se readaptar aqui embaixo enquanto trago um pouco de comida. 
+57|YOU: Tá bom... 
 58|A figura desaparece subindo as escadas, deixando um vazio no cômodo à sua frente. 
 59|Ela não parece gostar de você. 
-60|VOCÊ: {voice a=2}Certo... 
+60|YOU: {voice a=2}Certo... 
 61|Espera, sim... Está voltando agora. Seu nome é Nima Lee. 
 62|Um pouco da tensão se desfaz dos ombros dela. 
-63|MÃE: {voice a=1}Bom... você era... 
+63|MOM: {voice a=1}Bom... você era... 
 64|Ela deixa a frase morrer, olhando para você com saudade. Você se pergunta se ela vai continuar, mas tudo o que ela consegue reunir é um sorriso forçado. 
-65|MÃE: Deixa eu pegar comida pra você primeiro. 
-66|VOCÊ: Comida... 
+65|MOM: Deixa eu pegar comida pra você primeiro. 
+66|YOU: Comida... 
 67|Enquanto a figura desaparece escada acima, ela se vira para te olhar com um olhar desconfiado. 
 68|Ela não te desamarrou antes de sair. 
 69|Espera, sim... Está tudo voltando agora. Você é Nima Lee e essa é sua mãe, Annabelle Lee. 
 70|Ela solta um suspiro de alívio e sorri. 
-71|MÃE: Ah, graças a Deus, achei que tinha te perdido. 
+71|MOM: Ah, graças a Deus, achei que tinha te perdido. 
 72|Ela dá um passo à frente, animada, mas se detém pouco antes de te envolver num abraço. 
 73|Ela hesita. 
-74|VOCÊ: Perdida... Eu? 
+74|YOU: Perdida... Eu? 
 75|Ela estremece. 
-76|MÃE: Deixa eu trazer comida pra você primeiro, você deve estar morrendo de fome! 
+76|MOM: Deixa eu trazer comida pra você primeiro, você deve estar morrendo de fome! 
 77|Ela sai do porão, subindo as escadas aos tropeços, toda animada. 
 78|Espero que ela tropece e rache o crânio. 
-79|VOCÊ: {voice a=2}Obrigada, Mãe. 
+79|YOU: {voice a=2}Obrigada, Mãe. 
 80|Você solta um guincho de alerta fechando a garganta e raspando o ar nas cordas vocais. 
 81|A figura dá um passo para trás. 
 82|???: Você não consegue falar? 
 83|Controle-se, só diga a ela o seu nome... 
 84|Você se debate contra as amarras que te prendem à cadeira. Não consegue se soltar. 
 85|???: Hmm... Apresentando perda de memória severa. 
-86|VOCÊ: Me solta ou eu te mato! 
+86|YOU: Me solta ou eu te mato! 
 87|A figura desaparece subindo as escadas, deixando um vazio no cômodo atrás de você. 
 88|Uma tigela encharcada de lavagem é delicadamente oferecida a você. 
 89|O odor, que lembra cachorro molhado e meia suja, é mascarado por quantidades absurdas de molho de soja.
@@ -92,32 +92,32 @@
 91|Ela desamarra suas mãos, mas deixa sua cintura e sua cabeça presas à cadeira. 
 92|Com algum esforço, agora você consegue comer seu mingau. Ela coloca uma colher cega na sua mão agora livre. 
 93|Ela é ainda mais feia de perto. 
-94|MÃE: Certo, Nima, antes de você comer, a gente precisa ter uma conversinha. 
-95|MÃE: {voice a=1}Houve um acidente. 
-96|MÃE: Suas memórias podem ter sido afetadas, e eu quero garantir que você está bem antes que tudo volte ao normal. 
-97|MÃE: Por enquanto, você vai morar e dormir no porão. 
-98|VOCÊ: Pode me desamarrar? 
-99|MÃE: Você está amarrada para sua própria segurança. Se você perder a consciência, não quero que caia e se machuque. 
+94|MOM: Certo, Nima, antes de você comer, a gente precisa ter uma conversinha. 
+95|MOM: {voice a=1}Houve um acidente. 
+96|MOM: Suas memórias podem ter sido afetadas, e eu quero garantir que você está bem antes que tudo volte ao normal. 
+97|MOM: Por enquanto, você vai morar e dormir no porão. 
+98|YOU: Pode me desamarrar? 
+99|MOM: Você está amarrada para sua própria segurança. Se você perder a consciência, não quero que caia e se machuque. 
 100|É só seguir as regras dela e aí a gente vai ficar livre. 
-101|MÃE: Você não é uma prisioneira, isto é só um ambiente controlado para você se recuperar, tá bom? 
+101|MOM: Você não é uma prisioneira, isto é só um ambiente controlado para você se recuperar, tá bom? 
 102|Você olha para a tigela de comida e depois de volta para ela. Tenta assentir, mas sua cabeça só balança nas amarras.  
-103|MÃE: Certo, então, a partir de amanhã eu vou te trazer alguns objetos. Quero que você pense em como esses objetos te fazem sentir, se trazem de volta alguma memória. 
-104|MÃE: Por enquanto, vamos começar com algo simples, como exemplo. 
+103|MOM: Certo, então, a partir de amanhã eu vou te trazer alguns objetos. Quero que você pense em como esses objetos te fazem sentir, se trazem de volta alguma memória. 
+104|MOM: Por enquanto, vamos começar com algo simples, como exemplo. 
 105|Ela pega a tigela de mingau e a empurra na sua direção. 
 106|Você hesita. Embora ela diga que não existem respostas erradas, você sabe que isso não é verdade. Ela está esperando uma resposta específica. 
-107|MÃE: Este congee te faz pensar em quê? Pode começar a comer enquanto a gente conversa, se quiser. 
+107|MOM: Este congee te faz pensar em quê? Pode começar a comer enquanto a gente conversa, se quiser. 
 108|repeat
 109|Apesar de cada fibra do seu ser gritar para você não fazer isso, você bravamente força uma única colherada de congee fervendo garganta abaixo. 
 110|Você é dominada pelo gosto pungente da culinária pouco convencional da sua mãe e cospe tudo de volta. 
 111|Melhor morrer de fome do que aguentar mais uma bocada desse pesadelo temperado demais. 
 112|Sua mãe desvia o olhar, envergonhada, e pede desculpas pela tragédia culinária diante de você. 
-113|MÃE: Pelo jeito minha comida não melhorou, então. 
-114|VOCÊ: Desculpa, Mãe. Não consigo comer isso. 
-115|MÃE: Bom, você precisa comer alguma coisa. 
-116|VOCÊ: A gente pode pedir delivery? 
+113|MOM: Pelo jeito minha comida não melhorou, então. 
+114|YOU: Desculpa, Mãe. Não consigo comer isso. 
+115|MOM: Bom, você precisa comer alguma coisa. 
+116|YOU: A gente pode pedir delivery? 
 117|Ela se encolhe; a ideia de gastar dinheiro com fast-food gorduroso quando há um congee perfeitamente "bom" em casa parece lhe causar angústia física. 
-118|MÃE: Quer saber? Tenho uns cupons do Burgess Burger lá em cima. Tava guardando pra uma ocasião especial. 
-119|MÃE: Talvez, quando a gente terminar, eu saia e compre uns hambúrgueres pra gente jantar.
+118|MOM: Quer saber? Tenho uns cupons do Burgess Burger lá em cima. Tava guardando pra uma ocasião especial. 
+119|MOM: Talvez, quando a gente terminar, eu saia e compre uns hambúrgueres pra gente jantar.
 120|Resta saber se ela vai lembrar de fazer isso de verdade. 
 121|Não vai. 
 122|Mingau... Uma fonte fantástica de nutrientes! Rico em proteínas, gorduras e minerais. O banquete perfeito para qualquer menino ou menina em fase de crescimento! 
@@ -126,138 +126,138 @@
 125|Você sente seu estômago se dilatando dentro do corpo, um peso desconfortável que só serve para te deixar com mais fome. 
 126|Calma lá, campeã! 
 127|Sua mãe faz uma careta. Enojada com seu entusiasmo, ela arranca a tigela de você. 
-128|MÃE: {voice a=1}<shake a=.1 d=.3>Você <i>estava</i> com fome mesmo.</shake> 
-129|MÃE: {voice a=1}<size=75%>Você normalmente odeia a minha comida. 
-130|VOCÊ: {voice a=2}Posso comer mais? 
-131|MÃE: {voice a=1}Acho que você já comeu o bastante. 
-132|VOCÊ: Ah, obrigada, eu... Eu adoro mesmo a sua comida. 
+128|MOM: {voice a=1}<shake a=.1 d=.3>Você <i>estava</i> com fome mesmo.</shake> 
+129|MOM: {voice a=1}<size=75%>Você normalmente odeia a minha comida. 
+130|YOU: {voice a=2}Posso comer mais? 
+131|MOM: {voice a=1}Acho que você já comeu o bastante. 
+132|YOU: Ah, obrigada, eu... Eu adoro mesmo a sua comida. 
 133|Você pega a colher e observa uma bola de lavagem escorregar da colher de volta para a gosma na tigela. 
 134|Você põe a colher na boca, tapa o nariz e engole rápido. 
-135|MÃE: Ah, você tá comendo mesmo? 
-136|VOCÊ: Tá... uma delícia, mãe... <size=75%><shake>Obrigada. 
-137|MÃE: Ah... você só tá tentando ser gentil. 
+135|MOM: Ah, você tá comendo mesmo? 
+136|YOU: Tá... uma delícia, mãe... <size=75%><shake>Obrigada. 
+137|MOM: Ah... você só tá tentando ser gentil. 
 138|Você desvia o olhar, envergonhada, e deixa a colher descansar na borda da tigela. 
-139|MÃE: Querida, tudo bem me dizer que você não quer a minha comida. 
-140|MÃE: Afinal, você nunca hesitou em me avisar no passado.  
-141|VOCÊ: Bom... isso não foi muito legal da minha parte. 
-142|MÃE: Querida, eu não ligo, sério! Você e seu pai é que sempre tiveram talento pra cozinhar. Minhas papilas gustativas não funcionam direito, então eu não sei dizer. 
-143|MÃE: Quer saber? Tenho uns cupons do Burgess Burger lá em cima. Tava guardando pra uma ocasião especial. 
-144|VOCÊ: Não precisa... Acho que não tô com tanta fome. 
-145|VOCÊ: Isso é congee. 
-146|MÃE: Sim, isto é congee. 
+139|MOM: Querida, tudo bem me dizer que você não quer a minha comida. 
+140|MOM: Afinal, você nunca hesitou em me avisar no passado.  
+141|YOU: Bom... isso não foi muito legal da minha parte. 
+142|MOM: Querida, eu não ligo, sério! Você e seu pai é que sempre tiveram talento pra cozinhar. Minhas papilas gustativas não funcionam direito, então eu não sei dizer. 
+143|MOM: Quer saber? Tenho uns cupons do Burgess Burger lá em cima. Tava guardando pra uma ocasião especial. 
+144|YOU: Não precisa... Acho que não tô com tanta fome. 
+145|YOU: Isso é congee. 
+146|MOM: Sim, isto é congee. 
 147|Você encara a tigela. 
-148|MÃE: Quer comer? 
-149|VOCÊ: O que é congee? 
-150|MÃE: Bom... 
-151|MÃE: É, hã... arroz, aveia, peixe, molho de soja, molho inglês e cebolinha, acho... Peguei no quintal. 
-152|MÃE: E, hã... 
-153|MÃE: Rum também, o peixe parecia meio velho. 
-154|VOCÊ: Acho que congee não é isso. 
-155|MÃE: Bom, não é muito tradicional, mas é o que eu tinha em casa. 
-156|MÃE: Quer comer? 
-157|VOCÊ: Isso dá medo. 
-158|MÃE: Ah, tá tudo bem, você precisa disso pra melhorar. 
-159|MÃE: Vamos lá, coma tudo.  
-160|VOCÊ: Isso é a Nima? 
-161|MÃE: Não, isto é congee. Você não é congee. 
+148|MOM: Quer comer? 
+149|YOU: O que é congee? 
+150|MOM: Bom... 
+151|MOM: É, hã... arroz, aveia, peixe, molho de soja, molho inglês e cebolinha, acho... Peguei no quintal. 
+152|MOM: E, hã... 
+153|MOM: Rum também, o peixe parecia meio velho. 
+154|YOU: Acho que congee não é isso. 
+155|MOM: Bom, não é muito tradicional, mas é o que eu tinha em casa. 
+156|MOM: Quer comer? 
+157|YOU: Isso dá medo. 
+158|MOM: Ah, tá tudo bem, você precisa disso pra melhorar. 
+159|MOM: Vamos lá, coma tudo.  
+160|YOU: Isso é a Nima? 
+161|MOM: Não, isto é congee. Você não é congee. 
 162|Você cutuca a espinha de peixe e a substância faz um barulho molhado. 
-163|VOCÊ: Tem certeza? 
-164|MÃE: Tenho. 
-165|MÃE: Só pra deixar claro, você é um ser humano. Com certeza você não esqueceu disso. 
+163|YOU: Tem certeza? 
+164|MOM: Tenho. 
+165|MOM: Só pra deixar claro, você é um ser humano. Com certeza você não esqueceu disso. 
 166|Você sorri orgulhosa, sentindo que essa é a resposta certa.  
-167|MÃE: Mas isto está te fazendo pensar em você mesma. O que sobre você? Que você está com fome? 
-168|VOCÊ: Me lembra dos jantares em família. 
+167|MOM: Mas isto está te fazendo pensar em você mesma. O que sobre você? Que você está com fome? 
+168|YOU: Me lembra dos jantares em família. 
 169|Sua mãe se anima com isso. 
-170|MÃE: Ah! Que bom! 
-171|MÃE: Isso deve ter sido há muito tempo. É um bom sinal, você tem algumas memórias de longo prazo. 
-172|VOCÊ: Peixinhos nadando na lavagem. 
-173|MÃE: Interessante, hum. 
-174|MÃE: Bom, agora é comida. Não está mais nadando de verdade. 
-175|VOCÊ: Que triste. 
-176|MÃE: Ah, bom. Acho que você gosta bastante de peixes. 
-177|VOCÊ: Qual era o nome deles? 
-178|MÃE: Acho que ele não tinha nome. 
-179|MÃE: Não está com fome, querida? 
-180|VOCÊ: Meio que me faz sentir sozinha. 
-181|MÃE: Interessante, pode me contar um pouco mais? 
-182|VOCÊ: Não sei bem por quê. 
+170|MOM: Ah! Que bom! 
+171|MOM: Isso deve ter sido há muito tempo. É um bom sinal, você tem algumas memórias de longo prazo. 
+172|YOU: Peixinhos nadando na lavagem. 
+173|MOM: Interessante, hum. 
+174|MOM: Bom, agora é comida. Não está mais nadando de verdade. 
+175|YOU: Que triste. 
+176|MOM: Ah, bom. Acho que você gosta bastante de peixes. 
+177|YOU: Qual era o nome deles? 
+178|MOM: Acho que ele não tinha nome. 
+179|MOM: Não está com fome, querida? 
+180|YOU: Meio que me faz sentir sozinha. 
+181|MOM: Interessante, pode me contar um pouco mais? 
+182|YOU: Não sei bem por quê. 
 183|Você tem quase certeza de que essa não é sua comida favorita. Também tem quase certeza de que sua mãe sabe disso. 
-184|MÃE: Tente conectar ideias na sua mente e veja aonde essas linhas de pensamento te levam. Me diga no que você está pensando. 
-185|VOCÊ: Molhado. 
-186|MÃE: Ah. Achei que tinha cozinhado o suficiente. 
+184|MOM: Tente conectar ideias na sua mente e veja aonde essas linhas de pensamento te levam. Me diga no que você está pensando. 
+185|YOU: Molhado. 
+186|MOM: Ah. Achei que tinha cozinhado o suficiente. 
 187|Ela enfia o dedo na gosma e mexe. 
-188|MÃE: Deve estar bom, né? 
-189|MÃE: Vai, dá uma mordida. 
-190|VOCÊ: Dói. 
-191|MÃE: O que dói, querida? 
+188|MOM: Deve estar bom, né? 
+189|MOM: Vai, dá uma mordida. 
+190|YOU: Dói. 
+191|MOM: O que dói, querida? 
 192|Você aponta para o mingau com um dedo acusador. 
-193|MÃE: Não estou entendendo. 
-194|VOCÊ: A gente não tava acampando agora há pouco? 
-195|MÃE: Ah, você se lembra disso? 
-196|VOCÊ: Talvez? 
-197|MÃE: Não se preocupe com isso agora, coma um pouco. 
-198|VOCÊ: Aquilo ali dentro é uma pedra? 
+193|MOM: Não estou entendendo. 
+194|YOU: A gente não tava acampando agora há pouco? 
+195|MOM: Ah, você se lembra disso? 
+196|YOU: Talvez? 
+197|MOM: Não se preocupe com isso agora, coma um pouco. 
+198|YOU: Aquilo ali dentro é uma pedra? 
 199|A Mãe se inclina e examina o mingau. 
-200|MÃE: Ah, hum, como isso foi parar aí? 
+200|MOM: Ah, hum, como isso foi parar aí? 
 201|Tirar a pedra melhora o congee só um pouquinho. 
-202|MÃE: Pronto, agora está perfeito. Dá uma mordida! 
-203|VOCÊ: Tenho a sensação de que eu cozinho melhor que você. 
-204|MÃE: Bom... É bom que você se lembre disso. 
-205|MÃE: Mesmo assim, você está doente e eu estou bem, então coma tudo. 
+202|MOM: Pronto, agora está perfeito. Dá uma mordida! 
+203|YOU: Tenho a sensação de que eu cozinho melhor que você. 
+204|MOM: Bom... É bom que você se lembre disso. 
+205|MOM: Mesmo assim, você está doente e eu estou bem, então coma tudo. 
 206|Ver as espinhas de peixe faz seu peito apertar, mas você não sabe por quê. 
 207|O sentimento vem sem nenhuma memória específica. Só tem um buraco em formato de peixe no seu coração. 
-208|MÃE: Hã, não chore... é só congee. 
+208|MOM: Hã, não chore... é só congee. 
 209|Você encara o mingau empelotado e sua mente divaga. 
 210|Se não estivesse amarrada, você ficaria bem tentada a se esticar por cima da mesa e enfiar a cara dela nesse mingau. 
 211|Acrescentar o sangue e o cérebro dela à cacofonia de sabores que te foi servida. 
 212|Velha e cansada do jeito que ela parece, você se pergunta que gosto ela teria. 
-213|MÃE: Por que você está sorrindo, Nima? 
+213|MOM: Por que você está sorrindo, Nima? 
 214|Você dá de ombros. 
-215|VOCÊ: Salgado que nem lágrimas. 
-216|MÃE: Você nem provou. 
-217|VOCÊ: Deixou o ar salgado. 
-218|VOCÊ: A aura dele é puro sal. 
-219|MÃE: Você gosta de comida salgada. 
-220|VOCÊ: Parece um cerebrozinho. 
-221|VOCÊ: Tem um peixinho rastejando aqui dentro. 
-222|MÃE: Não é um cérebro, é congee. 
+215|YOU: Salgado que nem lágrimas. 
+216|MOM: Você nem provou. 
+217|YOU: Deixou o ar salgado. 
+218|YOU: A aura dele é puro sal. 
+219|MOM: Você gosta de comida salgada. 
+220|YOU: Parece um cerebrozinho. 
+221|YOU: Tem um peixinho rastejando aqui dentro. 
+222|MOM: Não é um cérebro, é congee. 
 223|Apesar do cheiro forte, seu estômago ronca. 
 224|Seu estômago não é tão eloquente quanto sua mente, mas está te dizendo que, a essa altura, aceita qualquer coisa. 
-225|MÃE: Eu ouvi isso, você deve estar faminta, vai, come. 
-226|VOCÊ: Olha só esse projetinho de ciências. 
-227|VOCÊ: Isso é uma amostra? 
-228|MÃE: É o jantar. 
-229|VOCÊ: Parece que tá prestes a pular da tigela. 
-230|MÃE: Isto é congee, é comida. Não está vivo. 
+225|MOM: Eu ouvi isso, você deve estar faminta, vai, come. 
+226|YOU: Olha só esse projetinho de ciências. 
+227|YOU: Isso é uma amostra? 
+228|MOM: É o jantar. 
+229|YOU: Parece que tá prestes a pular da tigela. 
+230|MOM: Isto é congee, é comida. Não está vivo. 
 231|Ela parece um pouco exasperada. 
-232|MÃE: Só coma e você vai entender... <size=75%>Espero. 
+232|MOM: Só coma e você vai entender... <size=75%>Espero. 
 233|Seja lá o que for essa coisa, ela dissolveu o resto do peixe, sem deixar nada além de um esqueleto. 
 234|Você sente o poder desse monstro, seu hálito pútrido ardendo no ar. Se ele te tocar, você vai se dissolver como o peixe. 
 235|Quem é essa tal de "mãe", para ter monstruosidades assim às suas ordens? 
-236|MÃE: Nima? Alô, suas pupilas estão dilatadas. Você está bem? 
+236|MOM: Nima? Alô, suas pupilas estão dilatadas. Você está bem? 
 237|Você não quer parecer mimada nem nada, mas não podia ser sushi? Talvez um hambúrguer? 
 238|A Mãe sorri para você, inclinando a cabeça de lado, olhando de você para a tigela e da tigela para você. 
 239|Ela não acha mesmo que tem algo errado aqui? 
 240|Você precisa dizer a ela o quanto isso é nojento. 
-241|VOCÊ: Ah, sim... o tenaz peixe-mingau em seu habitat natural. Eles sobem o rio e depois pulam em tigelas de mingau para completar seu ciclo de vida. 
+241|YOU: Ah, sim... o tenaz peixe-mingau em seu habitat natural. Eles sobem o rio e depois pulam em tigelas de mingau para completar seu ciclo de vida. 
 242|Sua mãe parece confusa e então olha para baixo. 
-243|MÃE: Ah. Isso foi uma piada sobre as espinhas, né? 
-244|MÃE: Bom... Eu não tinha caldo em cubo, então pensei em fazer o caldo do zero! 
-245|VOCÊ: ...Bem pensado. 
-246|VOCÊ: Isso é um dos fósseis que você estuda no trabalho. 
-247|MÃE: Não, não, não. Isto é o congee. Olhe para a amostra, por favor. 
+243|MOM: Ah. Isso foi uma piada sobre as espinhas, né? 
+244|MOM: Bom... Eu não tinha caldo em cubo, então pensei em fazer o caldo do zero! 
+245|YOU: ...Bem pensado. 
+246|YOU: Isso é um dos fósseis que você estuda no trabalho. 
+247|MOM: Não, não, não. Isto é o congee. Olhe para a amostra, por favor. 
 248|Você olha para a "amostra" e nota o osso saindo da gosma. 
-249|MÃE: Diga "congee". 
-250|VOCÊ: Congee. 
+249|MOM: Diga "congee". 
+250|YOU: Congee. 
 251|Você ignora o osso; de repente percebe que ele não é tão relevante quanto você pensava. 
 252|Isso é nojento, ela não sabe cozinhar nem que a vida dela dependesse disso. 
-253|VOCÊ: Estranho, desde quando a gente voltou a revezar quem cozinha? 
-254|MÃE: Desde pouco tempo... Já te explico. Só coloque um pouco de comida no estômago primeiro, tá bom? 
+253|YOU: Estranho, desde quando a gente voltou a revezar quem cozinha? 
+254|MOM: Desde pouco tempo... Já te explico. Só coloque um pouco de comida no estômago primeiro, tá bom? 
 255|Hora de voltar à velha prancheta de táticas. Se quiser que ela pare de cozinhar, você vai ter que se recusar a comer qualquer coisa que ela fizer. 
 256|Você olha das espinhas de peixe saindo do congee para o aquário vazio no canto do cômodo. 
 257|Você fica estranhamente preocupada. 
-258|VOCÊ: Onde você arrumou o peixe? 
-259|MÃE: No mercado... Acho que é arenque. 
+258|YOU: Onde você arrumou o peixe? 
+259|MOM: No mercado... Acho que é arenque. 
 260|Ah, tudo bem, esse não é um peixe amigo, é um peixe de comer. 
 261|Pobre peixe. Afogado no jook. 
 262|Uma memória sensorial te vem à mente. Você está olhando para uma bandeja de mingau e precisa garantir que chegue até os velhinhos. 
@@ -267,234 +267,234 @@
 266|Você precisa dizer a ela que isso é nojento. 
 267|Congee é uma ótima refeição para quem está doente. É fácil de comer e nutritivo. 
 268|Mesmo assim... você pode dizer com total confiança: se desse isso aos enfermos... Isso os mataria. 
-269|VOCÊ: Sinto que tá faltando alguma coisa. 
-270|MÃE: Tipo o quê? 
-271|VOCÊ: Umas salsichinhas. 
-272|MÃE: Acho que isso ia pesar um pouco no seu estômago, querida. 
-273|VOCÊ: Hmm... Acho que podia ter um pouquinho de... 
-274|VOCÊ: Tubarão? 
+269|YOU: Sinto que tá faltando alguma coisa. 
+270|MOM: Tipo o quê? 
+271|YOU: Umas salsichinhas. 
+272|MOM: Acho que isso ia pesar um pouco no seu estômago, querida. 
+273|YOU: Hmm... Acho que podia ter um pouquinho de... 
+274|YOU: Tubarão? 
 275|Sua mãe leva a mão à testa. 
-276|MÃE: Você acabou de acordar. Como é que essa é a primeira coisa em que você pensa? 
-277|VOCÊ: Deve ser importante, né!? Tubarões são um presságio de alguma coisa. 
-278|VOCÊ: Ei... Mãe... Tô pensando num certo garoto. 
-279|MÃE: Você é nova demais pra isso. 
-280|VOCÊ: Tô pensando no... Garoto Tomate. 
-281|MÃE: Ah, que bom... 
-282|MÃE: Se você começar a dar nome pra todos eles, aí a gente vai ter um problema. 
+276|MOM: Você acabou de acordar. Como é que essa é a primeira coisa em que você pensa? 
+277|YOU: Deve ser importante, né!? Tubarões são um presságio de alguma coisa. 
+278|YOU: Ei... Mãe... Tô pensando num certo garoto. 
+279|MOM: Você é nova demais pra isso. 
+280|YOU: Tô pensando no... Garoto Tomate. 
+281|MOM: Ah, que bom... 
+282|MOM: Se você começar a dar nome pra todos eles, aí a gente vai ter um problema. 
 283|Não vá se fixar nisso agora... a gente tem um jook pra resolver. 
 284|Você não pode mais deixar ela mandar em você. 
 285|Você não quer comer isso e ponto final! 
-286|VOCÊ: Isso tá envenenado? 
-287|MÃE: Claro que não, Nima. 
-288|VOCÊ: O que a gente tá fazendo aqui embaixo? A gente não devia estar comendo na sala de jantar ou algo assim? 
-289|MÃE: Já chego lá, só tenha paciência, tá bom? 
-290|VOCÊ: O que a sua mãe ia achar disso? Uma mulher feita e não consegue nem fazer uma tigela decente de congee. 
-291|MÃE: ...É cedo demais pra isso. 
+286|YOU: Isso tá envenenado? 
+287|MOM: Claro que não, Nima. 
+288|YOU: O que a gente tá fazendo aqui embaixo? A gente não devia estar comendo na sala de jantar ou algo assim? 
+289|MOM: Já chego lá, só tenha paciência, tá bom? 
+290|YOU: O que a sua mãe ia achar disso? Uma mulher feita e não consegue nem fazer uma tigela decente de congee. 
+291|MOM: ...É cedo demais pra isso. 
 292|Você boceja; a tigela de congee com certeza espantou seu apetite. Agora você preferia achar uma toca aconchegante para se enfiar e dormir. 
 293|A Mãe deixa a tigela de lado e solta um longo suspiro. Ela te encara atentamente, se preparando para alguma coisa. 
-294|MÃE: Quanto do acidente você lembra? 
+294|MOM: Quanto do acidente você lembra? 
 295|Você balança a cabeça. Algumas coisas simplesmente te vêm à mente, mas, até onde você sabe, tudo o que aconteceu antes de você acordar neste porão parece um sonho. 
-296|MÃE: Você estava <b>nadando</b> e bateu a cabeça. 
-297|MÃE: Você teve sorte de eu ter conseguido te resgatar. 
+296|MOM: Você estava <b>nadando</b> e bateu a cabeça. 
+297|MOM: Você teve sorte de eu ter conseguido te resgatar. 
 298|Você agarra a cabeça quando uma pontada de dor desce do topo do seu crânio pela sua coluna. 
 299|Ai! 
 300|Sei, conta outra... 
 301|Uma memória te invade. Você se lembra de olhar para o rosto de pedra da sua mãe. Na mão, ela segura com força uma pequena faca feita para cortar carne e órgãos. 
 302|Sua mãe parece preocupada e estende a mão para te consolar. 
 303|Você recua para longe dela. 
-304|MÃE: Talvez seja melhor a gente conversar sobre isso depois. 
-305|MÃE: Amanhã os testes de verdade vão começar. Se você passar neles, vai poder sair do porão, e tudo vai poder voltar ao normal. 
-306|VOCÊ: Como eu vou passar se mal consigo lembrar de alguma coisa...? 
-307|MÃE: Acho que é justo você ter a chance de me fazer algumas perguntas também. 
+304|MOM: Talvez seja melhor a gente conversar sobre isso depois. 
+305|MOM: Amanhã os testes de verdade vão começar. Se você passar neles, vai poder sair do porão, e tudo vai poder voltar ao normal. 
+306|YOU: Como eu vou passar se mal consigo lembrar de alguma coisa...? 
+307|MOM: Acho que é justo você ter a chance de me fazer algumas perguntas também. 
 308|Uma dor lancinante sacode seu cérebro. Você está quase esgotada por hoje. 
 309|Escolha bem suas próximas palavras. 
-310|MÃE: O que você quer saber? 
+310|MOM: O que você quer saber? 
 311|BUG QuestionNumber not reset properly
 312|Suas pálpebras estão ficando pesadas; sua energia está acabando. 
-313|MÃE: Mais alguma coisa que você queira me perguntar? 
+313|MOM: Mais alguma coisa que você queira me perguntar? 
 314|Outra pontada. Você se encolhe e sua mãe percebe. 
-315|MÃE: Nima, você não está com uma cara boa, tem certeza de que quer continuar? 
-316|VOCÊ: Só tenho mais uma pergunta. 
-317|MÃE: Tá bom, o que você quer perguntar? 
-318|VOCÊ: Eu sou a Nima? 
+315|MOM: Nima, você não está com uma cara boa, tem certeza de que quer continuar? 
+316|YOU: Só tenho mais uma pergunta. 
+317|MOM: Tá bom, o que você quer perguntar? 
+318|YOU: Eu sou a Nima? 
 319|Sua mãe parece atingida e se afasta de você. Ela fecha o coração e, em vez de um sorriso, você vê o mesmo rosto de pedra que viu na memória que passou pelo seu cérebro. 
-320|VOCÊ: Tô brincando, eu sei que meu nome é Nima. 
+320|YOU: Tô brincando, eu sei que meu nome é Nima. 
 321|Ela solta um gemido profundo e se recosta na cadeira. 
-322|MÃE: Nima, por favor, não é hora de brincadeira. Preciso que você leve isso a sério. 
+322|MOM: Nima, por favor, não é hora de brincadeira. Preciso que você leve isso a sério. 
 323|Bom, foi um desperdício de pergunta, mas valeu a pena pela cara dela. 
-324|VOCÊ: Você é mesmo minha mãe? 
+324|YOU: Você é mesmo minha mãe? 
 325|Ela parece não saber se deveria ficar exasperada ou preocupada. 
-326|MÃE: Sim, Nima, eu sou mesmo sua mãe. 
-327|VOCÊ: Você podia estar fingindo, né? Minha memória não tá cem por cento agora. 
-328|MÃE: Meu nome é Annabelle Lee, sou de Vancouver e trabalho como paleontóloga. Escrevi vários livros. 
-329|MÃE: Isso confere? 
-330|VOCÊ: Sim. Parece coisa de mãe.  
+326|MOM: Sim, Nima, eu sou mesmo sua mãe. 
+327|YOU: Você podia estar fingindo, né? Minha memória não tá cem por cento agora. 
+328|MOM: Meu nome é Annabelle Lee, sou de Vancouver e trabalho como paleontóloga. Escrevi vários livros. 
+329|MOM: Isso confere? 
+330|YOU: Sim. Parece coisa de mãe.  
 331|Você sorri para ela. 
 332|Você se pergunta se todas as mães também são cientistas. 
-333|MÃE: Por favor, pare de brincadeira. 
-334|VOCÊ: Você tá bem, Mãe? 
+333|MOM: Por favor, pare de brincadeira. 
+334|YOU: Você tá bem, Mãe? 
 335|Ela parece surpresa e depois olha para o próprio cardigã empoeirado. 
-336|MÃE: Eu não pareço bem? 
-337|VOCÊ: Parece que você parou de se cuidar faz muito tempo. 
+336|MOM: Eu não pareço bem? 
+337|YOU: Parece que você parou de se cuidar faz muito tempo. 
 338|Você tenta sorrir para ela com carinho. 
-339|MÃE: Eu estava preocupada com você. 
-340|MÃE: Mas agora está tudo bem, só preciso fazer esses testes. 
-341|MÃE: Que tal, depois disso, a gente passar a última semana das férias de verão em Radium? 
-342|MÃE: Uma viagem pras termas vai fazer bem pra nós duas. 
-343|VOCÊ: Claro. 
-344|VOCÊ: Posso te ajudar de algum jeito? 
-345|MÃE: Só se concentre em melhorar. 
-346|VOCÊ: Cadê o resto da nossa família? 
+339|MOM: Eu estava preocupada com você. 
+340|MOM: Mas agora está tudo bem, só preciso fazer esses testes. 
+341|MOM: Que tal, depois disso, a gente passar a última semana das férias de verão em Radium? 
+342|MOM: Uma viagem pras termas vai fazer bem pra nós duas. 
+343|YOU: Claro. 
+344|YOU: Posso te ajudar de algum jeito? 
+345|MOM: Só se concentre em melhorar. 
+346|YOU: Cadê o resto da nossa família? 
 347|Sua mãe estende a mão e a coloca sobre a sua. 
-348|MÃE: Somos só eu e você, Nima. 
-349|VOCÊ: Não é verdade, tem mais dois, não tem? 
+348|MOM: Somos só eu e você, Nima. 
+349|YOU: Não é verdade, tem mais dois, não tem? 
 350|Ela recolhe a mão e te olha intrigada. 
-351|MÃE: Já teve, mas agora somos só nós, tá bom? 
-352|VOCÊ: Por que eu tenho medo de você? 
-353|MÃE: Você tem medo de mim? 
-354|VOCÊ: Eu não devia estar em outro lugar, num lugar pra gente doente? Por que a gente tá no porão? 
-355|MÃE: Eles não estavam te dando os cuidados de que você precisava. Tive que resolver as coisas com as minhas próprias mãos. 
-356|MÃE: Mas funcionou, você acordou, está indo bem, só está um pouco confusa. A gente pode consertar isso. 
-357|MÃE: Você não precisa ter medo de mim. 
-358|MÃE: Eu sou sua mãe, vou te ajudar. 
+351|MOM: Já teve, mas agora somos só nós, tá bom? 
+352|YOU: Por que eu tenho medo de você? 
+353|MOM: Você tem medo de mim? 
+354|YOU: Eu não devia estar em outro lugar, num lugar pra gente doente? Por que a gente tá no porão? 
+355|MOM: Eles não estavam te dando os cuidados de que você precisava. Tive que resolver as coisas com as minhas próprias mãos. 
+356|MOM: Mas funcionou, você acordou, está indo bem, só está um pouco confusa. A gente pode consertar isso. 
+357|MOM: Você não precisa ter medo de mim. 
+358|MOM: Eu sou sua mãe, vou te ajudar. 
 359|Ela está escondendo alguma coisa de você... 
-360|VOCÊ: Cadê o Pai? 
-361|MÃE: O Pai não está aqui. 
-362|MÃE: O que você lembra dele? 
+360|YOU: Cadê o Pai? 
+361|MOM: O Pai não está aqui. 
+362|MOM: O que você lembra dele? 
 363|Você vasculha a mente em busca de qualquer coisa que consiga lembrar sobre seu pai. A memória que volta não é um acontecimento nem uma história, mas um cheiro. 
-364|VOCÊ: Ele tem cheiro de peixe. 
+364|YOU: Ele tem cheiro de peixe. 
 365|O rosto de pedra da sua mãe se racha num sorriso, e então ela ri. 
-366|MÃE: É, ele tinha mesmo. 
-367|VOCÊ: Eu lembro que você me machucou. 
+366|MOM: É, ele tinha mesmo. 
+367|YOU: Eu lembro que você me machucou. 
 368|Sua mãe se sobressalta; dá para ver que você tocou num ponto sensível. Ela começa a tremer. 
-369|MÃE: Nima... Meu amor. 
-370|MÃE: Eu sei que nem sempre estou presente... Mas eu nunca... 
+369|MOM: Nima... Meu amor. 
+370|MOM: Eu sei que nem sempre estou presente... Mas eu nunca... 
 371|Uma segunda memória te vem. Você está presa num abismo, de olhos fechados e desconectada do próprio cérebro. Você sente sua mãe segurando sua mão. 
 372|Não, se faça de boba... 
-373|VOCÊ: Desculpa, Mamãe. 
-374|VOCÊ: Tô confusa. 
+373|YOU: Desculpa, Mamãe. 
+374|YOU: Tô confusa. 
 375|Ela relaxa um pouco, embora não largue o espinho que você cravou nela. 
-376|MÃE: Ultimamente eu tenho colocado meu trabalho na frente de você, e isso não é justo com você. Eu devia ter estado lá quando você precisou de mim. 
-377|MÃE: Agora vai ser diferente, eu prometo. 
+376|MOM: Ultimamente eu tenho colocado meu trabalho na frente de você, e isso não é justo com você. Eu devia ter estado lá quando você precisou de mim. 
+377|MOM: Agora vai ser diferente, eu prometo. 
 378|A conversa morre aos poucos; nenhuma das duas quer olhar para a outra. 
-379|VOCÊ: Eu me machuquei nadando? 
+379|YOU: Eu me machuquei nadando? 
 380|Você sente que não confia nessa explicação. 
-381|MÃE: Você foi nadar sozinha e bateu a cabeça numa pedra. Eu disse pra você não ir porque a correnteza estava forte, mas você não me ouviu, como sempre. 
-382|MÃE: Você teve sorte de eu te encontrar a tempo. 
-383|VOCÊ: Sério? 
-384|MÃE: Sério. 
+381|MOM: Você foi nadar sozinha e bateu a cabeça numa pedra. Eu disse pra você não ir porque a correnteza estava forte, mas você não me ouviu, como sempre. 
+382|MOM: Você teve sorte de eu te encontrar a tempo. 
+383|YOU: Sério? 
+384|MOM: Sério. 
 385|A voz dela tem um quê de culpa. 
 386|Ela está mentindo pra você. 
-387|VOCÊ: Você tá feliz que eu tô bem? 
-388|MÃE: Sim, querida, claro! 
+387|YOU: Você tá feliz que eu tô bem? 
+388|MOM: Sim, querida, claro! 
 389|O rosto dela se suaviza, mas dá para perceber que há algo contido na resposta. 
 390|Há um levíssimo traço de medo nas rugas ao redor dos olhos dela. 
-391|VOCÊ: E o seu emprego? 
-392|MÃE: Meu trabalho pode esperar. 
-393|MÃE: Você é mais importante. 
-394|VOCÊ: Eu não tenho que ir pra escola? 
-395|MÃE: Primeiro você precisa melhorar. 
-396|MÃE: Isso me lembra uma coisa. Seus colegas de classe fizeram um cartão de "Melhoras" pra você. 
-397|VOCÊ: Sério? Que legal. 
-398|MÃE: Está lá em cima. Amanhã eu trago pra você. 
+391|YOU: E o seu emprego? 
+392|MOM: Meu trabalho pode esperar. 
+393|MOM: Você é mais importante. 
+394|YOU: Eu não tenho que ir pra escola? 
+395|MOM: Primeiro você precisa melhorar. 
+396|MOM: Isso me lembra uma coisa. Seus colegas de classe fizeram um cartão de "Melhoras" pra você. 
+397|YOU: Sério? Que legal. 
+398|MOM: Está lá em cima. Amanhã eu trago pra você. 
 399|A Mãe tira o caderno do bolso e rabisca alguma coisa. 
-400|VOCÊ: Não vai esquecer, tá? 
-401|MÃE: O quê? 
+400|YOU: Não vai esquecer, tá? 
+401|MOM: O quê? 
 402|Ela já esqueceu. 
-403|VOCÊ: Foi você que cozinhou isso? 
-404|MÃE: Confesso que foi meio de última hora, então eu meio que juntei qualquer coisa. 
-405|MÃE: Essa é a vantagem do congee, dá pra pegar tudo que tem na geladeira, jogar numa panela, e meio que funciona. 
+403|YOU: Foi você que cozinhou isso? 
+404|MOM: Confesso que foi meio de última hora, então eu meio que juntei qualquer coisa. 
+405|MOM: Essa é a vantagem do congee, dá pra pegar tudo que tem na geladeira, jogar numa panela, e meio que funciona. 
 406|Então ela só tá jogando merda na parede pra ver o que gruda? 
-407|MÃE: Bom. 
-408|MÃE: Acho que tem um motivo pra você cuidar da maior parte da cozinha.  
-409|VOCÊ: Posso comer outra coisa? 
-410|MÃE: Espere aqui um segundo. 
+407|MOM: Bom. 
+408|MOM: Acho que tem um motivo pra você cuidar da maior parte da cozinha.  
+409|YOU: Posso comer outra coisa? 
+410|MOM: Espere aqui um segundo. 
 411|Tomara que seja carne! 
 412|Sua mãe sobe correndo as escadas e volta alguns minutos depois com uns petiscos. 
 413|Eles não duram muito. Você tritura o arroz tufado rapidinho, como se não comesse há anos. 
 414|O valor nutricional deixa a desejar, mas é melhor que nada. 
 415|Droga. 
-416|VOCÊ: Obrigada. 
-417|VOCÊ: Olha só pra você. 
+416|YOU: Obrigada. 
+417|YOU: Olha só pra você. 
 418|Ela olha para si mesma. 
-419|VOCÊ: <i>Vai. Trocar. Essa. Camisa. 
-420|MÃE: Eu vou, depois. 
-421|MÃE: Era mesmo isso que você queria perguntar? 
-422|VOCÊ: Ninguém mais tinha coragem de dizer, então eu tive que dizer. 
-423|MÃE: Nima, não tem mais ninguém aqui. 
-424|VOCÊ: O que você fez comigo? 
+419|YOU: <i>Vai. Trocar. Essa. Camisa. 
+420|MOM: Eu vou, depois. 
+421|MOM: Era mesmo isso que você queria perguntar? 
+422|YOU: Ninguém mais tinha coragem de dizer, então eu tive que dizer. 
+423|MOM: Nima, não tem mais ninguém aqui. 
+424|YOU: O que você fez comigo? 
 425|Você sente que sua mãe não quer compartilhar esse conhecimento com você. 
-426|MÃE: Eu só descobri um jeito de te curar. 
-427|MÃE: Então eu te curei. 
-428|VOCÊ: O que você descobriu? 
+426|MOM: Eu só descobri um jeito de te curar. 
+427|MOM: Então eu te curei. 
+428|YOU: O que você descobriu? 
 429|Ela mexe nervosamente nos dedos, cravando as unhas na carne da palma da mão. 
-430|MÃE: Eu não sei. 
+430|MOM: Eu não sei. 
 431|Ela desvia o olhar, sinalizando que esse assunto está encerrado.  
-432|VOCÊ: Eu gosto de peixe? 
-433|VOCÊ: Meu cérebro tá confuso, mas tem um monte de peixe nadando aqui na minha cachola. 
-434|MÃE: Você quer estudar biologia marinha, então faz sentido. 
-435|VOCÊ: Faz sentido mesmo. 
+432|YOU: Eu gosto de peixe? 
+433|YOU: Meu cérebro tá confuso, mas tem um monte de peixe nadando aqui na minha cachola. 
+434|MOM: Você quer estudar biologia marinha, então faz sentido. 
+435|YOU: Faz sentido mesmo. 
 436|Seu cérebro é uma tigela, e você está pronta para enchê-la de peixes. 
-437|VOCÊ: Eu sou um zumbi? 
-438|MÃE: Não, você é a Nima. 
-439|MÃE: Você não é um monstro morto-vivo babando. Você está falando com coerência, tem consciência de si mesma e está igualzinha a antes do acidente. 
+437|YOU: Eu sou um zumbi? 
+438|MOM: Não, você é a Nima. 
+439|MOM: Você não é um monstro morto-vivo babando. Você está falando com coerência, tem consciência de si mesma e está igualzinha a antes do acidente. 
 440|Essa fala não te pareceu ensaiada? 
-441|VOCÊ: Que alívio. 
-442|VOCÊ: Não quero ser que nem aquele garoto do freezer de Rocky Horror. 
-443|VOCÊ: Acho que eu não ia aguentar tanta dança. 
-444|MÃE: Tá... mais ou menos coerente, mas você está bem, no geral. 
-445|VOCÊ: Não tá faltando alguma coisa? 
+441|YOU: Que alívio. 
+442|YOU: Não quero ser que nem aquele garoto do freezer de Rocky Horror. 
+443|YOU: Acho que eu não ia aguentar tanta dança. 
+444|MOM: Tá... mais ou menos coerente, mas você está bem, no geral. 
+445|YOU: Não tá faltando alguma coisa? 
 446|Tem esse buraco em formato de peixe no seu coração que você não consegue explicar. 
 447|Ou será que é só um buraco em formato de peixe no meu estômago? 
-448|MÃE: Está faltando muita coisa, querida. 
-449|MÃE: A gente vai juntar tudo de novo, tá bom? 
+448|MOM: Está faltando muita coisa, querida. 
+449|MOM: A gente vai juntar tudo de novo, tá bom? 
 450|Você assente. 
 451|Esses testes vão ser um tédio. Talvez você pudesse jogar uma bola com efeito nela, só pra deixar as coisas interessantes. 
-452|VOCÊ: O que você comeu no café da manhã hoje? 
-453|MÃE: O quê? Por que você está perguntando? 
-454|VOCÊ: Preciso ver se a sua memória tá intacta. 
+452|YOU: O que você comeu no café da manhã hoje? 
+453|MOM: O quê? Por que você está perguntando? 
+454|YOU: Preciso ver se a sua memória tá intacta. 
 455|Você inclina a cabeça de um lado para o outro, brincando com a elasticidade do elástico que te mantém erguida. 
-456|MÃE: Acho que só tomei café. 
-457|VOCÊ: Viu alguma coisa legal hoje? 
-458|MÃE: Nem saí de casa direito... 
-459|VOCÊ: Viu algum filme bom ultimamente? 
-460|MÃE: Não... Não tenho feito muita coisa. 
-461|VOCÊ: O que você tem feito? 
-462|MÃE: Trabalhado. 
-463|VOCÊ: O de sempre, então. Que bom, eu acho. 
-464|VOCÊ: Mãe, você tá brava por causa de fósseis? 
-465|MÃE: Não... por que a pergunta? 
-466|VOCÊ: É que eu... tenho a impressão de lembrar de você ficando muito brava por causa de um fóssil. 
-467|MÃE: Hã, não... isso nunca aconteceu. 
-468|VOCÊ: Ei, qual é o sentido da vida? 
-469|MÃE: Nossa... Essa é das grandes. 
-470|MÃE: Hã. Que tal: ame sua mãe e faça tudo o que ela mandar. 
+456|MOM: Acho que só tomei café. 
+457|YOU: Viu alguma coisa legal hoje? 
+458|MOM: Nem saí de casa direito... 
+459|YOU: Viu algum filme bom ultimamente? 
+460|MOM: Não... Não tenho feito muita coisa. 
+461|YOU: O que você tem feito? 
+462|MOM: Trabalhado. 
+463|YOU: O de sempre, então. Que bom, eu acho. 
+464|YOU: Mãe, você tá brava por causa de fósseis? 
+465|MOM: Não... por que a pergunta? 
+466|YOU: É que eu... tenho a impressão de lembrar de você ficando muito brava por causa de um fóssil. 
+467|MOM: Hã, não... isso nunca aconteceu. 
+468|YOU: Ei, qual é o sentido da vida? 
+469|MOM: Nossa... Essa é das grandes. 
+470|MOM: Hã. Que tal: ame sua mãe e faça tudo o que ela mandar. 
 471|Ela ri, mas não soa como piada. 
-472|VOCÊ: Eu morri? 
-473|MÃE: Não, você só estava em coma. 
-474|VOCÊ: Qual é a diferença? 
-475|MÃE: Me diga você. Como era antes de você acordar hoje? 
-476|VOCÊ: Hmm. Era como se eu estivesse boiando num oceano sem fim. Como se eu estivesse boiando fazia muito tempo. 
-477|MÃE: Isso parece bem de acordo com os relatos de outras pessoas que estiveram em coma. É uma informação útil, obrigada. 
+472|YOU: Eu morri? 
+473|MOM: Não, você só estava em coma. 
+474|YOU: Qual é a diferença? 
+475|MOM: Me diga você. Como era antes de você acordar hoje? 
+476|YOU: Hmm. Era como se eu estivesse boiando num oceano sem fim. Como se eu estivesse boiando fazia muito tempo. 
+477|MOM: Isso parece bem de acordo com os relatos de outras pessoas que estiveram em coma. É uma informação útil, obrigada. 
 478|Espera, não era você que devia estar descobrindo mais informações? 
-479|VOCÊ: Mãe, se eu for dormir, o monstro vai vir? 
-480|MÃE: Não, querida, monstros não existem. 
-481|VOCÊ: Mas tem um monstro morando no porão. 
-482|MÃE: A única coisa aqui embaixo sou eu, mas, se tiver um monstro, eu vou te proteger dele, pode deixar. 
-483|VOCÊ: Tem um carinha especial... Acho que eu preciso dele pra dormir. 
-484|MÃE: Não quero estragar o teste de amanhã. 
-485|VOCÊ: O que isso quer dizer? 
-486|MÃE: Mas é um bom sinal você se lembrar disso. 
+479|YOU: Mãe, se eu for dormir, o monstro vai vir? 
+480|MOM: Não, querida, monstros não existem. 
+481|YOU: Mas tem um monstro morando no porão. 
+482|MOM: A única coisa aqui embaixo sou eu, mas, se tiver um monstro, eu vou te proteger dele, pode deixar. 
+483|YOU: Tem um carinha especial... Acho que eu preciso dele pra dormir. 
+484|MOM: Não quero estragar o teste de amanhã. 
+485|YOU: O que isso quer dizer? 
+486|MOM: Mas é um bom sinal você se lembrar disso. 
 487|Você olha em volta, confusa. Está se sentindo meio insegura agora e adoraria ter seu amiguinho de pelúcia especial com você. 
-488|VOCÊ: Por que eu tô pensando no aquário? 
-489|MÃE: Ah, bom... isso é um bom sinal, eu acho. Você deve estar pensando numa memória. 
-490|MÃE: A gente conversa mais sobre isso amanhã. 
-491|VOCÊ: A gente mora debaixo da terra agora? 
-492|MÃE: Não... isto é só o meu laboratório. 
-493|VOCÊ: Você tá... me transformando numa pessoa-toupeira? 
-494|MÃE: Não... 
+488|YOU: Por que eu tô pensando no aquário? 
+489|MOM: Ah, bom... isso é um bom sinal, eu acho. Você deve estar pensando numa memória. 
+490|MOM: A gente conversa mais sobre isso amanhã. 
+491|YOU: A gente mora debaixo da terra agora? 
+492|MOM: Não... isto é só o meu laboratório. 
+493|YOU: Você tá... me transformando numa pessoa-toupeira? 
+494|MOM: Não... 
 495|O fato de você morar num laboratório indica, sim, que a ciência está sendo aplicada no seu corpo. Ainda não dá pra descartar a pessoa-toupeira... 
-496|VOCÊ: A gente pode subir? Seria bom tomar um ar fresco. 
-497|MÃE: Sinto muito, Nima. Não posso deixar você subir. 
-498|VOCÊ: Por que não? 
-499|MÃE: Você pode desmaiar na escada. 
+496|YOU: A gente pode subir? Seria bom tomar um ar fresco. 
+497|MOM: Sinto muito, Nima. Não posso deixar você subir. 
+498|YOU: Por que não? 
+499|MOM: Você pode desmaiar na escada. 

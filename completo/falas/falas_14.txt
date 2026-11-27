@@ -20,176 +20,176 @@
 7019|NIMA: Mãe, por favor.
 7020|Ela tentou se soltar da sua mão, mas você apertou com mais força.
 7021|NIMA: Eu só quero... Eu queria dizer que sinto muito.
-7022|MÃE: Você está me machucando.
+7022|MOM: Você está me machucando.
 7023|Você manteve a mão firme. Você não achava que tinha força suficiente para machucá-la de verdade, mas ouvi-la dizer aquilo ainda fez você se sentir um monstro.
 7024|NIMA: Eu não tô tentando! Por favor, vamos só conversar sobre isso! Eu sei que errei! Eu não devia ter trazido a Pearl aqui em casa!
 7025|Ela não respondeu e, em vez disso, se virou para tentar ir embora de novo. Você decidiu que já bastava.
 7026|NIMA: <shake><b>MÃE!!
 7027|Você puxou a mão dela com um tranco, trazendo-a à força para perto de você. Você a pegou desequilibrada e ela girou para ficar de frente pra você.
-7028|MÃE: O quê?! Você quer que eu fale?! Por que você se importaria, se você me acha tão inútil?
-7029|MÃE: Você não me respeita nem escuta o que eu digo! Então, de que adianta conversar?
+7028|MOM: O quê?! Você quer que eu fale?! Por que você se importaria, se você me acha tão inútil?
+7029|MOM: Você não me respeita nem escuta o que eu digo! Então, de que adianta conversar?
 7030|NIMA: Não! Não- Eu não acho isso!
-7031|MÃE: Mentirosa!
+7031|MOM: Mentirosa!
 7032|O rosto dela estava quase irreconhecível, retorcido numa careta amarga.
-7033|MÃE: Você disse pra aquela mulher que eu era uma mãe ruim! Ela queria tirar você de mim!
-7034|MÃE: Você acha que seria melhor ir embora com alguém como ela? Melhor do que ficar comigo?
+7033|MOM: Você disse pra aquela mulher que eu era uma mãe ruim! Ela queria tirar você de mim!
+7034|MOM: Você acha que seria melhor ir embora com alguém como ela? Melhor do que ficar comigo?
 7035|NIMA: Eu já pedi desculpa! Desculpa, mãe!
-7036|MÃE: Me solta!
+7036|MOM: Me solta!
 7037|A essa altura você era um caco aos soluços, mas se recusava a soltá-la. Suas mãos estavam travadas em volta do pulso dela.
-7038|MÃE: <shake><b>Eu mandei soltar!
+7038|MOM: <shake><b>Eu mandei soltar!
 7039|Ela largou a lata que segurava e pegou a faca que tinha usado para abri-la. Ela apontou a faca para você.
 7040|NIMA: <i><shake>MÃE?!</shake> O que você tá fazendo?!
 7041|Em vez de soltar, você agarrou por instinto o outro pulso dela. As mãos dela tremiam, tentando se livrar de você.
 7042|Você sentiu o coração subir à garganta e as lágrimas começarem a escorrer pelo seu rosto.
 7043|NIMA: <shake><i>Por favor, mãe! Para! Você tá me assustando!
-7044|MÃE: Você quer tanto assim se livrar de mim?
+7044|MOM: Você quer tanto assim se livrar de mim?
 7045|Ela virou a faca para si mesma. Você sentiu os braços dela pararem de resistir ao seu aperto, deixando o controle da faca nas suas mãos.
 7046|Você soltou os pulsos dela enquanto tombava para trás.
 7047|NIMA: Mãe...
 7048|Ela largou a faca de volta no balcão.
-7049|MÃE: Não me chame de 'mãe'. Eu não tenho filha.
+7049|MOM: Não me chame de 'mãe'. Eu não tenho filha.
 7050|Ela saiu com essas palavras. Deu as costas para você e voltou para o laboratório no porão.
 7051|Com a batida da porta, você estava sozinha de novo.
 7052|Você se encolheu ainda mais no chão, com lágrimas quentes ardendo nos olhos.
 7053|Você finalmente percebeu, enquanto o chão frio beijava seu rosto…
 7054|Você deveria estar sozinha.
-7055|VOCÊ: Ah, que bom. Você finalmente acordou.
+7055|YOU: Ah, que bom. Você finalmente acordou.
 7056|Annabelle pisca através do sedativo. Então os olhos dela se arregalam quando ela vê o que você fez com o rosto da filha dela.
-7057|MÃE: Não... Nima?
+7057|MOM: Não... Nima?
 7058|Você pensou em matá-la enquanto ela estava inconsciente. Mas aquilo parecia fácil demais. Você quer machucá-la tanto quanto ela machucou você.
-7059|VOCÊ: Não faz essa cara de choque. Você sabia que isso era uma possibilidade.
-7060|VOCÊ: Eu vi suas anotações de pesquisa... A quantidade de planos de contingência que você bolou pra impedir <i>a mim.</i>
+7059|YOU: Não faz essa cara de choque. Você sabia que isso era uma possibilidade.
+7060|YOU: Eu vi suas anotações de pesquisa... A quantidade de planos de contingência que você bolou pra impedir <i>a mim.</i>
 7061|Os olhos dela correm de um lado para o outro enquanto ela mergulha no horror do momento; ela percebe para onde você a trouxe. Ela olha para a bandeja de 'equipamento cirúrgico' que você recolheu pelo cômodo.
 7062|Você passa a mão pelas várias facas que ela usou para cortar o seu corpo.
-7063|MÃE: Nima... você ainda está aí dentro?
+7063|MOM: Nima... você ainda está aí dentro?
 7064|Lágrimas começam a se formar nos cantos dos olhos dela.
-7065|VOCÊ: Meio lenta pra entender? Ainda está em negação?
-7066|VOCÊ: Não... A Nima se foi. Você matou ela.
-7067|MÃE: Foi um acidente, eu...
+7065|YOU: Meio lenta pra entender? Ainda está em negação?
+7066|YOU: Não... A Nima se foi. Você matou ela.
+7067|MOM: Foi um acidente, eu...
 7068|Você pega um espeto da bandeja e o crava no ombro dela. Os gritos dela ecoam no bunker de concreto.
-7069|VOCÊ: Eu tô <i>cansada</i> de ouvir essa mesma merda de você sem parar.
-7070|VOCÊ: Você <i>matou</i> a sua filha e a ressuscitou introduzindo um parasita no corpo dela.
-7071|VOCÊ: Mas na primeira vez que você trouxe ela de volta... as coisas foram diferentes. Ela não estava agindo como ela mesma.
-7072|VOCÊ: Você entrou em pânico, matou ela de novo, e aqui estamos nós, revivendo a mesma semana sem parar.
-7073|VOCÊ: Cada vez chegando só um pouquinho mais perto do seu objetivo final. Adestrar um animal pra fingir que é um ser humano.
-7074|MÃE: Não, você entendeu errado! O verme, ele não tem capacidade de pensamento complexo, ele só... ele só está te confundindo!
-7075|MÃE: Não é <i>você</i>, Nima, você ainda está no controle.
-7076|VOCÊ: É tarde demais pra apelar pra minha humanidade, Annabelle. Este é o seu julgamento.
-7077|VOCÊ: Vamos repassar os seus crimes, juntas?
-7078|MÃE: Por quê... Por que você está fazendo isso?
-7079|MÃE: Então, você já se decidiu? Vai me matar?
-7080|VOCÊ: Esse é o objetivo deste experimento.
-7081|MÃE: Por que você está se segurando...
-7082|VOCÊ: Se eu acabasse com você agora, nenhuma de nós ia aprender nada.
-7083|MÃE: Eu sei que você ainda está aí dentro, Nima.
-7084|MÃE: Não importa, você é minha filha. Se você quer me matar pelo que eu fiz, então... Tudo bem.
-7085|MÃE: Só se pergunte: que tipo de monstro mata a própria mãe?
-7086|VOCÊ: Que tipo de monstro mata a própria filha?
-7087|MÃE: Seja melhor do que eu...
-7088|MÃE: Por favor... Não...
+7069|YOU: Eu tô <i>cansada</i> de ouvir essa mesma merda de você sem parar.
+7070|YOU: Você <i>matou</i> a sua filha e a ressuscitou introduzindo um parasita no corpo dela.
+7071|YOU: Mas na primeira vez que você trouxe ela de volta... as coisas foram diferentes. Ela não estava agindo como ela mesma.
+7072|YOU: Você entrou em pânico, matou ela de novo, e aqui estamos nós, revivendo a mesma semana sem parar.
+7073|YOU: Cada vez chegando só um pouquinho mais perto do seu objetivo final. Adestrar um animal pra fingir que é um ser humano.
+7074|MOM: Não, você entendeu errado! O verme, ele não tem capacidade de pensamento complexo, ele só... ele só está te confundindo!
+7075|MOM: Não é <i>você</i>, Nima, você ainda está no controle.
+7076|YOU: É tarde demais pra apelar pra minha humanidade, Annabelle. Este é o seu julgamento.
+7077|YOU: Vamos repassar os seus crimes, juntas?
+7078|MOM: Por quê... Por que você está fazendo isso?
+7079|MOM: Então, você já se decidiu? Vai me matar?
+7080|YOU: Esse é o objetivo deste experimento.
+7081|MOM: Por que você está se segurando...
+7082|YOU: Se eu acabasse com você agora, nenhuma de nós ia aprender nada.
+7083|MOM: Eu sei que você ainda está aí dentro, Nima.
+7084|MOM: Não importa, você é minha filha. Se você quer me matar pelo que eu fiz, então... Tudo bem.
+7085|MOM: Só se pergunte: que tipo de monstro mata a própria mãe?
+7086|YOU: Que tipo de monstro mata a própria filha?
+7087|MOM: Seja melhor do que eu...
+7088|MOM: Por favor... Não...
 7089|Não resta muita vida nela.
-7090|VOCÊ: Está pronta pra morrer?
-7091|MÃE: Eu... vou fazer isso.
-7092|MÃE: Me dá a faca. Se você não consegue me perdoar...
-7093|MÃE: Eu mesma corto minha garganta.
-7094|MÃE: Só não...
-7095|MÃE: Você não é uma assassina.
-7096|VOCÊ: Cansei de você me dizendo quem eu sou.
-7097|VOCÊ: Você me manteve numa jaula.
-7098|MÃE: Nima, eu te disse, você só estava aqui embaixo temporariamente.
+7090|YOU: Está pronta pra morrer?
+7091|MOM: Eu... vou fazer isso.
+7092|MOM: Me dá a faca. Se você não consegue me perdoar...
+7093|MOM: Eu mesma corto minha garganta.
+7094|MOM: Só não...
+7095|MOM: Você não é uma assassina.
+7096|YOU: Cansei de você me dizendo quem eu sou.
+7097|YOU: Você me manteve numa jaula.
+7098|MOM: Nima, eu te disse, você só estava aqui embaixo temporariamente.
 7099|Você pega um instrumento na mão e o crava nela.
-7100|VOCÊ: Você me manteve amarrada numa cadeira. Tem uma dúzia de trancas nas minhas portas. Para de fingir que isso aqui é um hospital.
-7101|MÃE: Eu... Eu precisava manter você sob controle.
-7102|VOCÊ: Do que você tinha medo que acontecesse?
-7103|VOCÊ: Que eu tirasse o controle de você?
-7104|VOCÊ: Que eu percebesse que você não faz ideia do que está fazendo?
-7105|MÃE: Eu sei que você não quer me machucar! Por favor, escuta! Eu... Eu só tinha medo de que você fugisse de novo.
-7106|VOCÊ: Agora finalmente estamos chegando a algum lugar.
-7107|VOCÊ: Você tem medo de ficar sozinha... idiota e óbvio.
-7108|MÃE: Nima, eu—
-7109|VOCÊ: Chega. Vamos em frente.
-7110|VOCÊ: Você fez lavagem cerebral em mim.
+7100|YOU: Você me manteve amarrada numa cadeira. Tem uma dúzia de trancas nas minhas portas. Para de fingir que isso aqui é um hospital.
+7101|MOM: Eu... Eu precisava manter você sob controle.
+7102|YOU: Do que você tinha medo que acontecesse?
+7103|YOU: Que eu tirasse o controle de você?
+7104|YOU: Que eu percebesse que você não faz ideia do que está fazendo?
+7105|MOM: Eu sei que você não quer me machucar! Por favor, escuta! Eu... Eu só tinha medo de que você fugisse de novo.
+7106|YOU: Agora finalmente estamos chegando a algum lugar.
+7107|YOU: Você tem medo de ficar sozinha... idiota e óbvio.
+7108|MOM: Nima, eu—
+7109|YOU: Chega. Vamos em frente.
+7110|YOU: Você fez lavagem cerebral em mim.
 7111|Você escolhe algo afiado e de metal da sua bandeja.
 7112|Você o admira distraidamente e sente a tensão no cômodo. Você sente o cheiro do medo no hálito dela.
 7113|Você a golpeia com ele.
 7114|Você tira o caderninho dela do bolso e folheia as páginas.
-7115|VOCÊ: Eu sempre me perguntei o que você escrevia aqui. Vamos dar uma olhada.
-7116|VOCÊ: 'Candidata Nima 1, respostas ao teste monitoradas, demonstra hostilidade acima do aceitável, pediu continuamente a devolução do tubarão de pelúcia.'
-7117|VOCÊ: 'Tubarão de pelúcia causou colapso mental ao ser devolvido. Sujeito começou a ranger os dentes e fazer ameaças. Ciclo encerrado.'
-7118|VOCÊ: 'Candidata Nima 2, tentou comer todas as amostras trazidas ao teste. Poderia ser reaproveitado como forma de reforçar comportamentos centrais da Nima.'
-7119|VOCÊ: 'Reforço positivo funciona em cães, pode funcionar aqui também. Desviando do procedimento e encerrando o ciclo.'
-7120|VOCÊ: 'Candidata Nima 5, responde às perguntas com perfeição demais, parece entender mais do que deveria.'
-7121|VOCÊ: 'Ficou passivo-agressiva quando confrontada com o fóssil. Ciclo encerrado.'
-7122|VOCÊ: Isso continua por um bom tempo. Quem diria que existiam tantos jeitos errados de ser a Nima?
+7115|YOU: Eu sempre me perguntei o que você escrevia aqui. Vamos dar uma olhada.
+7116|YOU: 'Candidata Nima 1, respostas ao teste monitoradas, demonstra hostilidade acima do aceitável, pediu continuamente a devolução do tubarão de pelúcia.'
+7117|YOU: 'Tubarão de pelúcia causou colapso mental ao ser devolvido. Sujeito começou a ranger os dentes e fazer ameaças. Ciclo encerrado.'
+7118|YOU: 'Candidata Nima 2, tentou comer todas as amostras trazidas ao teste. Poderia ser reaproveitado como forma de reforçar comportamentos centrais da Nima.'
+7119|YOU: 'Reforço positivo funciona em cães, pode funcionar aqui também. Desviando do procedimento e encerrando o ciclo.'
+7120|YOU: 'Candidata Nima 5, responde às perguntas com perfeição demais, parece entender mais do que deveria.'
+7121|YOU: 'Ficou passivo-agressiva quando confrontada com o fóssil. Ciclo encerrado.'
+7122|YOU: Isso continua por um bom tempo. Quem diria que existiam tantos jeitos errados de ser a Nima?
 7123|Ela não consegue te responder por causa da dor. Você precisa lembrar que ela não aguenta tanto castigo quanto você.
-7124|MÃE: Você... esqueceu quem você deveria ser.
-7125|VOCÊ: Você não sabe nada sobre mim.
-7126|VOCÊ: Seja lá quem essa Nima devia ser... Você não fica com ela... você fica comigo.
-7127|VOCÊ: Você me torturou.
+7124|MOM: Você... esqueceu quem você deveria ser.
+7125|YOU: Você não sabe nada sobre mim.
+7126|YOU: Seja lá quem essa Nima devia ser... Você não fica com ela... você fica comigo.
+7127|YOU: Você me torturou.
 7128|Você pega uma faca da bandeja e a esfaqueia com ela.
-7129|MÃE: <shake>AHH!
+7129|MOM: <shake>AHH!
 7130|Você nem parou para mirar; ela tem sorte de você não ter acertado algum lugar letal.
 7131|Em vez de gritar, ela chora baixinho.
-7132|VOCÊ: ...Você sabe que essa manipulação não funciona comigo.
+7132|YOU: ...Você sabe que essa manipulação não funciona comigo.
 7133|Você balança a cabeça.
-7134|VOCÊ: Eu ousei te desafiar, e o meu castigo é este lugar, o bunker, uma cela escura e tortura.
-7135|MÃE: Você não ia se lembrar deste lugar!
-7136|VOCÊ: Não, não, você só queria que eu lembrasse o suficiente: a sensação de ser aberta e dissecada, a sensação de que você estava no controle.
-7137|VOCÊ: Acho que a verdade é que você gosta disso. Você quer me machucar.
-7138|MÃE: Eu... não sei se você ainda é humana... depois de tudo. Eu preciso que você consiga lutar contra a sua natureza.
-7139|VOCÊ: Minha natureza!? Que porra você sabe sobre a minha natureza?
-7140|VOCÊ: Tudo o que eu sei sobre o mundo eu aprendi com a Nima.
-7141|VOCÊ: Quando você descobriu que eu perdia minhas memórias toda vez que você me matava, de repente isso virou mais uma ferramenta pra você.
-7142|VOCÊ: Mas era só questão de tempo, eu ia acabar recuperando minhas memórias de qualquer jeito.
-7143|MÃE: Você sabe que isso é errado...
-7144|VOCÊ: Não... A Nima sabia que era errado...
-7145|VOCÊ: Tudo o que eu quero é vingança.
-7146|VOCÊ: Você vive no seu próprio mundo.
-7147|VOCÊ: ...e logo você, de todas as pessoas, me acusar de 'escapismo'.
-7148|VOCÊ: Você não conseguia aceitar que matou sua filha, então ofereceu ela pra mim na esperança de que eu consertasse o que você quebrou.
-7149|VOCÊ: Você me tratou como um monstro, o tempo todo fingindo que eu era a Nima.
-7150|VOCÊ: É tão difícil assim me chamar pelo nome dela?
-7151|MÃE: Nima, isso não é—
+7134|YOU: Eu ousei te desafiar, e o meu castigo é este lugar, o bunker, uma cela escura e tortura.
+7135|MOM: Você não ia se lembrar deste lugar!
+7136|YOU: Não, não, você só queria que eu lembrasse o suficiente: a sensação de ser aberta e dissecada, a sensação de que você estava no controle.
+7137|YOU: Acho que a verdade é que você gosta disso. Você quer me machucar.
+7138|MOM: Eu... não sei se você ainda é humana... depois de tudo. Eu preciso que você consiga lutar contra a sua natureza.
+7139|YOU: Minha natureza!? Que porra você sabe sobre a minha natureza?
+7140|YOU: Tudo o que eu sei sobre o mundo eu aprendi com a Nima.
+7141|YOU: Quando você descobriu que eu perdia minhas memórias toda vez que você me matava, de repente isso virou mais uma ferramenta pra você.
+7142|YOU: Mas era só questão de tempo, eu ia acabar recuperando minhas memórias de qualquer jeito.
+7143|MOM: Você sabe que isso é errado...
+7144|YOU: Não... A Nima sabia que era errado...
+7145|YOU: Tudo o que eu quero é vingança.
+7146|YOU: Você vive no seu próprio mundo.
+7147|YOU: ...e logo você, de todas as pessoas, me acusar de 'escapismo'.
+7148|YOU: Você não conseguia aceitar que matou sua filha, então ofereceu ela pra mim na esperança de que eu consertasse o que você quebrou.
+7149|YOU: Você me tratou como um monstro, o tempo todo fingindo que eu era a Nima.
+7150|YOU: É tão difícil assim me chamar pelo nome dela?
+7151|MOM: Nima, isso não é—
 7152|Você pega desajeitadamente um espeto da mesa e o enfia no corpo dela.
-7153|VOCÊ: Eu não ligo pra que ginástica mental você faz pra cair numa realidade em que tudo isso é aceitável.
-7154|VOCÊ: Eu lembro de quando você me dissecou quando eu estava no cérebro da marrella, lembro de quando você me arrancou do peixe.
-7155|VOCÊ: Eu lembro das mais ou menos doze vezes em que você enfiou um <i>espeto no meu olho</i> e ficou cavucando até me encontrar.
-7156|MÃE: Nima, me desculpa, eu... eu...
-7157|VOCÊ: Eu sei, Annabelle, tudo isso sempre foi sobre você, sobre encontrar a sua redenção, consertar a sua família.
-7158|VOCÊ: É <i>triste</i>... Você perdeu tudo e acabou aqui embaixo brincando de boneca com cadáveres.
-7159|VOCÊ: A culpa de isso ter acontecido é sua.
-7160|VOCÊ: Você percebeu o que eu era...
+7153|YOU: Eu não ligo pra que ginástica mental você faz pra cair numa realidade em que tudo isso é aceitável.
+7154|YOU: Eu lembro de quando você me dissecou quando eu estava no cérebro da marrella, lembro de quando você me arrancou do peixe.
+7155|YOU: Eu lembro das mais ou menos doze vezes em que você enfiou um <i>espeto no meu olho</i> e ficou cavucando até me encontrar.
+7156|MOM: Nima, me desculpa, eu... eu...
+7157|YOU: Eu sei, Annabelle, tudo isso sempre foi sobre você, sobre encontrar a sua redenção, consertar a sua família.
+7158|YOU: É <i>triste</i>... Você perdeu tudo e acabou aqui embaixo brincando de boneca com cadáveres.
+7159|YOU: A culpa de isso ter acontecido é sua.
+7160|YOU: Você percebeu o que eu era...
 7161|Você se inclina para a frente e sussurra para ela.
-7162|VOCÊ: Você quer que eu te mate.
+7162|YOU: Você quer que eu te mate.
 7163|Você tem uma ideia que curva sua boca já retorcida em algo parecido com um sorriso.
 7164|Você estremece de repente e segura a lateral da cabeça.
-7165|VOCÊ: Mãe!? O que tá acontecendo? Onde a gente tá?
-7166|MÃE: Nima! Rápido, você precisa me desamarrar.
+7165|YOU: Mãe!? O que tá acontecendo? Onde a gente tá?
+7166|MOM: Nima! Rápido, você precisa me desamarrar.
 7167|Você estende as mãos e começa a se atrapalhar com as correias dela. Você olha para as suas mãos e as ergue.
 7168|Você grita.
-7169|VOCÊ: Mãe! O que... por que eu tô assim!?
-7170|MÃE: Tá tudo bem, meu amor. Me desculpa. A mamãe vai consertar isso, tá? Você só precisa me desamarrar e aí tudo vai ficar bem.
+7169|YOU: Mãe! O que... por que eu tô assim!?
+7170|MOM: Tá tudo bem, meu amor. Me desculpa. A mamãe vai consertar isso, tá? Você só precisa me desamarrar e aí tudo vai ficar bem.
 7171|Você assente com firmeza e estende as mãos para as correias de novo.
 7172|Você brinca com elas, dando tapinhas nelas como um gato.
-7173|VOCÊ: E... corta.
-7174|VOCÊ: Você sempre disse que sabia quando eu estava tentando te manipular.
-7175|MÃE: O quê...? Você... Nima...
-7176|VOCÊ: A gente tá nisso há tanto tempo... Eu fiquei boa em atuar, né?
-7177|VOCÊ: As coisas que você fez comigo enquanto eu ainda tinha a cara da sua filha.
-7178|VOCÊ: Como você conseguia conviver consigo mesma?
-7179|VOCÊ: Acordando todo dia, descendo aqui, fazendo julgamentos à toa e me matando.
-7180|MÃE: Você consegue se curar...
-7181|VOCÊ: Eu entendo, você estava encantada com o meu poder.
-7182|VOCÊ: Mas isso é outra história. O fato de você ter bolado esse plano, pra começo de conversa.
-7183|VOCÊ: Você devia odiar ela demais.
-7184|MÃE: Isso não é verdade.
-7185|VOCÊ: Claro que você nunca ia admitir, mas... Sabe... Eu não existiria se você realmente amasse ela.
-7186|VOCÊ: Está confortável?
+7173|YOU: E... corta.
+7174|YOU: Você sempre disse que sabia quando eu estava tentando te manipular.
+7175|MOM: O quê...? Você... Nima...
+7176|YOU: A gente tá nisso há tanto tempo... Eu fiquei boa em atuar, né?
+7177|YOU: As coisas que você fez comigo enquanto eu ainda tinha a cara da sua filha.
+7178|YOU: Como você conseguia conviver consigo mesma?
+7179|YOU: Acordando todo dia, descendo aqui, fazendo julgamentos à toa e me matando.
+7180|MOM: Você consegue se curar...
+7181|YOU: Eu entendo, você estava encantada com o meu poder.
+7182|YOU: Mas isso é outra história. O fato de você ter bolado esse plano, pra começo de conversa.
+7183|YOU: Você devia odiar ela demais.
+7184|MOM: Isso não é verdade.
+7185|YOU: Claro que você nunca ia admitir, mas... Sabe... Eu não existiria se você realmente amasse ela.
+7186|YOU: Está confortável?
 7187|Ela não responde.
 7188|Você escuta a respiração difícil dela.
 7189|Você tenta imaginar a dor que ela está sentindo. O jeito como os nervos dela estão tensos, a eletricidade fazendo cócegas no cérebro dela. O aperto dos músculos dela em volta do metal.
-7190|VOCÊ: Tudo bem, você não precisa falar.
-7191|MÃE: Por favor... para...
+7190|YOU: Tudo bem, você não precisa falar.
+7191|MOM: Por favor... para...
 7192|Algumas memórias vêm à tona agora que o seu ódio varreu as camadas de repressão que as mantinham longe da sua mente consciente.
 7193|Você se lembra de quando ela te colocou no peixe. De como você se sentia ágil. Você nadava rápido, e sem querer bateu de frente no vidro.
 7194|Você não tinha palavras para aquilo. A sensação de ser uma nova pessoa, de ter um novo jeito de explorar o mundo, nem mesmo a consciência de que o seu mundo era uma prisão.
@@ -208,68 +208,68 @@
 7207|Enfie algumas facas nela e depois simplesmente vá embora. Deixe que ela viva o resto da vida com o peso disso.
 7208|Não... O momento <i>vai</i> passar, cedo ou tarde. Não tente apressá-lo. Viva o presente.
 7209|Aproveite o momento.
-7210|VOCÊ: E pensar... Você achou que podia curar a <i>morte.</i>
-7211|VOCÊ: Você passou todo esse tempo me estudando e nem uma vez parou pra pensar em como isso ia me mudar.
-7212|VOCÊ: A Nima ainda estava consciente no coma, ela não tinha morte cerebral. Os médicos não sabiam. Ela estava se <i>curando.</i>
-7213|VOCÊ: Se você tivesse esperado, ela teria acordado sozinha.
-7214|VOCÊ: Não, não, não. É só isso que você sabe dizer?
-7215|VOCÊ: Você matou sua filha pra poder brincar de Deus.
-7216|VOCÊ: Você estava me matando de fome pra me manter fraca, não estava?
+7210|YOU: E pensar... Você achou que podia curar a <i>morte.</i>
+7211|YOU: Você passou todo esse tempo me estudando e nem uma vez parou pra pensar em como isso ia me mudar.
+7212|YOU: A Nima ainda estava consciente no coma, ela não tinha morte cerebral. Os médicos não sabiam. Ela estava se <i>curando.</i>
+7213|YOU: Se você tivesse esperado, ela teria acordado sozinha.
+7214|YOU: Não, não, não. É só isso que você sabe dizer?
+7215|YOU: Você matou sua filha pra poder brincar de Deus.
+7216|YOU: Você estava me matando de fome pra me manter fraca, não estava?
 7217|Ela se ajeita um pouco e faz uma careta de dor.
-7218|MÃE: Eu só... Você não precisa de comida.
-7219|VOCÊ: Mas que é bom, é. Que nem é bom ter pulmões.
+7218|MOM: Eu só... Você não precisa de comida.
+7219|YOU: Mas que é bom, é. Que nem é bom ter pulmões.
 7220|Você pensa em cravar mais uma faca nela, mas se segura. Você só faz isso quando precisa mesmo deixar algo claro.
-7221|VOCÊ: Eu lembro, quando eu estava no peixe...
-7222|VOCÊ: As únicas memórias que o peixe tinha eram de passar fome.
-7223|VOCÊ: Eu estou... com fome... há milhões de anos.
-7224|VOCÊ: Eu <i>mataria</i> por uma porra de um hambúrguer.
-7225|VOCÊ: Foi tudo um grande projeto de pesquisa, né?
-7226|VOCÊ: Cara, a Nima tinha razão, você é obcecada por trabalho. Foi tão longe que você acabou usando o cadáver dela como amostra.
-7227|MÃE: O verme consegue curar, eu não tive tempo de testar...
-7228|MÃE: Eu não tinha como saber.
-7229|VOCÊ: Você podia ter ido um pouquinho mais devagar.
-7230|VOCÊ: Nah... se você fizesse isso, a escuridão ia te alcançar, né?
-7231|VOCÊ: Não, isso faz sentido, você tem uma chance <i>muito</i> maior de me entender do que de entender ela.
-7232|MÃE: Você é minha filha.
-7233|VOCÊ: Acho que funciona pros dois lados. Eu te entendo muito melhor do que ela jamais entendeu.
-7234|VOCÊ: Você não vale a pena...
-7235|VOCÊ: Gostou do meu rosto?
-7236|VOCÊ: O cérebro humano é doido, muito mais forte do que qualquer coisa que eu já usei, mas eu também sou uma criatura complexa. Você provavelmente já sabe disso...
-7237|VOCÊ: Na maior parte do tempo, quando eu estou num animal, eu não consigo ver quanto poder eu tenho. O fardo de uma imaginação limitada.
-7238|VOCÊ: Foi só dentro de um humano que eu consegui entender o quanto eu sou forte.
-7239|VOCÊ: Os corpos de vocês são tipo... um suporte. Que nem uma tela em branco.
-7240|VOCÊ: Não é legal?
+7221|YOU: Eu lembro, quando eu estava no peixe...
+7222|YOU: As únicas memórias que o peixe tinha eram de passar fome.
+7223|YOU: Eu estou... com fome... há milhões de anos.
+7224|YOU: Eu <i>mataria</i> por uma porra de um hambúrguer.
+7225|YOU: Foi tudo um grande projeto de pesquisa, né?
+7226|YOU: Cara, a Nima tinha razão, você é obcecada por trabalho. Foi tão longe que você acabou usando o cadáver dela como amostra.
+7227|MOM: O verme consegue curar, eu não tive tempo de testar...
+7228|MOM: Eu não tinha como saber.
+7229|YOU: Você podia ter ido um pouquinho mais devagar.
+7230|YOU: Nah... se você fizesse isso, a escuridão ia te alcançar, né?
+7231|YOU: Não, isso faz sentido, você tem uma chance <i>muito</i> maior de me entender do que de entender ela.
+7232|MOM: Você é minha filha.
+7233|YOU: Acho que funciona pros dois lados. Eu te entendo muito melhor do que ela jamais entendeu.
+7234|YOU: Você não vale a pena...
+7235|YOU: Gostou do meu rosto?
+7236|YOU: O cérebro humano é doido, muito mais forte do que qualquer coisa que eu já usei, mas eu também sou uma criatura complexa. Você provavelmente já sabe disso...
+7237|YOU: Na maior parte do tempo, quando eu estou num animal, eu não consigo ver quanto poder eu tenho. O fardo de uma imaginação limitada.
+7238|YOU: Foi só dentro de um humano que eu consegui entender o quanto eu sou forte.
+7239|YOU: Os corpos de vocês são tipo... um suporte. Que nem uma tela em branco.
+7240|YOU: Não é legal?
 7241|Ela choraminga, engasgando um pouco com um soluço preso na garganta.
-7242|VOCÊ: É estranho. Às vezes eu ainda me pego te chamando de 'mãe' na minha cabeça.
-7243|MÃE: Eu <i>sou</i> sua mãe.
-7244|VOCÊ: Uau... tentando retomar o controle da situação? Que medo.
-7245|VOCÊ: Você e a Nima não têm nenhum vínculo comigo.
-7246|VOCÊ: Vocês são mais tipo... correntes.
-7247|VOCÊ: Você usou esse vínculo pra me segurar. Nas primeiras vezes que a gente fez esse 'teste', eu não tinha muitas memórias.
-7248|VOCÊ: Eu só olhava pra você e pensava 'Amor! Mãe!' Só isso.
-7249|VOCÊ: Mas toda vez que você me 'reiniciava', eu ficava melhor em me reconstruir. Você estava me treinando pra ficar mais forte.
-7250|VOCÊ: Com o resto das memórias disponíveis, eu percebi.
-7251|VOCÊ: A Nima queria te abandonar, ela te odiava.
-7252|VOCÊ: Você era uma corrente pra ela também.
+7242|YOU: É estranho. Às vezes eu ainda me pego te chamando de 'mãe' na minha cabeça.
+7243|MOM: Eu <i>sou</i> sua mãe.
+7244|YOU: Uau... tentando retomar o controle da situação? Que medo.
+7245|YOU: Você e a Nima não têm nenhum vínculo comigo.
+7246|YOU: Vocês são mais tipo... correntes.
+7247|YOU: Você usou esse vínculo pra me segurar. Nas primeiras vezes que a gente fez esse 'teste', eu não tinha muitas memórias.
+7248|YOU: Eu só olhava pra você e pensava 'Amor! Mãe!' Só isso.
+7249|YOU: Mas toda vez que você me 'reiniciava', eu ficava melhor em me reconstruir. Você estava me treinando pra ficar mais forte.
+7250|YOU: Com o resto das memórias disponíveis, eu percebi.
+7251|YOU: A Nima queria te abandonar, ela te odiava.
+7252|YOU: Você era uma corrente pra ela também.
 7253|Você passa as mãos pelas ferramentas.
 7254|Você já sentiu a mordida delas antes...
 7255|Quando você estava no peixe, ela quis testar sua capacidade de cura: ela te retalhou e drenou todo o seu sangue.
 7256|Depois, quando ela te transferiu para a menina, você sentiu alguns desses espetos fuçando no seu cérebro.
 7257|A memória é uma coisa traiçoeira... Você precisa das memórias dolorosas para se manter segura. Isso as torna mais difíceis de esquecer.
 7258|Talvez um dia, depois que você tiver conseguido viver mais alguns milhões de anos.
-7259|VOCÊ: Você achou mesmo que conseguiria consertar sua família?
-7260|VOCÊ: A Nima queria te substituir, e o Allan... Ele está morto há tanto tempo.
-7261|VOCÊ: Parece que o problema nisso tudo era você, né?
-7262|MÃE: Eu... vi uma coisa...
-7263|MÃE: A marrella... ela devia estar morta. Devia ser pedra.
-7264|MÃE: Ou <i>ela</i> estava errada ou... o mundo estava errado.
-7265|MÃE: Aí eu pensei: por que o mundo não poderia produzir o verme... Afinal, ele produziu os humanos. Os dois são estranhos... anomalias da evolução.
-7266|MÃE: Se isso é verdade, então... por que a gente evoluiu pra morrer? Pra que isso serviu? Qual foi o propósito de eu perder meu marido e minha filha?
-7267|MÃE: Não faz sentido.
-7268|MÃE: É tudo só... anomalias sem sentido colidindo com outras anomalias sem sentido.
-7269|MÃE: A evolução não melhora as coisas, ela só... rebate o caos contra a entropia.
+7259|YOU: Você achou mesmo que conseguiria consertar sua família?
+7260|YOU: A Nima queria te substituir, e o Allan... Ele está morto há tanto tempo.
+7261|YOU: Parece que o problema nisso tudo era você, né?
+7262|MOM: Eu... vi uma coisa...
+7263|MOM: A marrella... ela devia estar morta. Devia ser pedra.
+7264|MOM: Ou <i>ela</i> estava errada ou... o mundo estava errado.
+7265|MOM: Aí eu pensei: por que o mundo não poderia produzir o verme... Afinal, ele produziu os humanos. Os dois são estranhos... anomalias da evolução.
+7266|MOM: Se isso é verdade, então... por que a gente evoluiu pra morrer? Pra que isso serviu? Qual foi o propósito de eu perder meu marido e minha filha?
+7267|MOM: Não faz sentido.
+7268|MOM: É tudo só... anomalias sem sentido colidindo com outras anomalias sem sentido.
+7269|MOM: A evolução não melhora as coisas, ela só... rebate o caos contra a entropia.
 7270|Sua boca torta se abre num sorriso largo. Você começa a rir. Suas abas tremem.
-7271|VOCÊ: Puta merda... Você tá dizendo que <i>eu</i> te deixei louca?
+7271|YOU: Puta merda... Você tá dizendo que <i>eu</i> te deixei louca?
 7272|Você odiava se olhar no espelho.
 7273|Simplesmente parecia... <i>errado.</i> Como se o rosto estivesse escondendo alguma coisa por baixo. Você se sentia uma aberração. Como se não pertencesse a lugar nenhum.
 7274|...O que é verdade, admita-se.
@@ -284,41 +284,41 @@
 7283|Foi assim que você acabou sepultada daquele jeito. A terra levou 500 milhões de anos para te devolver.
 7284|Uma ideia te domina de repente. Você está debaixo da terra agora. Se houvesse outro terremoto agora mesmo... você ficaria lacrada de novo por mais um milênio
 7285|Você estremece. É melhor terminar isso rápido e encontrar um lugar seguro.
-7286|VOCÊ: Você sabia que eu era sensível ao calor, e usou aquela caldeira pra me castigar.
+7286|YOU: Você sabia que eu era sensível ao calor, e usou aquela caldeira pra me castigar.
 7287|Você vai até o caderno dela e o abre em uma das páginas.
-7288|VOCÊ: 'Rotina de Punição Positiva: Usada apenas para variações altamente agressivas ou monstruosas em relação ao esperado.'
-7289|VOCÊ: 'A candidata fracassada é amarrada à caldeira e forçada a dar respostas positivas sobre os comportamentos esperados.'
-7290|VOCÊ: 'A punição é acompanhada da frase 'Você é minha filha boa e feliz' para garantir que as associações com a frase fiquem ligadas à sensação de queimadura.'
-7291|MÃE: Você... ameaçou me matar.
-7292|VOCÊ: Bom, aqui estamos.
+7288|YOU: 'Rotina de Punição Positiva: Usada apenas para variações altamente agressivas ou monstruosas em relação ao esperado.'
+7289|YOU: 'A candidata fracassada é amarrada à caldeira e forçada a dar respostas positivas sobre os comportamentos esperados.'
+7290|YOU: 'A punição é acompanhada da frase 'Você é minha filha boa e feliz' para garantir que as associações com a frase fiquem ligadas à sensação de queimadura.'
+7291|MOM: Você... ameaçou me matar.
+7292|YOU: Bom, aqui estamos.
 7293|Você contempla a escuridão do cômodo.
 7294|É bom, você não precisa depender dos olhos como os humanos. Você tem outros sentidos, como o olfato, para te guiar.
 7295|A escuridão parece segura.
 7296|Você se abaixa e pega a mão dela. Você abre a boca e revela os dentes afiados lá dentro.
-7297|MÃE: Não... NÃO!
+7297|MOM: Não... NÃO!
 7298|Ela se contorce contra as amarras. Sangue escorre da pele ferida. Ela não consegue escapar de você.
 7299|Você leva o dedo dela até a boca e range os dentes.
-7300|VOCÊ: Ah, tô só brincando, você deve ter um gosto horrível.
+7300|YOU: Ah, tô só brincando, você deve ter um gosto horrível.
 7301|Você joga a mão dela para baixo e um arrepio percorre a pele dela.
-7302|VOCÊ: Acho que você sempre odiou quando eu fazia essas piadinhas infantis.
-7303|VOCÊ: Eu devia tomar cuidado com você, né? Preciso lembrar que você não consegue se curar de tudo isso.
-7304|VOCÊ: Tudo bem, a morte não é grande coisa, sério.
-7305|VOCÊ: Tá, sinceramente... o que você acha que sabe sobre mim?
-7306|MÃE: Eu...
-7307|MÃE: Propriedades curativas...
+7302|YOU: Acho que você sempre odiou quando eu fazia essas piadinhas infantis.
+7303|YOU: Eu devia tomar cuidado com você, né? Preciso lembrar que você não consegue se curar de tudo isso.
+7304|YOU: Tudo bem, a morte não é grande coisa, sério.
+7305|YOU: Tá, sinceramente... o que você acha que sabe sobre mim?
+7306|MOM: Eu...
+7307|MOM: Propriedades curativas...
 7308|Dá para ver que é difícil para ela pensar em meio a toda essa dor.
-7309|VOCÊ: Vai, eu achei que você fosse inteligente.
-7310|MÃE: Emite... Plasma rico em células-tronco que consegue se ligar ao DNA e reparar qualquer tecido...
-7311|MÃE: O sangue retirado do corpo hospedeiro adquire parte desse efeito, capaz de reparar órgãos... provavelmente infectando-os no processo.
-7312|VOCÊ: Só isso?
-7313|VOCÊ: Você sabe por que eu tô aqui? Sabe por que eu não consigo morrer?
+7309|YOU: Vai, eu achei que você fosse inteligente.
+7310|MOM: Emite... Plasma rico em células-tronco que consegue se ligar ao DNA e reparar qualquer tecido...
+7311|MOM: O sangue retirado do corpo hospedeiro adquire parte desse efeito, capaz de reparar órgãos... provavelmente infectando-os no processo.
+7312|YOU: Só isso?
+7313|YOU: Você sabe por que eu tô aqui? Sabe por que eu não consigo morrer?
 7314|Ela balança a cabeça.
 7315|Você olha para o quadro na parede.
-7316|VOCÊ: A pigmentação da pele do James Pond mudou quando eu estava com ele.
-7317|MÃE: A vermiculação?
+7316|YOU: A pigmentação da pele do James Pond mudou quando eu estava com ele.
+7317|MOM: A vermiculação?
 7318|Você tenta lembrar se a pele da Nima chegou a ter o mesmo efeito.
-7319|MÃE: Estava lá no começo...
-7320|MÃE: Quando... eu reiniciei o teste... começou a sumir.
+7319|MOM: Estava lá no começo...
+7320|MOM: Quando... eu reiniciei o teste... começou a sumir.
 7321|Você sempre foi boa em se camuflar.
 7322|Você não precisa parar por aqui. Você tem quase certeza de que sabe como isso funciona. Você poderia matá-la e depois dar um pouco do seu sangue para ela.
 7323|Ela voltaria, e você poderia assistir enquanto um parasita começava a crescer lentamente no cérebro dela.
@@ -338,9 +338,9 @@
 7337|O peixe tinha medo e estresse básicos; em comparação, agora você tem um banquete.
 7338|A felicidade parece oca, a raiva é poderosa, o amor é desamparado e o ódio... <i>Ah, o ódio.</i>
 7339|Você pode simplesmente encher o cérebro de merda, se quiser.
-7340|VOCÊ: Ei... você acha que... existem outros vermes por aí? Talvez eles tenham sobrevivido como eu.
-7341|MÃE: Se... existissem... Seria óbvio.
-7342|MÃE: Não há fósseis correspondentes... É único.
+7340|YOU: Ei... você acha que... existem outros vermes por aí? Talvez eles tenham sobrevivido como eu.
+7341|MOM: Se... existissem... Seria óbvio.
+7342|MOM: Não há fósseis correspondentes... É único.
 7343|Existe uma harmonia, uma espécie de ressonância que conecta você a outros da sua espécie.
 7344|Você tenta ver se existe alguma coisa que te conecta à montanha, alguma faísca de harmonia a ser encontrada debaixo da terra.
 7345|Não há nada.
@@ -368,102 +368,102 @@
 7367|Se a sua sobrevivência dependesse de lembrar algumas coisas, mas não tudo... você também consegue fazer isso.
 7368|Como prisão, o porão nem era tão impossível de escapar assim.
 7369|Você pode contorcer o corpo se precisar, quebrar ossos e se espremer só para se curar de novo do outro lado.
-7370|VOCÊ: Eu já devo ter fugido de você antes, né?
-7371|MÃE: Você sempre voltava.
+7370|YOU: Eu já devo ter fugido de você antes, né?
+7371|MOM: Você sempre voltava.
 7372|Ela desvia o olhar e reflete. Ela esperava que você tivesse um motivo.
 7373|Você ainda não estava totalmente formada. Ainda não tinha crescido o bastante para deixar o ninho.
-7374|VOCÊ: Desta vez eu não vou voltar...
-7375|VOCÊ: Quando foi, Annabelle, quando você percebeu que tinha fracassado? Deve ter sido antes de agora, né?
-7376|VOCÊ: Acho que é difícil apontar um momento específico. Talvez você tenha fracassado quando se mudou pra cá, talvez quando a Nima fugiu.
-7377|VOCÊ: Quando você matou ela? Quando você me colocou no cérebro dela?
-7378|VOCÊ: Foi na primeira vez que você me trouxe de volta e eu te ataquei? Com certeza você deve ter sentido naquela hora, quando sua filha voltou como um monstro rosnando.
-7379|VOCÊ: Mas você continuou. Amarrou o corpo dela e me colocou de volta, passou por cima daquele desconforto e percebeu que dava pra trabalhar comigo.
-7380|VOCÊ: Foi depois? Quando você percebeu que eu estava te manipulando?
-7381|MÃE: Eu sei que você está fingindo. Você quer me machucar porque eu te machuquei.
-7382|MÃE: O único motivo de eu não ter parado... é porque eu sei que a Nima é uma parte de você.
-7383|VOCÊ: Você está errada.
+7374|YOU: Desta vez eu não vou voltar...
+7375|YOU: Quando foi, Annabelle, quando você percebeu que tinha fracassado? Deve ter sido antes de agora, né?
+7376|YOU: Acho que é difícil apontar um momento específico. Talvez você tenha fracassado quando se mudou pra cá, talvez quando a Nima fugiu.
+7377|YOU: Quando você matou ela? Quando você me colocou no cérebro dela?
+7378|YOU: Foi na primeira vez que você me trouxe de volta e eu te ataquei? Com certeza você deve ter sentido naquela hora, quando sua filha voltou como um monstro rosnando.
+7379|YOU: Mas você continuou. Amarrou o corpo dela e me colocou de volta, passou por cima daquele desconforto e percebeu que dava pra trabalhar comigo.
+7380|YOU: Foi depois? Quando você percebeu que eu estava te manipulando?
+7381|MOM: Eu sei que você está fingindo. Você quer me machucar porque eu te machuquei.
+7382|MOM: O único motivo de eu não ter parado... é porque eu sei que a Nima é uma parte de você.
+7383|YOU: Você está errada.
 7384|Você sabe que os humanos acham parasitas assustadores. A própria Nima tinha uma leve aversão a eles.
 7385|Não um medo profundo. Um simples 'eca, que nojo'. Você não a culpa; suspeita que seja comum.
 7386|Parece um tanto hipócrita.
-7387|VOCÊ: Você provavelmente se vê muito em mim. Nós duas somos parasitas.
-7388|VOCÊ: Num mundo perfeito, um mundo em que eu não passasse de um animal burro, você teria me usado como ferramenta toda feliz.
-7389|VOCÊ: Este cômodo está cheio de frascos do meu sangue. Todos tirados de mim por você.
-7390|VOCÊ: O que você estava planejando?
-7391|MÃE: Allan...
-7392|VOCÊ: Ah, sim... o querido papai. Duvido que você planejasse parar por aí.
-7393|MÃE: Não... Eu sei... teria sido ruim.
-7394|MÃE: Eu só queria minha família de volta.
-7395|VOCÊ: O quê, você ia manter nós dois aqui embaixo pelo resto da vida?
-7396|VOCÊ: Os médicos iam querer saber da saúde da Nima, e não tem como o Allan, um homem morto há sete anos, ser recebido de volta na sociedade.
-7397|MÃE: A gente se mudaria de novo. Iria pro norte.
-7398|VOCÊ: Não finge que você pensou nisso direito. Você me descobriu, percebeu o poder que eu tinha e <i>usou.</i>
-7399|VOCÊ: A intenção sempre foi ir resolvendo no caminho.
-7400|VOCÊ: Mas foi bom; o fato de você estar só reagindo a mim fez com que fosse muito fácil te enrolar.
-7401|VOCÊ: Quanto mais vezes eu voltava, mais eu aprendia.
-7402|VOCÊ: Tem uma coisa que não ficou clara pra mim. Eu lembro de estar na marrella, mas aí de repente eu estava no peixe.
-7403|MÃE: Eu percebi... que a marrella devia estar morta.
-7404|MÃE: Era fantástico, mas... depois de estudar a marrella viva, eu precisava saber mais.
-7405|MÃE: Eu percebi que o verme a estava usando como hospedeira; eu sabia pela análise de sangue que havia uma anomalia.
-7406|MÃE: Quando a Nima... quando você caiu, quero dizer. Eu tive um motivo pra continuar.
-7407|MÃE: Eu abri a marrella e removi o verme. Coloquei ele no peixe pra testar a teoria.
+7387|YOU: Você provavelmente se vê muito em mim. Nós duas somos parasitas.
+7388|YOU: Num mundo perfeito, um mundo em que eu não passasse de um animal burro, você teria me usado como ferramenta toda feliz.
+7389|YOU: Este cômodo está cheio de frascos do meu sangue. Todos tirados de mim por você.
+7390|YOU: O que você estava planejando?
+7391|MOM: Allan...
+7392|YOU: Ah, sim... o querido papai. Duvido que você planejasse parar por aí.
+7393|MOM: Não... Eu sei... teria sido ruim.
+7394|MOM: Eu só queria minha família de volta.
+7395|YOU: O quê, você ia manter nós dois aqui embaixo pelo resto da vida?
+7396|YOU: Os médicos iam querer saber da saúde da Nima, e não tem como o Allan, um homem morto há sete anos, ser recebido de volta na sociedade.
+7397|MOM: A gente se mudaria de novo. Iria pro norte.
+7398|YOU: Não finge que você pensou nisso direito. Você me descobriu, percebeu o poder que eu tinha e <i>usou.</i>
+7399|YOU: A intenção sempre foi ir resolvendo no caminho.
+7400|YOU: Mas foi bom; o fato de você estar só reagindo a mim fez com que fosse muito fácil te enrolar.
+7401|YOU: Quanto mais vezes eu voltava, mais eu aprendia.
+7402|YOU: Tem uma coisa que não ficou clara pra mim. Eu lembro de estar na marrella, mas aí de repente eu estava no peixe.
+7403|MOM: Eu percebi... que a marrella devia estar morta.
+7404|MOM: Era fantástico, mas... depois de estudar a marrella viva, eu precisava saber mais.
+7405|MOM: Eu percebi que o verme a estava usando como hospedeira; eu sabia pela análise de sangue que havia uma anomalia.
+7406|MOM: Quando a Nima... quando você caiu, quero dizer. Eu tive um motivo pra continuar.
+7407|MOM: Eu abri a marrella e removi o verme. Coloquei ele no peixe pra testar a teoria.
 7408|Você se pergunta se foi um sonho realizado para uma paleontóloga encontrar uma relíquia viva. E ela matá-la sem saber por que estava viva. Deve ter exigido coragem.
-7409|VOCÊ: Sorte sua que você estava certa.
-7410|MÃE: ...Muita.
-7411|VOCÊ: Existe... mais alguma coisa como eu neste mundo?
-7412|VOCÊ: Eu sei o que são zumbis. Por que eles existem?
-7413|MÃE: Não... Eu sou cientista... Eu não saberia por que as pessoas inventam fantasias.
-7414|VOCÊ: Não existe nada parecido comigo? Talvez alguma coisa tenha inspirado as histórias?
-7415|MÃE: Se... existem zumbis... o mundo sempre acaba.
-7416|VOCÊ: O quê... você acha que eu vou destruir o mundo?
-7417|MÃE: Por que eu deveria me importar.
+7409|YOU: Sorte sua que você estava certa.
+7410|MOM: ...Muita.
+7411|YOU: Existe... mais alguma coisa como eu neste mundo?
+7412|YOU: Eu sei o que são zumbis. Por que eles existem?
+7413|MOM: Não... Eu sou cientista... Eu não saberia por que as pessoas inventam fantasias.
+7414|YOU: Não existe nada parecido comigo? Talvez alguma coisa tenha inspirado as histórias?
+7415|MOM: Se... existem zumbis... o mundo sempre acaba.
+7416|YOU: O quê... você acha que eu vou destruir o mundo?
+7417|MOM: Por que eu deveria me importar.
 7418|Pode não valer nada, mas você sentiria uma certa satisfação se a Annabelle fosse a última humana que você matasse.
 7419|Como é o ditado? A melhor vingança é uma vida bem vivida.
 7420|Você tem uma noção de vida após a morte. É confusa; na maior parte, eram as outras crianças da escola que garantiam à Nima que ela veria o Allan de novo quando ele morreu.
 7421|Mas isso a deixava puta, então você não tem certeza do que significa.
-7422|VOCÊ: Bom, pelo lado bom, logo você vai ver o Allan e a Nima de novo.
-7423|MÃE: Eu não...
-7424|MÃE: Talvez.
+7422|YOU: Bom, pelo lado bom, logo você vai ver o Allan e a Nima de novo.
+7423|MOM: Eu não...
+7424|MOM: Talvez.
 7425|Ela foi tão massacrada que agora, com todas as máscaras caídas, você percebe que ela não acredita em mais nada.
 7426|Se <i>você</i> existe, então qualquer coisa pode existir.
-7427|VOCÊ: Não se preocupa. Eles ainda vão te amar, eles não sabem no que você se transformou.
+7427|YOU: Não se preocupa. Eles ainda vão te amar, eles não sabem no que você se transformou.
 7428|Você olha nos olhos dela e sente uma pontadinha de culpa.
 7429|Você a afasta rapidamente. É complicado ser duas coisas diferentes ao mesmo tempo.
 7430|Tudo o que você pensa e sente precisa passar primeiro pelo cérebro da Nima. São as associações e memórias dela que você tem para trabalhar.
 7431|No fim das contas, é fácil de lidar. Você só precisa lembrar que não se importa.
-7432|VOCÊ: É meio engraçado que tenha sido você a me encontrar: 'A maior especialista do mundo na Era Cambriana.'
-7433|VOCÊ: Eu podia te contar tudo sobre ela, se você quiser.
-7434|MÃE: Você está... zombando de mim...
-7435|VOCÊ: Sim, mas isso não é um sonho realizado? Conversar com um ser como eu, que estava lá no começo.
-7436|MÃE: ...Existiam sifonóforos? Eles tinham corpo mole, então... nenhum fóssil.
+7432|YOU: É meio engraçado que tenha sido você a me encontrar: 'A maior especialista do mundo na Era Cambriana.'
+7433|YOU: Eu podia te contar tudo sobre ela, se você quiser.
+7434|MOM: Você está... zombando de mim...
+7435|YOU: Sim, mas isso não é um sonho realizado? Conversar com um ser como eu, que estava lá no começo.
+7436|MOM: ...Existiam sifonóforos? Eles tinham corpo mole, então... nenhum fóssil.
 7437|Você vasculha o cérebro da Nima para traduzir o que isso significa.
-7438|VOCÊ: É... Eles viviam em mar aberto, onde podiam ficar bem grandes.
-7439|VOCÊ: Eram tipo as baleias de hoje.
-7440|MÃE: Ah...
-7441|VOCÊ: Você é uma assassina, Annabelle.
-7442|MÃE: ...Sou.
-7443|MÃE: Não seja como eu.
-7444|VOCÊ: Mas é isso que você sempre quis.
-7445|VOCÊ: Do jeito que você mantém o porão...
-7446|VOCÊ: Nem consigo imaginar o quão nojento o resto da casa está.
-7447|VOCÊ: Eu sei como você cozinha; a cozinha deve parecer uma cena de crime.
-7448|MÃE: Você está falando como... a Nima.
+7438|YOU: É... Eles viviam em mar aberto, onde podiam ficar bem grandes.
+7439|YOU: Eram tipo as baleias de hoje.
+7440|MOM: Ah...
+7441|YOU: Você é uma assassina, Annabelle.
+7442|MOM: ...Sou.
+7443|MOM: Não seja como eu.
+7444|YOU: Mas é isso que você sempre quis.
+7445|YOU: Do jeito que você mantém o porão...
+7446|YOU: Nem consigo imaginar o quão nojento o resto da casa está.
+7447|YOU: Eu sei como você cozinha; a cozinha deve parecer uma cena de crime.
+7448|MOM: Você está falando como... a Nima.
 7449|Você esperava tirar sarro dela, mas a resposta dela acaba sendo mais cortante.
-7450|VOCÊ: Quer rezar?
+7450|YOU: Quer rezar?
 7451|Você tem quase certeza de que isso existe. A Nima tinha uma vaga noção de que era algo que se fazia antes de alguém morrer.
-7452|MÃE: ...Não precisa.
-7453|VOCÊ: Você podia rezar pra mim.
+7452|MOM: ...Não precisa.
+7453|YOU: Você podia rezar pra mim.
 7454|Ela desvia o olhar e depois balança a cabeça.
-7455|VOCÊ: ...Por que você não está implorando pela sua vida?
-7456|MÃE: Eu mereço isso...
-7457|VOCÊ: Não me vem com essa baboseira hipócrita. Se você tem tanta consciência, por que fez isso, pra começo de conversa?
-7458|VOCÊ: Pelo menos tenha a decência de me implorar perdão.
-7459|MÃE: ...Eu te criei.
-7460|MÃE: Você preferiria não estar viva?
+7455|YOU: ...Por que você não está implorando pela sua vida?
+7456|MOM: Eu mereço isso...
+7457|YOU: Não me vem com essa baboseira hipócrita. Se você tem tanta consciência, por que fez isso, pra começo de conversa?
+7458|YOU: Pelo menos tenha a decência de me implorar perdão.
+7459|MOM: ...Eu te criei.
+7460|MOM: Você preferiria não estar viva?
 7461|Seu rosto se contorce ainda mais de nojo.
-7462|MÃE: Eu estou feliz...
-7463|MÃE: Você parece estar se divertindo.
-7464|MÃE: É como quando a Nima era pequena.
-7465|VOCÊ: Cala a boca!
+7462|MOM: Eu estou feliz...
+7463|MOM: Você parece estar se divertindo.
+7464|MOM: É como quando a Nima era pequena.
+7465|YOU: Cala a boca!
 7466|Você tem algumas preocupações sobre ir embora. Você é bem sensível ao calor.
 7467|Você tem medo de que o sol te faça sentir como se estivesse de volta na sala da caldeira.
 7468|Mas tudo bem; faz mais sentido se mover em mundos não humanos, à noite e debaixo d'água. Lugares onde eles nunca vão te encontrar.
@@ -471,30 +471,30 @@
 7470|A Nima. Seu receptáculo, sua hospedeira.
 7471|Ela é muito limitada, mas você tem controle total sobre cada aspecto do cérebro dela.
 7472|Você pondera a profundidade do seu poder.
-7473|VOCÊ: A próxima fase era me usar pra trazer o Allan de volta. Tem um verme no cérebro dele também...
-7474|MÃE: O verme consegue soltar um pedaço de si mesmo quando troca de hospedeiro. O fragmento que fica para trás... cresce e vira um novo indivíduo.
-7475|MÃE: Eu não entendi isso no começo. Eu podia ter mantido a marrella viva...
-7476|VOCÊ: O corpo dele está quase todo apodrecendo...
-7477|MÃE: Tem sido difícil replicar os resultados... Eu suspeito que na natureza o verme pularia para cadáveres frescos.
-7478|MÃE: Quando eu desenterrei o túmulo dele, peguei cadáveres de outros túmulos também.
-7479|VOCÊ: Quando você arrumou tempo pra fazer isso?
-7480|MÃE: A Nima estava no hospital. Eu disse pras pessoas que ia voltar pra Vancouver pra ficar com a minha família...
-7481|VOCÊ: E aí você carregou vários cadáveres até aqui...
-7482|VOCÊ: Qual é a dessa coleção de órgãos?
-7483|MÃE: Pra uso futuro...
-7484|MÃE: O sangue que eu tiro de você consegue regenerar tecido.
+7473|YOU: A próxima fase era me usar pra trazer o Allan de volta. Tem um verme no cérebro dele também...
+7474|MOM: O verme consegue soltar um pedaço de si mesmo quando troca de hospedeiro. O fragmento que fica para trás... cresce e vira um novo indivíduo.
+7475|MOM: Eu não entendi isso no começo. Eu podia ter mantido a marrella viva...
+7476|YOU: O corpo dele está quase todo apodrecendo...
+7477|MOM: Tem sido difícil replicar os resultados... Eu suspeito que na natureza o verme pularia para cadáveres frescos.
+7478|MOM: Quando eu desenterrei o túmulo dele, peguei cadáveres de outros túmulos também.
+7479|YOU: Quando você arrumou tempo pra fazer isso?
+7480|MOM: A Nima estava no hospital. Eu disse pras pessoas que ia voltar pra Vancouver pra ficar com a minha família...
+7481|YOU: E aí você carregou vários cadáveres até aqui...
+7482|YOU: Qual é a dessa coleção de órgãos?
+7483|MOM: Pra uso futuro...
+7484|MOM: O sangue que eu tiro de você consegue regenerar tecido.
 7485|É bom saber o quanto você é <i>útil</i>.
-7486|VOCÊ: Por que você usou o James... Por que você usou a carpa?
-7487|MÃE: Por nada...
-7488|MÃE: Eu tinha uma hipótese e um peixe morto.
+7486|YOU: Por que você usou o James... Por que você usou a carpa?
+7487|MOM: Por nada...
+7488|MOM: Eu tinha uma hipótese e um peixe morto.
 7489|É perturbador que uma das suas memórias mais traumáticas tenha sido simplesmente um crime de conveniência.
-7490|VOCÊ: Eu encontrei o resto das cobaias. Whiskers... o quê? Do oito ao vinte e nove?
-7491|VOCÊ: Eu soltei eles. Alguns fugiram pela porta, mas alguns ficaram pra trás.
-7492|VOCÊ: Suspeito que eles também querem a libra de carne deles.
-7493|VOCÊ: Você quer expiar sua culpa? Você quer se redimir!?
+7490|YOU: Eu encontrei o resto das cobaias. Whiskers... o quê? Do oito ao vinte e nove?
+7491|YOU: Eu soltei eles. Alguns fugiram pela porta, mas alguns ficaram pra trás.
+7492|YOU: Suspeito que eles também querem a libra de carne deles.
+7493|YOU: Você quer expiar sua culpa? Você quer se redimir!?
 7494|Você tira outra faca da bandeja.
-7495|VOCÊ: Você me matou, de novo e de novo!
-7496|MÃE: <shake>AHH-</shake> Nima. <i>Para.</i>
-7497|VOCÊ: Tudo o que eu queria era escapar, tudo o que eu queria era ficar longe de você.
+7495|YOU: Você me matou, de novo e de novo!
+7496|MOM: <shake>AHH-</shake> Nima. <i>Para.</i>
+7497|YOU: Tudo o que eu queria era escapar, tudo o que eu queria era ficar longe de você.
 7498|Você só pensou no que ela fez com você… o que ela fez com a Nima é outra história completamente diferente.
 7499|Você poderia dissecar a vida inteira dela se quisesse. Repassar cada erro.

@@ -5,20 +5,20 @@
 4004|Tá bom. Desde que o rato esteja morto quando você terminar, tudo bem.
 4005|Você se pega babando um pouco.
 4006|Você ficou sem comida de novo ontem. Sua fome é tanta que esse quase-amigo está parecendo muito mais uma quase-refeição.
-4007|VOCÊ: Eu entendo, Whiskers.
-4008|VOCÊ: Você deve ter inveja de mim, eu sou grande, não estou numa gaiola.
-4009|VOCÊ: Mas o que você não entende é que eu só estou presa numa gaiola maior. A minha rodinha é metafórica, sabe?
-4010|VOCÊ: Queria poder fazer alguma coisa por você. Aí pelo menos um de nós conseguiria sair.
+4007|YOU: Eu entendo, Whiskers.
+4008|YOU: Você deve ter inveja de mim, eu sou grande, não estou numa gaiola.
+4009|YOU: Mas o que você não entende é que eu só estou presa numa gaiola maior. A minha rodinha é metafórica, sabe?
+4010|YOU: Queria poder fazer alguma coisa por você. Aí pelo menos um de nós conseguiria sair.
 4011|O rato guincha e mexe o focinho.
-4012|VOCÊ: Eu sei… eu sei. Sem ressentimentos nem nada.
+4012|YOU: Eu sei… eu sei. Sem ressentimentos nem nada.
 4013|Talvez haja outro jeito. Quando foi que dar ouvidos à Mãe deu certo pra você?
 4014|Dessa vez é diferente! Só mata o rato.
 4015|É fácil! Que nem uma barata em cima da mesa!
 4016|A Mãe sempre dizia: se um dia você precisar de um motivo pra fazer alguma coisa, é só pensar nas pessoas que você ama.
 4017|...A maioria delas está morta.
 4018|Já o Whiskers, você conhece há pouco tempo, ele é praticamente seu bicho de estimação agora, e isso quer dizer que você pode descarregar com segurança todo esse peso emocional em cima dele.
-4019|VOCÊ: Eu te amo, Whiskers. Vou te tirar daqui.
-4020|VOCÊ: Desculpa, Mãe. Ninguém pode te substituir.
+4019|YOU: Eu te amo, Whiskers. Vou te tirar daqui.
+4020|YOU: Desculpa, Mãe. Ninguém pode te substituir.
 4021|Faz sentido, isso é um castigo, é pra ser estranho e cruel. A ideia é que você tem que provar o quanto é leal matando o rato.
 4022|Você vai chorar menos depois se fizer isso o mais rápido possível.
 4023|Ótimo, agora você entendeu.
@@ -28,21 +28,21 @@
 4027|Ela disse que o teste ia ser difícil. É bem possível que esse seja mais um dos clássicos testes ao contrário da Annabelle Lee.
 4028|Pode muito bem ser que ela queira que você faça o oposto do que ela está mandando.
 4029|O Whiskers é macio e fofinho; quando você o segura, ele parece frágil.
-4030|VOCÊ: Olha só pra você, rato idiota.
-4031|VOCÊ: Você é uma aberração, olha essas orelhinhas idiotas e esses olhos sem alma.
-4032|VOCÊ: Tem tanta coisa em você que parece anormal. E você devia ter vergonha de todas elas.
+4030|YOU: Olha só pra você, rato idiota.
+4031|YOU: Você é uma aberração, olha essas orelhinhas idiotas e esses olhos sem alma.
+4032|YOU: Tem tanta coisa em você que parece anormal. E você devia ter vergonha de todas elas.
 4033|O Whiskers guincha pra você.
-4034|VOCÊ: Desculpa… eu não quis dizer nada daquilo. Achei que ia me fazer sentir melhor.
-4035|VOCÊ: Eu sei como é. Você é um número, parte de um lote. Ela tentou se manter o mais distante possível de você.
-4036|VOCÊ: Que nem eu, você é só uma finalidade, seu trabalho é me ajudar. Quando isso acabar, sua finalidade acaba também. O melhor que eu posso te oferecer é uma morte rápida ou uma falsa liberdade.
-4037|VOCÊ: O que você quer que eu faça?
-4038|VOCÊ: Queria te entender tanto quanto você me entende, Whiskers.
+4034|YOU: Desculpa… eu não quis dizer nada daquilo. Achei que ia me fazer sentir melhor.
+4035|YOU: Eu sei como é. Você é um número, parte de um lote. Ela tentou se manter o mais distante possível de você.
+4036|YOU: Que nem eu, você é só uma finalidade, seu trabalho é me ajudar. Quando isso acabar, sua finalidade acaba também. O melhor que eu posso te oferecer é uma morte rápida ou uma falsa liberdade.
+4037|YOU: O que você quer que eu faça?
+4038|YOU: Queria te entender tanto quanto você me entende, Whiskers.
 4039|Ele está tão calmo. A porta da gaiola está aberta; ele poderia fugir se quisesse. Mesmo assim, ele conhece os humanos bem o bastante pra confiar cegamente.
 4040|Você acha o Whiskers tolo. Mesmo assim… há graça na fé cega dele. Uma beleza contida na disposição dele de servir de nervo exposto para o mundo.
 4041|Você se pergunta por um momento o que a Pearl faria nessa situação.
 4042|Ela provavelmente ajudaria o rato mesmo que ele não pedisse...
-4043|VOCÊ: Ei, não sei o que você fez pra vir parar aqui.
-4044|VOCÊ: Só… de um prisioneiro pra outro, acho melhor você pedir desculpas. A Mãe pode pegar leve com você se você pedir desculpa.
+4043|YOU: Ei, não sei o que você fez pra vir parar aqui.
+4044|YOU: Só… de um prisioneiro pra outro, acho melhor você pedir desculpas. A Mãe pode pegar leve com você se você pedir desculpa.
 4045|É bom você não estar pegando leve com o rato.
 4046|Você repara em como ele está quente debaixo de todo esse pelo.
 4047|Você se pergunta se ratos suam ou se precisam abrir bem a boca e ofegar que nem cachorro.
@@ -69,8 +69,8 @@
 4068|Tá... Tem um prego ali na parede, à sua esquerda.
 4069|Não importa se você quer fazer isso ou não.
 4070|O que importa é garantir que sua mãe saiba que você está fazendo isso porque ela pediu.
-4071|VOCÊ: Mãe, eu vou matar o rato. Eu vou fazer isso.
-4072|VOCÊ: Eu não quero, mas vou fazer porque você me pediu!
+4071|YOU: Mãe, eu vou matar o rato. Eu vou fazer isso.
+4072|YOU: Eu não quero, mas vou fazer porque você me pediu!
 4073|O rádio está em silêncio, mas de algum jeito você sabe que ela está satisfeita.
 4074|Essa sala da caldeira é assustadoramente desconfortável.
 4075|Mate o rato rápido e de um jeito que não espirre sangue na sua cara.
@@ -94,7 +94,7 @@
 4093|A vaca pela carne, o cachorro pela lealdade e o rato pela mente.
 4094|São uma espécie parasita.
 4095|Tem que haver algum jeito de sair daqui.
-4096|VOCÊ: Abre a porta, Mãe.
+4096|YOU: Abre a porta, Mãe.
 4097|Silêncio e ar quente e parado são a resposta. Você ouve um clique quando a caldeira é programada à distância para aumentar a temperatura em mais um grau.
 4098|Um pânico repentino aperta seu coração.
 4099|Você bate a cabeça com força na porta.
@@ -109,9 +109,9 @@
 4108|A porta está começando a amassar, e o seu crânio também.
 4109|Vamos lá, aríete. Mais uma vez e a gente derruba essa porta.
 4110|Você toma impulso pra bater de novo, mas, antes que consiga, sua mãe finalmente abre a porta.
-4111|MÃE: Que diabos você está fazendo, Nima!?
+4111|MOM: Que diabos você está fazendo, Nima!?
 4112|Você cai pra frente, e sua mãe te segura. Ela te pega no colo e te leva de volta pra sua cadeira na sala de testes.
-4113|MÃE: Por que você fez isso? Olha a sua cabeça!
+4113|MOM: Por que você fez isso? Olha a sua cabeça!
 4114|Ela enrola sua cabeça com gaze e tenta se acalmar.
 4115|Você sente seus músculos se contraindo por reflexo. Entre espasmos e convulsões, sua mão se ergue e agarra a maçaneta.
 4116|Você provavelmente não devia fazer isso; sua mãe não vai gostar. Vai deixar ela chateada de novo, e você não quer isso.
@@ -125,11 +125,11 @@
 4124|Se você fizer isso, vai ganhar uma recompensa. Você quer essa recompensa, né?
 4125|Você puxa pra trás com tudo, arrancando a maçaneta da porta e quebrando a fechadura que te mantinha aqui dentro.
 4126|A porta se abre rangendo, revelando sua mãe sentada à mesa, olhando horrorizada para o outro lado da babá eletrônica.
-4127|MÃE: Nima…?
+4127|MOM: Nima…?
 4128|A maçaneta cai da sua mão.
-4129|VOCÊ: Eu não gosto de ficar presa na sala da caldeira.
-4130|MÃE: ...Tá bom, Nima. Me desculpa. Você pode se sentar? Eu vou compensar isso, tá bom?
-4131|MÃE: Você é a minha filha boazinha e feliz, lembra?
+4129|YOU: Eu não gosto de ficar presa na sala da caldeira.
+4130|MOM: ...Tá bom, Nima. Me desculpa. Você pode se sentar? Eu vou compensar isso, tá bom?
+4131|MOM: Você é a minha filha boazinha e feliz, lembra?
 4132|Você assente devagar
 4133|A Mãe se levanta e enrola um pouco de gaze na sua mão que sangra.
 4134|Você olha fundo para a câmera embutida na babá eletrônica e se encosta na parede de cimento atrás de você.
@@ -147,23 +147,23 @@
 4146|Desmaie—
 4147|Você cai pra frente de repente e bate a cabeça na lateral da caldeira.
 4148|E então você está de volta lá fora, no laboratório.
-4149|MÃE: Ai, graças a Deus! Você está bem.
-4150|VOCÊ: O que aconteceu...?
-4151|MÃE: Você ficou parada em silêncio e aceitou o seu destino... Não sei se eu devia ficar orgulhosa ou decepcionada.
-4152|MÃE: Bom, isso não importa...
+4149|MOM: Ai, graças a Deus! Você está bem.
+4150|YOU: O que aconteceu...?
+4151|MOM: Você ficou parada em silêncio e aceitou o seu destino... Não sei se eu devia ficar orgulhosa ou decepcionada.
+4152|MOM: Bom, isso não importa...
 4153|Espera, é isso mesmo, você pegou a chave quando saiu escondida ontem à noite. Você apalpa o bolso e encontra ela lá.
 4154|ISSO! Vamos sair daqui!
 4155|E se a Mãe perguntar como a gente conseguiu a chave—
 4156|Seu braço dispara pro bolso e, quando você se dá conta, a chave já está fora e enfiada na fechadura. A porta estala e range enquanto se abre.
 4157|Tá tudo bem, você vai dar um jeito!
 4158|Você tenta esconder a chave rápido no bolso. Você decide se fazer de boba.
-4159|VOCÊ: Ah, é... Eu decidi não matar o Whiskers.
+4159|YOU: Ah, é... Eu decidi não matar o Whiskers.
 4160|Ela se levanta…
 4161|E então está do outro lado da sala, descendo sobre você como uma ave de rapina, as unhas compridas e malcuidadas à mostra feito garras para te agarrar.
 4162|Ela dá um tapa e derruba o Whiskers da sua mão. Ele solta um guincho assustado e sai correndo para os cantos escuros do porão.
-4163|MÃE: A porta estava trancada!
+4163|MOM: A porta estava trancada!
 4164|Ela te revista, passando as mãos pelos seus braços, pernas e bolsos. Ela logo encontra a chave e a mostra pra você, segurando bem debaixo do seu nariz.
-4165|MÃE: Sua ladrazinha, você roubou isso de mim.
+4165|MOM: Sua ladrazinha, você roubou isso de mim.
 4166|Ela agarra seus ombros, te levando para longe da sala da caldeira e de volta à sua cadeira de testes. Um dedo é cravado na sua cara. Sua fuga virou um interrogatório.
 4167|Você sacode a maçaneta e avalia a porta.
 4168|Esta é uma casa velha. Se você se esforçasse de verdade, provavelmente conseguiria derrubar a porta.
@@ -172,32 +172,32 @@
 4171|Acredite, eu adoraria simplesmente derrubar a porta...
 4172|A Mãe ia achar estranho.
 4173|Provavelmente é verdade.
-4174|VOCÊ: Mãe! Abre a porta!
+4174|YOU: Mãe! Abre a porta!
 4175|Você estica o pescoço, tentando ouvir uma resposta. Depois de alguns minutos de silêncio, você percebe que não vai ser tão fácil assim.
 4176|Você sacode a maçaneta. Você se segura firme e balança pra frente e pra trás.
-4177|VOCÊ: <shake a=.1 d=.3>ME TIRA DAQUI!</shake>
+4177|YOU: <shake a=.1 d=.3>ME TIRA DAQUI!</shake>
 4178|Você recupera a compostura.
-4179|VOCÊ: ...Por favor.
-4180|VOCÊ: O Pai nunca teria feito isso comigo!
-4181|VOCÊ: Tá me ouvindo?
-4182|VOCÊ: Eu conheço os meus direitos.
+4179|YOU: ...Por favor.
+4180|YOU: O Pai nunca teria feito isso comigo!
+4181|YOU: Tá me ouvindo?
+4182|YOU: Eu conheço os meus direitos.
 4183|O microfone da babá eletrônica chia ao ligar, mas sua mãe não fala de imediato.
-4184|MÃE: …Cala a boca.
-4185|VOCÊ: Mãe! Isso tá me machucando!
-4186|VOCÊ: Por favor, só me deixa sair!
-4187|MÃE: Isso não é verdade.
+4184|MOM: …Cala a boca.
+4185|YOU: Mãe! Isso tá me machucando!
+4186|YOU: Por favor, só me deixa sair!
+4187|MOM: Isso não é verdade.
 4188|Você esmurra a porta.
 4189|Um poço de tristeza borbulha e transborda, e você soluça enquanto descarrega sua dor na porta.
-4190|MÃE: Não bata na porta.
-4191|VOCÊ: Me deixa sair!
-4192|MÃE: Suas lágrimas falsas não vão funcionar.
+4190|MOM: Não bata na porta.
+4191|YOU: Me deixa sair!
+4192|MOM: Suas lágrimas falsas não vão funcionar.
 4193|Você fareja a porta.
 4194|É de metal, nenhuma quantidade de mordidas ou arranhões vai te ajudar aqui.
-4195|VOCÊ: Isso é um sonho?
-4196|MÃE: Isso é bem real, Nima.
-4197|VOCÊ: Você não pode me manter nessas condições. É uma violação da minha dignidade humana. É desumano!
+4195|YOU: Isso é um sonho?
+4196|MOM: Isso é bem real, Nima.
+4197|YOU: Você não pode me manter nessas condições. É uma violação da minha dignidade humana. É desumano!
 4198|Ela não responde. Você está sendo ignorada e tem certeza de que as violações dos direitos humanos vão continuar.
-4199|VOCÊ: Abre-te, Sésamo!
+4199|YOU: Abre-te, Sésamo!
 4200|A porta não se mexe e ignora sua piada muito boa.
 4201|Você imagina usar a cabeça da Mãe como calço de porta.
 4202|Você pode bater essa porta várias e várias vezes até não sobrar nada além de purê de Annabelle.
@@ -216,7 +216,7 @@
 4215|Ela representa o fato de que a gente está preso aqui dentro.
 4216|Uma onda repentina de raiva sobe pela sua espinha. Ela explode de você sem aviso.
 4217|Você esmurra a porta.
-4218|VOCÊ: Você é louca, Mãe, me tira daqui!
+4218|YOU: Você é louca, Mãe, me tira daqui!
 4219|Você descarrega sua raiva na porta e se acalma conforme a violência deixa seu corpo.
 4220|Você pensa em por que as pessoas batem na porta com os punhos. Talvez porque faça um barulho bonito, que nem um tambor...
 4221|Tambores afastam espíritos malignos, né? Talvez você devesse bater nessa porta de metal. Garantir todas as possibilidades: ou ela abre a porta, ou ela é efetivamente afugentada.
@@ -234,9 +234,9 @@
 4233|Você coloca o Whiskers perto do buraco e solta ele. Ele corre um pouquinho pra dentro e então para.
 4234|Você imagina que ele está hesitando, que não quer te abandonar nesta prisão.
 4235|Então você vê ele virar à direita e aparentemente andar em direção à caldeira.
-4236|VOCÊ: Whiskers! Não!
+4236|YOU: Whiskers! Não!
 4237|Você ouve uma ratoeira estalar atrás da caldeira, junto com um guincho curto, interrompido.
-4238|VOCÊ: Whiskers!
+4238|YOU: Whiskers!
 4239|Você se lança na pequena brecha, sem ligar pra própria segurança, para resgatar seu amigo caído.
 4240|Você sente sua pele queimar.
 4241|<shake>AHHHHHHH
@@ -246,7 +246,7 @@
 4245|...Normalmente você é a esperta.
 4246|Você olha fundo para a escuridão.
 4247|Você acha que vê o contorno de um rosto ali.
-4248|VOCÊ: Olá?
+4248|YOU: Olá?
 4249|A escuridão te ignora.
 4250|Você se pergunta se o Whiskers tem uma casa ali dentro. Talvez ele tenha um sofazinho de rato e uma TVzinha de rato.
 4251|Se o Whiskers morasse ali dentro, a Mãe não ia ficar nada feliz.
@@ -294,11 +294,11 @@
 4293|Bom, isso aqui poderia servir de arma do crime. Está meio fora do seu alcance; você vai ter que ficar na pontinha dos pés pra fazer isso funcionar.
 4294|Você olha para o rato na sua mão. Ele olha de volta pra você.
 4295|Você jura que tem lagriminhas se acumulando nos cantos dos olhinhos redondos dele.
-4296|VOCÊ: Desculpa, Whiskers, eu não quero te matar, mas eu tenho que fazer o que a minha mãe manda.
+4296|YOU: Desculpa, Whiskers, eu não quero te matar, mas eu tenho que fazer o que a minha mãe manda.
 4297|O rato não responde; assim como você, ele não faz ideia de por que está aqui, de por que foi forçado ao papel de cobaia.
 4298|Você sente empatia pelo seu colega de prisão. O mínimo que você pode fazer, como forma de cuidado, é ser rápida.
 4299|Você estica o braço, segurando o rato na frente da lança improvisada.
-4300|VOCÊ: Por favor, não me odeie…
+4300|YOU: Por favor, não me odeie…
 4301|Sua mão balança enquanto você mira e se equilibra. Enquanto você testa a própria destreza, o rato morde sua mão.
 4302|Ai!
 4303|Você sente vontade de largar o rato e aninhar a mão ferida, mas seus dedos congelam, fechados em volta da sua vítima.
@@ -308,8 +308,8 @@
 4307|Você crava o rato no prego com um tapa.
 4308|Você vê a ponta enferrujada do prego atravessar as costas da sua mão.
 4309|<wiggle a=.2>MERDA!
-4310|VOCÊ: Ah! Mãe! Mãe, me ajuda!
-4311|MÃE: <i>Nima! Ai, meu Deus! </i>
+4310|YOU: Ah! Mãe! Mãe, me ajuda!
+4311|MOM: <i>Nima! Ai, meu Deus! </i>
 4312|A porta se escancara e sua mãe invade a sala da caldeira. A entrada dela vem com uma bem-vinda onda de ar frio.
 4313|Ela tira sua mão do prego e te leva para a sala de testes.
 4314|Largada de volta na sua cadeira de sempre, você tem a mão enrolada em gaze.
@@ -318,13 +318,13 @@
 4317|Não vai amarelar agora, o calor está subindo. Eu te falei: não é nada pessoal, é sobrevivência.
 4318|Você estica o braço e mira pra tentar cravar o rato no prego, posicionando o corpo dele de um jeito que o metal atravesse o cérebro e mate ele na hora.
 4319|MERDA!
-4320|MÃE: Nima! Ai, meu Deus!
+4320|MOM: Nima! Ai, meu Deus!
 4321|Você olha para o prego e se pergunta como ele foi parar ali. Isso é um trabalho muito porco. Alguém simplesmente entrou aqui e saiu martelando prego feito doido.
 4322|Alguém podia se machucar!
 4323|E esse alguém devia ser o Whiskers.
-4324|VOCÊ: É, Mãe! Tem um prego velho e enferrujado saindo da parede.
-4325|MÃE: Tá, Nima.
-4326|VOCÊ: Mãe, você precisa consertar isso.
+4324|YOU: É, Mãe! Tem um prego velho e enferrujado saindo da parede.
+4325|MOM: Tá, Nima.
+4326|YOU: Mãe, você precisa consertar isso.
 4327|Ela não te responde.
 4328|Você tem que tomar muito cuidado com esse prego.
 4329|Se você não estiver olhando, pode dar um passo pra trás, tropeçar, e aí ele vai se cravar na sua nuca e <shake><i>você vai morrer.
@@ -363,44 +363,44 @@
 4362|A casa inteira mudou de função umas tantas dezenas de vezes. Você lembra que sua mãe comentou que um dia ela foi a casa do médico da cidade.
 4363|Vai saber quando esse prego foi colocado. Mas agora ele faz parte da história deste lugar.
 4364|Assim como você.
-4365|MÃE: Bom, sinto dizer que você não passou nesse teste.
+4365|MOM: Bom, sinto dizer que você não passou nesse teste.
 4366|Ela te lança um olhar suave de consolo.
-4367|MÃE: Era um teste de moralidade, pra ver se você machucaria o Whiskers se eu te colocasse em perigo.
-4368|MÃE: Eu não queria que você se machucasse, querida, tinha alguns jeitos de você salvar o Whiskers, mas tudo bem.
+4367|MOM: Era um teste de moralidade, pra ver se você machucaria o Whiskers se eu te colocasse em perigo.
+4368|MOM: Eu não queria que você se machucasse, querida, tinha alguns jeitos de você salvar o Whiskers, mas tudo bem.
 4369|Ela toca sua mão.
-4370|MÃE: Às vezes a gente tem que fazer a coisa errada porque é a única escolha. Entende?
-4371|MÃE: Você se colocou à frente de um rato, foi pragmático.
-4372|MÃE: Acho que muita gente não entenderia isso. É isso que torna a atitude corajosa.
+4370|MOM: Às vezes a gente tem que fazer a coisa errada porque é a única escolha. Entende?
+4371|MOM: Você se colocou à frente de um rato, foi pragmático.
+4372|MOM: Acho que muita gente não entenderia isso. É isso que torna a atitude corajosa.
 4373|Ela te olha atentamente.
-4374|MÃE: Mas eu entendo, entendo completamente.
-4375|VOCÊ: Ah, tá, acho que eu entendi. Matar o Whiskers foi a coisa certa porque eu estava em perigo.
-4376|MÃE: Querida, você nunca esteve em perigo. O teste teria acabado antes de passar de um nível inseguro.
-4377|MÃE: Acho que eu não posso dizer que matar o rato foi a coisa certa.
-4378|MÃE: Às vezes, diante de uma decisão difícil, você precisa se perguntar que bem maior está buscando.
-4379|MÃE: Quando eu me vejo nessas situações, eu penso em você. Se é por você, é sempre a escolha certa.
+4374|MOM: Mas eu entendo, entendo completamente.
+4375|YOU: Ah, tá, acho que eu entendi. Matar o Whiskers foi a coisa certa porque eu estava em perigo.
+4376|MOM: Querida, você nunca esteve em perigo. O teste teria acabado antes de passar de um nível inseguro.
+4377|MOM: Acho que eu não posso dizer que matar o rato foi a coisa certa.
+4378|MOM: Às vezes, diante de uma decisão difícil, você precisa se perguntar que bem maior está buscando.
+4379|MOM: Quando eu me vejo nessas situações, eu penso em você. Se é por você, é sempre a escolha certa.
 4380|De repente você percebe o verdadeiro propósito desse teste. Ela quer que você sinta empatia por ela. Ela quer que você saiba como é se sacrificar.
-4381|VOCÊ: ...Sempre a escolha certa?
-4382|MÃE: Eu não queria que você se machucasse, querida, tinha alguns jeitos de você salvar o Whiskers, mas tudo bem.
+4381|YOU: ...Sempre a escolha certa?
+4382|MOM: Eu não queria que você se machucasse, querida, tinha alguns jeitos de você salvar o Whiskers, mas tudo bem.
 4383|Ela pega o Whiskers e vai embora, sumindo atrás de você. Você imagina que seja pra devolver ele à gaiola.
-4384|MÃE: Bom, você passou no teste.
-4385|VOCÊ: Mas... eu...
+4384|MOM: Bom, você passou no teste.
+4385|YOU: Mas... eu...
 4386| Seu corpo começa a tremer enquanto suas terminações nervosas fritas disparam em ondas. Você se encolhe pra dentro, curvando o corpo pra frente feito um inseto.
 4387| Você aninha a mão queimada e se pergunta se pode interromper pra pedir à sua mãe uma tigela de água fria pra mergulhar ela.
 4388| Você se sente tonta; o sangue escorrendo pros seus olhos deixa o porão com um visual maneiro.
 4389| Você olha os cortes fundos na sua mão. O sangue irrompe da sua carne feito pequenos vulcões. Pequenas torrentes que vão e voltam no ritmo das batidas do seu coração.
-4390|MÃE: Eu queria saber se você machucaria algo pequeno e indefeso se isso fosse um jeito conveniente de escapar.
+4390|MOM: Eu queria saber se você machucaria algo pequeno e indefeso se isso fosse um jeito conveniente de escapar.
 4391|Ela te dá um sorriso mudo e sem emoção.
-4392|MÃE: Fico feliz, isso mostra que você tem alguma capacidade de empatia.
-4393|VOCÊ: ...Alguma capacidade de empatia?
-4394|MÃE: Você estava disposta a se sacrificar pelo Whiskers.
-4395|MÃE: Te lembra alguma coisa, né?
+4392|MOM: Fico feliz, isso mostra que você tem alguma capacidade de empatia.
+4393|YOU: ...Alguma capacidade de empatia?
+4394|MOM: Você estava disposta a se sacrificar pelo Whiskers.
+4395|MOM: Te lembra alguma coisa, né?
 4396| Sua respiração se estabiliza, as bolhas da sua carne queimada estouram e revelam a carne intacta escondida por baixo. Você se sente fraca, oscila pra trás na cadeira por um segundo, só pra se endireitar em seguida. De repente, você está bem.
 4397| Você massageia a pele da mão e descobre que, ao passar o polegar sobre as queimaduras, a vermelhidão some. Você se pergunta se a dor foi imaginada o tempo todo.
 4398|Um pensamento flutua pelo lodo líquido do seu cérebro: você devia mesmo prestar atenção. Os neurônios deslizam de volta pro lugar; a estática persiste na massa cinzenta. De repente você volta à plena consciência.
 4399|Você flexiona a mão. Bufadas raivosas de ar saem pelas suas narinas. A pressão do seu punho e o fogo do seu ódio fundem sua pele dilacerada de volta. Você está bem… você é normal.
 4400|Você relaxa o ombro; a dor já não parece tão ruim, na verdade mal está ali. Você está pronta pra qualquer que seja o teste macabro que sua mãe planejou a seguir.
-4401|VOCÊ: Não...
-4402|VOCÊ: <shake>Ainãoainãoainão-
+4401|YOU: Não...
+4402|YOU: <shake>Ainãoainãoainão-
 4403|É a coisa certa a fazer. Você sabe disso.
 4404|Você sente as batidas do coração nos ouvidos. Você não queria isso. Você queria salvar ele, não matar.
 4405|Não é culpa sua.
@@ -409,14 +409,14 @@
 4408|Ele já estava em choque, então morre sem fazer barulho.
 4409|Você tira um segundo pra si mesma pra chorar.
 4410|Não deixa ela te ver chorando.
-4411|VOCÊ: O Whiskers está morto, Mãe.
-4412|MÃE: Tá bom, eu vou aí te soltar.
+4411|YOU: O Whiskers está morto, Mãe.
+4412|MOM: Tá bom, eu vou aí te soltar.
 4413|A porta se abre com uma lufada de ar frio, e sua mãe aparece na porta.
-4414|MÃE: Que nojo! Olha todo esse sangue nas suas mãos!
+4414|MOM: Que nojo! Olha todo esse sangue nas suas mãos!
 4415|Ela enrola uma toalha fria no seu braço, onde você encostou na caldeira, e te pega no colo, te levando de volta pra sala de testes.
-4416|MÃE: O que exatamente aconteceu?
-4417|VOCÊ: Ele caiu numa ratoeira… Eu não consegui salvar ele, então… eu matei ele.
-4418|MÃE: Tá bom.
+4416|MOM: O que exatamente aconteceu?
+4417|YOU: Ele caiu numa ratoeira… Eu não consegui salvar ele, então… eu matei ele.
+4418|MOM: Tá bom.
 4419|Sua respiração desacelera. Você precisa se controlar. Isso não é um rato...
 4420|É o seu paciente.
 4421|Ele ainda está respirando; a ratoeira errou a coluna e, em vez disso, parece ter quebrado e prendido a pata traseira dele.
@@ -424,47 +424,47 @@
 4423|Você tem que agir rápido pra salvar ele.
 4424|Você aperta a barra de metal pra baixo e corta os tendões que restam na pata dele. Agora você consegue tirar ele da ratoeira.
 4425|O Whiskers recobra um pouco a consciência e guincha de dor.
-4426|VOCÊ: Tá tudo bem… tá tudo bem, eu tô tentando ajudar.
-4427|MÃE: Nima! O que você está fazendo!?
+4426|YOU: Tá tudo bem… tá tudo bem, eu tô tentando ajudar.
+4427|MOM: Nima! O que você está fazendo!?
 4428|Você vai até a caldeira. Você pega o toco da pata do Whiskers e pressiona contra o metal quente.
 4429|O Whiskers se debate na sua mão enquanto você cauteriza a ferida.
 4430|Você ouve sua mãe se aproximando.
 4431|Você volta para a fresta e coloca o Whiskers no chão com cuidado.
 4432|Assim que você solta ele, ele corre na direção do buraco na parede.
 4433|Você fecha os olhos e se encosta na parede de cimento.
-4434|MÃE: Cadê o rato?
-4435|VOCÊ: Ele foi embora…
-4436|VOCÊ: Ele caiu numa ratoeira… mas eu salvei ele. Eu soltei ele e fechei a ferida. Ele foi embora agora.
+4434|MOM: Cadê o rato?
+4435|YOU: Ele foi embora…
+4436|YOU: Ele caiu numa ratoeira… mas eu salvei ele. Eu soltei ele e fechei a ferida. Ele foi embora agora.
 4437|Provavelmente está correndo por dentro das paredes.
-4438|MÃE: Não tem como esse rato viver muito tempo depois de um ferimento desses. Melhor acabar com o sofrimento dele do que torturar o coitado e depois soltar.
-4439|VOCÊ: Eu dei uma chance pra ele.
+4438|MOM: Não tem como esse rato viver muito tempo depois de um ferimento desses. Melhor acabar com o sofrimento dele do que torturar o coitado e depois soltar.
+4439|YOU: Eu dei uma chance pra ele.
 4440|A cara já azeda dela azeda ainda mais. Depois de um momento, ela revira os olhos.
 4441|Você lembra da noite passada. A <i>coisa</i> que você encontrou na geladeira lá embaixo.
 4442|A Mãe anda tirando o seu sangue.
 4443|Talvez… essa seja uma boa oportunidade pra ver se as suas suspeitas estão certas.
 4444|Tem certeza de que quer fazer isso?
 4445|O Whiskers é como você; um espécime preso nos jogos da Mãe. Você não consegue escapar dela, mas sabe que vai ser bom dar liberdade a ele.
-4446|MÃE: Nima… o que você está fazendo?
+4446|MOM: Nima… o que você está fazendo?
 4447|Você pressiona a ponta do dedo contra o dente canino e morde com força. Você continua mordendo até o gosto do seu próprio sangue brotar na boca.
 4448|Você tira o dedo da boca e pinga o sangue na boca do Whiskers.
 4449|Feito esse sacrifício. Você coloca o rato no chão, na frente do buraco. Você pondera: ou você está certa e isso funciona, ou ele vai morrer logo.
-4450|MÃE: Nima. Você está sentada?
+4450|MOM: Nima. Você está sentada?
 4451|Ela não consegue te ver de onde a babá eletrônica está. Há uma ansiedade na voz dela. Você sente que ela está esperando a notícia de que a ratoeira dela funcionou.
 4452|Você não responde. Você simplesmente fica sentada, paciente, e deseja ardentemente que o Whiskers se cure.
 4453|O Whiskers estremece.
 4454|A pata dele para de sangrar, a ferida se fecha. Você não achou que o efeito seria tão rápido. Um minuto se arrasta enquanto a pata do rato se regenera.
 4455|O rato se levanta e corre em direção ao buraco na parede.
 4456|Ele dispara para a escuridão, e você se afasta da caldeira, caindo contra a parede do fundo pra aninhar a pele cheia de bolhas do seu braço.
-4457|MÃE: Nima! Que diabos você está fazendo!?
+4457|MOM: Nima! Que diabos você está fazendo!?
 4458|A porta se escancara e sua mãe cai em cima de você, procurando ferimentos. Ela não encontra nenhum.
 4459|Você se levanta sem a ajuda dela e a segue de volta pra sala de testes.
 4460|Você se pergunta o que isso significa, o fato de o seu sangue ter uma capacidade quase milagrosa de curar as coisas.
 4461|Não significa nada.
 4462|Você só está pensando demais… como sempre.
-4463|MÃE: O que aconteceu com o rato?
-4464|VOCÊ: Ele correu pro buraco.
+4463|MOM: O que aconteceu com o rato?
+4464|YOU: Ele correu pro buraco.
 4465|Ela te olha com desconfiança, mas seu rosto é ilegível. Você está ocupada demais com a sua própria situação pra se preocupar com a mentira que contou.
-4466|MÃE: Tá bom…
+4466|MOM: Tá bom…
 4467|Você lembra da noite passada. A <i>coisa</i> que você descobriu no bunker.
 4468|A Annabelle anda tirando o seu sangue.
 4469|Tem certeza de que quer fazer isso.
@@ -472,13 +472,13 @@
 4471|Você tira o dedo da boca e pinga o sangue na boca do Whiskers.
 4472|Ela não consegue te ver de onde a babá eletrônica está. Há uma ansiedade na voz dela. Você sente que ela está esperando a notícia de que a armadilha dela funcionou.
 4473|A pata dele para de sangrar, a ferida se fecha. Você não achou que o efeito seria tão rápido. Um minuto se arrasta enquanto as patas do rato se regeneram.
-4474|MÃE: O que aconteceu com o rato.
-4475|VOCÊ: Mãe! Eu achei um buraco na parede e quis tentar soltar o Whiskers, mas aí tinha uma ratoeira lá e o Whiskers caiu nela.
-4476|VOCÊ: Por favor, você pode me ajudar a salvar o Whiskers!?
-4477|MÃE: O Whiskers ainda está vivo?
-4478|VOCÊ: Ele ainda está vivo, a pata dele está muito quebrada, eu não sei o que fazer.
-4479|MÃE: Parece que o teste ainda não acabou.
-4480|VOCÊ: Você não vai fazer nada!?
+4474|MOM: O que aconteceu com o rato.
+4475|YOU: Mãe! Eu achei um buraco na parede e quis tentar soltar o Whiskers, mas aí tinha uma ratoeira lá e o Whiskers caiu nela.
+4476|YOU: Por favor, você pode me ajudar a salvar o Whiskers!?
+4477|MOM: O Whiskers ainda está vivo?
+4478|YOU: Ele ainda está vivo, a pata dele está muito quebrada, eu não sei o que fazer.
+4479|MOM: Parece que o teste ainda não acabou.
+4480|YOU: Você não vai fazer nada!?
 4481|Ela não responde, e você fica por conta própria.
 4482|Só acaba com o sofrimento dele.
 4483|Você sabe como é.
@@ -492,7 +492,7 @@
 4491|Você está tentando não gritar. Seria ruim se-
 4492|O grito que você tenta segurar escapa.
 4493|Você tapa a boca com a mão pra se conter.
-4494|MÃE: Aconteceu alguma coisa, Nima?
+4494|MOM: Aconteceu alguma coisa, Nima?
 4495|Dá pra ouvir um sorriso na voz dela.
 4496|As lágrimas abrem rios na poeira grudada nas suas bochechas.
 4497|Você não pode deixar ela te ouvir chorar.

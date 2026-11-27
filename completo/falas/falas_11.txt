@@ -1,121 +1,121 @@
-5500|VOCÊ: Você afastou ela. Não, você me afastou.
-5501|VOCÊ: Eu lembro, a única pessoa a quem eu sentia que podia recorrer era a Pearl.
-5502|VOCÊ: Um ou dois meses antes de eu fugir, a Pearl me deu umas pílulas que ela tomava. Pra depressão.
-5503|MÃE: Eu sabia! Aquela mulher plantou essas ideias na cabeça da Nima—
-5504|VOCÊ: As pílulas ajudaram! Você não lembra que finalmente parou de me encontrar desmoronada, chorando o tempo todo, que eu finalmente consegui dar conta da agenda insana que você queria que eu tivesse?
-5505|VOCÊ: Mas não durou. A Pearl decidiu que não podia mais me dar porque 'não cabia a ela'.
-5506|VOCÊ: Ela me deixou me virar sozinha, sem nada, igualzinho você fez.
-5507|VOCÊ: Eu voltei a me sentir um caco. Voltei a aguentar toda a sua merda sem ajuda nenhuma.
-5508|MÃE: Eu não quero ouvir isso.
-5509|VOCÊ: Foi por isso que eu fugi, eu não tinha mais opção. Não sobrou nada além de você.
-5510|MÃE: O amor dela. A alegria dela. A maturidade dela. As memórias que compartilhamos. Ela era a filha perfeita.
-5511|MÃE: Mas nada disso importa se você não é capaz nem do mínimo de humanidade.
-5512|MÃE: O aspecto mais importante de ser a Nima é simplesmente ser uma boa pessoa. Ela tinha uma noção forte do que é certo e errado.
-5513|MÃE: Mas, claramente, deve estar faltando essa parte do seu cérebro. Você age como se não tivesse consciência nenhuma.
+5500|YOU: Você afastou ela. Não, você me afastou.
+5501|YOU: Eu lembro, a única pessoa a quem eu sentia que podia recorrer era a Pearl.
+5502|YOU: Um ou dois meses antes de eu fugir, a Pearl me deu umas pílulas que ela tomava. Pra depressão.
+5503|MOM: Eu sabia! Aquela mulher plantou essas ideias na cabeça da Nima—
+5504|YOU: As pílulas ajudaram! Você não lembra que finalmente parou de me encontrar desmoronada, chorando o tempo todo, que eu finalmente consegui dar conta da agenda insana que você queria que eu tivesse?
+5505|YOU: Mas não durou. A Pearl decidiu que não podia mais me dar porque 'não cabia a ela'.
+5506|YOU: Ela me deixou me virar sozinha, sem nada, igualzinho você fez.
+5507|YOU: Eu voltei a me sentir um caco. Voltei a aguentar toda a sua merda sem ajuda nenhuma.
+5508|MOM: Eu não quero ouvir isso.
+5509|YOU: Foi por isso que eu fugi, eu não tinha mais opção. Não sobrou nada além de você.
+5510|MOM: O amor dela. A alegria dela. A maturidade dela. As memórias que compartilhamos. Ela era a filha perfeita.
+5511|MOM: Mas nada disso importa se você não é capaz nem do mínimo de humanidade.
+5512|MOM: O aspecto mais importante de ser a Nima é simplesmente ser uma boa pessoa. Ela tinha uma noção forte do que é certo e errado.
+5513|MOM: Mas, claramente, deve estar faltando essa parte do seu cérebro. Você age como se não tivesse consciência nenhuma.
 5514|Eu não acho que exista outra forma de explicar seus... comportamentos estranhos...
 5515|De algum jeito, você regrediu a uma fera.
 5516|Tudo em que você consegue pensar, tudo com que se importa, é comer...
 5517|Você só pensa em si mesma e nos seus desejos egoístas.
-5518|MÃE: Você tentou comer o Whiskers...
-5519|MÃE: Você queimou o Whiskers até a morte...
-5520|MÃE: Como você pôde machucar aquele pobre rato...
-5521|MÃE: Eu não criei a Nima pra agir assim.
-5522|MÃE: Não, a Nima era diferente. Ela tinha um forte senso de justiça. Sempre queria fazer o que era justo. E isso significava ser gentil com tudo ao redor dela.
-5523|MÃE: Eu sei que é clichê, mas ela realmente não fazia mal a uma mosca.
-5524|VOCÊ: Por que você fica falando como se eu nem estivesse aqui?
+5518|MOM: Você tentou comer o Whiskers...
+5519|MOM: Você queimou o Whiskers até a morte...
+5520|MOM: Como você pôde machucar aquele pobre rato...
+5521|MOM: Eu não criei a Nima pra agir assim.
+5522|MOM: Não, a Nima era diferente. Ela tinha um forte senso de justiça. Sempre queria fazer o que era justo. E isso significava ser gentil com tudo ao redor dela.
+5523|MOM: Eu sei que é clichê, mas ela realmente não fazia mal a uma mosca.
+5524|YOU: Por que você fica falando como se eu nem estivesse aqui?
 5525|É claro, ela só te enxerga como essa versão pura e ideal de você mesma, sem nenhuma aresta. Mas você sabe a verdade, você conhece as partes que a Nima tentava esconder.
-5526|VOCÊ: Você não faz ideia de quem a 'Nima' era. Como faria? Tinha um monte de coisas que ela fazia e nunca contava pra ninguém.
-5527|MÃE: A Nima não guardava segredos de mim.
-5528|VOCÊ: Sério? Ela alguma vez te contou que fazia bullying com uma menina da equipe de natação? Ficou tão feio que a menina saiu da equipe.
-5529|MÃE: O quê? Isso não é verdade.
-5530|VOCÊ: O nome dela era Tammy, mas a Nima tinha inventado vários outros nomes pra chamar ela, quase todos sinônimos de 'gorda'. O resto da equipe achava a Nima hilária.
-5531|MÃE: Agora você só está inventando coisas. Eu criei a Nima pra ser melhor que isso.
-5532|VOCÊ: E de onde você acha que ela tirou isso? Vai convenientemente esquecer de todos aqueles comentarinhos que você fazia sobre o corpo da Nima?
-5533|VOCÊ: Você vivia cutucando, dizendo que ela estava engordando demais, ou engordando de menos, ou estragando o corpo comendo o que queria.
-5534|MÃE: Eu dizia essas coisas porque me importava com ela! Você está fazendo tempestade em copo d'água.
-5535|VOCÊ: Não demorou muito pra Nima começar a pensar do mesmo jeito que você. A única coisa que ela via quando olhava pra aquela menina eram as mesmas imperfeições.
-5536|VOCÊ: Parecia errado que <i>ela</i> pudesse andar por aí achando que merecia ser feliz.
-5537|MÃE: Qual era o objetivo da sua história? Mostrar que a Nima era tão ruim quanto você?
-5538|VOCÊ: Ela só era melhor em esconder. Se bem que não era tão difícil assim. Você só via o que queria ver.
-5539|MÃE: Não tente jogar a culpa disso em mim. Se tem alguma coisa, é que eu já sabia que os amigos da natação eram má influência. Eu nos tirei de Vancouver por um motivo.
-5540|VOCÊ: Mudar pra Goldenfield só piorou tudo! Ela só ficou mais violenta, mais cruel.
-5541|VOCÊ: Você nem reparou quando a Nima chegou em casa com os nós dos dedos ralados e ensanguentados e hematomas nos braços. O resultado de ter atacado um garoto na escola.
-5542|VOCÊ: A Nima não tinha um bom motivo pra socar ele, ele até era bem legal com ela. Ela só queria se sentir forte.
-5543|MÃE: Cansei de ouvir sobre isso.
-5544|VOCÊ: Foi por isso que ela-
-5545|VOCÊ: -que <i>eu</i> fugi. Eu sabia o quanto isso ia te machucar.
-5546|VOCÊ: Pela primeira vez na vida, era eu que estava no controle.
-5547|MÃE: A bondade dela. O amor dela. A alegria dela. As memórias que compartilhamos. Ela era a filha perfeita.
-5548|MÃE: Mas tudo isso é a parte fácil de ser a Nima. Qualquer um parece perfeito quando não há nada em jogo.
-5549|MÃE: Não, o aspecto mais importante da Nima só aparecia quando as coisas ficavam difíceis pra ela. Responsabilidade.
-5550|MÃE: É o que eu mais admirava nela. Como ela conseguia aceitar a realidade e lidar com as dificuldades.
-5551|MÃE: Ao longo desses testes, eu vi como <i>você</i> reage às dificuldades, e não estou impressionada.
-5552|MÃE: Sua imaturidade fez o rato sofrer à toa... Tudo que você conseguiu fazer foi desistir assim que as coisas não saíram do seu jeito.
-5553|MÃE: Sempre que as coisas não saem do seu jeito, você não consegue evitar ser mesquinha e infantil.
-5554|MÃE: E apesar de todos os meus esforços, você não consegue levar nenhum desses testes a sério.
-5555|MÃE: Você simplesmente se recusa a assumir a responsabilidade ou pedir desculpas pelos seus erros.
-5556|MÃE: Você nem sente muito pelo que me fez passar.
-5557|MÃE: É quase como se você tivesse... regredido.
-5558|MÃE: A Nima não era assim. Ela era uma menina tão atenciosa e compreensiva. Tão inteligente e tão madura pra idade dela.
-5559|MÃE: Ela sempre fazia o que tinha que fazer, fosse cuidar da casa, fosse cuidar de mim.
-5560|VOCÊ: Por que você está falando de mim como se eu nem estivesse aqui?
+5526|YOU: Você não faz ideia de quem a 'Nima' era. Como faria? Tinha um monte de coisas que ela fazia e nunca contava pra ninguém.
+5527|MOM: A Nima não guardava segredos de mim.
+5528|YOU: Sério? Ela alguma vez te contou que fazia bullying com uma menina da equipe de natação? Ficou tão feio que a menina saiu da equipe.
+5529|MOM: O quê? Isso não é verdade.
+5530|YOU: O nome dela era Tammy, mas a Nima tinha inventado vários outros nomes pra chamar ela, quase todos sinônimos de 'gorda'. O resto da equipe achava a Nima hilária.
+5531|MOM: Agora você só está inventando coisas. Eu criei a Nima pra ser melhor que isso.
+5532|YOU: E de onde você acha que ela tirou isso? Vai convenientemente esquecer de todos aqueles comentarinhos que você fazia sobre o corpo da Nima?
+5533|YOU: Você vivia cutucando, dizendo que ela estava engordando demais, ou engordando de menos, ou estragando o corpo comendo o que queria.
+5534|MOM: Eu dizia essas coisas porque me importava com ela! Você está fazendo tempestade em copo d'água.
+5535|YOU: Não demorou muito pra Nima começar a pensar do mesmo jeito que você. A única coisa que ela via quando olhava pra aquela menina eram as mesmas imperfeições.
+5536|YOU: Parecia errado que <i>ela</i> pudesse andar por aí achando que merecia ser feliz.
+5537|MOM: Qual era o objetivo da sua história? Mostrar que a Nima era tão ruim quanto você?
+5538|YOU: Ela só era melhor em esconder. Se bem que não era tão difícil assim. Você só via o que queria ver.
+5539|MOM: Não tente jogar a culpa disso em mim. Se tem alguma coisa, é que eu já sabia que os amigos da natação eram má influência. Eu nos tirei de Vancouver por um motivo.
+5540|YOU: Mudar pra Goldenfield só piorou tudo! Ela só ficou mais violenta, mais cruel.
+5541|YOU: Você nem reparou quando a Nima chegou em casa com os nós dos dedos ralados e ensanguentados e hematomas nos braços. O resultado de ter atacado um garoto na escola.
+5542|YOU: A Nima não tinha um bom motivo pra socar ele, ele até era bem legal com ela. Ela só queria se sentir forte.
+5543|MOM: Cansei de ouvir sobre isso.
+5544|YOU: Foi por isso que ela-
+5545|YOU: -que <i>eu</i> fugi. Eu sabia o quanto isso ia te machucar.
+5546|YOU: Pela primeira vez na vida, era eu que estava no controle.
+5547|MOM: A bondade dela. O amor dela. A alegria dela. As memórias que compartilhamos. Ela era a filha perfeita.
+5548|MOM: Mas tudo isso é a parte fácil de ser a Nima. Qualquer um parece perfeito quando não há nada em jogo.
+5549|MOM: Não, o aspecto mais importante da Nima só aparecia quando as coisas ficavam difíceis pra ela. Responsabilidade.
+5550|MOM: É o que eu mais admirava nela. Como ela conseguia aceitar a realidade e lidar com as dificuldades.
+5551|MOM: Ao longo desses testes, eu vi como <i>você</i> reage às dificuldades, e não estou impressionada.
+5552|MOM: Sua imaturidade fez o rato sofrer à toa... Tudo que você conseguiu fazer foi desistir assim que as coisas não saíram do seu jeito.
+5553|MOM: Sempre que as coisas não saem do seu jeito, você não consegue evitar ser mesquinha e infantil.
+5554|MOM: E apesar de todos os meus esforços, você não consegue levar nenhum desses testes a sério.
+5555|MOM: Você simplesmente se recusa a assumir a responsabilidade ou pedir desculpas pelos seus erros.
+5556|MOM: Você nem sente muito pelo que me fez passar.
+5557|MOM: É quase como se você tivesse... regredido.
+5558|MOM: A Nima não era assim. Ela era uma menina tão atenciosa e compreensiva. Tão inteligente e tão madura pra idade dela.
+5559|MOM: Ela sempre fazia o que tinha que fazer, fosse cuidar da casa, fosse cuidar de mim.
+5560|YOU: Por que você está falando de mim como se eu nem estivesse aqui?
 5561|Te irrita ver ela agindo como se tivesse alguma noção de quem a Nima era, de quem você era naquela época. É realmente ridículo como ela conseguia ser tão alheia ao que estava literalmente na cara dela todo santo dia.
-5562|VOCÊ: Ela era a adulta da casa, é? Eu não sou a Nima porque não fico te paparicando?
-5563|MÃE: Não distorça minhas palavras. É claro que <i>eu</i> ainda era a mãe dela.
-5564|MÃE: Era eu quem mantinha um teto sobre nossas cabeças e cuidava dela. Diferente de você, ela era madura o bastante pra aliviar o meu fardo.
-5565|VOCÊ: Então ser madura é só esconder quem você é e cuidar dos outros até surtar? Entendi, posso ser igualzinha a ela.
-5566|MÃE: Que diabos tem de errado com você? Você enlouqueceu de vez?
-5567|VOCÊ: Sabe, a Nima não queria de verdade ser essa <i>cuidadora responsável </i>pra você. Não mesmo.
-5568|VOCÊ: Mas vamos ser sinceras aqui, você não liga pra quem a Nima realmente era. Você não liga que ela amava arte, e coisas fofas, e natação.
-5569|VOCÊ: Você ignorou tudo que aconteceu e que não encaixava na imagem da Nima que você queria ter.
-5570|VOCÊ: Tipo o que aconteceu quando ela viu o personagem novo da série do Garoto Tomate. O reluzente Príncipe Romã na vitrine.
-5571|VOCÊ: Ela queria tanto aquele brinquedo que surtou! A Nima sentou ali mesmo na rua e não queria sair, chorando que o Papai teria comprado pra ela.
-5572|MÃE: Aquilo foi uma coisa isolada. Ela era mais nova na época. Ela não era assim o tempo todo.
-5573|VOCÊ: E quer saber mais? A Nima fazia corpo mole nas atividades extracurriculares e no voluntariado sempre que podia. Lembra da escola de chinês?
-5574|MÃE: Isso é ridículo. Ela era uma aluna excelente. A nota mais baixa que ela tirou foi um A-.
-5575|VOCÊ: Se você tivesse se dado ao trabalho de olhar as tarefas dela, ia ver que tudo que ela fazia naquelas aulas era desenhar o Garoto Tomate nos cadernos e colocar o sono em dia.
-5576|MÃE: Os professores dela nunca—
-5577|VOCÊ: Eles não ligavam pro aprendizado dela. Só ligavam pro seu dinheiro, então mandavam todas as crianças pra casa com A.
-5578|VOCÊ: Na vida real, ela sempre tinha que fazer o papel da menina madura, da filha perfeita pra você.
-5579|VOCÊ: Ela tinha que empurrar tudo que ela realmente era, todas as coisas que ela amava de verdade, pro espaço de fantasia na mente dela.
-5580|VOCÊ: Perto do fim, a Nima estava ficando bem boa em dividir a mente e o corpo em dois. Ela conseguia sonhar acordada fazendo quase qualquer coisa.
-5581|VOCÊ: Lá pelo fim, ela mal se sentia uma pessoa de verdade.
-5582|VOCÊ: Mas quando ela fugiu - não, quando eu fugi, foi como se eu finalmente tivesse me recomposto. Eu finalmente conseguia ver um futuro em que eu não odiava tudo na minha vida.
-5583|MÃE: Para de falar dela. Para de falar como se você soubesse de alguma coisa!
-5584|VOCÊ: As poucas horas em que eu fiquei livre foram as mais felizes que eu já senti. Pela primeira vez, eu não precisava imaginar a minha fuga.
-5585|MÃE: A maturidade dela. A bondade dela. O amor dela. O sorriso feliz dela. Ela era a filha perfeita.
-5586|MÃE: Mas a filhinha de qualquer um poderia ser uma filha perfeita. Sabe o que fazia a Nima ser minha?
-5587|VOCÊ: Hã?
-5588|MÃE: Eram as coisas que só ela lembraria. Eram as memórias dela que faziam dela única.
-5589|MÃE: As dificuldades que enfrentamos juntas, as experiências e os objetos que ela guardava com carinho. A Nima não ia simplesmente esquecer tudo isso.
-5590|MÃE: Mas você... é quase como se tivesse esquecido completamente quem a Nima deveria ser.
-5591|MÃE: Você não pode simplesmente me manipular pra eu esquecer quem a Nima realmente era.
-5592|VOCÊ: Você disse que eu tenho amnésia, não disse? Não é esse o objetivo desses testes? Me ajudar a lembrar?
-5593|MÃE: Não, não, o objetivo desses testes é garantir que você é a Nima.
-5594|VOCÊ: Do que você está falando? Só porque eu esqueci algumas coisas? Isso não quer dizer nada!
-5595|VOCÊ: Eu vou melhorar, Mãe. Eu só... preciso de mais tempo.
+5562|YOU: Ela era a adulta da casa, é? Eu não sou a Nima porque não fico te paparicando?
+5563|MOM: Não distorça minhas palavras. É claro que <i>eu</i> ainda era a mãe dela.
+5564|MOM: Era eu quem mantinha um teto sobre nossas cabeças e cuidava dela. Diferente de você, ela era madura o bastante pra aliviar o meu fardo.
+5565|YOU: Então ser madura é só esconder quem você é e cuidar dos outros até surtar? Entendi, posso ser igualzinha a ela.
+5566|MOM: Que diabos tem de errado com você? Você enlouqueceu de vez?
+5567|YOU: Sabe, a Nima não queria de verdade ser essa <i>cuidadora responsável </i>pra você. Não mesmo.
+5568|YOU: Mas vamos ser sinceras aqui, você não liga pra quem a Nima realmente era. Você não liga que ela amava arte, e coisas fofas, e natação.
+5569|YOU: Você ignorou tudo que aconteceu e que não encaixava na imagem da Nima que você queria ter.
+5570|YOU: Tipo o que aconteceu quando ela viu o personagem novo da série do Garoto Tomate. O reluzente Príncipe Romã na vitrine.
+5571|YOU: Ela queria tanto aquele brinquedo que surtou! A Nima sentou ali mesmo na rua e não queria sair, chorando que o Papai teria comprado pra ela.
+5572|MOM: Aquilo foi uma coisa isolada. Ela era mais nova na época. Ela não era assim o tempo todo.
+5573|YOU: E quer saber mais? A Nima fazia corpo mole nas atividades extracurriculares e no voluntariado sempre que podia. Lembra da escola de chinês?
+5574|MOM: Isso é ridículo. Ela era uma aluna excelente. A nota mais baixa que ela tirou foi um A-.
+5575|YOU: Se você tivesse se dado ao trabalho de olhar as tarefas dela, ia ver que tudo que ela fazia naquelas aulas era desenhar o Garoto Tomate nos cadernos e colocar o sono em dia.
+5576|MOM: Os professores dela nunca—
+5577|YOU: Eles não ligavam pro aprendizado dela. Só ligavam pro seu dinheiro, então mandavam todas as crianças pra casa com A.
+5578|YOU: Na vida real, ela sempre tinha que fazer o papel da menina madura, da filha perfeita pra você.
+5579|YOU: Ela tinha que empurrar tudo que ela realmente era, todas as coisas que ela amava de verdade, pro espaço de fantasia na mente dela.
+5580|YOU: Perto do fim, a Nima estava ficando bem boa em dividir a mente e o corpo em dois. Ela conseguia sonhar acordada fazendo quase qualquer coisa.
+5581|YOU: Lá pelo fim, ela mal se sentia uma pessoa de verdade.
+5582|YOU: Mas quando ela fugiu - não, quando eu fugi, foi como se eu finalmente tivesse me recomposto. Eu finalmente conseguia ver um futuro em que eu não odiava tudo na minha vida.
+5583|MOM: Para de falar dela. Para de falar como se você soubesse de alguma coisa!
+5584|YOU: As poucas horas em que eu fiquei livre foram as mais felizes que eu já senti. Pela primeira vez, eu não precisava imaginar a minha fuga.
+5585|MOM: A maturidade dela. A bondade dela. O amor dela. O sorriso feliz dela. Ela era a filha perfeita.
+5586|MOM: Mas a filhinha de qualquer um poderia ser uma filha perfeita. Sabe o que fazia a Nima ser minha?
+5587|YOU: Hã?
+5588|MOM: Eram as coisas que só ela lembraria. Eram as memórias dela que faziam dela única.
+5589|MOM: As dificuldades que enfrentamos juntas, as experiências e os objetos que ela guardava com carinho. A Nima não ia simplesmente esquecer tudo isso.
+5590|MOM: Mas você... é quase como se tivesse esquecido completamente quem a Nima deveria ser.
+5591|MOM: Você não pode simplesmente me manipular pra eu esquecer quem a Nima realmente era.
+5592|YOU: Você disse que eu tenho amnésia, não disse? Não é esse o objetivo desses testes? Me ajudar a lembrar?
+5593|MOM: Não, não, o objetivo desses testes é garantir que você é a Nima.
+5594|YOU: Do que você está falando? Só porque eu esqueci algumas coisas? Isso não quer dizer nada!
+5595|YOU: Eu vou melhorar, Mãe. Eu só... preciso de mais tempo.
 5596|Ela fecha os olhos e desvia o olhar de você.
-5597|MÃE: Sempre tão boa em se fazer de inocente. Sabe, houve um tempo em que eu teria acreditado em você. Um tempo em que eu teria ignorado todos esses defeitos, dito que estava bom o bastante e seguido em frente.
-5598|MÃE: Eu até deixei você subir uma vez. Que idiota. Eu estava tão animada por ter você de volta.
-5599|VOCÊ: Eu não lembro disso...
-5600|MÃE: Claro que não. Quer saber o que aconteceu?
+5597|MOM: Sempre tão boa em se fazer de inocente. Sabe, houve um tempo em que eu teria acreditado em você. Um tempo em que eu teria ignorado todos esses defeitos, dito que estava bom o bastante e seguido em frente.
+5598|MOM: Eu até deixei você subir uma vez. Que idiota. Eu estava tão animada por ter você de volta.
+5599|YOU: Eu não lembro disso...
+5600|MOM: Claro que não. Quer saber o que aconteceu?
 5601|Uma sensação terrível começa a subir dentro de você. Você impede que seu rosto se contorça numa careta.
-5602|MÃE: Eu acordei na manhã seguinte com batidas na porta. Foi estranho, já que eu tinha me esforçado pra manter as visitas longe.
-5603|MÃE: Era o nosso vizinho, ele estava transtornado. Tinha vindo me contar que o cachorro dele tinha sumido e queria saber se eu tinha visto.
-5604|MÃE: Foi aí que começou a se infiltrar, esse pavor insuportável, nauseante.
-5605|MÃE: Eu disse que não sabia de nada, o que não era mentira, mas eu mal estava enganando a mim mesma.
-5606|MÃE: Só tive a confirmação quando dei um passo no quintal. Foi lá que encontrei o corpo. Mutilado, dilacerado... Eu nem conseguia distinguir o que aquilo tinha sido.
-5607|MÃE: E lá estava você. De pé em cima dele, com sangue ainda pingando da boca.
-5608|MÃE: Você me viu e... acenou.
+5602|MOM: Eu acordei na manhã seguinte com batidas na porta. Foi estranho, já que eu tinha me esforçado pra manter as visitas longe.
+5603|MOM: Era o nosso vizinho, ele estava transtornado. Tinha vindo me contar que o cachorro dele tinha sumido e queria saber se eu tinha visto.
+5604|MOM: Foi aí que começou a se infiltrar, esse pavor insuportável, nauseante.
+5605|MOM: Eu disse que não sabia de nada, o que não era mentira, mas eu mal estava enganando a mim mesma.
+5606|MOM: Só tive a confirmação quando dei um passo no quintal. Foi lá que encontrei o corpo. Mutilado, dilacerado... Eu nem conseguia distinguir o que aquilo tinha sido.
+5607|MOM: E lá estava você. De pé em cima dele, com sangue ainda pingando da boca.
+5608|MOM: Você me viu e... acenou.
 5609|Você queria mostrar pra sua mãe o que tinha conseguido pra ela.
 5610|A história dela provoca pontadas dolorosas de vergonha e nojo. Você agarra a cabeça e tenta não vomitar.
-5611|VOCÊ: Eu tô te dizendo que eu não fiz isso. Aquela não era eu!
-5612|MÃE: Ah, eu sei que não era você, isso seria impossível.
-5613|MÃE: Aquela eu já matei.
+5611|YOU: Eu tô te dizendo que eu não fiz isso. Aquela não era eu!
+5612|MOM: Ah, eu sei que não era você, isso seria impossível.
+5613|MOM: Aquela eu já matei.
 5614|Seu corpo congela.
-5615|VOCÊ: ...O quê?
-5616|MÃE: Não, você é algo novo. Mas eu aprendi a lição. Eu sei do que você é capaz.
-5617|VOCÊ: Eu não vou machucar nada! Eu não quero fazer isso! Você tem que acreditar em mim!
+5615|YOU: ...O quê?
+5616|MOM: Não, você é algo novo. Mas eu aprendi a lição. Eu sei do que você é capaz.
+5617|YOU: Eu não vou machucar nada! Eu não quero fazer isso! Você tem que acreditar em mim!
 5618|O que faz de você, <i>você.</i>
 5619|Você se lembra de uma antiga campanha de utilidade pública, um clipe curto que você deve ter visto mil vezes.
 5620|Uma criança faz golpes de caratê na frente do oceano, outra é obcecada por insetos, uma terceira dança numa lavanderia.
@@ -123,56 +123,56 @@
 5622|Ninguém é bom em tudo, mas todo mundo é bom em alguma coisa.
 5623|Acho que ela não viu essa campanha...
 5624|Normalmente você guarda esses pensamentos pra si, mas a resposta parece tão óbvia.
-5625|VOCÊ: A minha... aparência?
-5626|MÃE: Vamos cavar um pouco mais fundo.
+5625|YOU: A minha... aparência?
+5626|MOM: Vamos cavar um pouco mais fundo.
 5627|São os seus sentimentos que mais interessam a ela.
 5628|E você tem um monte deles pra escolher.
 5629|Diga-se de passagem: você só tem permissão pra sentir <i>metade</i> dessas emoções.
-5630|VOCÊ: Ter medo de você?
-5631|MÃE: Claro que não. Minha própria filha não tem nada a temer de mim.
-5632|MÃE: Nenhum mal duradouro vai te acontecer aqui embaixo. Eu me certifiquei disso.
-5633|MÃE: Dito isso, é bom que você entenda que eu estou falando sério.
-5634|MÃE: Mas eu estou procurando algo mais específico.
+5630|YOU: Ter medo de você?
+5631|MOM: Claro que não. Minha própria filha não tem nada a temer de mim.
+5632|MOM: Nenhum mal duradouro vai te acontecer aqui embaixo. Eu me certifiquei disso.
+5633|MOM: Dito isso, é bom que você entenda que eu estou falando sério.
+5634|MOM: Mas eu estou procurando algo mais específico.
 5635|Todas as suas memórias e associações são bem claras sobre isso.
-5636|VOCÊ: Eu gosto de nadar!
-5637|MÃE: Ah... Isso é bem superficial.
-5638|MÃE: Claramente não importava tanto assim pra você, já que você saiu da equipe de natação.
-5639|VOCÊ: Mas eu ainda gosto de nadar...
-5640|MÃE: Disso eu não tenho dúvida, não. É bom fazer exercício.
-5641|MÃE: Só não acho que você realmente se importava.
-5642|MÃE: Você devia tentar se entender melhor do que simplesmente recitar seus interesses.
-5643|VOCÊ: Ficar sozinha...
-5644|MÃE: Acho esse drama muito deselegante.
-5645|MÃE: Eu passei bastante tempo com você nos últimos dias.
-5646|VOCÊ: Ser uma pessoa bem-sucedida como você?
-5647|MÃE: Eu pensei nisso...
-5648|MÃE: Eu admirava a garra da Nima de ser a melhor. Ela se entregava de corpo e alma a tudo que fazia. Se destacava nos esportes, ia muito bem nos estudos e cuidava de tantas tarefas em casa.
-5649|MÃE: No fim, não é o que ela fazia, mas <i>por que</i> ela fazia.
-5650|MÃE: Tem alguma ideia?
-5651|VOCÊ: Cozinhar pra você?
-5652|MÃE: Perto, mas não exatamente. Pergunte-se <i>por que</i> você cuidava de toda a comida e vai ter a resposta.
-5653|VOCÊ: Te ajudar com a sua pesquisa.
+5636|YOU: Eu gosto de nadar!
+5637|MOM: Ah... Isso é bem superficial.
+5638|MOM: Claramente não importava tanto assim pra você, já que você saiu da equipe de natação.
+5639|YOU: Mas eu ainda gosto de nadar...
+5640|MOM: Disso eu não tenho dúvida, não. É bom fazer exercício.
+5641|MOM: Só não acho que você realmente se importava.
+5642|MOM: Você devia tentar se entender melhor do que simplesmente recitar seus interesses.
+5643|YOU: Ficar sozinha...
+5644|MOM: Acho esse drama muito deselegante.
+5645|MOM: Eu passei bastante tempo com você nos últimos dias.
+5646|YOU: Ser uma pessoa bem-sucedida como você?
+5647|MOM: Eu pensei nisso...
+5648|MOM: Eu admirava a garra da Nima de ser a melhor. Ela se entregava de corpo e alma a tudo que fazia. Se destacava nos esportes, ia muito bem nos estudos e cuidava de tantas tarefas em casa.
+5649|MOM: No fim, não é o que ela fazia, mas <i>por que</i> ela fazia.
+5650|MOM: Tem alguma ideia?
+5651|YOU: Cozinhar pra você?
+5652|MOM: Perto, mas não exatamente. Pergunte-se <i>por que</i> você cuidava de toda a comida e vai ter a resposta.
+5653|YOU: Te ajudar com a sua pesquisa.
 5654|Há algumas memórias de viagens que você fez com ela. Você encontrou amostras importantes pra pesquisa dela.
 5655|Atualmente, você também é uma amostra importante na pesquisa dela.
-5656|MÃE: Eu tenho muita sorte de ter alguém com quem posso contar.
-5657|MÃE: Minha filha é muito mais madura que uma menina comum de treze anos.
-5658|MÃE: Podemos ser mais específicas?
-5659|VOCÊ: Estar viva.
+5656|MOM: Eu tenho muita sorte de ter alguém com quem posso contar.
+5657|MOM: Minha filha é muito mais madura que uma menina comum de treze anos.
+5658|MOM: Podemos ser mais específicas?
+5659|YOU: Estar viva.
 5660|Ela franze profundamente a testa e inclina a cabeça para o lado.
-5661|MÃE: Você estar viva é o mínimo, isso não faz de você a Nima.
-5662|MÃE: Com certeza você tem se esforçado ao máximo, chegou até aqui.
-5663|MÃE: Você não pensa nisso mais a fundo? Em quais são as facetas da sua identidade?
-5664|MÃE: Eu te conheço bem, afinal, sou sua mãe. Mas a essa altura você já deve se conhecer.
-5665|MÃE: Se você nunca tentou pensar nisso antes, por que não pensar comigo agora?
-5666|VOCÊ: Ir pra cama na hora certa?
-5667|MÃE: Ora, Nima, agora não é hora pra sarcasmo.
-5668|VOCÊ: Limpar a sua bagunça.
+5661|MOM: Você estar viva é o mínimo, isso não faz de você a Nima.
+5662|MOM: Com certeza você tem se esforçado ao máximo, chegou até aqui.
+5663|MOM: Você não pensa nisso mais a fundo? Em quais são as facetas da sua identidade?
+5664|MOM: Eu te conheço bem, afinal, sou sua mãe. Mas a essa altura você já deve se conhecer.
+5665|MOM: Se você nunca tentou pensar nisso antes, por que não pensar comigo agora?
+5666|YOU: Ir pra cama na hora certa?
+5667|MOM: Ora, Nima, agora não é hora pra sarcasmo.
+5668|YOU: Limpar a sua bagunça.
 5669|Consertar a confusão que ela causou...
-5670|MÃE: Não gostei desse tom.
-5671|MÃE: Eu poderia usar essa resposta contra você, mas chegaremos lá...
-5672|MÃE: Por que você não tenta responder de novo?
-5673|VOCÊ: Ser como o Papai...
-5674|MÃE: ...Para de agir como se ele fosse algum herói. Ele não está mais aqui. Ele não vai te salvar.
+5670|MOM: Não gostei desse tom.
+5671|MOM: Eu poderia usar essa resposta contra você, mas chegaremos lá...
+5672|MOM: Por que você não tenta responder de novo?
+5673|YOU: Ser como o Papai...
+5674|MOM: ...Para de agir como se ele fosse algum herói. Ele não está mais aqui. Ele não vai te salvar.
 5675|Você não sabe bem como responder. Você olha pra ela, horrorizada.
 5676|Não provoque ela.
 5677|Você relembra seus sonhos e pensa se há algo neles que possa usar.
@@ -180,79 +180,79 @@
 5679|Está claro que não é isso que ela quer de você.
 5680|Talvez você conseguisse conversar com ela.
 5681|Você olha bem pra ela e acha mesmo que dá pra argumentar com ela?
-5682|VOCÊ: Ficar no porão?
-5683|MÃE: Já cansei de me repetir...
-5684|MÃE: Essa é uma situação temporária, o problema em questão vai se resolver eventualmente, mas você vai precisar <i>confiar</i> em mim.
-5685|VOCÊ: Não adianta... Eu nunca vou sair daqui.
-5686|MÃE: Ora, ora... Eu odeio fatalismo quase tanto quanto odeio sarcasmo.
-5687|MÃE: Tente de novo.
-5688|VOCÊ: Cuidar de gente velha?
+5682|YOU: Ficar no porão?
+5683|MOM: Já cansei de me repetir...
+5684|MOM: Essa é uma situação temporária, o problema em questão vai se resolver eventualmente, mas você vai precisar <i>confiar</i> em mim.
+5685|YOU: Não adianta... Eu nunca vou sair daqui.
+5686|MOM: Ora, ora... Eu odeio fatalismo quase tanto quanto odeio sarcasmo.
+5687|MOM: Tente de novo.
+5688|YOU: Cuidar de gente velha?
 5689|Você deixa a insinuação aberta o bastante pra incluir ela na categoria de gente velha.
-5690|MÃE: Não seja engraçadinha.
-5691|VOCÊ: Roubar coisas.
-5692|MÃE: A Nima não era ladra.
-5693|VOCÊ: Você não sabe nada sobre mim. Eu lembro, eu roubei a carteira da Pearl pra comprar uns sapatos com cara de idiota.
-5694|MÃE: Que história interessante.
-5695|VOCÊ: Ser perfeita.
-5696|MÃE: É verdade, a Nima tinha muito do que se orgulhar.
-5697|MÃE: Eu pensei em jeitos de testar isso, pra ter certeza de que você é exatamente como eu me lembro.
-5698|MÃE: Mas pareceu redundante. Afinal, se você tivesse tudo de que precisa, obviamente teria o seu orgulho.
+5690|MOM: Não seja engraçadinha.
+5691|YOU: Roubar coisas.
+5692|MOM: A Nima não era ladra.
+5693|YOU: Você não sabe nada sobre mim. Eu lembro, eu roubei a carteira da Pearl pra comprar uns sapatos com cara de idiota.
+5694|MOM: Que história interessante.
+5695|YOU: Ser perfeita.
+5696|MOM: É verdade, a Nima tinha muito do que se orgulhar.
+5697|MOM: Eu pensei em jeitos de testar isso, pra ter certeza de que você é exatamente como eu me lembro.
+5698|MOM: Mas pareceu redundante. Afinal, se você tivesse tudo de que precisa, obviamente teria o seu orgulho.
 5699|Você pensa no que o seu reflexo estava dizendo.
 5700|Você sente que ainda não é hora de uma decisão. O que ela está fazendo aqui é mais como um gato brincando com um rato antes de comê-lo.
 5701|Logo ela vai tirar a máscara.
 5702|Manter a cabeça no lugar. Manter o estado frágil de calma perpétua que está te sustentando.
 5703|Você tem medo do escuro, você percebe. Isso existe desde o começo, mas você não tinha como fugir da sensação, então só foi ignorando.
-5704|VOCÊ: Ser normal.
-5705|MÃE: Sim, mas o que eu quero é que você defina o que é normal.
-5706|VOCÊ: Te perdoar.
+5704|YOU: Ser normal.
+5705|MOM: Sim, mas o que eu quero é que você defina o que é normal.
+5706|YOU: Te perdoar.
 5707|Você olha pra ela com seriedade e ela devolve o olhar. Suas feições severas se desfazem um pouco.
 5708|Ela parece cansada.
-5709|MÃE: Não...
-5710|MÃE: Eu não quero o <i>seu</i> perdão.
-5711|VOCÊ: Eu não sei.
-5712|MÃE: Com certeza você consegue fazer melhor que isso.
-5713|MÃE: O que a gente esteve fazendo esse tempo todo?
-5714|MÃE: Você não se perguntou nem uma vez?
-5715|MÃE: Não se perguntou por que está aqui?
-5716|MÃE: Me diga. Qual é o objetivo disso?
-5717|VOCÊ: Fazer arte?
-5718|MÃE: Não estamos mais fazendo o teste de desenho.
-5719|VOCÊ: Matar o Whiskers.
-5720|MÃE: No geral, é importante priorizar a sua própria segurança em vez de um rato.
-5721|MÃE: A Nima faria a coisa altruísta, tentaria salvar o rato... embora eu discorde...
-5722|MÃE: Vamos chamar isso de dica, hein?
-5723|MÃE: Bom dia, Nima. Hoje é o último dia de testes.
+5709|MOM: Não...
+5710|MOM: Eu não quero o <i>seu</i> perdão.
+5711|YOU: Eu não sei.
+5712|MOM: Com certeza você consegue fazer melhor que isso.
+5713|MOM: O que a gente esteve fazendo esse tempo todo?
+5714|MOM: Você não se perguntou nem uma vez?
+5715|MOM: Não se perguntou por que está aqui?
+5716|MOM: Me diga. Qual é o objetivo disso?
+5717|YOU: Fazer arte?
+5718|MOM: Não estamos mais fazendo o teste de desenho.
+5719|YOU: Matar o Whiskers.
+5720|MOM: No geral, é importante priorizar a sua própria segurança em vez de um rato.
+5721|MOM: A Nima faria a coisa altruísta, tentaria salvar o rato... embora eu discorde...
+5722|MOM: Vamos chamar isso de dica, hein?
+5723|MOM: Bom dia, Nima. Hoje é o último dia de testes.
 5724|Sua mãe sorri com compaixão, há um leve brilho de esperança nos olhos dela. Mas ela não olha pra você.
-5725|MÃE: Do jeito que as coisas terminaram ontem... Eu me sinto mal.
-5726|MÃE: Pra ser sincera, você se saiu muito bem. Sua memória está voltando, você parece mais você mesma a cada dia.
-5727|MÃE: Acho que um jeito de ver é que estamos começando a brigar como família de novo... Talvez seja um bom sinal.
+5725|MOM: Do jeito que as coisas terminaram ontem... Eu me sinto mal.
+5726|MOM: Pra ser sincera, você se saiu muito bem. Sua memória está voltando, você parece mais você mesma a cada dia.
+5727|MOM: Acho que um jeito de ver é que estamos começando a brigar como família de novo... Talvez seja um bom sinal.
 5728|Você ainda tem perguntas sem resposta. Uma parte de você se arrepende de não ter pressionado mais. De não saber o que dizer.
-5729|VOCÊ: Hum... Desculpa.
+5729|YOU: Hum... Desculpa.
 5730|Mas 'desculpa' só <i>parece</i> ser a coisa que você deveria dizer.
-5731|MÃE: Eu também peço desculpas.
+5731|MOM: Eu também peço desculpas.
 5732|Ela mexe na bolsa e tira algo... estranho.
-5733|MÃE: Aqui, pode ser meio extravagante, mas...
-5734|MÃE: Bem, é a sua comida favorita. Duvido que isso fosse te impedir.
+5733|MOM: Aqui, pode ser meio extravagante, mas...
+5734|MOM: Bem, é a sua comida favorita. Duvido que isso fosse te impedir.
 5735|Você olha fundo para a carne.
 5736|Pontadas sobem pela sua pele, arrepios formam uma estrada de paralelepípedos subindo pelo seu braço.
 5737|Eles correm dos seus dedos até a nuca.
-5738|MÃE: Nima? Você parece... perturbada?
-5739|VOCÊ: Eu tô...
+5738|MOM: Nima? Você parece... perturbada?
+5739|YOU: Eu tô...
 5740|A faca dela reluzia na luz enquanto ela a segurava acima de você. Você se lembra do cantarolar nauseante dela. A canção de ninar que virou trilha sonora da sua autópsia.
-5741|MÃE: Nima.
+5741|MOM: Nima.
 5742|A cabeça dela se inclina para o lado. Ela espera uma resposta rápida.
-5743|VOCÊ: Eu tô confusa... Isso é um teste?
-5744|MÃE: É... vamos chamar de seu teste final.
-5745|MÃE: Eu quero que você coma, Nima.
-5746|VOCÊ: Por quê?
-5747|MÃE: Que pergunta boba. Você ama Sashimi. Tem algo estranho nele?
+5743|YOU: Eu tô confusa... Isso é um teste?
+5744|MOM: É... vamos chamar de seu teste final.
+5745|MOM: Eu quero que você coma, Nima.
+5746|YOU: Por quê?
+5747|MOM: Que pergunta boba. Você ama Sashimi. Tem algo estranho nele?
 5748|Diga que não.
-5749|MÃE: Não tem por que se segurar.
-5750|MÃE: Vai em frente. Dá uma mordida.
+5749|MOM: Não tem por que se segurar.
+5750|MOM: Vai em frente. Dá uma mordida.
 5751|Você pisca para afastar as alucinações.
 5752|Você conclui que não deve ter tido uma boa noite de sono ontem.
 5753|Você sabe quem você é. Você é Nima Lee, filha de Annabelle Lee.
-5754|VOCÊ: Obrigada, Mãe!
+5754|YOU: Obrigada, Mãe!
 5755|Ela não te deu hashis, você é obrigada a comer com as mãos.
 5756|Você pega uma fatia de carne entre os dedos e a leva devagar até a boca.
 5757|Com cuidado, você arranca um pedaço da carne com os dentes da frente.
@@ -262,74 +262,74 @@
 5761|A carne se desfaz na sua língua. Como qualquer comida em que a Mãe põe a mão, o gosto é horrível.
 5762|Você sente o gosto dos caroços de tecido cicatricial. A carne em si está arruinada pelo medo, amarga, estranhamente ácida.
 5763|Você não aguenta deixar aquilo na boca, tapa o nariz e se obriga a engolir.
-5764|VOCÊ: Bom... Mãe... Eu agradeço o gesto, mas não posso dizer que você melhorou...
+5764|YOU: Bom... Mãe... Eu agradeço o gesto, mas não posso dizer que você melhorou...
 5765|Ela sorri sinceramente, com lágrimas se formando no canto dos olhos.
-5766|MÃE: É... Você tem razão. Eu nem devia ter tentado.
+5766|MOM: É... Você tem razão. Eu nem devia ter tentado.
 5767|Você ri junto com ela.
-5768|MÃE: Tudo bem, Nima. Acabou. Os testes terminaram, você passou.
-5769|VOCÊ: O quê, porque eu comi a sua comida? Era só isso que você queria esse tempo todo.
-5770|MÃE: Para. Claro que não. Eu só...
-5771|MÃE: Eu só queria ter certeza de que era você de verdade.
+5768|MOM: Tudo bem, Nima. Acabou. Os testes terminaram, você passou.
+5769|YOU: O quê, porque eu comi a sua comida? Era só isso que você queria esse tempo todo.
+5770|MOM: Para. Claro que não. Eu só...
+5771|MOM: Eu só queria ter certeza de que era você de verdade.
 5772|Sua mãe te puxa para um abraço caloroso e cheio de amor e, pela primeira vez, ela não estremece.
 5773|Ela chora enquanto te abraça.
-5774|VOCÊ: Você tá me molhando de lágrima!
-5775|MÃE: Azar o seu. Você vai ganhar um abraço.
+5774|YOU: Você tá me molhando de lágrima!
+5775|MOM: Azar o seu. Você vai ganhar um abraço.
 5776|Pegue sua raiva e guarde ela num pote. Vamos usá-la depois. Quando tivermos a chance de nos vingar.
 5777|Por enquanto... Você sabe quem deve ser.
 5778|Você engole o nojo e se obriga a sentir fome.
 5779|A carne se desfaz na sua língua. Como qualquer comida em que a Mãe põe a mão, o gosto é horrível.
-5780|VOCÊ: Nossa... Uau.
-5781|VOCÊ: Isso tá <i>muito</i> bom. Que peixe é esse?
-5782|MÃE: Tudo bem, querida. Não precisa me poupar. Nem imagino o quão ruim deve estar.
+5780|YOU: Nossa... Uau.
+5781|YOU: Isso tá <i>muito</i> bom. Que peixe é esse?
+5782|MOM: Tudo bem, querida. Não precisa me poupar. Nem imagino o quão ruim deve estar.
 5783|Abrace ela de volta. Forte.
-5784|MÃE: Que pena. Você vai ganhar um abraço.
+5784|MOM: Que pena. Você vai ganhar um abraço.
 5785|Você sente o cheiro da carne, a sensação de familiaridade. Isso só pode significar uma coisa.
-5786|VOCÊ: Mãe?! Esse é o James!?
+5786|YOU: Mãe?! Esse é o James!?
 5787|Você se levanta da cadeira com raiva, batendo os punhos na mesa.
 5788|Em vez de demonstrar culpa ou vergonha, ela sorri.
-5789|VOCÊ: Por que você faria isso!? Você é louca de verdade!
-5790|MÃE: Ora... Por que você acha que isso é o James?
-5791|VOCÊ: É... É ele, eu sei.
-5792|VOCÊ: Eu sinto o cheiro no sangue dele, a familiaridade, o aquário e a comida do Papai.
-5793|VOCÊ: Eu sinto o cheiro do medo dele também, a tortura da faca cortando a carne dele.
-5794|VOCÊ: Você matou ele, não matou!?
-5795|MÃE: Que reação muito estranha.
-5796|MÃE: Não posso te culpar, a Nima ficaria horrorizada ao ver como o peixinho de estimação dela acabou... envolvido nesse teste.
-5797|MÃE: Mas... como você poderia reconhecê-lo? Retalhado assim, só a carne no prato.
-5798|MÃE: Você sente o cheiro de que é o James? Isso é ridículo.
-5799|MÃE: E mesmo assim... Isso acontece toda vez.
-5800|MÃE: É algum tipo de psicose.
-5801|MÃE: Eu já conseguia ver nos seus olhos. O jeito como você ficou tensa.
-5802|MÃE: Um teste cruel, sem dúvida, mas uma referência necessária pra ver o quanto você avançou.
-5803|VOCÊ: Sou eu.
+5789|YOU: Por que você faria isso!? Você é louca de verdade!
+5790|MOM: Ora... Por que você acha que isso é o James?
+5791|YOU: É... É ele, eu sei.
+5792|YOU: Eu sinto o cheiro no sangue dele, a familiaridade, o aquário e a comida do Papai.
+5793|YOU: Eu sinto o cheiro do medo dele também, a tortura da faca cortando a carne dele.
+5794|YOU: Você matou ele, não matou!?
+5795|MOM: Que reação muito estranha.
+5796|MOM: Não posso te culpar, a Nima ficaria horrorizada ao ver como o peixinho de estimação dela acabou... envolvido nesse teste.
+5797|MOM: Mas... como você poderia reconhecê-lo? Retalhado assim, só a carne no prato.
+5798|MOM: Você sente o cheiro de que é o James? Isso é ridículo.
+5799|MOM: E mesmo assim... Isso acontece toda vez.
+5800|MOM: É algum tipo de psicose.
+5801|MOM: Eu já conseguia ver nos seus olhos. O jeito como você ficou tensa.
+5802|MOM: Um teste cruel, sem dúvida, mas uma referência necessária pra ver o quanto você avançou.
+5803|YOU: Sou eu.
 5804|Você levanta a mão e a coloca ao lado do cadáver do peixe, ao lado do seu cadáver.
-5805|VOCÊ: O peixe já está dentro de mim, mais um degrau no caminho que me trouxe até este momento, até este indivíduo.
-5806|VOCÊ: A faca desliza pelo meu corpo, cutucando e remexendo até que cada milímetro de carne exposta seja revelado e analisado sob a luz.
-5807|VOCÊ: E agora você tenta me dar eu mesma pra comer?
-5808|MÃE: Que reação muito interessante, Nima.
-5809|VOCÊ: Que tipo de teste é esse?
-5810|MÃE: É uma coisa estranha que eu notei cedo. Você sempre teve uma reação negativa a esse peixe.
-5811|MÃE: Compreensível, eu suponho. Mas... parece ativar algum tipo de psicose.
-5812|MÃE: Virou um bom teste de referência. Um jeito de ver o quanto você avançou.
+5805|YOU: O peixe já está dentro de mim, mais um degrau no caminho que me trouxe até este momento, até este indivíduo.
+5806|YOU: A faca desliza pelo meu corpo, cutucando e remexendo até que cada milímetro de carne exposta seja revelado e analisado sob a luz.
+5807|YOU: E agora você tenta me dar eu mesma pra comer?
+5808|MOM: Que reação muito interessante, Nima.
+5809|YOU: Que tipo de teste é esse?
+5810|MOM: É uma coisa estranha que eu notei cedo. Você sempre teve uma reação negativa a esse peixe.
+5811|MOM: Compreensível, eu suponho. Mas... parece ativar algum tipo de psicose.
+5812|MOM: Virou um bom teste de referência. Um jeito de ver o quanto você avançou.
 5813|Talvez... você não esteja pronta pra seguir em frente depois do que aconteceu ontem à noite. Ela não te deu uma resposta satisfatória.
 5814|Você está tão perto. Não jogue tudo fora tentando cuspir na cara dela.
-5815|VOCÊ: Mãe. O que você fez pra me curar?
-5816|MÃE: Nima... Acho que a gente devia simplesmente deixar isso pra lá.
-5817|VOCÊ: Eu só quero ouvir você dizer.
-5818|MÃE: Por que você está pensando nisso?
+5815|YOU: Mãe. O que você fez pra me curar?
+5816|MOM: Nima... Acho que a gente devia simplesmente deixar isso pra lá.
+5817|YOU: Eu só quero ouvir você dizer.
+5818|MOM: Por que você está pensando nisso?
 5819|Ela alterna o olhar entre você e o peixe. Ela estuda seus olhos em busca de qualquer pista que ilumine a hipótese dela.
-5820|VOCÊ: Você fez alguma coisa comigo. Você praticamente admitiu ontem à noite.
-5821|VOCÊ: Não que eu ache que algum dia estive quebrada.
-5822|MÃE: Talvez eu tenha me enganado na minha análise. Achei que você estava indo bem.
-5823|VOCÊ: Eu estaria <i>muito melhor</i> se você realmente tivesse tentado me curar.
-5824|VOCÊ: Sabe, um quarto bem ensolarado, chá e conversas, um monte de objetos familiares e passeios regulares lá fora, no mundo.
-5825|MÃE: Você ia adorar isso, né?
-5826|MÃE: Eu sei que não devo confiar em você nem com a menor dose de liberdade.
-5827|VOCÊ: Claro, porque eu estou <i>obstinada</i> em te enganar. Ia te matar agir como minha mãe só dessa vez?
-5828|MÃE: Me diga você...
+5820|YOU: Você fez alguma coisa comigo. Você praticamente admitiu ontem à noite.
+5821|YOU: Não que eu ache que algum dia estive quebrada.
+5822|MOM: Talvez eu tenha me enganado na minha análise. Achei que você estava indo bem.
+5823|YOU: Eu estaria <i>muito melhor</i> se você realmente tivesse tentado me curar.
+5824|YOU: Sabe, um quarto bem ensolarado, chá e conversas, um monte de objetos familiares e passeios regulares lá fora, no mundo.
+5825|MOM: Você ia adorar isso, né?
+5826|MOM: Eu sei que não devo confiar em você nem com a menor dose de liberdade.
+5827|YOU: Claro, porque eu estou <i>obstinada</i> em te enganar. Ia te matar agir como minha mãe só dessa vez?
+5828|MOM: Me diga você...
 5829|Ela olha para o lado e bufa.
-5830|MÃE: Você vai comer o sashimi ou não?
-5831|VOCÊ: Eu não vou mais fazer nada do que você manda.
+5830|MOM: Você vai comer o sashimi ou não?
+5831|YOU: Eu não vou mais fazer nada do que você manda.
 5832|Você encontrou o corpo do James Pond no bunker, mas faltavam partes dele. Você acabou de descobrir para onde foi a carne que faltava.
 5833|Você se lembra do som de alguém cantarolando. A sensação de queimadura gelada de uma faca escavando a sua carne.
 5834|Você não pode deixar ela saber...
@@ -340,28 +340,28 @@
 5839|Você está faminta. Não come nada há dias. A comida que ela te deu ontem à noite não chegou nem perto de te saciar.
 5840|Mesmo assim... você olha pra essa <i>coisa</i> no prato à sua frente e não consegue sentir fome.
 5841|Não existe mundo em que você coma isso porque quer.
-5842|VOCÊ: Obrigada... essa é a minha comida favorita.
-5843|MÃE: É, eu sei.
-5844|MÃE: O que foi? Você não quer comer?
-5845|MÃE: Imagino que você esteja se perguntando se pode confiar na minha comida, né?
-5846|VOCÊ: Hehe... bom, sabe como é...
-5847|MÃE: Bem, essa não é como as minhas outras comidas. Eu me esforcei muito pra garantir que tivesse <i>exatamente</i> o gosto que você espera.
-5848|MÃE: Eu queria dar à minha filha preciosa uma recompensa por tudo que ela passou.
-5849|MÃE: Você não vai me decepcionar, né?
-5850|VOCÊ: Não... Mãe.
-5851|VOCÊ: Eu... devo recusar?
-5852|MÃE: Como assim, querida?
-5853|VOCÊ: Quando você me deu o congee... você meio que esperava que eu não comesse... é a mesma coisa?
-5854|MÃE: Não, querida.
-5855|MÃE: Eu não quero que você entenda nada errado.
-5856|MÃE: É <i>muito</i> importante que você coma isso. Nem que seja... só pra me dizer como ficou.
-5857|MÃE: Eu me esforcei tanto pra fazer.
-5858|VOCÊ: Foi você que fez?
-5859|MÃE: Foi.
-5860|VOCÊ: É seguro comer?
+5842|YOU: Obrigada... essa é a minha comida favorita.
+5843|MOM: É, eu sei.
+5844|MOM: O que foi? Você não quer comer?
+5845|MOM: Imagino que você esteja se perguntando se pode confiar na minha comida, né?
+5846|YOU: Hehe... bom, sabe como é...
+5847|MOM: Bem, essa não é como as minhas outras comidas. Eu me esforcei muito pra garantir que tivesse <i>exatamente</i> o gosto que você espera.
+5848|MOM: Eu queria dar à minha filha preciosa uma recompensa por tudo que ela passou.
+5849|MOM: Você não vai me decepcionar, né?
+5850|YOU: Não... Mãe.
+5851|YOU: Eu... devo recusar?
+5852|MOM: Como assim, querida?
+5853|YOU: Quando você me deu o congee... você meio que esperava que eu não comesse... é a mesma coisa?
+5854|MOM: Não, querida.
+5855|MOM: Eu não quero que você entenda nada errado.
+5856|MOM: É <i>muito</i> importante que você coma isso. Nem que seja... só pra me dizer como ficou.
+5857|MOM: Eu me esforcei tanto pra fazer.
+5858|YOU: Foi você que fez?
+5859|MOM: Foi.
+5860|YOU: É seguro comer?
 5861|Sua mãe não responde. Ela continua te olhando com expectativa.
 5862|Por algum motivo, você começa a chorar. Você leva a mão ao rosto, pega uma lágrima que escorre pela bochecha e a chupa do dedo.
-5863|VOCÊ: Eu não sei...
+5863|YOU: Eu não sei...
 5864|Você se pega imaginando como seria ser um peixe.
 5865|Só flutuar num aquário sem nada com que se preocupar além da próxima vez que receber ração dos céus.
 5866|A ocasional emissão de bolhas do castelo afundado no fundo do seu lar.
@@ -391,13 +391,13 @@
 5890|O peixe é um eco num quarto escuro. Um nada garantido, e ainda assim a ilusão de uma sombra persiste. Você não está sozinha.
 5891|Mas você não pode estar em dois lugares ao mesmo tempo.
 5892|Muitas coisas são verdade e, ainda assim, não têm palavras humanas que as descrevam.
-5893|VOCÊ: Tem certeza que você não tá brava por causa de ontem à noite?
-5894|MÃE: Não, querida, como você pode pensar isso? Olha essa refeição que eu fiz pra você.
-5895|VOCÊ: Eu fiquei pensando se... talvez eu fosse ser castigada pelo que aconteceu.
-5896|MÃE: Você acha que isso é um castigo?
+5893|YOU: Tem certeza que você não tá brava por causa de ontem à noite?
+5894|MOM: Não, querida, como você pode pensar isso? Olha essa refeição que eu fiz pra você.
+5895|YOU: Eu fiquei pensando se... talvez eu fosse ser castigada pelo que aconteceu.
+5896|MOM: Você acha que isso é um castigo?
 5897|Seu olho treme.
-5898|VOCÊ: Não... isso é uma recompensa.
-5899|MÃE: Então por que você acharia que eu estava brava?
+5898|YOU: Não... isso é uma recompensa.
+5899|MOM: Então por que você acharia que eu estava brava?
 5900|Você não sabe bem o que responder.
 5901|Isso é só um peixe. Não há motivo nenhum para você sentir qualquer familiaridade com essa refeição.
 5902|Você é o que você come.

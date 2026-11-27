@@ -896,3 +896,9 @@ Delete Player Pref\n<size\=66%>Settings=Apagar Preferências do Jogador\n<size\=
 <color\=#61D997><b>Click the clear button</b></color> to remove all words in the brain=<color\=#61D997><b>Clique no botão de limpar</b></color> para remover todas as palavras do cérebro
 Words highlighted in green can be used in conversation. <color\=#61D997><b>Click here</b></color> to filter by "Available Choices."=Palavras destacadas em verde podem ser usadas na conversa. <color\=#61D997><b>Clique aqui</b></color> para filtrar por "Escolhas Disponíveis."
 <color\=#61D997><b>Right click a word</b></color> to delete it=<color\=#61D997><b>Clique com o botão direito numa palavra</b></color> para apagá-la
+YOU=VOCÊ
+You=Você
+LIFEGUARD=SALVA-VIDAS
+Lifeguard=Salva-vidas
+COACH=TREINADOR
+Coach=Treinador

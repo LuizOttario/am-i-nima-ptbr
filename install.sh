@@ -17,7 +17,7 @@ command -v uv >/dev/null || { echo "Precisa do uv: https://docs.astral.sh/uv/"; 
 
 echo "== Falas (data.unity3d)"
 [ -f "$DATA/data.unity3d.orig" ] || cp "$DATA/data.unity3d" "$DATA/data.unity3d.orig"
-uv run -q --with UnityPy python "$HERE/patch.py" "$DATA/data.unity3d.orig" "$DATA/data.unity3d.tmp" "$PASTA"
+uv run -q --with UnityPy --with numpy --with TypeTreeGeneratorAPI python "$HERE/patch.py" "$DATA/data.unity3d.orig" "$DATA/data.unity3d.tmp" "$PASTA"
 mv "$DATA/data.unity3d.tmp" "$DATA/data.unity3d"
 
 echo "== BepInEx + XUnity.AutoTranslator"

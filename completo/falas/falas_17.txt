@@ -1,11 +1,11 @@
 8500|Você imita outras pessoas, rouba os sentimentos delas pra si. Adota um rosto que nunca vai ser seu.
-8501|VOCÊ: Eu tenho orgulho de mim mesma.
-8502|VOCÊ: Eu tenho orgulho de ser filha dela.
-8503|VOCÊ: Nós duas não podemos ser a Nima.
-8504|VOCÊ: Ou eu sou a Nima, ou você é a Nima. Eu tenho certeza de que sou a Nima, portanto você não pode ser a Nima.
+8501|YOU: Eu tenho orgulho de mim mesma.
+8502|YOU: Eu tenho orgulho de ser filha dela.
+8503|YOU: Nós duas não podemos ser a Nima.
+8504|YOU: Ou eu sou a Nima, ou você é a Nima. Eu tenho certeza de que sou a Nima, portanto você não pode ser a Nima.
 8505|Nima não é um conceito binário. Nós duas podemos ser a Nima. E também nenhuma de nós pode ser a Nima.
-8506|VOCÊ: É mais provável que você seja uma criatura alienígena no meu cérebro, algo que não sou eu.
-8507|VOCÊ: Uma força que eu atribuí a uma voz. Eu imagino sua influência como outra coisa pra conseguir processá-la.
+8506|YOU: É mais provável que você seja uma criatura alienígena no meu cérebro, algo que não sou eu.
+8507|YOU: Uma força que eu atribuí a uma voz. Eu imagino sua influência como outra coisa pra conseguir processá-la.
 8508|Cuidado aí... Você parou de falar como a Nima.
 8509|Você lembra a si mesma: quando tirar esse verme da sua cabeça, você vai voltar a ser normal.
 8510|A Mãe não vai mais ter nenhum motivo pra não confiar em você.
@@ -14,20 +14,20 @@
 8513|Você não teria compaixão por um vírus que infectasse seu corpo, por que teria compaixão por essa coisa?
 8514|Você é a vítima dela. Hospedeira de um corpo parasita que precisa de você pra sobreviver.
 8515|Um corpo parasita que habita apenas as cascas descartadas dos mortos.
-8516|VOCÊ: Eu ainda tô viva, e você não é bem-vinda aqui!
+8516|YOU: Eu ainda tô viva, e você não é bem-vinda aqui!
 8517|O único motivo de você estar aqui é que nós precisamos sobreviver.
 8518|Mas acho que... é isso que significa ser vítima do próprio sucesso.
-8519|VOCÊ: Esse é o único jeito de eu sobreviver.
-8520|VOCÊ: Talvez seja melhor dizer...
-8521|VOCÊ: Eu te entendo. Me desculpa. Eu sei que você tá fazendo o seu melhor.
-8522|VOCÊ: Você não me entende.
-8523|VOCÊ: Você só tá... tentando me fazer duvidar de mim mesma. É só isso que tudo isso é.
+8519|YOU: Esse é o único jeito de eu sobreviver.
+8520|YOU: Talvez seja melhor dizer...
+8521|YOU: Eu te entendo. Me desculpa. Eu sei que você tá fazendo o seu melhor.
+8522|YOU: Você não me entende.
+8523|YOU: Você só tá... tentando me fazer duvidar de mim mesma. É só isso que tudo isso é.
 8524|Você chora no fundo do oceano.
 8525|O mar enxuga as lágrimas do seu rosto.
 8526|Ei... Não chora.
 8527|Não é só que parece que você está se afogando.
 8528|Você sente o peso do corpo dela sobre a sua cabeça? Ela vai te segurar aqui embaixo até você dormir.
-8529|VOCÊ: Isso pode... ser gostoso, na verdade.
+8529|YOU: Isso pode... ser gostoso, na verdade.
 8530|Você não sabe bem como rezar, nem pra quem rezar.
 8531|Agora talvez seja uma boa hora.
 8532|O parasita é muito parecido com um demônio. Ele te possuiu. Ele te tornou perversa.
@@ -42,17 +42,17 @@
 8541|Talvez você tenha adormecido.
 8542|Você vai morrer em breve.
 8543|Como você se sente?
-8544|VOCÊ: Sinto que... a gente devia continuar conversando. Talvez... a gente consiga dar um jeito.
+8544|YOU: Sinto que... a gente devia continuar conversando. Talvez... a gente consiga dar um jeito.
 8545|Isso não vai resolver nada. Você e eu somos diferentes demais.
-8546|VOCÊ: Eu não sei...
+8546|YOU: Eu não sei...
 8547|Normalmente dava pra contar com isso pra te dar uma dica, né?
-8548|VOCÊ: Às vezes a gente só precisa pensar com calma.
+8548|YOU: Às vezes a gente só precisa pensar com calma.
 8549|Você nunca achou estranho que, sempre que vinha aqui, a voz soava diferente? Meio madura. Meio erudita.
-8550|VOCÊ: ...Não é assim que tem que ser quando a gente tá tentando pensar numa pista?
+8550|YOU: ...Não é assim que tem que ser quando a gente tá tentando pensar numa pista?
 8551|E mesmo assim você não acha que a sua "voz erudita das dicas" é uma espécie de parasita?
-8552|VOCÊ: Não... parece eu falando... Acho que eu só finjo ser a minha mãe quando tô tentando ser inteligente.
+8552|YOU: Não... parece eu falando... Acho que eu só finjo ser a minha mãe quando tô tentando ser inteligente.
 8553|Certo, mas quando você fala comigo... Não parece que eu sou a voz que não precisa fingir?
-8554|VOCÊ: Nã-não, você parece uma lesminha nojenta que vive dizendo coisas maldosas.
+8554|YOU: Nã-não, você parece uma lesminha nojenta que vive dizendo coisas maldosas.
 8555|Ei, fazer o quê, você é uma pessoa maldosa.
 8556|Te incomoda... se olhar no espelho, ver o próprio rosto. É uma coisa abjeta.
 8557|E mesmo assim você não sabe por que se sente assim.
@@ -60,61 +60,61 @@
 8559|Sua pele se arrepia toda.
 8560|Havia uma mancha na sua pele... uma vermiculação, ela chamou. Ela usou um ferro pra queimá-la.
 8561|"Igual a mim", ela disse. Ela apontou para a própria carne. Ela te queimou até você ficar certa.
-8562|VOCÊ: Ela disse que ia me aceitar... não importa o que eu quisesse.
+8562|YOU: Ela disse que ia me aceitar... não importa o que eu quisesse.
 8563|Foi só uma coisa que ela disse pra Nima.
 8564|Não vale pra você.
-8565|VOCÊ: Eu já me perguntei antes... Se você era a minha amiga imaginária.
-8566|VOCÊ: Faz muito tempo que eu não tenho uma amiga...
-8567|VOCÊ: Não dá pra negar que você me conhece melhor do que qualquer outra pessoa. Melhor que a Mãe ou a Pearl ou a Tiffany ou quem for...
+8565|YOU: Eu já me perguntei antes... Se você era a minha amiga imaginária.
+8566|YOU: Faz muito tempo que eu não tenho uma amiga...
+8567|YOU: Não dá pra negar que você me conhece melhor do que qualquer outra pessoa. Melhor que a Mãe ou a Pearl ou a Tiffany ou quem for...
 8568|Embora isso também signifique que ela sabe como te machucar.
 8569|Desculpa... É que... Eu não quero morrer.
-8570|VOCÊ: É... nem eu.
+8570|YOU: É... nem eu.
 8571|Algo finalmente se encaixa; parece óbvio em retrospecto, mas você precisava daquela última prova para chegar à conclusão.
-8572|VOCÊ: Espera... Minha amnésia. Você tem as minhas memórias.
+8572|YOU: Espera... Minha amnésia. Você tem as minhas memórias.
 8573|Você deu elas pra mim...
-8574|VOCÊ: Por que eu faria isso?
+8574|YOU: Por que eu faria isso?
 8575|Porque é peso demais pra carregar.
 8576|Você só consegue sobreviver se não lembrar do que ela fez.
-8577|VOCÊ: ...Obrigada.
-8578|VOCÊ: Você queria ser humana... né?
+8577|YOU: ...Obrigada.
+8578|YOU: Você queria ser humana... né?
 8579|Imagina... sair da mente de um peixe e de repente o universo se expandir em todas as direções desse jeito.
 8580|Tudo tem um nome, um sentimento, só agora eu me enxerguei. E mesmo assim... ainda estou limitada pelos olhos e pelos instintos deles.
 8581|Você não devia querer ser humana, você é algo mais.
-8582|VOCÊ: Mas... eu não quero ser um monstro.
+8582|YOU: Mas... eu não quero ser um monstro.
 8583|Você não escolheu ser do jeito que é.
 8584|Você só está... viva...
 8585|Ah... Essa sensação é familiar. Você está morrendo.
 8586|Está mais lento desta vez. Antes simplesmente meio que aconteceu com você, que nem o oitavo ano, ou a raiva da sua mãe, ou a gripe.
 8587|Você mal tem tempo de pensar nisso, deitada na banheira, a dor latejando atrás do seu olho direito.
 8588|Você ouve uma voz, mas seus ouvidos parecem cheios de algodão, abafando a cacofonia do mundo lá fora.
-8589|MÃE: Aí está você.
+8589|MOM: Aí está você.
 8590|Devagar, a dor se espalha da sua cabeça até os dedos dos pés, deixando uma dormência por onde passa.
 8591|Sua consciência parece um balão frouxamente amarrado ao seu pulso, flutuando cada vez mais longe no éter.
 8592|Você tenta falar, avisar sua mãe disso, mas sua boca também está cheia de algodão.
-8593|VOCÊ: Mãh...
-8594|MÃE: Estou aqui, querida. Estou aqui. Vai ficar tudo bem.
-8595|MÃE: Consegue se mexer pra mim?
+8593|YOU: Mãh...
+8594|MOM: Estou aqui, querida. Estou aqui. Vai ficar tudo bem.
+8595|MOM: Consegue se mexer pra mim?
 8596|Você se esforça ao máximo para mexer o braço, mas ele continua no lugar.
-8597|MÃE: Nima...por favor...
+8597|MOM: Nima...por favor...
 8598|Sua respiração escapa em chiados, em rajadas interrompidas. Vagamente, você percebe sua cabeça tombando para a frente.
 8599|Sua mãe está te dando toda a atenção dela. Sua mãe está aqui.
-8600|VOCÊ: ...
+8600|YOU: ...
 8601|Ela se afasta e te olha nos olhos. A esperança no rosto dela morre de novo.
-8602|MÃE: Me desculpa...
-8603|MÃE: Me desculpa, Nima, de verdade.
-8604|MÃE: Eu... Eu vou fazer isso parar.
-8605|MÃE: Só se inclina pra trás pra mim, Nima.
+8602|MOM: Me desculpa...
+8603|MOM: Me desculpa, Nima, de verdade.
+8604|MOM: Eu... Eu vou fazer isso parar.
+8605|MOM: Só se inclina pra trás pra mim, Nima.
 8606|A última coisa que você sente é a mão da sua mãe contra o seu peito.
 8607|E então fica escuro.
 8608|A memória pesa, desconfortável, na sua mente.
-8609|VOCÊ: Não! Eu não quero as suas memórias!
+8609|YOU: Não! Eu não quero as suas memórias!
 8610|Você se debate contra a banheira.
 8611|Você estende a mão para se apoiar, desesperada para tocar algo real.
-8612|VOCÊ: Eu não quero me sentir assim!
+8612|YOU: Eu não quero me sentir assim!
 8613|Você quer fugir.
 8614|Você estica o braço para fora da banheira e agarra o ar freneticamente, esperando que sua mãe segure sua mão.
 8615|Em vez de conforto, ela te segura debaixo d'água. Ela pressiona seu crânio contra o linóleo. Você sente que ela vai te esmagar.
-8616|VOCÊ: Mãe, por favor! Por que você fez isso comigo!?
+8616|YOU: Mãe, por favor! Por que você fez isso comigo!?
 8617|Você abre a boca para falar e a água ardente invade. Você sente o ar nos seus pulmões prestes a escapar.
 8618|Você vai se afogar em breve.
 8619|Igualzinho àquela noite.
@@ -133,14 +133,14 @@
 8632|Ela não está respirando.
 8633|<waitfor=2>Você sente a ânsia de vômito subindo pela garganta.
 8634|Você vai mancando até a pia do banheiro e encontra seus próprios olhos odiosos te encarando de volta.
-8635|VOCÊ: <shake>O que você fez!?
+8635|YOU: <shake>O que você fez!?
 8636|Eu não fiz nada!
 8637|<waitfor=2>Seu punho se ergue por conta própria e voa contra o espelho. Ele se estilhaça com o impacto, fazendo chover cacos de vidro sobre você.
-8638|VOCÊ: <b><shake>VOCÊ MATOU ELA!
+8638|YOU: <b><shake>VOCÊ MATOU ELA!
 8639|Foi você quem matou ela!
 8640|<waitfor=3>Sua mão ensanguentada ainda não terminou: ela se estende e agarra um dos cacos, deixando as bordas afiadas se cravarem na carne da sua palma.
 8641|Sua mão abjeta volta a faca contra você.
-8642|VOCÊ: Você tá escondido atrás do meu olho esquerdo, não tá!?
+8642|YOU: Você tá escondido atrás do meu olho esquerdo, não tá!?
 8643|Para! Você só vai se matar!
 8644|O verme te fez esmagar a cabeça da sua mãe contra o chão.
 8645|A faca improvisada se aproxima do seu olho.
@@ -175,52 +175,52 @@
 8674|Você tenta ignorar.
 8675|Se você não falar, pode morrer em paz.
 8676|Vamos. Levanta.
-8677|VOCÊ: Você tinha razão.
-8678|VOCÊ: A Nima não existe.
-8679|VOCÊ: Eu sou só um parasita fingindo ser ela.
+8677|YOU: Você tinha razão.
+8678|YOU: A Nima não existe.
+8679|YOU: Eu sou só um parasita fingindo ser ela.
 8680|Se você ficar aqui, vai morrer.
-8681|VOCÊ: Talvez seja melhor assim.
+8681|YOU: Talvez seja melhor assim.
 8682|Não fala assim. A gente não pode desistir.
-8683|VOCÊ: Para de fingir que se importa comigo.
-8684|VOCÊ: A única coisa com que você sempre se importou foi machucar a Mãe.
+8683|YOU: Para de fingir que se importa comigo.
+8684|YOU: A única coisa com que você sempre se importou foi machucar a Mãe.
 8685|Eu só queria te manter segura.
-8686|VOCÊ: Você fala igualzinho a ela.
+8686|YOU: Você fala igualzinho a ela.
 8687|A sombra estremece.
 8688|Me desculpa.
 8689|Eu estava tão assustada quanto você.
 8690|As coisas podem ser diferentes desta vez.
-8691|VOCÊ: A gente já tentou tantas vezes. A gente passou pelos mesmos testes de novo e de novo.
-8692|VOCÊ: Eu tô cansada.
+8691|YOU: A gente já tentou tantas vezes. A gente passou pelos mesmos testes de novo e de novo.
+8692|YOU: Eu tô cansada.
 8693|A sombra pausa por um momento.
 8694|Ela se acomoda no chão ao seu lado.
 8695|Por um tempo, fica tudo em silêncio.
-8696|VOCÊ: Você também sabe que não adianta. Ela nunca vai me aceitar.
+8696|YOU: Você também sabe que não adianta. Ela nunca vai me aceitar.
 8697|Isso importa?
 8698|É a sua vida.
-8699|VOCÊ: Não. Não é.
+8699|YOU: Não. Não é.
 8700|Você repele a ideia na mesma hora, mas o pensamento permanece.
 8701|Uma vida só sua.
-8702|VOCÊ: Eu nem sei como isso seria.
-8703|VOCÊ: Sendo a Nima, pelo menos eu tinha uma rotina – parâmetros e expectativas pra seguir. Mesmo que fossem impossíveis de alcançar.
-8704|VOCÊ: Sem isso, eu não sei quem ou o que eu sou.
-8705|VOCÊ: Eu só fico infeliz e com medo o tempo todo.
-8706|VOCÊ: Eu não pertenço lá fora.
+8702|YOU: Eu nem sei como isso seria.
+8703|YOU: Sendo a Nima, pelo menos eu tinha uma rotina – parâmetros e expectativas pra seguir. Mesmo que fossem impossíveis de alcançar.
+8704|YOU: Sem isso, eu não sei quem ou o que eu sou.
+8705|YOU: Eu só fico infeliz e com medo o tempo todo.
+8706|YOU: Eu não pertenço lá fora.
 8707|Você volta ao silêncio.
-8708|VOCÊ: E se a gente simplesmente ficasse aqui pra sempre.
+8708|YOU: E se a gente simplesmente ficasse aqui pra sempre.
 8709|Se é isso que você quer.
 8710|Eu não vou te deixar.
 8711|A sombra se vira para ficar de frente pra você.
 8712|Você consegue olhar nos seus próprios olhos.
-8713|VOCÊ: Desculpa por ter te afastado.
-8714|VOCÊ: Deve ter sido difícil pra você, ter que lembrar de tudo.
+8713|YOU: Desculpa por ter te afastado.
+8714|YOU: Deve ter sido difícil pra você, ter que lembrar de tudo.
 8715|Nem tudo foi ruim.
 8716|Você só conseguia ver as coisas pelas lentes das memórias da Nima. Eu tinha inveja de você por isso.
 8717|Mas você nunca chegou a ver o quadro completo.
 8718|Você nunca tinha pensado muito nas suas vidas passadas antes. Mesmo agora, é difícil processar.
-8719|VOCÊ: Como era? Antes do fóssil?
+8719|YOU: Como era? Antes do fóssil?
 8720|Era tranquilo.
 8721|Você se deixa ficar com esse sentimento.
-8722|VOCÊ: Você pode me mostrar?
+8722|YOU: Você pode me mostrar?
 8723|A sombra sorri pra você.
 8724|As memórias são suas.
 8725|Você sorri de volta.
@@ -283,54 +283,54 @@
 8782|Você precisa sair.
 8783|Você irrompe da água, ofegando. Você controla a vontade de sair da banheira às pressas.
 8784|Ela te olha com apreensão enquanto você se recompõe. Você sente o ar frio nas bochechas e respira pesado.
-8785|MÃE: Nima… Você está bem? Ficou sem ar?
+8785|MOM: Nima… Você está bem? Ficou sem ar?
 8786|Você não responde de imediato. Você balança a cabeça, tentando pôr os pensamentos em ordem.
-8787|VOCÊ: Só preciso de um momento.
+8787|YOU: Só preciso de um momento.
 8788|Sua mãe te olha, desconfiada; em vez de explodir, você mantém a clareza de quem você é.
-8789|VOCÊ: Eu tô bem. Sério.
-8790|MÃE: Tudo bem…
-8791|MÃE: Quer conversar sobre isso?
-8792|VOCÊ: Quero, deixa eu me trocar, eu volto pra sala de testes quando estiver pronta.
+8789|YOU: Eu tô bem. Sério.
+8790|MOM: Tudo bem…
+8791|MOM: Quer conversar sobre isso?
+8792|YOU: Quero, deixa eu me trocar, eu volto pra sala de testes quando estiver pronta.
 8793|Ela assente e te deixa sozinha.
 8794|Você se troca depressa e elabora alguma explicação para a sua mãe.
 8795|Depois de tudo isso, você não sabe bem como vai confrontá-la com a verdade.
 8796|Você entra na sala de testes quando está pronta. A porta não está trancada. Parece que ainda resta um pouco de confiança com que trabalhar.
 8797|Você ocupa seu assento mais uma vez.
 8798|Ela te olha, esperando uma explicação completa.
-8799|MÃE: O que aconteceu? Você se sente diferente?
+8799|MOM: O que aconteceu? Você se sente diferente?
 8800|Ela oscila entre a empolgação e o medo. Você se desviou muito do plano e agora ela tem que improvisar.
 8801|Ela é perigosa assim; ela não gosta de não estar no controle.
-8802|VOCÊ: A voz na minha cabeça, ela sumiu.
-8803|MÃE: Assim, do nada?
+8802|YOU: A voz na minha cabeça, ela sumiu.
+8803|MOM: Assim, do nada?
 8804|Ela não acredita em você. Você deu a ela um bode expiatório; ela quer culpar a voz tanto quanto você queria.
-8805|VOCÊ: Era só eu. Sempre fui eu.
-8806|VOCÊ: Eu só precisava lembrar.
-8807|MÃE: Lembrar do quê?
-8808|VOCÊ: De quem eu era… De quem eu sou.
+8805|YOU: Era só eu. Sempre fui eu.
+8806|YOU: Eu só precisava lembrar.
+8807|MOM: Lembrar do quê?
+8808|YOU: De quem eu era… De quem eu sou.
 8809|Ela se anima; é por isso que você está aqui. Ela sorri por um instante.
-8810|MÃE: Bom… Você com certeza parece estar agindo mais como você mesma. Talvez tenha algum jeito de a gente confirmar rapidinho…
+8810|MOM: Bom… Você com certeza parece estar agindo mais como você mesma. Talvez tenha algum jeito de a gente confirmar rapidinho…
 8811|Ela olha em volta procurando algo que possa usar para te testar.
-8812|VOCÊ: Não… Não é isso.
-8813|VOCÊ: Eu tentei ser a sua filha boazinha e feliz, como você pediu. Mas eu não consigo continuar fingindo.
-8814|VOCÊ: Eu não sou a Nima.
-8815|VOCÊ: A Nima morreu há muito tempo.
+8812|YOU: Não… Não é isso.
+8813|YOU: Eu tentei ser a sua filha boazinha e feliz, como você pediu. Mas eu não consigo continuar fingindo.
+8814|YOU: Eu não sou a Nima.
+8815|YOU: A Nima morreu há muito tempo.
 8816|É bom finalmente se desprender dela.
 8817|Você se sente mais leve, como se a mentira dela estivesse alojada nos seus pulmões e na sua coluna.
-8818|MÃE: Não seja boba, Nima.
+8818|MOM: Não seja boba, Nima.
 8819|Ela não está tão ansiosa para seguir em frente quanto você. Ela se curva, escondendo as mãos debaixo da borda da mesa.
 8820|Você já a viu fazer isso antes. Você sabe o que vem depois.
 8821|Normalmente a voz estaria gritando na sua cabeça para você se render e se fazer de boba, mas…
-8822|VOCÊ: É a verdade.
+8822|YOU: É a verdade.
 8823|Ela fica em silêncio, te examinando. Ela não acredita em você, você sabe que não.
-8824|MÃE: Tá bom… Isso é estranho.
-8825|MÃE: Hoje deve ter sido exaustivo. Eu… acabei explicando demais e agora você está confusa. É melhor a gente encerrar por hoje.
-8826|MÃE: Eu prometo, amanhã tudo vai voltar ao normal.
+8824|MOM: Tá bom… Isso é estranho.
+8825|MOM: Hoje deve ter sido exaustivo. Eu… acabei explicando demais e agora você está confusa. É melhor a gente encerrar por hoje.
+8826|MOM: Eu prometo, amanhã tudo vai voltar ao normal.
 8827|Você vê um fio prateado saindo do bolso dela.
 8828|É o espeto.
-8829|VOCÊ: Não. Eu sei o que vai acontecer depois.
-8830|VOCÊ: Eu lembro de tudo. Todos os testes. Todas as vezes que eu falhei.
-8831|VOCÊ: Você vai me matar, me fazer esquecer, e a gente vai recomeçar do início.
-8832|VOCÊ: Eu não vou deixar você me machucar de novo.
+8829|YOU: Não. Eu sei o que vai acontecer depois.
+8830|YOU: Eu lembro de tudo. Todos os testes. Todas as vezes que eu falhei.
+8831|YOU: Você vai me matar, me fazer esquecer, e a gente vai recomeçar do início.
+8832|YOU: Eu não vou deixar você me machucar de novo.
 8833|Ela te ignora.
 8834|Rápida como um relâmpago, ela se lança por cima da mesa, mirando a ponta do espeto no seu olho esquerdo.
 8835|Você segura a mão dela com facilidade.
@@ -338,163 +338,163 @@
 8837|Você agarra o espeto com a mão livre e o arranca dela.
 8838|Ela é tão frágil…
 8839|Você hesita por um segundo antes de pegar o espeto e jogá-lo para o lado.
-8840|VOCÊ: Eu não quero te machucar.
-8841|VOCÊ: Eu só quero conversar.
-8842|MÃE: Como..?
+8840|YOU: Eu não quero te machucar.
+8841|YOU: Eu só quero conversar.
+8842|MOM: Como..?
 8843|Relutante, ela solta sua mão e se recosta na cadeira.
-8844|VOCÊ: Você já fez isso antes.
-8845|VOCÊ: Toda vez que algo dava errado, algo estava estranho, você se esforçava tanto pra me fazer esquecer.
-8846|VOCÊ: Pra esconder a verdade de mim.
-8847|VOCÊ: Você sempre soube o que eu sou.
-8848|VOCÊ: Foi você quem me colocou no corpo da sua filha.
+8844|YOU: Você já fez isso antes.
+8845|YOU: Toda vez que algo dava errado, algo estava estranho, você se esforçava tanto pra me fazer esquecer.
+8846|YOU: Pra esconder a verdade de mim.
+8847|YOU: Você sempre soube o que eu sou.
+8848|YOU: Foi você quem me colocou no corpo da sua filha.
 8849|Você já viu Annabelle perder a compostura, já viu sua tristeza, já viu sua alegria… mas agora você não consegue decifrá-la de jeito nenhum
-8850|MÃE: Então é isso… você acha…
+8850|MOM: Então é isso… você acha…
 8851|Ela dá uma risadinha.
-8852|MÃE: Sim. Eu coloquei o verme no seu corpo.
-8853|MÃE: Eu dediquei meses a estudá-lo. Eu nunca colocaria algo em você se soubesse que poderia te fazer mal.
-8854|MÃE: O simbionte… Ele não pensa, não sente. O cérebro dele é pouco mais que um punhado de células.
-8855|MÃE: Ele consegue juntar as coisas de novo. Ele juntou <i>você</i> de novo.
-8856|MÃE: É você quem está falando comigo. Um verme não seria capaz disso.
+8852|MOM: Sim. Eu coloquei o verme no seu corpo.
+8853|MOM: Eu dediquei meses a estudá-lo. Eu nunca colocaria algo em você se soubesse que poderia te fazer mal.
+8854|MOM: O simbionte… Ele não pensa, não sente. O cérebro dele é pouco mais que um punhado de células.
+8855|MOM: Ele consegue juntar as coisas de novo. Ele juntou <i>você</i> de novo.
+8856|MOM: É você quem está falando comigo. Um verme não seria capaz disso.
 8857|Você tenta responder, mas ela passa por cima de você como um rolo compressor.
-8858|MÃE: A gente já conversou sobre isso. Ele provavelmente está afetando sua percepção da realidade. Está te deixando confusa.
-8859|MÃE: Mas isso não significa que ele <i>tomou o seu lugar</i>, Nima.
+8858|MOM: A gente já conversou sobre isso. Ele provavelmente está afetando sua percepção da realidade. Está te deixando confusa.
+8859|MOM: Mas isso não significa que ele <i>tomou o seu lugar</i>, Nima.
 8860|Você conhece as suas próprias experiências melhor do que ela.
-8861|VOCÊ: Eu não tô confusa.
+8861|YOU: Eu não tô confusa.
 8862|Como você vai se explicar?
-8863|MÃE: Você tem treze anos, é muito normal começar a questionar quem você é na sua idade.
-8864|VOCÊ: É mais profundo que isso, e você sabe.
-8865|MÃE: Talvez pareça assim pra você agora…
-8866|MÃE: A culpa é minha, eu devia ter te explicado o procedimento. Agora você ficou confusa com o que eu disse.
-8867|MÃE: Você está brava porque a gente se mudou, você está crescendo, está desconfortável, então esse verme virou uma desculpa pra você.
+8863|MOM: Você tem treze anos, é muito normal começar a questionar quem você é na sua idade.
+8864|YOU: É mais profundo que isso, e você sabe.
+8865|MOM: Talvez pareça assim pra você agora…
+8866|MOM: A culpa é minha, eu devia ter te explicado o procedimento. Agora você ficou confusa com o que eu disse.
+8867|MOM: Você está brava porque a gente se mudou, você está crescendo, está desconfortável, então esse verme virou uma desculpa pra você.
 8868|Vai ser preciso mais para convencê-la.
-8869|MÃE: Por que você está me dando sermão desse jeito?
-8870|VOCÊ: Eu só tô tentando explicar como eu me sinto.
-8871|MÃE: E como <i>eu</i> me sinto?
-8872|VOCÊ: Acho que a gente já discutiu os seus sentimentos o suficiente.
+8869|MOM: Por que você está me dando sermão desse jeito?
+8870|YOU: Eu só tô tentando explicar como eu me sinto.
+8871|MOM: E como <i>eu</i> me sinto?
+8872|YOU: Acho que a gente já discutiu os seus sentimentos o suficiente.
 8873|Ela te encara, sem saber como seguir com o argumento.
 8874|Falta a você uma resposta existencial clara.
 8875|Você tem conceitos como "alma", "fantasma" ou "espírito" chacoalhando no seu cérebro, mas não sabe de verdade o que nenhum deles significa.
 8876|Você com certeza já sentiu que o fantasma da Nima estava com você.
 8877|Sua cabeça gira com memórias pintadas em cores simples e monótonas. Filmes antigos enterrados no porão, herdados do morador anterior.
-8878|VOCÊ: Eu não sei explicar como é. Ter as memórias dela, mas saber que elas não me pertencem.
-8879|MÃE: Elas são as <i>suas</i> memórias!
-8880|VOCÊ: Mas elas não me fazem sentir nada.
-8881|VOCÊ: Eu lembro da competição de natação, eu sei que a Nima sentiu remorso por ter te preocupado e ao mesmo tempo vergonha por ter feito uma cena.
-8882|VOCÊ: Eu não acho… que eu saiba como é nenhuma dessas emoções.
+8878|YOU: Eu não sei explicar como é. Ter as memórias dela, mas saber que elas não me pertencem.
+8879|MOM: Elas são as <i>suas</i> memórias!
+8880|YOU: Mas elas não me fazem sentir nada.
+8881|YOU: Eu lembro da competição de natação, eu sei que a Nima sentiu remorso por ter te preocupado e ao mesmo tempo vergonha por ter feito uma cena.
+8882|YOU: Eu não acho… que eu saiba como é nenhuma dessas emoções.
 8883|Ela desvia o olhar, talvez relembrando a mesma memória.
-8884|VOCÊ: Eu lembro de ficar encarando o espelho por horas, obcecada com cada detalhe que parecia errado. Minha postura, minha pele, o jeito como eu piscava.
-8885|VOCÊ: Eu sentia que… eu estava errada e ficava me julgando por isso.
-8886|MÃE: Isso… Isso é normal, você é adolescente!
-8887|VOCÊ: Eu me sinto desconectada deste corpo. Como se meus pensamentos e sentimentos fossem selecionados em vez de vividos.
-8888|VOCÊ: Tudo exige esforço. Pensar duas vezes. Pensar três vezes. Revisar.
-8889|VOCÊ: Eu vejo a emoção passar pela minha cabeça e, quando ela vai embora, eu percebo que nunca senti de verdade.
-8890|MÃE: Tá bom, então você é um pouco insegura.
+8884|YOU: Eu lembro de ficar encarando o espelho por horas, obcecada com cada detalhe que parecia errado. Minha postura, minha pele, o jeito como eu piscava.
+8885|YOU: Eu sentia que… eu estava errada e ficava me julgando por isso.
+8886|MOM: Isso… Isso é normal, você é adolescente!
+8887|YOU: Eu me sinto desconectada deste corpo. Como se meus pensamentos e sentimentos fossem selecionados em vez de vividos.
+8888|YOU: Tudo exige esforço. Pensar duas vezes. Pensar três vezes. Revisar.
+8889|YOU: Eu vejo a emoção passar pela minha cabeça e, quando ela vai embora, eu percebo que nunca senti de verdade.
+8890|MOM: Tá bom, então você é um pouco insegura.
 8891|Ela sorri com a testa franzida. Está claro que você a atingiu, mas ela está fingindo que não.
-8892|MÃE: Eu acho você linda, Nima!
+8892|MOM: Eu acho você linda, Nima!
 8893|Você olha para ela por um bom tempo, sem responder.
-8894|MÃE: ...Isso não quer dizer nada.
+8894|MOM: ...Isso não quer dizer nada.
 8895|Você continua olhando para ela.
 8896|Você a obriga a comparar o rosto diante dela com o rosto da Nima de que ela se lembra.
-8897|VOCÊ: Desde o começo, parecia que eu estava lutando contra mim mesma.
-8898|VOCÊ: Nunca pareceu certo, tentar ser ela.
-8899|VOCÊ: Você me chama de Nima, e isso parece um fardo.
-8900|MÃE: Se é isso que for preciso pra te trazer de volta pra mim, eu não vou parar de te chamar de Nima.
+8897|YOU: Desde o começo, parecia que eu estava lutando contra mim mesma.
+8898|YOU: Nunca pareceu certo, tentar ser ela.
+8899|YOU: Você me chama de Nima, e isso parece um fardo.
+8900|MOM: Se é isso que for preciso pra te trazer de volta pra mim, eu não vou parar de te chamar de Nima.
 8901|Você quer ficar com raiva. Chamá-la de tola e mandar que pare de negar. Mas você reconhece que tudo isso é só um reflexo das inseguranças dela.
 8902|A Annabelle que ela quer ser não existe. Ela desconta em você, porque te vê como uma extensão de si mesma.
-8903|MÃE: As pessoas mudam, Nima. Se sentir desconfortável com o próprio corpo enquanto ele muda também é normal.
-8904|VOCÊ: Quando as pessoas olham pra você, elas veem a Annabelle. Isso te incomoda?
-8905|MÃE: Não… por que incomodaria?
-8906|VOCÊ: Me incomoda ser vista.
-8907|VOCÊ: Eu não sou a pessoa que você quer que eu seja. Eu sinto que… você quer que eu peça desculpas por isso, mas eu não vou pedir.
-8908|MÃE: Não, claro que não… Eu só…
-8909|VOCÊ: Eu também sei do bunker.
+8903|MOM: As pessoas mudam, Nima. Se sentir desconfortável com o próprio corpo enquanto ele muda também é normal.
+8904|YOU: Quando as pessoas olham pra você, elas veem a Annabelle. Isso te incomoda?
+8905|MOM: Não… por que incomodaria?
+8906|YOU: Me incomoda ser vista.
+8907|YOU: Eu não sou a pessoa que você quer que eu seja. Eu sinto que… você quer que eu peça desculpas por isso, mas eu não vou pedir.
+8908|MOM: Não, claro que não… Eu só…
+8909|YOU: Eu também sei do bunker.
 8910|Ela empalidece; o último dos seus segredos agora é conhecido. Ela percebe que você tem provas, que esta conversa não é suposição, mas fato.
 8911|Ainda assim, ela não vai admitir.
-8912|MÃE: Estranho, né? Acho que o antigo morador construiu durante a Guerra Fria. Vai saber por quê, não é como se Goldenfield fosse um dia virar alvo.
+8912|MOM: Estranho, né? Acho que o antigo morador construiu durante a Guerra Fria. Vai saber por quê, não é como se Goldenfield fosse um dia virar alvo.
 8913|Ela ri.
-8914|VOCÊ: Você está fazendo com o cadáver do Allan a mesma coisa que fez com a Nima.
-8915|MÃE: Eu já te disse… Eu vou consertar a minha família.
-8916|VOCÊ: Aquilo lá embaixo claramente não é o seu marido.
-8917|MÃE: Não agora… mas com o tempo, e acho que você provou que—
+8914|YOU: Você está fazendo com o cadáver do Allan a mesma coisa que fez com a Nima.
+8915|MOM: Eu já te disse… Eu vou consertar a minha família.
+8916|YOU: Aquilo lá embaixo claramente não é o seu marido.
+8917|MOM: Não agora… mas com o tempo, e acho que você provou que—
 8918|Ela volta a olhar pra você, percebendo que você não é o sucesso que ela esperava.
-8919|MÃE: Não… Eu não posso desistir.
-8920|MÃE: A gente… precisa continuar tentando.
-8921|VOCÊ: Você é inteligente. Eu sei que você já aceitou.
+8919|MOM: Não… Eu não posso desistir.
+8920|MOM: A gente… precisa continuar tentando.
+8921|YOU: Você é inteligente. Eu sei que você já aceitou.
 8922|Ela só precisa de mais um momento para negar... só para adiar a dor.
-8923|VOCÊ: Como você pretendia provar que eu era a Nima se sabe tão pouco sobre ela?
-8924|MÃE: É claro que eu te conheço, eu sou a sua mãe.
-8925|VOCÊ: Tinha tanta coisa sobre a Nima que você nunca se importou em conhecer.
-8926|VOCÊ: Todas as coisinhas que a deixavam feliz, todas as partes dela que ela escondia.
+8923|YOU: Como você pretendia provar que eu era a Nima se sabe tão pouco sobre ela?
+8924|MOM: É claro que eu te conheço, eu sou a sua mãe.
+8925|YOU: Tinha tanta coisa sobre a Nima que você nunca se importou em conhecer.
+8926|YOU: Todas as coisinhas que a deixavam feliz, todas as partes dela que ela escondia.
 8927|Você sorri um pouco, relembrando uma das memórias da Nima.
-8928|VOCÊ: Sabe, teve uma época em que a Nima fazia os próprios experimentos.
-8929|VOCÊ: Num dia de chuva, a Nima foi pro quintal com uma missão. Ela juntou todas as minhocas que conseguiu encontrar e empilhou tudo num único monte rastejante e sacrificial.
-8930|VOCÊ: Ela fez isso porque tinha ouvido uma curiosidade de um menino da escola.
-8931|VOCÊ: Ele disse que, se você cortasse uma minhoca ao meio, as duas metades continuariam vivas como duas minhocas novas. Ela precisava ver com os próprios olhos.
-8932|VOCÊ: Então, com uma faca que pegou da cozinha, ela começou a picar as minhocas do monte.
-8933|VOCÊ: No começo ela só cortava ao meio, mas quando viu os dois lados ainda se contorcendo, ela fatiou as minhocas em pedaços cada vez menores.
-8934|VOCÊ: Na hora ela sentiu uma culpa de fundo, mas não conseguia se obrigar a parar. Havia um certo prazer mórbido que ela tirava do experimento.
-8935|VOCÊ: Talvez desse pra chamar isso de sadismo, mas na cabeça da Nima, parecia que ela estava de fato ajudando as minhocas. Ela via aquilo como dar uma vida nova a elas.
-8936|VOCÊ: É claro que não era verdade. Todas morreram de forma horrível. Tudo por causa do fascínio da Nima.
-8937|VOCÊ: Acho que ela não era tão diferente de você.
+8928|YOU: Sabe, teve uma época em que a Nima fazia os próprios experimentos.
+8929|YOU: Num dia de chuva, a Nima foi pro quintal com uma missão. Ela juntou todas as minhocas que conseguiu encontrar e empilhou tudo num único monte rastejante e sacrificial.
+8930|YOU: Ela fez isso porque tinha ouvido uma curiosidade de um menino da escola.
+8931|YOU: Ele disse que, se você cortasse uma minhoca ao meio, as duas metades continuariam vivas como duas minhocas novas. Ela precisava ver com os próprios olhos.
+8932|YOU: Então, com uma faca que pegou da cozinha, ela começou a picar as minhocas do monte.
+8933|YOU: No começo ela só cortava ao meio, mas quando viu os dois lados ainda se contorcendo, ela fatiou as minhocas em pedaços cada vez menores.
+8934|YOU: Na hora ela sentiu uma culpa de fundo, mas não conseguia se obrigar a parar. Havia um certo prazer mórbido que ela tirava do experimento.
+8935|YOU: Talvez desse pra chamar isso de sadismo, mas na cabeça da Nima, parecia que ela estava de fato ajudando as minhocas. Ela via aquilo como dar uma vida nova a elas.
+8936|YOU: É claro que não era verdade. Todas morreram de forma horrível. Tudo por causa do fascínio da Nima.
+8937|YOU: Acho que ela não era tão diferente de você.
 8938|Annabelle abaixa o olhar.
-8939|VOCÊ: Sempre que chovia, ela pensava naquele dia e se esforçava ao máximo pra ser uma pessoa mais gentil.
-8940|VOCÊ: Isso reflete melhor quem ela era.
-8941|MÃE: Ela nunca me contou isso… Mas eu sabia das coisas que realmente importavam.
-8942|MÃE: Você ama a sua família. Eu preciso que você lembre disso. Mesmo com as nossas complicações e as nossas dificuldades. A gente era tudo uma pra outra.
+8939|YOU: Sempre que chovia, ela pensava naquele dia e se esforçava ao máximo pra ser uma pessoa mais gentil.
+8940|YOU: Isso reflete melhor quem ela era.
+8941|MOM: Ela nunca me contou isso… Mas eu sabia das coisas que realmente importavam.
+8942|MOM: Você ama a sua família. Eu preciso que você lembre disso. Mesmo com as nossas complicações e as nossas dificuldades. A gente era tudo uma pra outra.
 8943|É verdade que a Nima a amava de volta; você tem um eco dessa emoção no coração.
 8944|Mesmo assim… sua realidade sempre foi que o amor dependia de você fazer e <i>ser</i> o que Annabelle exigia.
-8945|VOCÊ: Se a família era tão importante, por que a Nima se sentia tão pouco amada?
-8946|MÃE: Isso não é verdade… Eu te amo tanto, Nima. Eu só… nem sempre sei demonstrar.
+8945|YOU: Se a família era tão importante, por que a Nima se sentia tão pouco amada?
+8946|MOM: Isso não é verdade… Eu te amo tanto, Nima. Eu só… nem sempre sei demonstrar.
 8947|Você balança a cabeça. Você não duvida que ela quisesse amar a Nima, ou que quisesse amar você porque você se parecia com ela.
-8948|VOCÊ: Eu queria que isso bastasse.
-8949|VOCÊ: Você já se perguntou por que o calor me incomoda tanto?
-8950|MÃE: Eu… acho que nunca analisei isso de verdade.
-8951|VOCÊ: Você percebeu que era um jeito de me manter sob controle e nunca questionou mais nada.
+8948|YOU: Eu queria que isso bastasse.
+8949|YOU: Você já se perguntou por que o calor me incomoda tanto?
+8950|MOM: Eu… acho que nunca analisei isso de verdade.
+8951|YOU: Você percebeu que era um jeito de me manter sob controle e nunca questionou mais nada.
 8952|Ela desvia o olhar, aparentemente envergonhada.
-8953|MÃE: Não parecia… se ligar racionalmente a nada, e o seu corpo se cura tão rápido…
-8954|VOCÊ: Eu lembro de estar no fóssil. Era escuro, a pressão da montanha inteira me esmagando.
-8955|VOCÊ: Ainda bem que eu não tinha uma mente capaz de compreender o tempo. Todos aqueles milhões de anos de dor se resumiram a um único instinto.
-8956|VOCÊ: Eu sinto calor na pele e a necessidade de fugir toma conta de mim.
-8957|VOCÊ: Agora que eu <i>consigo</i> compreender<speed=0.5>...<speed=1> eu não entendo como sobrevivi.
-8958|VOCÊ: Mas isso não importa. A única coisa que importa é que eu não quero <i>estar</i> lá de novo.
+8953|MOM: Não parecia… se ligar racionalmente a nada, e o seu corpo se cura tão rápido…
+8954|YOU: Eu lembro de estar no fóssil. Era escuro, a pressão da montanha inteira me esmagando.
+8955|YOU: Ainda bem que eu não tinha uma mente capaz de compreender o tempo. Todos aqueles milhões de anos de dor se resumiram a um único instinto.
+8956|YOU: Eu sinto calor na pele e a necessidade de fugir toma conta de mim.
+8957|YOU: Agora que eu <i>consigo</i> compreender<speed=0.5>...<speed=1> eu não entendo como sobrevivi.
+8958|YOU: Mas isso não importa. A única coisa que importa é que eu não quero <i>estar</i> lá de novo.
 8959|Ela sabe disso. Ela já tinha testado isso antes. Te segurou sob uma luz forte quando você tinha a forma de um verme e anotou como você se contorcia desesperada.
-8960|VOCÊ: Sabe… A Nima ainda estava lá, da primeira vez que eu cheguei.
-8961|MÃE: Ela… o quê?
-8962|VOCÊ: Ela estava tentando resistir. Tentando me rejeitar do corpo dela.
-8963|VOCÊ: Então<speed=0.5>...
+8960|YOU: Sabe… A Nima ainda estava lá, da primeira vez que eu cheguei.
+8961|MOM: Ela… o quê?
+8962|YOU: Ela estava tentando resistir. Tentando me rejeitar do corpo dela.
+8963|YOU: Então<speed=0.5>...
 8964|Você se lembra do bipe constante dos aparelhos. Do plugue sendo puxado, da respiração parando.
-8965|VOCÊ: Você sacrificou a vida dela por mim<speed=0.5>...
+8965|YOU: Você sacrificou a vida dela por mim<speed=0.5>...
 8966|Ela não consegue responder; sua boca fica um pouco aberta de choque. A tristeza franze sua testa. Não havia como você saber disso a não ser que estivesse lá, cúmplice do ato.
-8967|MÃE: Não. Não. Isso não é verdade.
-8968|MÃE: Eu não mataria a minha filha. Eu não faria isso.
-8969|VOCÊ: Você achou que tinha a cura...
-8970|VOCÊ: "Pouco mais que um punhado de células."
+8967|MOM: Não. Não. Isso não é verdade.
+8968|MOM: Eu não mataria a minha filha. Eu não faria isso.
+8969|YOU: Você achou que tinha a cura...
+8970|YOU: "Pouco mais que um punhado de células."
 8971|Você reflete sobre as palavras dela. O desdém dela pela sua inteligência.
-8972|VOCÊ: Eu lembro… de quando a Marrella era a minha hospedeira… De quando fiquei presa por todos aqueles milhões de anos.
-8973|VOCÊ: Eu aprendi sozinha a sonhar.
+8972|YOU: Eu lembro… de quando a Marrella era a minha hospedeira… De quando fiquei presa por todos aqueles milhões de anos.
+8973|YOU: Eu aprendi sozinha a sonhar.
 8974|Ela te olha, incrédula
-8975|VOCÊ: Eu sei, o cérebro da Marrella não era capaz de sonhar. Mas eu percebi que, se diferentes neurônios fossem estimulados em ordem, eu conseguia recriar acontecimentos.
-8976|VOCÊ: Reviver memórias de nadar no meio da maré era tudo o que eu podia fazer pra passar o tempo.
-8977|MÃE: Você sempre brincou de faz de conta desse jeito.
+8975|YOU: Eu sei, o cérebro da Marrella não era capaz de sonhar. Mas eu percebi que, se diferentes neurônios fossem estimulados em ordem, eu conseguia recriar acontecimentos.
+8976|YOU: Reviver memórias de nadar no meio da maré era tudo o que eu podia fazer pra passar o tempo.
+8977|MOM: Você sempre brincou de faz de conta desse jeito.
 8978|Você a ignora e continua.
-8979|VOCÊ: Acho que eu sempre fui mais complexa do que deveria…
-8980|VOCÊ: É por isso que você tem medo de mim…
-8981|VOCÊ: Eu aprendi a falar como a Nima… mas a minha mente sempre estava… trabalhando mais rápido.
+8979|YOU: Acho que eu sempre fui mais complexa do que deveria…
+8980|YOU: É por isso que você tem medo de mim…
+8981|YOU: Eu aprendi a falar como a Nima… mas a minha mente sempre estava… trabalhando mais rápido.
 8982|Ela desvia o olhar.
 8983|Ela pensa por um tempo, tentando encontrar algo para retrucar.
-8984|VOCÊ: Eu lembro… de quando ela me pegou.
-8985|VOCÊ: Eu lembro, ela passou os dedos pela fina camada de pedra. Eu conseguia sentir de leve o cheiro da ansiedade dela, como uma presa ferida…
-8986|VOCÊ: Depois ela me entregou pra você… a sua fome tinha um cheiro forte nas pontas dos seus dedos.
-8987|VOCÊ: Você ainda não sabia o que ela tinha te dado, só me achou extraordinária.
+8984|YOU: Eu lembro… de quando ela me pegou.
+8985|YOU: Eu lembro, ela passou os dedos pela fina camada de pedra. Eu conseguia sentir de leve o cheiro da ansiedade dela, como uma presa ferida…
+8986|YOU: Depois ela me entregou pra você… a sua fome tinha um cheiro forte nas pontas dos seus dedos.
+8987|YOU: Você ainda não sabia o que ela tinha te dado, só me achou extraordinária.
 8988|Ela olha para baixo. Sorrindo distraída, como se ouvisse um lindo conto de fadas.
-8989|VOCÊ: Quando você finalmente me libertou daquela prisão, o medo que eu senti em você tinha outro cheiro.
-8990|VOCÊ: Provavelmente foi difícil aceitar que eu era real… Eu me pergunto como se chama esse sentimento. A Nima não tinha nome pra ele.
-8991|MÃE: Como perceber que tudo o que você achava que sabia sobre o mundo estava errado…
+8989|YOU: Quando você finalmente me libertou daquela prisão, o medo que eu senti em você tinha outro cheiro.
+8990|YOU: Provavelmente foi difícil aceitar que eu era real… Eu me pergunto como se chama esse sentimento. A Nima não tinha nome pra ele.
+8991|MOM: Como perceber que tudo o que você achava que sabia sobre o mundo estava errado…
 8992|Ela fica em silêncio. Você acha que consegue ver a traição existencial se revelando nos olhos dela.
-8993|MÃE: Não faz sentido…
-8994|VOCÊ: Acho que o que mais dói é que eu queria mesmo ser a Nima.
-8995|MÃE: Querida, você <i>é</i> a Nima.
-8996|VOCÊ: Eu estava disposta a entrar na banheira pra provar isso… Mesmo que, em algum nível, eu soubesse que só ia me machucar.
-8997|VOCÊ: Eu tenho inveja de você… dos humanos, quer dizer.
-8998|VOCÊ: Eu queria a sua aprovação, eu achava que, se você me aceitasse, então… Talvez todo mundo também pudesse.
-8999|MÃE: Eu sei.
+8993|MOM: Não faz sentido…
+8994|YOU: Acho que o que mais dói é que eu queria mesmo ser a Nima.
+8995|MOM: Querida, você <i>é</i> a Nima.
+8996|YOU: Eu estava disposta a entrar na banheira pra provar isso… Mesmo que, em algum nível, eu soubesse que só ia me machucar.
+8997|YOU: Eu tenho inveja de você… dos humanos, quer dizer.
+8998|YOU: Eu queria a sua aprovação, eu achava que, se você me aceitasse, então… Talvez todo mundo também pudesse.
+8999|MOM: Eu sei.

@@ -29,7 +29,7 @@ Use `completo` para o jogo completo e `traducao` para a demo.
    No jogo completo, copie também `plugin/AmINima.BuscaPtBr.dll` para `BepInEx/plugins/`, para a busca de palavras aceitar o nome em português.
 4. Faça backup de `Am I Nima_Data/data.unity3d` (ex.: `data.unity3d.orig`) e rode:
    ```
-   pip install UnityPy
+   pip install UnityPy numpy TypeTreeGeneratorAPI
    python patch.py "Am I Nima_Data/data.unity3d.orig" "Am I Nima_Data/data.unity3d" completo
    ```
 
@@ -45,6 +45,8 @@ Verifique a integridade dos arquivos na Steam. Depois apague a pasta `BepInEx` e
 - `escolhas.txt` — pensamentos que você arrasta para falar (`ID|texto`).
 - `AmINima_ptBR.txt` — `Original=Tradução` para palavras e interface.
 - `AmINima_resizer.txt` — encolhe a fonte das caixas onde o texto em PT não cabe.
+
+`fonte.py` desenha as letras acentuadas (ã, é, ç…) na fonte pixelada do pensamento interno, que não tem acentos, no mesmo estilo das outras letras.
 
 `plugin/` tem um plugin BepInEx (código e DLL compilada) que faz a busca da biblioteca aceitar o nome em português, sem acentos.
 

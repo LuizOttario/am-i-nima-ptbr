@@ -1,74 +1,74 @@
 6500|Sua mãe aperta o espeto com mais força na mão, os nós dos dedos ficando brancos.
-6501|MÃE: Não… Eu consertei.
+6501|MOM: Não… Eu consertei.
 6502|Você lutou contra a verdade antes, tentou ignorá-la e fingir que poderia ser normal. Mas o tecido do mundo te empurra de volta, suavemente.
-6503|MÃE: A gente… A gente pode dar um jeito nisso. Você só precisa aprender a controlar esses impulsos.
-6504|VOCÊ: Tem alguma coisa errada comigo, mãe. Isso só vai piorar.
+6503|MOM: A gente… A gente pode dar um jeito nisso. Você só precisa aprender a controlar esses impulsos.
+6504|YOU: Tem alguma coisa errada comigo, mãe. Isso só vai piorar.
 6505|Finalmente, ela abaixa o espeto e desvia o olhar de você.
-6506|MÃE: N-não, você tá bem. Não é racional pensar assim. Não faz sentido nenhum. Você só tá… é uma adaptação. O trauma cerebral—
-6507|VOCÊ: Eu tô melhorando?
+6506|MOM: N-não, você tá bem. Não é racional pensar assim. Não faz sentido nenhum. Você só tá… é uma adaptação. O trauma cerebral—
+6507|YOU: Eu tô melhorando?
 6508|Sua pergunta é sincera. Você quer que sua mãe te convença de que ela está certa, de que com um pouco mais de esforço tudo pode voltar ao normal.
-6509|MÃE: Hã…
-6510|MÃE: Sim… na média a gente tá vendo melhora… hã.
-6511|VOCÊ: Mãe...
+6509|MOM: Hã…
+6510|MOM: Sim… na média a gente tá vendo melhora… hã.
+6511|YOU: Mãe...
 6512|Ela mantém a cabeça baixa.
-6513|MÃE: Eu vou... Eu vou te pôr pra dormir, tá? Vou apagar a memória disso. A gente só… a gente vai fingir que isso não aconteceu.
-6514|VOCÊ: Mãe. Por favor. Eu não quero que você conserte. Eu quero que você me deixe ir.
-6515|VOCÊ: Eu não quero machucar ninguém!
-6516|MÃE: Você não vai machucar ninguém. Eu não vou deixar.
-6517|MÃE: Dá o braço pra mamãe, eu vou te pôr pra dormir um pouquinho e, quando você acordar, tudo vai estar melhor de novo. A gente vai tentar outra vez.
+6513|MOM: Eu vou... Eu vou te pôr pra dormir, tá? Vou apagar a memória disso. A gente só… a gente vai fingir que isso não aconteceu.
+6514|YOU: Mãe. Por favor. Eu não quero que você conserte. Eu quero que você me deixe ir.
+6515|YOU: Eu não quero machucar ninguém!
+6516|MOM: Você não vai machucar ninguém. Eu não vou deixar.
+6517|MOM: Dá o braço pra mamãe, eu vou te pôr pra dormir um pouquinho e, quando você acordar, tudo vai estar melhor de novo. A gente vai tentar outra vez.
 6518|Ela segura seu braço com firmeza.
-6519|VOCÊ: Não! Por favor! Eu não quero fazer isso de novo! Eu não consigo!
+6519|YOU: Não! Por favor! Eu não quero fazer isso de novo! Eu não consigo!
 6520|Seu braço se contrai. Sua mão dispara para o lado e agarra o espeto.
-6521|VOCÊ: <i><shake> MÃE! Desculpa, eu-
-6522|MÃE: Tá tudo bem— Tá tudo bem, querida.
+6521|YOU: <i><shake> MÃE! Desculpa, eu-
+6522|MOM: Tá tudo bem— Tá tudo bem, querida.
 6523|Ela agarra sua mão, com o espeto ainda cravado no lado do corpo dela.
 6524|Ela enfia a agulha no seu braço e te aplica a injeção.
 6525|Sua mão se divide entre dois sinais. Um para soltar, outro para puxar de volta e esfaqueá-la de novo.
-6526|VOCÊ: Eu não quis fazer isso!
+6526|YOU: Eu não quis fazer isso!
 6527|Você finalmente solta o espeto e desaba de volta na cadeira.
 6528|Sua mãe faz uma careta de dor. Ela se esforça ao máximo para parecer corajosa, para parecer que você não a machucou feio.
-6529|MÃE: Tá tudo bem, querida. Eu sei. Você é minha menininha boazinha e feliz. Você não ia querer me machucar.
-6530|VOCÊ: Mãe! Por favor! Eu não quero ser um monstro. Eu não quero ser assim…
-6531|MÃE: Você não é um monstro… você só tá doente… mas tudo bem.
-6532|MÃE: Eu vou… consertar…
-6533|MÃE: A mamãe… sempre conserta.
+6529|MOM: Tá tudo bem, querida. Eu sei. Você é minha menininha boazinha e feliz. Você não ia querer me machucar.
+6530|YOU: Mãe! Por favor! Eu não quero ser um monstro. Eu não quero ser assim…
+6531|MOM: Você não é um monstro… você só tá doente… mas tudo bem.
+6532|MOM: Eu vou… consertar…
+6533|MOM: A mamãe… sempre conserta.
 6534|<waitfor=1.5>Você sente a lâmina raspar além da sua órbita e avançar pelos nervos do seu cérebro.
 6535|Sua vida se encerra com um estalo quando ela parte seu cérebro ao meio.
 6536|A Nima vai escapar em breve… Você não quer se tornar a coisa que virá depois.
-6537|VOCÊ: Eu sei sobre o papai.
+6537|YOU: Eu sei sobre o papai.
 6538|Ela te olha em choque. As sobrancelhas dela se suavizam e a ponta do espeto vai baixando.
-6539|VOCÊ: Tem um buraco na parede do banheiro… Eu usei ele pra entrar escondida no laboratório. Eu sei de tudo, sobre o verme e sobre como você tá tentando trazer ele de volta.
-6540|VOCÊ: Mãe, o que você tá fazendo com a gente não é certo. O papai tá sofrendo. Ele me contou.
+6539|YOU: Tem um buraco na parede do banheiro… Eu usei ele pra entrar escondida no laboratório. Eu sei de tudo, sobre o verme e sobre como você tá tentando trazer ele de volta.
+6540|YOU: Mãe, o que você tá fazendo com a gente não é certo. O papai tá sofrendo. Ele me contou.
 6541|Ela solta um pequeno suspiro de espanto.
-6542|MÃE: Ele... falou com você?
-6543|VOCÊ: Ele quer que isso acabe.
-6544|VOCÊ: Você não tá ajudando a gente, o parasita… ele só tá piorando as coisas.
-6545|MÃE: Não… Não, eu só preciso de mais tempo. Eu consigo…
-6546|VOCÊ: Eu também tô sofrendo, mãe.
-6547|VOCÊ: Eu não aguento mais isso.
+6542|MOM: Ele... falou com você?
+6543|YOU: Ele quer que isso acabe.
+6544|YOU: Você não tá ajudando a gente, o parasita… ele só tá piorando as coisas.
+6545|MOM: Não… Não, eu só preciso de mais tempo. Eu consigo…
+6546|YOU: Eu também tô sofrendo, mãe.
+6547|YOU: Eu não aguento mais isso.
 6548|Sua mãe larga o espeto na mesa e aperta as mãos trêmulas contra o rosto. Depois do esgotamento emocional sem fim dos últimos meses, ela não consegue chorar.
-6549|MÃE: Eu não posso desistir…
+6549|MOM: Eu não posso desistir…
 6550|Os olhos dela denunciam que ela já desistiu. Ela enfia a mão no suéter e tira um cigarro e um isqueiro.
 6551|Ela acende o isqueiro e hesita, encarando a chama acesa.
 6552|Depois de um instante, ela suspira e segue em frente, levando o cigarro aos lábios.
 6553|Você tenta sorrir com carinho e estende a mão por cima da mesa para segurar a dela. Você precisa ser forte por ela, uma última vez.
-6554|VOCÊ: Tá tudo bem, mãe.
-6555|VOCÊ: Eu não tô brava com você. Tô feliz por ter podido te ver de novo… só pra gente conversar uma última vez. Foi bom relembrar velhas memórias com você.
-6556|VOCÊ: Eu sei que você tá sofrendo esse tempo todo. Que você não quis me machucar. Eu sabia de tudo isso…
+6554|YOU: Tá tudo bem, mãe.
+6555|YOU: Eu não tô brava com você. Tô feliz por ter podido te ver de novo… só pra gente conversar uma última vez. Foi bom relembrar velhas memórias com você.
+6556|YOU: Eu sei que você tá sofrendo esse tempo todo. Que você não quis me machucar. Eu sabia de tudo isso…
 6557|As lágrimas que ela não conseguia invocar de repente se formam, pesadas, nos cantos dos olhos dela. Elas abrem trilhas nas bochechas enquanto escorrem pelo rosto.
-6558|MÃE: Me desculpa, de verdade…
-6559|VOCÊ: Tá tudo bem… Eu sei que você fez o seu melhor.
+6558|MOM: Me desculpa, de verdade…
+6559|YOU: Tá tudo bem… Eu sei que você fez o seu melhor.
 6560|Ela fez… este é o melhor dela. Vocês duas foram amaldiçoadas desde o começo. Isoladas e esquecidas, sem ninguém para ajudar nenhuma de vocês a sair da escuridão.
 6561|Isso sempre foi inevitável. Há paz em finalmente conseguir aceitar isso.
-6562|MÃE: Eu vou fazer… Eu vou parar com isso…
+6562|MOM: Eu vou fazer… Eu vou parar com isso…
 6563|Ela solta o cigarro dos dedos, e você o vê cair suavemente sobre os papéis espalhados pelo chão.
-6564|MÃE: Eu vou te pôr pra dormir… pra não doer.
+6564|MOM: Eu vou te pôr pra dormir… pra não doer.
 6565|Ela dá um passo à frente, erguendo a seringa com a mão trêmula. Você oferece o braço a ela, feliz.
 6566|O instinto de morte reage com força, a dopamina é liberada, seu cérebro está te dizendo que é hora de ir.
 6567|Ela joga a seringa longe quando termina. Segura seu braço e estende a outra mão para segurar seu ombro.
 6568|Vocês encostam a testa uma na outra. É o mais conectada a ela que você se sente em muito, muito tempo.
 6569|Você sente uma dormência agradável se espalhar pelo corpo. Há um alívio que vem junto com o sono que se aproxima.
-6570|MÃE: Eu te amo, Nima.
+6570|MOM: Eu te amo, Nima.
 6571|Você concentra tudo nos seus últimos momentos. Você repara no tom alaranjado do fogo borrado refletido nos olhos da sua mãe.
 6572|Seu mundo é claro, quente, infinito e completamente sereno…
 6573|De repente, fica escuro...
@@ -85,10 +85,10 @@
 6584|Diga a ela o que ela quer ouvir, copie todos os trejeitos certos. Ganhe a confiança dela. <b>Seja perfeita.</b>
 6585|Eu tô preocupada com você.
 6586|Você se preocupa demais em agradar ela...
-6587|VOCÊ: Desculpa.
-6588|VOCÊ: Eu achei que a gente era forte o bastante. Tá faltando alguma coisa.
-6589|VOCÊ: Não se preocupe, logo, logo você vai estar acordada de novo. Presa no mesmo porão, fazendo os mesmos testes.
-6590|VOCÊ: A gente devia tentar achar o laboratório dela. Parecia que ele fazia parte do porão.
+6587|YOU: Desculpa.
+6588|YOU: Eu achei que a gente era forte o bastante. Tá faltando alguma coisa.
+6589|YOU: Não se preocupe, logo, logo você vai estar acordada de novo. Presa no mesmo porão, fazendo os mesmos testes.
+6590|YOU: A gente devia tentar achar o laboratório dela. Parecia que ele fazia parte do porão.
 6591|O que foi isso!?
 6592|Você não é um monstro, é ela que te faz se sentir assim.
 6593|Não tem saída disso, ela só vai continuar reiniciando o experimento.
@@ -235,17 +235,17 @@
 6734|Ele quer te consolar.
 6735|Você consegue ouvir as palavras dele na sua mente. Você <i>quer</i> ouvi-las.
 6736|Ele está animado de te ver. Você sente uma conexão com essa coisa. Ela está feliz que a escuridão se foi.
-6737|VOCÊ: Como… você está…
+6737|YOU: Como… você está…
 6738|Você se lembra de caminhar com ele na praia. Ele tinha viajado, para uma conferência sobre a migração dos salmões, e quando voltou a primeira coisa que quis fazer foi passar um tempo com você.
 6739|Ele quis caminhar pela praia e te contar o que tinha aprendido.
 6740|Ele quer caminhar com você de novo. Ele sente muito por ter ficado longe por tanto tempo. Ele quer saber se você está brava.
-6741|VOCÊ: …O que ela fez com você?
+6741|YOU: …O que ela fez com você?
 6742|Você se lembra dele andando no fundo do lago, as mãos tentando desesperadamente alcançar a superfície enquanto a ardência nos pulmões crescia.
 6743|<waitfor=0.5>Você olha os órgãos dele despencando do tronco do corpo. Você se lembra de zoar ele por causa do sushi que ele comia, de como ele transformava os amigos em comida.
-6744|VOCÊ: Eu não entendo…
-6745|VOCÊ: Eu… Eu não consigo…
+6744|YOU: Eu não entendo…
+6745|YOU: Eu… Eu não consigo…
 6746|Os olhos fechados dele te encaram.
-6747|VOCÊ: …Desculpa.
+6747|YOU: …Desculpa.
 6748|Você bate a porta da geladeira com força e fica ali hiperventilando por um momento.
 6749|Um relatório de pesquisa. A data no topo sugere que é do fim da primavera.
 6750|“Observações 1, Dra. Annabelle Lee.”
@@ -348,14 +348,14 @@
 6847|Antes que pudesse, uma mão agarrou o braço dela e a arremessou para fora do caminho.
 6848|O medo que você sentiu, à deriva e sem controle, foi amplificado e transferido para sua mãe. Ela empurrou a Tiffany no chão e afastou o salva-vidas com brutalidade.
 6849|Por fim, ela desabou sobre você aos soluços, te apertando num abraço sufocante.
-6850|SALVA-VIDAS: Senhora, por favor, me dê um pouco de espaço pra trabalhar.
-6851|MÃE: O que você ainda tá fazendo aqui? Vai chamar uma ambulância!
-6852|SALVA-VIDAS: Eu ainda não determinei se ela sofreu uma concussão.
-6853|MÃE: Você não é médico, você é uma criança. Seja útil e chame um adulto que saiba fazer o próprio trabalho.
-6854|TREINADOR: E aí, campeã, como você tá?
+6850|LIFEGUARD: Senhora, por favor, me dê um pouco de espaço pra trabalhar.
+6851|MOM: O que você ainda tá fazendo aqui? Vai chamar uma ambulância!
+6852|LIFEGUARD: Eu ainda não determinei se ela sofreu uma concussão.
+6853|MOM: Você não é médico, você é uma criança. Seja útil e chame um adulto que saiba fazer o próprio trabalho.
+6854|COACH: E aí, campeã, como você tá?
 6855|Seu treinador se aproximou, abrindo caminho com cuidado pela multidão e ignorando a fúria ensandecida da sua mãe. Você respondeu com um joinha.
-6856|TREINADOR: Tá vendo, a Nima tá bem. Olha, Annabelle, ela tá ótima, nada consegue parar essa menina.
-6857|MÃE: Ela quase se afogou!
+6856|COACH: Tá vendo, a Nima tá bem. Olha, Annabelle, ela tá ótima, nada consegue parar essa menina.
+6857|MOM: Ela quase se afogou!
 6858|Você se lembra do atordoamento passando quando percebeu o que estava acontecendo. Ela não estava preocupada, não de verdade; aquilo era luto.
 6859|Você abraçou sua mãe de volta para tranquilizá-la e falou baixinho no ouvido dela.
 6860|NIMA: Mãe, eu tô bem.
@@ -410,21 +410,21 @@
 6909|???: Será que consegue reparar até o cérebro?
 6910|Você é jogada de volta para baixo e a garra se fecha em volta do seu corpo. A faca morde seu crânio-
 6911|O sangue que alimenta seu cérebro pulsa, tentando lembrar algo que você nunca deveria ter esquecido.
-6912|MÃE: O que você está fazendo na minha casa?
+6912|MOM: O que você está fazendo na minha casa?
 6913|A mamãe tinha dito que voltaria para casa em breve. Mas ela chegou mais cedo do que você imaginava. Agora, dois fios da sua vida que você nunca quis cruzar tinham se encontrado.
 6914|PEARL: Você deve ser a Annabelle! Eu sou a Pearl, talvez a Nima tenha comentado? Tenho dado uma mão enquanto você está ocupada com a sua pesquisa.
-6915|MÃE: É mesmo? Não me lembro de ter pedido sua ajuda.
+6915|MOM: É mesmo? Não me lembro de ter pedido sua ajuda.
 6916|Dava para ver que ela estava furiosa; os cantos da boca dela tremiam quando ela falava.
 6917|PEARL: Bom… É só o que um bom vizinho faz. Você anda tão ocupada, e a Nima me perguntou se eu me importaria de trazer umas compras.
 6918|PEARL: E aí, bom… Não parecia certo deixar ela sozinha aqui. Faz algumas semanas desde a última vez que, segundo ela, você passou em casa.
-6919|MÃE: O que você está insinuando?
+6919|MOM: O que você está insinuando?
 6920|PEARL: Bom, você é nova por aqui…
 6921|PEARL: Não sei como é de onde você vem, mas não é normal simplesmente deixar a filha sozinha. Ela precisa de alguém que cuide dela.
 6922|Ela olhou para você pedindo ajuda, mas você não conseguia retrucar, não para a sua mãe.
-6923|MÃE: Acho que você tirou algumas conclusões precipitadas. Eu sou mãe solo, o pai da Nima morreu há muitos anos. Isso significa que eu tenho que trabalhar mais horas para sustentá-la.
-6924|MÃE: Quando a gente morava na cidade, com certeza não era raro as crianças voltarem para casa, trancarem a porta e esperarem os pais chegarem.
-6925|MÃE: A Nima é adolescente. Ela normalmente faz as compras e cozinha sozinha.
-6926|MÃE: Você acha que alguma de nós duas é incapaz de cuidar de si mesma?
+6923|MOM: Acho que você tirou algumas conclusões precipitadas. Eu sou mãe solo, o pai da Nima morreu há muitos anos. Isso significa que eu tenho que trabalhar mais horas para sustentá-la.
+6924|MOM: Quando a gente morava na cidade, com certeza não era raro as crianças voltarem para casa, trancarem a porta e esperarem os pais chegarem.
+6925|MOM: A Nima é adolescente. Ela normalmente faz as compras e cozinha sozinha.
+6926|MOM: Você acha que alguma de nós duas é incapaz de cuidar de si mesma?
 6927|PEARL: Bom… Eu…
 6928|PEARL: Eu <i>imagino</i> que não seja da minha conta.
 6929|Ela arruma as coisas depressa; você não sabe se ela está brava ou envergonhada.
@@ -433,17 +433,17 @@
 6932|PEARL: Eu preferiria não envolver a polícia.
 6933|PEARL: Mas vou envolver, se for o que precisa ser feito.
 6934|A Annabelle fuzila a Pearl com o olhar enquanto ela sai da casa, e fecha e tranca a porta atrás dela.
-6935|MÃE: De onde você conhece aquela mulher?
-6936|VOCÊ: Ela é do asilo. A gente é amiga.
-6937|MÃE: Amigas? Você é uma criança, você tem uma fração da idade dela… Isso não importa… O que você contou pra ela?
-6938|VOCÊ: Nada… Eu só… Você não estava em casa, eu precisava de compras, eu tava com fome. Faz tanto tempo que eu não te vejo.
-6939|MÃE: Isso é mentira. Tem lata suficiente nesta casa pra sobreviver por meses.
-6940|MÃE: Você entende que, se ela for à polícia… Você sabe o que fariam com a gente? Iam tirar você de mim, Nima.
-6941|MÃE: É isso que você quer?
+6935|MOM: De onde você conhece aquela mulher?
+6936|YOU: Ela é do asilo. A gente é amiga.
+6937|MOM: Amigas? Você é uma criança, você tem uma fração da idade dela… Isso não importa… O que você contou pra ela?
+6938|YOU: Nada… Eu só… Você não estava em casa, eu precisava de compras, eu tava com fome. Faz tanto tempo que eu não te vejo.
+6939|MOM: Isso é mentira. Tem lata suficiente nesta casa pra sobreviver por meses.
+6940|MOM: Você entende que, se ela for à polícia… Você sabe o que fariam com a gente? Iam tirar você de mim, Nima.
+6941|MOM: É isso que você quer?
 6942|Você achou que devia dizer que não, essa era a resposta óbvia. Mas não conseguiu se obrigar a dizer.
 6943|Você tinha esperança de que a Pearl pudesse te levar de volta para Vancouver…
 6944|Uma lágrima rompe o canto do olho dela e escorre pela bochecha.
-6945|MÃE: Vai pro seu quarto.
+6945|MOM: Vai pro seu quarto.
 6946|Uma memória complexa vem até você, uma caixa contendo uma série de presentes rancorosos.
 6947|Você se lembra de correr pelo acostamento da rodovia; o sol já tinha se posto havia muito tempo e, embora você não soubesse para onde estava indo, sabia que precisava fugir dali… dela.
 6948|A estrada mal era iluminada pela lua e pelos faróis altos de algum caminhão que passava de vez em quando.
@@ -454,44 +454,44 @@
 6953|Você correu de lado para dentro da floresta e sumiu na escuridão. Em resposta, ouviu o motor do carro rugir como um animal predador.
 6954|Ele avançou, saindo da estrada e descendo um pouco a ladeira até ‘estacionar’ com o capô pressionado contra uma árvore.
 6955|Um galho acertou sua bochecha, os gravetos abriram pequenos cortes no seu rosto. Eles arderam quando as lágrimas salgadas escorreram para dentro das feridas.
-6956|MÃE: <shake>NIMA! Volta aqui!
+6956|MOM: <shake>NIMA! Volta aqui!
 6957|A voz dela coalhou o sangue nas suas veias; você correu mais rápido.
-6958|MÃE: <shake a=0.5>Eu achei que você tinha sido sequestrada! Eu achei que você tava morta!
-6959|MÃE: <shake>Você fugiu!?
+6958|MOM: <shake a=0.5>Eu achei que você tinha sido sequestrada! Eu achei que você tava morta!
+6959|MOM: <shake>Você fugiu!?
 6960|Você ouviu gravetos estalando ao longe atrás de você enquanto os passos pesados dela abriam a vegetação rasteira numa grande onda. A fúria dela assobiava por entre os dentes; dava para ouvir a careta na respiração dela.
-6961|MÃE: <i>Sai daí agora mesmo!
+6961|MOM: <i>Sai daí agora mesmo!
 6962|Você tropeçou numa pedra e rolou, os joelhos nus ralando contra a casca das árvores. Você abafou a vontade de gritar e jogou o corpo contra uma árvore para se esconder.
-6963|MÃE: Você quer me abandonar!?
+6963|MOM: Você quer me abandonar!?
 6964|De algum jeito, ela sabia que você tinha parado, como se pudesse sentir o cheiro de que você estava machucada. Em vez de gritar, ela falou num tom calmo.
-6965|MÃE: <shake>Foi por isso que você fugiu, não foi!?
-6966|MÃE: Aposto que você tá aí agora mesmo rindo de mim. Aposto que tá pensando: ‘é isso, agora ela não vai ter escolha a não ser fazer o que eu quero!
-6967|MÃE: <i>Você é que nunca tá satisfeita! Você é que é egoísta!
+6965|MOM: <shake>Foi por isso que você fugiu, não foi!?
+6966|MOM: Aposto que você tá aí agora mesmo rindo de mim. Aposto que tá pensando: ‘é isso, agora ela não vai ter escolha a não ser fazer o que eu quero!
+6967|MOM: <i>Você é que nunca tá satisfeita! Você é que é egoísta!
 6968|Você tinha consciência de como estava respirando alto. Numa tentativa de abafar o som, tapou a boca e o nariz com as mãos.
 6969|Você tentou se controlar, mas a falta de ar só deixava sua respiração mais alta. Você se empurrou ainda mais para trás, para sumir no vão da árvore atrás da qual se escondia.
-6970|MÃE: Você <i>sabe</i> que eu sou infeliz e sozinha, que trabalho duro todo dia pra te sustentar, e é assim que você me retribui.
-6971|MÃE: <i>Você acha que eu não quero fugir!? <shake>Você acha que eu não queria estar morta!?
-6972|MÃE: <i>Mas eu não fujo! </i>Porque você precisa de mim.
+6970|MOM: Você <i>sabe</i> que eu sou infeliz e sozinha, que trabalho duro todo dia pra te sustentar, e é assim que você me retribui.
+6971|MOM: <i>Você acha que eu não quero fugir!? <shake>Você acha que eu não queria estar morta!?
+6972|MOM: <i>Mas eu não fujo! </i>Porque você precisa de mim.
 6973|Você ouviu os passos dela se aproximando. Quando ela voltava a gritar, de vez em quando, aquilo mandava pulsos de choque pela sua espinha. Sua dor diminuiu com as descargas de adrenalina correndo pelas veias.
 6974|A cada batida do seu coração vinha um impulso pulsante: corre – corre – corre.
-6975|MÃE: Você e eu devíamos ser um time, você me prometeu…
+6975|MOM: Você e eu devíamos ser um time, você me prometeu…
 6976|Um graveto estalou, praticamente do seu lado. O impulso de correr virou uma ordem e, antes mesmo que seu cérebro registrasse aquilo como um desejo consciente, você já estava correndo.
-6977|MÃE: <i>Sua pestinha-!
+6977|MOM: <i>Sua pestinha-!
 6978|Você sentiu as unhas compridas dela arranharem sua nuca quando ela avançou em você.
-6979|MÃE: <i>Para de correr!
+6979|MOM: <i>Para de correr!
 6980|Você sentia que ela estava te alcançando. Num instante, ela ia te arrastar de volta para a vida que você não suportava viver.
-6981|MÃE: <shake><b>Para!!
+6981|MOM: <shake><b>Para!!
 6982|Ela parou de repente e você correu mais rápido. Você sentiu: a liberdade no sopro do vento.
 6983|De repente, não havia mais chão sob seus pés. Todo o calor do seu sangue te abandonou de uma vez enquanto o ar rasgava sua pele.
 6984|Por um segundo, enquanto despencava, você não tinha peso nenhum.
 6985|Então a água gelada e as pedras afiadas receberam ansiosas seu corpinho e o conduziram depressa a um descanso escuro.
-6986|MÃE: Iniciando introdução.
+6986|MOM: Iniciando introdução.
 6987|Você já tinha se acostumado. A pinça e o movimento.
 6988|NIMA: <size=156%>.     .     .
-6989|MÃE: Por favor, conserta ela...
+6989|MOM: Por favor, conserta ela...
 6990|Você sente cheiro de decomposição... mas tem algo estranho. Não há cadáver. Você se contorce e tenta fugir.
 6991|A pinça te pegou de novo, te erguendo para longe.
-6992|MÃE: Por que isso não funciona?
-6993|MÃE: E se...
+6992|MOM: Por que isso não funciona?
+6993|MOM: E se...
 6994|O ar cantou.
 6995|De repente, você sentiu cheiro de cadáver. Você se esticou, se contorcendo em direção ao cheiro.
 6996|Você se enterra ao redor do olho e encontra... um...
