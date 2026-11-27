@@ -1,0 +1,500 @@
+1000|VOCÊ: Tudo bem. Eu posso esperar até você estar pronta. 
+1001|VOCÊ: O seu único amor verdadeiro. 
+1002|MÃE: Isso não é verdade. 
+1003|VOCÊ: Eu achei isso no fundo do rio e trouxe pra você. Aí você passou o verão inteiro obcecada com isso. 
+1004|VOCÊ: Passavam semanas sem eu falar com ninguém, nem com você. 
+1005|MÃE: Todo esse tempo, eu não percebi que você se sentia abandonada. 
+1006|VOCÊ: Por que eu tenho que fazer tudo sozinha? 
+1007|MÃE: Você tem uma vida boa. Não sei se já te contei isso. 
+1008|MÃE: Meus pais eram muito controladores, eles controlavam cada aspecto da minha vida.
+1009|MÃE: Eu fazia faculdade de engenharia química, mas larguei pela paleontologia. Foi a primeira decisão de verdade que eu tomei na vida. 
+1010|MÃE: Quando você nasceu, eu prometi a mim mesma que você não ia ter que passar por isso, então... decidi que a sua liberdade seria absoluta. 
+1011|MÃE: Isso também me deu liberdade pra continuar a minha pesquisa. 
+1012|MÃE: Eu sei que a minha mãe teria dito que eu devia largar o emprego e te criar em tempo integral.
+1013|Você olha para as próprias mãos, pensativa. Você nunca conheceu sua avó; sua mãe dizia que você não estava perdendo grande coisa. 
+1014|MÃE: Eu tenho pensado muito desde o acidente. 
+1015|MÃE: Desde que o seu pai morreu, eu me sinto muito sozinha. Você é a única pessoa que me restou. 
+1016|MÃE: Eu <i>preciso</i> de você do meu lado, Nima. Eu nunca vou deixar nada nem ninguém ficar entre nós. 
+1017|MÃE: Essa pesquisa que eu estou fazendo. Ela vai mudar tudo.
+1018|Guarde esse desabafo de trauma pra alguém que se importe. 
+1019|VOCÊ: Eu ia gostar disso. 
+1020|MÃE: Tá bom, então vamos fazer o resto desses testes rápido, tá? Vamos pro próximo. 
+1021|Ela pergunta o que isso significa para você, e algo complicado e sem palavras borbulha na sua garganta. 
+1022|Ódio. 
+1023|VOCÊ: Por que você me mostraria isso!? 
+1024|Você bate os punhos na mesa e se levanta para encarar sua mãe de cima, furiosa. 
+1025|Olhar para a pedra invoca memórias de queimar e ser esmagada, água sem fim pressionando você para baixo.
+1026|Presa e incapaz de se mexer, tudo o que você consegue fazer é bater os dentes, sem conseguir nem abrir a mandíbula o bastante para morder a própria língua. 
+1027|MÃE: Eu… não entendo, Nima, o que foi? 
+1028|VOCÊ: Eu tô presa. Não consigo me mexer. 
+1029|Memórias sensoriais relampejam pelo seu cérebro e fazem sua pele arrepiar. Seu corpo não responde, você está se afogando. 
+1030|Você segura os lados da cabeça e se balança para frente e para trás na cadeira. 
+1031|Você quer atacar, pular por cima da mesa e esmagar aquela pedra no crânio dela, igualzinho… 
+1032|Ao que aconteceu com você. 
+1033|Algo está te impedindo, alguma pequena parte de você que implora para que não a machuque. 
+1034|MÃE: Desculpa. 
+1035|Ela pega a pedra e a recolhe para debaixo da mesa, escondendo-a da sua vista. 
+1036|MÃE: Nima, me explica essa reação. 
+1037|VOCÊ: O rio… pedras animadas para me receber. Presa num corpo que não consegue se mexer. 
+1038|Ela relaxa e guarda a pedra de volta na sacola, junto com o resto dos itens que escondeu ali. 
+1039|Você recupera o controle da respiração. 
+1040|MÃE: Isso trouxe lembranças ruins? 
+1041|MÃE: Eu esperava tocar em algo mais feliz com esse teste. Desculpa. A gente talvez precise conversar sobre isso… fora desses testes. Mais tarde. Quando você tiver tido mais tempo pra se curar. 
+1042|VOCÊ: Uma velha conhecida. 
+1043|MÃE: Então você reconhece? 
+1044|VOCÊ: Ah, sim. 
+1045|Sua mãe costumava fazer perguntas sobre todos os diferentes fósseis da Era Cambriana. Cada um deles tem um nome chique, e você sabe todos. 
+1046|VOCÊ: Esse aqui é a Marrella splendens. 
+1047|MÃE: Sim, isso mesmo, você lembra como eu consegui ele? 
+1048|VOCÊ: Tinha aos montes, elas nadavam tranquilas perto do fundo do mar.
+1049|VOCÊ: Umas coisas maiores vinham descendo, uns monstros enormes em forma de tubo com cinco olhos arrumados num anel. Eles sugavam elas e comiam. 
+1050|MÃE: Não, eu quis dizer… Espera, o que você tá tentando descrever? 
+1051|VOCÊ: A boca do céu. O corpo deles era translúcido, menos o cérebro e a boca. 
+1052|Você abre bem a boca para que sua mãe entenda a circunferência da goela do monstro. Sua mandíbula estala alto quando você a força além da abertura natural. 
+1053|MÃE: Nima, para de inventar coisas. 
+1054|VOCÊ: Aí tem aquele outro cara, a coisa que voava baixinho e tinha dedos na boca. Como se a cara dele fosse uma mão. 
+1055|Você coloca as mãos nas bochechas e mexe os dedos. 
+1056|MÃE: Você tá falando do Anomalocaris? 
+1057|VOCÊ: Como chama aquela coisa que parece uma caveira com órbitas de olhos em volta do alto da cabeça e mil tentáculos saindo da boca que puxam ela pelo fundo do mar? 
+1058|MÃE: Nima, eu sou uma das maiores especialistas do período Cambriano, então eu sei que você tá só inventando. 
+1059|MÃE: O meu trabalho é importante e eu não vou tolerar que você faça piada dele. 
+1060|Você tocou num ponto sensível; ela reage cerrando os punhos e se virando de costas para você. 
+1061|VOCÊ: Ah. Tá. 
+1062|Ela claramente confunde seu interesse genuíno com mais um insulto. 
+1063|Que insegura. 
+1064|MÃE: O que eu descobri aqui vai mudar o mundo. 
+1065|VOCÊ: Se você diz. 
+1066|Será que uma carpa koi conseguiria sobreviver na época em que essa coisa estava viva… ou ela seria um predador de topo? 
+1067|Por um lado, ela provavelmente seria uma das maiores coisas por ali. Por outro, provavelmente não teria muito o que comer? 
+1068|Fome é um estado de espírito, além de um estado de necessidade. 
+1069|MÃE: Nima? 
+1070|Você provavelmente devia se concentrar no teste. 
+1071|Seu estômago ronca. 
+1072|Sua mãe te encara e puxa o fóssil de volta, só um pouco fora do seu alcance. 
+1073|VOCÊ: Eu sei que não dá pra comer pedra! 
+1074|Tirando sal e as pedras da moela, mas humanos não têm isso, né? Seria legal ter uma moela, aí você poderia <shake>triturar</shake> sua presa enquanto a engole inteira. 
+1075|Sua mãe coloca a pedra na mesa, mas a mantém perto de si. 
+1076|MÃE: Ela é muito preciosa pra mim, sabe por quê? 
+1077|VOCÊ: É coisa de doutor? 
+1078|MÃE: Tipo médico ou PhD? 
+1079|VOCÊ: Hã... Doutor de pedra? 
+1080|MÃE: Acho que você tá tentando pensar numa palavra parecida, né? 
+1081|VOCÊ: Isso é uma erosão? É uma coisa relacionada a pedra, né? 
+1082|MÃE: Ah, relacionada. Isso é, de certa forma, um produto da erosão. 
+1083|VOCÊ: O que é uma erosão? 
+1084|MÃE: É quando a água desgasta e move a rocha, isso pode criar várias formações geológicas interessantes, como… 
+1085|<speed=0.5>Uma hora se passa em agonia, e você aprende tudo e nada sobre erosão. 
+1086|VOCÊ: Nossa, obrigada. Acho que tô pronta pra responder a sua pergunta. 
+1087|MÃE: Ah… é mesmo… 
+1088|MÃE: Aliás, nada disso tinha a ver com o teste… 
+1089|VOCÊ: Acho que tem alguma coisa a ver com o Pai. 
+1090|A mãe balança a cabeça. 
+1091|MÃE: Eu curto pedras, ele curte peixes, sempre foi assim com a gente. 
+1092|Por que você não pega logo a pedra e esmaga o crânio dela? 
+1093|Aí a gente vê o quanto ela "curte pedras" depois disso. 
+1094|MÃE: Tenta pensar em onde você pode ter visto isso antes. 
+1095|VOCÊ: Pô, agora eu estudo em casa? É isso que tá acontecendo? 
+1096|MÃE: Não, não é… bom, é educativo, mas isso também é importante pra um aspecto da sua vida. 
+1097|Você olha para ela, depois para o laboratório, depois para o fóssil. 
+1098|VOCÊ: É você? 
+1099|MÃE: Essa é a sua resposta? 
+1100|Bom, agora parece pegadinha. 
+1101|Você começa a chorar. 
+1102|Dá pra fazer isso quando quiser? 
+1103|A persona fria e científica da sua mãe se desfaz para que ela possa te consolar. 
+1104|MÃE: Nima, você tá bem? 
+1105|VOCÊ: Tô, tô bem. 
+1106|Vida… desde o começo de tudo, aqui está ela. 
+1107|VOCÊ: O começo da vida em grande escala na Terra, a <bounce>Explosão Cambriana. 
+1108|VOCÊ: Tem gente que se pergunta "por que o Cambriano explodiu de vida?", e sabe de uma coisa? Ninguém sabe ao certo. Pode ter muito a ver com a invenção de uma nova dinâmica evolutiva: predador e presa. 
+1109|VOCÊ: Se isso for verdade, acho que dá pra dizer que o sentido da existência da vida é comer outras vidas! 
+1110|MÃE: Eu gostei muito disso, Nima. 
+1111|MÃE: Parece que você leu aqueles livros que eu te dei. Fico feliz.
+1112|Dá pra ver que ela está tentando se conter; ela adoraria falar mais.
+1113|MÃE: Mas como isso faz você se sentir? Tem relação com alguma memória? 
+1114|Sei lá. Meio com fome. 
+1115|O espírito da Era Cambriana abre mão do controle do seu corpo, e você volta a ser você mesma. 
+1116|E se um tubarão estivesse na Era Cambriana? Ele teria alguma chance de sobreviver? Provavelmente não, né? Não ia ter presa suficiente pra comer. 
+1117|VOCÊ: Hmm... 
+1118|Acho que não é isso que interessa à cientista. 
+1119|Talvez não, mas ainda assim é interessante. 
+1120|Você boceja. 
+1121|Toda essa busca interior está te deixando cansada. Você torce para que essa seja a última pergunta. 
+1122|MÃE: Você não pode dormir ainda, você só está na metade das perguntas. 
+1123|Metade!? Melhor acelerar isso aqui. 
+1124|Como se chama um asilo pra uma coisa que está muito, muito morta? 
+1125|Um museu? 
+1126|Não… mas é uma ideia relacionada. 
+1127|Por que você está pensando em asilos? 
+1128|Um estrondo na bacia e lama chovendo do céu. Depois, um cobertor repentino de terra puxado por cima de você, vindo de algum lugar muito além da sua visão. 
+1129|Você tem quase certeza de que seria assim ser enterrada viva. 
+1130|MÃE: Nima, isso te lembra o quê? 
+1131|Você se lembra de um lugar bonito onde montaram a barraca debaixo das árvores. 
+1132|Você está perto de uma cachoeira, e a névoa no ar basta para manter os mosquitos mais ou menos afastados. 
+1133|Foi uma viagem longa de carro até ali, e sua mãe só queria sentar perto da água e ler. 
+1134|Você, por outro lado, queria fugir das pragas voadoras e mergulhar no rio. 
+1135|Tudo isso parece não ter nada a ver com o fóssil, mas... você acha que eles ainda estão ligados de alguma forma. 
+1136|Essa pedra estranha de camarão ia ficar ótima num aquário. 
+1137|Isso é tristeza? Não, não exatamente tristeza. Mais um tédio existencial, uma solidão, um anseio. 
+1138|É um sentimento complexo. 
+1139|Você acha mesmo que cabe dentro daquela coisa? 
+1140|Não, ela também não parece muito acolhedora, está mais pra uma prisão. 
+1141|Você se lembra de uma coisa que sua mãe te contou, sobre leitos marinhos sendo empurrados para cima até virarem montanhas depois de alguns milhões de anos de atividade tectônica. 
+1142|Bem legal, mas do que ela estava falando? 
+1143|Você se lembra de rodopiar despreocupada na água, sentindo-se mais você mesma do que nunca enquanto nadava e trabalhava para ajudar sua mãe a realizar os sonhos dela. 
+1144|Isso contrasta com a sensação de estar <b>Presa</b>. 
+1145|Você sente uma pressão te esmagando. Água fluindo e te empurrando para baixo, para a escuridão. Você quer ser livre; quer nadar, mas não consegue. 
+1146|Você não devia ir por aí, isso vai libertar algo sombrio. 
+1147|VOCÊ: Quase lá. 
+1148|Isso te lembra a história da origem da marca Brocs. 
+1149|Jackson Broc, morador de Fort McMurray, em Alberta, é o mais albertano que alguém pode ser. Ele teve uma sacada que mudou o mundo dos calçados para sempre. 
+1150|De uma enorme indústria de petróleo a uma riqueza de fósseis, Alberta é toda sobre dinossauros. Então ele teve a ideia de pegar esse amor e colocar nos seus pés. 
+1151|Ele inventou um material feito de petróleo bruto, que passou a usar nos sapatos que levam o nome dele. 
+1152|Então, pensando bem, Brocs são dinossauros! 
+1153|Pelo menos... foi o que um garoto da escola te disse.
+1154|MÃE: Nima, você tá viajando? 
+1155|VOCÊ: Não... 
+1156|VOCÊ: Isso é só uma pedra. 
+1157|MÃE: Não é <i>só</i> uma pedra! 
+1158|VOCÊ: É uma pedra importante. 
+1159|MÃE: Por que você acha que ela é importante…? 
+1160|VOCÊ: Devo comparar-te a um dia de verão? Ou a um xisto? 
+1161|MÃE: Agora não, Nima. 
+1162|VOCÊ: Plateia dura feito rocha… 
+1163|Essa é uma velha conhecida sua, você tem certeza. Tem uma sensação familiar da qual você não consegue se livrar, e isso provavelmente é uma pista. 
+1164|VOCÊ: Essa é a minha pedra de estimação, o Rocky Lee! 
+1165|VOCÊ: Ele é um membro querido da família. 
+1166|VOCÊ: Você acha que eu poderia ter esquecido da Rocky!? 
+1167|MÃE: Você não tem uma pedra de estimação... bom, não mais. 
+1168|MÃE: Você tá só inventando coisa pra ganhar tempo, ou não sabe o que é isso? 
+1169|VOCÊ: Você hesitou em me mostrar isso. Por quê? 
+1170|MÃE: Vou começar a te fazer perguntas mais difíceis. 
+1171|VOCÊ: Mais difíceis como? 
+1172|MÃE: Se eu explicasse, perderia o sentido do teste. 
+1173|Isso não é bom. É melhor você descobrir rápido o que é essa pedra esquisita. 
+1174|Bom, claramente isso é um fóssil. 
+1175|Mas provavelmente não é esse o objetivo do teste. Pelo tubarão do teste anterior, a ideia deve ser que isso é importante tanto pra você quanto pra ela. 
+1176|Considerando tudo isso, provavelmente é um <b>presente</b> que você deu a ela. 
+1177|Isso é importante pra você porque é importante pra ela. 
+1178|Isso é importante pra você porque você <b>odeia</b> com todas as forças essa pedra. 
+1179|Seu coração está… dividido. 
+1180|VOCÊ: Isso meio que tá me fazendo sentir orgulho de mim mesma, mas não sei por quê. 
+1181|MÃE: Isso, segue essa memória. Você sabe por quê? 
+1182|VOCÊ: Isso é um peixe? 
+1183|MÃE: Não… não, isso é de antes de os peixes existirem. 
+1184|Seus lábios se entreabrem. Você é obrigada a lidar com a constatação de que houve uma época <shake>antes</shake> dos peixes. 
+1185|MÃE: Bom... acho que o Haikouichthys viveu, sim, no Cambriano. Ele tinha arcos branquiais, nadadeiras primitivas e até uma medula espinhal rudimentar. Então dá pra dizer que ele foi o primeiro peixe. 
+1186|VOCÊ: Nossa... o tataravô dos peixes. 
+1187|MÃE: Põe mais alguns "tatas" aí, mas, sim, basicamente. 
+1188|VOCÊ: Isso é um inseto.  
+1189|MÃE: Um pouco reducionista, é um artrópode. 
+1190|MÃE: É verdade que os artrópodes incluem coisas que geralmente são consideradas "insetos", mas você não chamaria um camarão de inseto, né? 
+1191|VOCÊ: Camarão é inseto? 
+1192|MÃE: O termo é subjetivo. Tenta de novo, seja mais específica. 
+1193|Você sabe o que é isso. 
+1194|Você dá um tapa na própria cara. 
+1195|MÃE: Nima, não faz isso! 
+1196|A mãe passa o dia inteiro no porão olhando coisas assim.  
+1197|VOCÊ: É oco. 
+1198|MÃE: Como assim? 
+1199|VOCÊ: Não era pra ter alguma coisa nesse espaço vazio? 
+1200|Ela estreita os olhos e balança a cabeça devagar. 
+1201|Parece meio um cadáver sem cabeça. 
+1202|MÃE: Esse é o último objeto de hoje.
+1203|Sua mãe coloca um par de óculos de natação na mesa e os empurra na sua direção. A amostra tem um leve cheiro de cloro. 
+1204|Da sua carreira na natação, você se lembra daquele dia... Seria um bom momento pra falar sobre isso.
+1205|MÃE: Do que esses óculos te lembram? 
+1206|Uma memória dança pelo seu córtex. 
+1207|Os segundos passam. 
+1208|Você sente a água empurrando seu rosto enquanto avança a toda velocidade. Seus óculos cedem e se enchem de água. Você fica cega com a ardência do cloro nos olhos. 
+1209|Você chega ao final antes de todo mundo. <i>Você venceu!</i> 
+1210|VOCÊ: Eu ganhei o regional. 
+1211|MÃE: Você bateu a cabeça na parede da piscina. Eu te levei direto pro hospital depois. Foi um dia horrível. Eu tive que faltar no trabalho e aí você quase morreu. 
+1212|VOCÊ: Ah… desculpa. 
+1213|MÃE: Fico feliz que você não nade mais. 
+1214|VOCÊ: Mas eu gosto muito de nadar. 
+1215|MÃE: Depois do que aconteceu com o seu pai, eu percebi que você precisava saber nadar. 
+1216|Sua mãe logo fica atrapalhada, tentando montar uma resposta capaz de te desviar dos seus objetivos. 
+1217|MÃE: Mas agora você sabe! Se você caísse de um barco, conseguiria se salvar. Pra que passar mais tempo na água do que o necessário? Não é como se dedicar seu tempo à natação competitiva fosse te dar algum tipo de futuro. 
+1218|VOCÊ: Eu não posso mais nadar? 
+1219|MÃE: Você pode fazer o que quiser, Nima, você tem liberdade absoluta na sua vida. 
+1220|MÃE: Mas agora você precisa se concentrar em se curar. Você provavelmente tem um trauma psicológico sério por ter caído no rio. Acho que você não vai poder entrar na água de novo por meses, talvez anos. 
+1221|VOCÊ: Espera… eu caí no rio? Achei que você tinha dito ontem que eu estava nadando. 
+1222|MÃE: Você estava… 
+1223|Ela tem que interromper bruscamente a linha de raciocínio e voltar atrás. 
+1224|MÃE: Você estava nadando… e mergulhou no rio. Foi perigoso. 
+1225|VOCÊ: Acho que não, eu sei muito bem que não se mergulha de cabeça em rio raso. 
+1226|MÃE: Pelo visto não sabe! Foi você que fez isso, Nima! 
+1227|Ela balança a cabeça bruscamente e fecha os olhos. Com uma respiração pesada, ela se força a ficar calma de novo.  
+1228|MÃE: Acho que já chega por hoje. 
+1229|VOCÊ: Você empurrou a Tiffany! 
+1230|MÃE: O quê?... Quem é Tiffany? 
+1231|VOCÊ: Você empurrou ela e o salva-vidas pra fora do caminho quando eu bati a cabeça na parede! 
+1232|MÃE: Você tinha se machucado! Você estava afundando na água, sem vida e— 
+1233|MÃE: Você quase se afogou! Igual ao seu pai, igual a quando ele— Você esqueceu disso? Esqueceu o que isso fez comigo? 
+1234|MÃE: Me desculpa se eu ter que ver você quase morrer te <i>envergonhou</i>. 
+1235|As lágrimas brotam nos cantos dos olhos dela. Ela as enxuga com raiva na manga do suéter. 
+1236|MÃE: Você já quase se afogou duas vezes. Eu tive que assistir, impotente, nas duas. 
+1237|VOCÊ: Espera... você tá falando do acidente? 
+1238|MÃE: Eu sei que você amava nadar, mas eu lembro como você ficou brava quando eu te obriguei a começar a nadar! Você pode achar uma nova "paixão". 
+1239|VOCÊ: Você disse que me salvou. 
+1240|VOCÊ: Ontem, quando você me contou do acidente, disse que aconteceu quando eu estava nadando. Você disse que me salvou. 
+1241|VOCÊ: Eu… eu me lembro agora, eu nado muito bem. Não consigo imaginar uma situação em que eu estaria em perigo. 
+1242|Ela tosse e desvia o olhar bruscamente. 
+1243|Você fecha os olhos e tenta pensar. Você vasculha a memória pra ver se tem alguma coisa na papa do seu cérebro que possa te dizer o que aconteceu. 
+1244|Na sua memória, você está cega e seu corpo está dormente. Você só consegue lembrar de uma tapeçaria entrelaçada de sons. 
+1245|MÃE: NIMA! Querida, acorda, você consegue me ouvir? 
+1246|???: Senhora, será que você poderia— 
+1247|Você ouve o baque de alguém sendo jogado contra metal e sente garras de falcão cravando nos seus ombros. 
+1248|MÃE: Por que você fez isso, querida? Olha a sua cabeça… A mamãe pode consertar isso, tá? A mamãe vai consertar isso. 
+1249|???: Que tal a gente deixar os paramédicos fazerem o trabalho deles? Eu te dou uma carona até o hospital. 
+1250|Uma voz gentil consegue tirar sua mãe dali, e você sente alívio ao ouvir os soluços dela ficando mais baixos enquanto a levam embora. Colocam gaze nos seus ferimentos. 
+1251|Você abre os olhos e vê o rosto preocupado da sua mãe. 
+1252|VOCÊ: Não foi você que me resgatou… foi a polícia. 
+1253|VOCÊ: Por que a polícia estava lá, afinal? O que aconteceu? 
+1254|MÃE: Eu não quero falar do acidente! 
+1255|MÃE: Não espero que você entenda o que eu tive que fazer pra te salvar. 
+1256|MÃE: Eu resumi os acontecimentos… <size=75%>Eu só queria que você me agradecesse. 
+1257|VOCÊ: Por que eu te agradeceria? 
+1258|Você se lembra de algo.
+1259|A competição de natação em 2006... Você venceu, mas a vitória custou um pequeno ferimento na cabeça. 
+1260|MÃE: O que tá acontecendo? 
+1261|Sua mãe estende a mão na sua direção e provoca um lampejo de déjà vu. Ela fez isso na competição de natação.
+1262|Ela jogou o salva-vidas pra fora do caminho e chorou enquanto te aninhava… te envergonhou na frente dos seus amigos. 
+1263|VOCÊ: Só um pouco tonta. 
+1264|Você tenta lembrar mais. Você aperta as pálpebras para bloquear a luz forte do porão. 
+1265|MÃE: Nima! Querida, acorda, você consegue me ouvir? 
+1266|MÃE: Por que você fez isso, querida? Olha a sua cabeça… A mamãe pode consertar isso, tá? A mamãe vai consertar isso. 
+1267|???: Sra. Lee, que tal a gente deixar os paramédicos fazerem o trabalho deles? Eu te dou uma carona até o hospital. 
+1268|VOCÊ: 2006… a competição de natação. Você jogou o salva-vidas pra fora do caminho pra chegar até mim. 
+1269|MÃE: Bom… eu estava preocupada com você. 
+1270|MÃE: Ótimo. Bom… eu só queria ter certeza de que você lembrava da sua história com a equipe de natação. Parece que você foi além e também lembrou por que parou de nadar. 
+1271|Isso responde à pergunta dela… mas você tem algo mais urgente pra perguntar. 
+1272|VOCÊ: Você me disse ontem que me salvou depois do acidente. Mas isso não é verdade, foi a polícia que me resgatou. 
+1273|Sua mãe tosse de repente e evita o seu olhar. 
+1274|MÃE: Nima, você estava em coma. Não tem como você saber o que— 
+1275|VOCÊ: Você atacou um dos paramédicos pra chegar até mim. O policial teve que te arrancar de lá. 
+1276|MÃE: Você ainda tinha consciência do que estava ao seu redor? 
+1277|Você assente e continua a perfurá-la com os olhos. Pela sua intensidade, deixa claro que ainda espera uma resposta. 
+1278|MÃE: Não espero que você entenda como a gente saiu de lá e chegou aqui… Tudo o que eu tive que fazer. 
+1279|MÃE: Eu só queria que você me agradecesse. 
+1280|Você sente o vento empurrando seu rosto enquanto avança a toda velocidade. Você não percebeu que o chão tinha sumido debaixo dos seus pés enquanto corria.
+1281|O grito da sua mãe ecoa no seu ouvido enquanto você cai.
+1282|Seus braços quebram no impacto. Seu crânio se estilhaça. Você fica à deriva, quase morta.
+1283|Então um policial te tira da água. Ele te leva de volta à margem e expulsa a água dos seus pulmões.
+1284|Sua mãe se lança sobre você, te arrancando das mãos dele.
+1285|Ela chora e se balança para frente e para trás enquanto o policial chama uma ambulância.
+1286|Você a ouve sussurrando pra você sem parar. Ela diz que tudo vai ficar bem.
+1287|Ela diz que vai consertar isso.
+1288|VOCÊ: Eu bati a cabeça. 
+1289|MÃE: Isso mesmo! Você nadou tão rápido na competição que bateu na parede. Foi por isso que você saiu do clube de natação. 
+1290|VOCÊ: Não. Outra coisa. Eu caí no rio. Um policial me resgatou da água. Você também estava lá, mas não me salvou. 
+1291|Sua mãe tropeça nas palavras quando você a pega na mentira. 
+1292|MÃE: Você estava em coma, como você poderia lembrar— 
+1293|VOCÊ: Eu lembro de tanta coisa daquele momento. Lembro de sentir a água primeiro - um frio violento se fechando em volta do meu nariz e da minha boca - antes de sentir a pedra entrando no meu couro cabeludo.   
+1294|VOCÊ: Eu lembro do formato dela tão nitidamente - meu crânio comprimido contra a forma rígida da pedra.
+1295|MÃE: Eu… 
+1296|VOCÊ: Ontem você me disse que me salvou, mas isso não é verdade. 
+1297|MÃE: Eu te salvei, sim. 
+1298|MÃE: <size=75%>Você estaria morta sem mim. 
+1299|MÃE: Não espero que você entenda o que eu fiz por você. 
+1300|MÃE: Acho que terminamos por hoje. 
+1301|Você olha para o plástico opaco dos óculos e se vê arrastada por uma correnteza de memórias. 
+1302|Você passou os melhores anos da sua vida nadando com seus amigos. 
+1303|Então algo aconteceu. Você vacilou, nadou com força demais e ensinou à sua mãe que nenhum esporte está livre de lesões por acaso… principalmente quando praticado em alto nível. 
+1304|Ela não gostou dessa lição. Ela te fez parar. 
+1305|VOCÊ: Acho que eu costumava nadar com os meus amigos. 
+1306|MÃE: Ah… 
+1307|MÃE: Desculpa, querida. Eu esperava que você lembrasse de outra coisa. 
+1308|VOCÊ: Tipo o quê? 
+1309|MÃE: Você nadava em competições. Você amava o esporte. Pra ser sincera, era até um pouco assustador. 
+1310|VOCÊ: Ah… acho que os meus amigos eram as outras crianças da minha equipe. Eu ainda falo com eles? 
+1311|MÃE: Não… Eles cortaram contato com você depois que você saiu. 
+1312|Você sente uma onda repentina de traição te invadir. 
+1313|MÃE: Eu esperava conseguir te lembrar do seu amor pela natação, e não das pessoas com quem você nadava. 
+1314|Ela pega os óculos e faz menção de guardá-los na bolsa. 
+1315|VOCÊ: Ei, mãe… Se eu era uma boa nadadora, o que aconteceu? No acidente, digo. 
+1316|MÃE: Eu não quero muito falar disso… Só espero que você tenha aprendido a lição agora. 
+1317|VOCÊ: Você tem algum problema com eu nadar? 
+1318|MÃE: De que serviu tudo aquilo? Nenhum daqueles anos de natação te ajudou de verdade quando você caiu no rio. Você ainda- 
+1319|VOCÊ: Bom, é, isso é superperigoso. Acho que eu sei muito bem que não se faz isso. 
+1320|MÃE: Eu disse que não quero falar do acidente! 
+1321|Ela balança a cabeça bruscamente e fecha os olhos. Com uma respiração pesada, ela se força a ficar calma de novo. 
+1322|VOCÊ: Eles me lembram de nadar por aí, dar um mergulho, entrar na água. 
+1323|Você dá de ombros. Há uma expectativa pairando sobre a apresentação do objeto.
+1324|Sua mãe os considera importantes. Insegura, você faz barulhinhos de estalo com a boca, um jeito brincalhão de espantar o silêncio do porão. 
+1325|MÃE: Essa é… uma associação razoável. 
+1326|A mãe parece murcha; está claro que ela esperava uma resposta mais precisa. 
+1327|MÃE: Nada mais pessoal? 
+1328|Claramente os óculos têm um propósito além da simples função. 
+1329|VOCÊ: Eu gosto de nadar. 
+1330|MÃE: Gosta mesmo. 
+1331|VOCÊ: Isso é meu? 
+1332|MÃE: Sim, eles são seus. 
+1333|Você tem uma vaga memória de entregar algo à sua mãe; os óculos estão embaçados e atrapalham sua visão. 
+1334|VOCÊ: Da nossa expedição de campo? Quando eu achei o fóssil? 
+1335|MÃE: Ah, eu não tinha pensado nisso. Você estava mesmo com eles quando achou o fóssil. 
+1336|MÃE: Tá bom, vai contra os testes, mas vou te dar uma dica. Cada teste de hoje foi sobre um aspecto diferente da sua vida.
+1337|MÃE: Primeiro foi o seu pai, depois eu, e agora isso tem a ver com outra <i>coisa.</i> 
+1338|VOCÊ: Eu? 
+1339|MÃE: Vou deixar você responder por si mesma. 
+1340|Seu pai morreu porque não sabia nadar. Sua mãe repetia sem parar que ele sempre dava risada quando ela tocava no assunto. "É pra isso que serve o barco." 
+1341|Depois do acidente dele, você foi imediatamente matriculada na natação. 
+1342|VOCÊ: Me lembra do que aconteceu com o Pai. 
+1343|MÃE: É… a mim também. 
+1344|MÃE: Ele era sempre tão tranquilo. Sempre achava que as coisas iam simplesmente se resolver. 
+1345|Há uma pontinha de raiva no tom dela que se derrete em culpa. 
+1346|MÃE: Você lembra do que aconteceu com você? 
+1347|Ela deixa a frase no ar, incentivando você a tentar de novo. 
+1348|O leve cheiro de cloro é muito reconfortante. 
+1349|VOCÊ: Eu amo nadar. 
+1350|MÃE: ...Claro. 
+1351|VOCÊ: Hmm, por que será? 
+1352|MÃE: Não tem pressa, tenho certeza de que você vai lembrar. 
+1353|VOCÊ: Eu não gosto de pensar em água. 
+1354|MÃE: Ah, é? Desculpa. Quer parar? 
+1355|MÃE: Eu esperava encerrar os testes de hoje com algo mais positivo, mas acho que posso ter cometido um erro. 
+1356|VOCÊ: Não é uma coisa ruim que você quer que eu lembre? 
+1357|MÃE: Não, com certeza não. 
+1358|Ia ser bem desagradável pra ela se você mencionasse como se afogou. 
+1359|Você se lembra do sonho estranho da noite anterior. 
+1360|O que é mesmo que os sussurros estavam te mandando pensar? 
+1361|VOCÊ: Hmm. 
+1362|Você pega os óculos e os coloca na boca, chupando o plástico. 
+1363|O gosto não é bom. Você cospe ao perceber que não é comestível. 
+1364|MÃE: Por quê?! 
+1365|VOCÊ: Tô explorando! 
+1366|MÃE: Para! 
+1367|O cheiro de cloro é reconfortante, mas também lembra vagamente um hospital esterilizado. É uma sensação estranha. 
+1368|MÃE: Você tá fazendo uma cara estranha. 
+1369|VOCÊ: Tô sentindo coisas estranhas. 
+1370|VOCÊ: Dá pra gente colocar eles no tubarão? 
+1371|MÃE: Por quê? 
+1372|VOCÊ: É meio engraçado, tipo, pra que um peixe ia precisar de óculos de natação? 
+1373|MÃE: Eu... Dá pra gente só focar nos óculos por enquanto? 
+1374|Os óculos parecem ser ao mesmo tempo uma coisa feliz e uma coisa triste pra você. É difícil de processar. 
+1375|Você tem uma memória de se mover muito rápido sob uma água azul-turquesa. Você sente que ninguém pode te parar, como se tivesse transcendido seu corpo humano e se tornado uma alma gêmea de um peixe. 
+1376|A memória te transmite algo. Você se sente mais viva do que nunca quando está nadando. 
+1377|Mas a água machuca os seus olhos. 
+1378|VOCÊ: Tenho que ir rápido. 
+1379|Há uma sensação estranha ao olhar para esses óculos. Você sabe que não tem relação, mas isso evoca uma sensação de estar presa. 
+1380|Você sabe que amava a água; agora sente como se ela fosse uma prisão. 
+1381|Você sente vontade de escapar, de voltar para a terra firme e esquecer seu amor pela natação. 
+1382|Você se ajeita desconfortável na cadeira, lembrando que ainda está presa. 
+1383|Só descubra o que ela quer ouvir e diga. 
+1384|VOCÊ: Qual é a dos óculos de natação, afinal? 
+1385|VOCÊ: Tipo, oi, pois é, meus olhos não funcionam bem debaixo d'água. 
+1386|VOCÊ: Se as pessoas fossem espertas, iam simplesmente entender que isso quer dizer que elas não deviam ir pra debaixo d'água. 
+1387|VOCÊ: Mas nããão, a gente tem que inventar olhos aquáticos secundários. 
+1388|MÃE: O quê… quem você tá citando? 
+1389|VOCÊ: Isso é tudo material original. 
+1390|MÃE: Nima, por favor, se concentra. 
+1391|A pedra é a bancada, e a sua cabeça é um ovo. <shake>Pá</shake>, <shake>splat</shake>, é assim que funciona. <bounce>Mexido</bounce> e servido fumegando no jantar. 
+1392|VOCÊ: Eu ainda tô bem confusa. 
+1393|Seus óculos de estimação, quanto tempo!
+1394|Você vai mesmo dizer pra ela que os óculos são seu bicho de estimação? 
+1395|Por favor, não passe vergonha. 
+1396|Deus <i>me livre</i> você se divertir um pouquinho por aqui. 
+1397|VOCÊ: Sabe o que é doido? 
+1398|MÃE: O quê, Nima? 
+1399|VOCÊ: Peixe não precisa de óculos de natação! 
+1400|MÃE: ...É, isso é verdade. 
+1401|VOCÊ: Não é muito doido!? 
+1402|MÃE: Os trilobitas tinham lentes duras de calcita cobrindo os olhos, então eles meio que tinham óculos embutidos. 
+1403|VOCÊ: Que massa! 
+1404|Algo importante sobre tempo. 
+1405|Você tem que nadar rápido pra fazer o melhor tempo. 
+1406|Mas isso não faz sentido, nadar é sempre o melhor passatempo. 
+1407|Você sente que pode estimular melhor seu cérebro usando os óculos do jeito que eles foram feitos pra ser usados. 
+1408|Você os pega da mesa e prende na cabeça. 
+1409|VOCÊ: Tô pronta pra mergulhar. 
+1410|Sua mãe quer te repreender por bobear durante a avaliação séria dela, mas o desagrado disfarçado se desfaz numa risada. 
+1411|MÃE: Para com isso, Nima. 
+1412|Ela estica o braço por cima da mesa e tira os óculos da sua cabeça. 
+1413|Você nada bem. Não, você nada <bounce>muito</bounce> bem. 
+1414|Isso é bem legal. 
+1415|Provavelmente é isso que a Mãe quer saber, o quanto você nada muito bem. Você tem aquele <b>Troféu</b> brilhante e tudo. 
+1416|Fazendo força pra lembrar das coisas, sua memória se intercala entre momentos felizes e assustadores da sua vida. 
+1417|Uma coisa chama sua atenção. 
+1418|É a voz de um estranho, um homem, chamando uma ambulância. 
+1419|Esquisito. 
+1420|Você tem um lampejo de sangue suspenso na água. No verde-água do rio glacial, parece que um pincel roxo foi arrastado pela água. 
+1421|Você não quer muito pensar nisso agora. 
+1422|Você está curtindo muito o som de fazer barulhinhos de estalo com a boca agora. 
+1423|Muito satisfatório. 
+1424|MÃE: Nima, por favor!  
+1425|MÃE: Só se concentra no teste. 
+1426|Pra que você precisa disso, afinal? Não dá pra ser normal e enxergar perfeitamente debaixo d'água? 
+1427|Você faz beicinho e inclina a cabeça pro lado. 
+1428|MÃE: Essa é difícil? 
+1429|VOCÊ: Meio que é. 
+1430|MÃE: Ah, é? 
+1431|É muito escuro no fundo do oceano. 
+1432|VOCÊ: Esqueci. 
+1433|MÃE: É... esse é o objetivo dos testes. 
+1434|VOCÊ: Ah, é. 
+1435|Tá, pensa, isso é um par de óculos de natação, eles são de plástico e são importantes pra você. 
+1436|O que é mais provável que ela esteja tentando te fazer dizer aqui? 
+1437|Natação é óbvio demais; deve ser alguma coisa relacionada à natação, algo que você valoriza muito. 
+1438|Esse objeto está ligado a uma atividade que te traz uma enorme alegria existencial. 
+1439|Mas toda essa alegria agora está manchada de perda. A água agora dá medo. 
+1440|Você era a mais rápida da equipe. 
+1441|Aí seus tempos começaram a piorar. Sua melhor amiga te traiu. 
+1442|Todo mundo olhava pra ela em vez de você. 
+1443|O treinador dizia que você tinha um destino. 
+1444|Você viu. Você num pódio com uma medalha de ouro na mão. 
+1445|Mais rápida que qualquer um. 
+1446|A Mãe tirou esse futuro de você. 
+1447|Ela se desliga imediatamente. Um olhar profundo e vazio ecoa no fundo dos olhos dela.
+1448|Ela pensa por um momento e então pega o caderno, folheando as páginas e resmungando sozinha. 
+1449|VOCÊ: Mãe? 
+1450|Ela se assusta e olha de volta pra você, aparentemente confusa por você não ter ido embora sozinha.  
+1451|MÃE: Pode ir. 
+1452|VOCÊ: Tá, hã. 
+1453|VOCÊ: Boa noite, Mãe... 
+1454|Sua mãe coloca o caderno na mesa e continua lendo. 
+1455|Você caminha em silêncio até o seu quarto e fecha a porta atrás de si. 
+1456|Você se enfia debaixo dos lençóis de olhos arregalados, encarando o teto e tentando ouvir qualquer pista dos movimentos da sua mãe. 
+1457|Você ouve as várias trancas da sua porta deslizando e se fechando, os resmungos dela e, por fim, o baque dos pés dela na escada. 
+1458|Enfim, você suspira, sua ansiedade se dissolvendo em exaustão. 
+1459|Ela se desliga imediatamente. Um olhar profundo e vazio ecoa no fundo dos olhos dela. Ela pensa por um momento e então pega o caderno, folheando as páginas e resmungando sozinha. 
+1460|Você se levanta e começa a voltar devagar para o seu quarto. 
+1461|Acha que consegue dar no pé por aquela porta? 
+1462|Você pondera, hesitando na indecisão. Ela parece desinteressada. Ela não tem como te impedir fisicamente. 
+1463|Ela ergue os olhos e te vê encarando a escada.  
+1464|MÃE: Você é a minha filha boazinha e feliz, Nima. 
+1465|Seu coração bate uma vez, fundo, forte o bastante pra você sentir nos pulmões. Você se recolhe depressa no quarto e fecha a porta atrás de si. 
+1466|VOCÊ: Boa noite, Mãe! 
+1467|Você se comportou mal. Ela não te ama mais. 
+1468|Você se enfia debaixo dos lençóis de olhos arregalados, encarando o teto e tentando ouvir qualquer pista dos movimentos da sua mãe. Você ouve as várias trancas da sua porta deslizando e se fechando, resmungos e, por fim, o baque dos pés dela na escada. 
+1469|Você espera por uma hora. Sua adrenalina se dissipa e, no rastro dela, você se vê caindo no sono. 
+1470|Você acorda na cama. Há pesos sobre os seus braços. Você tenta se contorcer, e seus braços forçam contra uma série de cordas apertadas que te mantêm imóvel. 
+1471|Relaxa, isso vai acabar logo. 
+1472|Sua mãe entra no quarto limpando uma faca de cozinha com um lenço antisséptico. 
+1473|MÃE: Você tá acordada? 
+1474|MÃE: Não usei anestesia suficiente, de novo. 
+1475|Você tenta gritar, mas descobre que está amordaçada. 
+1476|Ela se inclina sobre você, apoiando o joelho na sua barriga pra te prender e agarrando seu rosto com uma mão em garra. A faca se aproxima centímetro a centímetro do seu olho. 
+1477|MÃE: Tudo bem, você não precisa dela. 
+1478|A faca afunda no seu olho e, junto com a dor lancinante, você vê o brilho da ponta da faca refletido no interior do seu olho. Você sente o suco da sua retina escorrer pela lateral do rosto. 
+1479|Bom... sempre tem a próxima vez. 
+1480|Você se debate violentamente pra escapar. A faca atravessa seu olho, sai pelo fundo e entra nos nervos do seu cérebro. Sua vida termina com um estalo quando ela corta seu cérebro ao meio 
+1481|.. 
+1482|Sua mãe se desliga imediatamente. Um olhar profundo e vazio ecoa no fundo dos olhos dela. 
+1483|MÃE: Hmm. Você não tem demonstrado muito interesse nos testes. 
+1484|Seu estômago ronca alto. 
+1485|<bounce>C O M I D A 
+1486|VOCÊ: O corpo passou um dia sem nutrientes. Eu requisito algo fresco, algo escorregadio de suco. 
+1487|MÃE: Ah. 
+1488|Ela larga o caderno e junta as mãos. 
+1489|MÃE: Que tal amanhã a gente pular a bateria de testes de sempre e te dar uma comida gostosa? Você ia gostar? 
+1490|Não! Volta atrás, diz que estava citando um desenho animado ou algo assim. 
+1491|VOCÊ: SIM! 
+1492|Você agarra a mesa e canaliza sua empolgação nela. A mesa treme enquanto você range os dentes num sorriso insano. 
+1493|<bounce>H O R A   D A   C O M I D A 
+1494|MÃE: Tá bom, então vai pra cama. Se você se comportar mal, não vai ganhar nenhuma guloseima. 
+1495|Você se solta e corre pro quarto. 
+1496|Você pula na cama e agita os braços e as pernas pra transformar os cobertores num ninho. 
+1497|Você ouve sua mãe dar uma risadinha e trancar a porta do seu quarto. 
+1498|Pô... eu odeio a comida dela. 
+1499|Toda comida é comida boa! 

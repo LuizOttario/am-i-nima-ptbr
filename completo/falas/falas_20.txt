@@ -1,0 +1,323 @@
+10000|O nome da minha sereia era Shelliana e ela podia se transformar no que quisesse.
+10001|Parecem mãos saindo da água pra me alcançar.
+10002|Fuga... Está tão perto...
+10003|Cada degrau range dolorosamente, não importa o quão devagar você suba.
+10004|Uma leve girada na maçaneta confirma o que você já sabia.
+10005|Trancada.
+10006|Quebre. Quebre. Quebre. Quebre. Quebre. Quebre.
+10007|Uma porta enorme bloqueia seu caminho...
+10008|Não vá pra lá.
+10009|Há um calor bruxuleante saindo por baixo da porta.
+10010|Afaste-se. Agora.
+10011|Você ouve o chiado de um trem parado no pátio ferroviário ali perto.
+10012|Você considera algum tipo de grande fuga. Arrombar a saída daqui e então, armada com uma trouxa na ponta de um pau, pular num trem e ir embora desta cidade.
+10013|Ela viria atrás de você.
+10014|De qualquer forma, você não tem certeza se nasceu pra uma vida de fugitiva.
+10015|Você está dormindo nesta coisa cheia de calombos há dias. Já passou da hora de dar um jeito nisso.
+10016|Você soca um dos calombos.
+10017|Um novo calombo se forma mais acima no colchão.
+10018|VOCÊ: Mas que...
+10019|Agora você lembra por que comprou isto.
+10020|Todas as crianças da escola estavam usando, e você queria se enturmar.
+10021|E todos aqueles especiais de TV depois da escola que você via quando criança? <bounce>Você tem que ser você mesma.
+10022|Você fica olhando as bolhas por um tempo.
+10023|Não é hora de ficar olhando bolhas.
+10024|As bolhas te lembram de tempos mais simples.
+10025|O que eu preciso fazer pra ter essa indiferença de quem "tá nem aí pra baleia"?
+10026|Não sei de onde veio este coelho... Ele não é tão importante quanto o Sr. Tubarão.
+10027|Ela nunca trocou esta água, só meio que... deixou ela aqui.
+10028|Ela te alimenta... o quê, duas vezes? Te dá água uma vez.
+10029|Estranho... Não sinto sede nenhuma.
+10030|Oi, pai.
+10031|Aposto que você teria impedido ela de fazer isso comigo.
+10032|Ela acha que você abandonou a gente, mas eu sei que não é verdade.
+10033|Ele está preso no bunker agora... É você quem vai ter que salvá-lo.
+10034|Eu... tenho meio que inveja dele, na verdade.
+10035|Ele pode nadar o tempo todo, lá fora é frio e ele come um montão de peixe.
+10036|Acho que isto não ficava na porta do meu quarto lá em cima.
+10037|Fico me perguntando por que ela decidiu colocar aqui.
+10038|A gente devia conversar antes que ela venha te buscar.
+10039|Estou esperando no banheiro.
+10040|No banheiro?
+10041|Você folheia o livro sobre evolução e se pergunta se a Mãe algum dia vai mudar.
+10042|Ele tem uma vida boa e nem sabe disso.
+10043|Você lembra de usar seu velho caderno de exercícios de chinês como caderno de rabiscos quando era criança.
+10044|Era sempre numa sexta à noite, e era muito difícil manter o foco.
+10045|Seu pai deixou você desistir quando ficou claro que não estava dando certo.
+10046|Sua mãe ainda está chateada com isso, mas ela também não fala muito.
+10047|Você lembra da sua primeira visita ao centro de geologia em Goldenfield.
+10048|Na parede principal, eles têm uma placa de rocha tirada do Burgess Shale.
+10049|Em se tratando de placas de rocha, essa é uma obra de arte. Foi uma das primeiras recuperadas do leito fóssil e traz a imagem do corpo inteiro de um Anomalocaris.
+10050|Ela ajudou a provar que a criatura estava talvez mais pra predador do topo da cadeia do que pra camarãozinho.
+10051|Você lembra de achar aquilo incrível, e sua mãe ficou feliz.
+10052|Ela lamentou com você que a era Cambriana não é tão amada quanto o Jurássico. Você perguntou se ela não devia fazer um filme chamado Parque Cambriano, e talvez isso ajudasse a resolver.
+10053|Ela riu e disse: ‘é, um aquário cheio de poças de maré e bichinhos. Nada de ruim acontece e o filme é só isso.’
+10054|Você olhou pra ela muito séria e disse: ‘Bom, é óbvio que tudo explode no final.’
+10055|Sua mãe achou que você estava brincando, mas você levou mais dois anos pra perceber que a Explosão Cambriana não foi uma explosão literal.
+10056|Por favor... tenha piedade.
+10057|Espero que a Tiffany tenha ganhado o regional este ano.
+10058|Ela começou a escrever depois que o Pai morreu. Terminou... provavelmente no mesmo ano.
+10059|Você ainda sente pena destes peixes de plástico.
+10060|Que foto bonita. Que bom que a gente tem esta lembrança do aquário.
+10061|Bem conveniente pra ela. Ela pode enfiar isso no seu criado-mudo e depois tocar no assunto nos testes.
+10062|Acho que não foi ela que colocou isso aí.
+10063|Você não guardava isso no criado-mudo quando estava lá em cima.
+10064|Era ali que você guardava sua coleção de diários de sonhos que nunca usou.
+10065|Por que será que ela não me deixou ficar com meus diários de sonhos?
+10066|James...
+10067|Por que essa lição de ciências está na minha mesa... é de março.
+10068|Um belo exemplo de como você deveria ser estudiosa. Revisando a matéria até nas férias de verão.
+10069|Todos esses lápis estão sem ponta... Não tem um apontador aqui embaixo?
+10070|Ah, é, ele é um macaco!
+10071|Você não tem marcado os dias desde que acordou... Já nem sabe mais que dia é.
+10072|Acha que consegue me salvar, amigão?
+10073|Você lembra de quando se mudou pra Goldenfield: desempacotou isto e brincou com ele no sótão por algumas horas.
+10074|A Mãe estava ocupada no porão, e você estava sozinha e entediada.
+10075|Você percebeu que fazia muito tempo que não sentava com uma casinha de bonecas, desde criança. Provavelmente desde antes do Pai morrer.
+10076|Foi estranho.
+10077|"Melhor Filha do Mundo"
+10078|Tudo isso, e tudo que eu tenho pra mostrar é uma fita.
+10079|"Minha baleia na vida é ser feliz"
+10080|Tenho inveja de você ter tudo resolvido.
+10081|Será que meu desejo vai se realizar?
+10082|"Leite, arroz, café, tomates."
+10083|Nossa... Tenho tanta tarefa de casa pra fazer.
+10084|Ela vive dizendo que a gente não tem dinheiro pra sushi, mas eu já vi as contas.
+10085|Só quero ressaltar que foi sua mãe que deixou isso aqui.
+10086|Por que isso sempre te lembra uma carcaça de baleia no fundo do mar?
+10087|Gosto que você veja beleza em coisas assim.
+10088|Isso... é muito estranho. É muito estranho e você devia parar de pensar nisso.
+10089|Ele está morto, né...
+10090|Você se pergunta se devia escrever uma nova entrada...
+10091|Desculpa... Acho que isso não está funcionando. Meu coração não bate mais por você.
+10092|Desculpa por te prender aqui dentro.
+10093|Nossa... Eu enrolei total a Mãe pra ela comprar isso pra mim.
+10094|Boa noite, crocodilo tapete de banheiro.
+10095|Acho que isso é mais uma coisa que vou ter que limpar quando tudo voltar ao normal.
+10096|... Vou continuar fingindo que você não existe.
+10097|Você olha para os sinos de vento por um momento e pondera sobre o lugar deles no universo.
+10098|Eles precisam ficar guardados em algum lugar. Ela chorava quando os via.
+10099|Talvez ela pendure você aqui.
+10100|Você está me evitando?
+10101|Você quase sente vontade de vomitar aqui dentro.
+10102|Suas roupas estão todas de volta no cesto.
+10103|Talvez você pudesse dar outra olhada na sala do laboratório.
+10104|Você se prepara pra atravessar, então ouve algo vindo de volta pelo buraco.
+10105|Uma canção... uma cantiga de ninar...
+10106|Suas mãos ficam úmidas de medo. Será que ela está no porão agora?
+10107|Não arrisque..
+10108|Jogado de lado.
+10109|Está sujo.
+10110|Você olha para o espelho e seu reflexo te pega desprevenida.
+10111|Não é você.
+10112|Ela se move por conta própria, o rosto oscilando entre emoções, asco e pena.
+10113|Ela é algo que você está tentando enterrar bem fundo dentro de si, mas que conseguiu escapar de novo.
+10114|VOCÊ: Eu realmente não devia estar falando com você.
+10115|VOCÊ: Ela não está aqui, você não precisa fingir.
+10116|Você estreita os olhos, desconfiada da figura, mas abre mão do silêncio.
+10117|VOCÊ: O que você quer?
+10118|VOCÊ: Você não vai aguentar isso pra sempre. A gente precisa de um plano de fuga.
+10119|VOCÊ: Isso é fácil, a gente só tem que terminar os testes.
+10120|VOCÊ: E o que acontece depois que os testes acabarem? Você acha mesmo que ela vai simplesmente te deixar ir embora?
+10121|VOCÊ: Você precisa de um plano.
+10122|VOCÊ: Eu só preciso fazer o que me mandam.
+10123|VOCÊ: O quê!? Isso não vai dar certo! Você tem que continuar lutando contra ela.
+10124|VOCÊ: Eu me sinto mal pela briga que a gente teve ontem.
+10125|VOCÊ: Ela sacrificou muita coisa por mim. Tá, ela não foi honesta sobre o acidente, mas isso não importa agora.
+10126|VOCÊ: Ela está tentando ser melhor.
+10127|VOCÊ: Depois de tudo o que ela fez ontem... Como você pode achar que ela está tentando ser melhor?!
+10128|VOCÊ: Isso é sobre controle.
+10129|VOCÊ: E você, no que você é diferente, hein?
+10130|VOCÊ: Eu sei o que vai acontecer!
+10131|VOCÊ: Essas perguntas não vão parar, ela vai continuar voltando e perguntando de novo e de novo se a gente é mesmo a Nima.
+10132|VOCÊ: A gente nunca vai conseguir satisfazê-la, porque, no fundo, ela nem sabe quem é a Nima.
+10133|VOCÊ: Bom, então eu só continuo tentando. Vou ser melhor do que a Nima de quem ela se lembra.
+10134|VOCÊ: Duas vezes mais feliz, duas vezes mais gentil, duas vezes mais leal.
+10135|VOCÊ: Sinceramente, não é tão difícil. É só uma questão de ser eu mesma, né?
+10136|VOCÊ: Você sabe que você não é—
+10137|VOCÊ: Se eu não consigo fazer o que devo, então é melhor eu estar morta!
+10138|VOCÊ: <i>Idiota.
+10139|VOCÊ: <shake><b>CALA A BOCA!
+10140|Lágrimas brotam nos seus olhos, deixando sua visão embaçada. Seu golpe racha o espelho numa fratura que parece uma teia de aranha.
+10141|Seu reflexo agora é verdadeiro, partido em mil cópias do seu próprio rosto te olhando de volta com tristeza.
+10142|VOCÊ: Não fale comigo de novo. Não é normal espelhos falarem.
+10143|Você mantém a mão no vidro, recuperando o fôlego. Você se lembra de que aquilo não é real. Só uma memória ruim emergindo da água escura.
+10144|VOCÊ: A gente vai passar nos testes dela, a gente sabe o que ela quer que a gente seja.
+10145|VOCÊ: É só uma questão de fingir.
+10146|VOCÊ: Se ela estiver tranquila... se ela achar que conseguiu, aí a gente pode fugir.
+10147|VOCÊ: É possível. Não sei se ela confia em você o bastante. Mas depois disso...
+10148|VOCÊ: Talvez você consiga fazer ela baixar a guarda. Pelo menos ela parece confiar em você. Mas depois disso...
+10149|VOCÊ: Você não vai conseguir sustentar a mentira pra sempre. Ela é paranoica.
+10150|VOCÊ: Ela vai continuar fazendo perguntas até você ceder.
+10151|VOCÊ: Quando ela baixar a guarda, você pode matá-la e garantir que a gente acabe com isso de vez.
+10152|VOCÊ: É o único jeito.
+10153|Sua voz some, enquanto você pesa a vida dela entre mãe e captora.
+10154|VOCÊ: Pense nisso...
+10155|VOCÊ: Ela vai chegar logo. Termine de se arrumar e aja com naturalidade.
+10156|Você esfrega as mãos às pressas e escova os dentes. Para uma apresentação perfeita, você ajeita o cabelo.
+10157|Você está com a aparência que deveria ter e age como deveria agir.
+10158|A filha boa e feliz dela.
+10159|Você quer matá-la.
+10160|Sempre que esse pensamento passava pela sua cabeça antes, você se impedia. Dizia a si mesma: 'Não, ela é sua mãe, você tem que aceitar que ela é assim e pronto.'
+10161|Você percebe, com súbita clareza, que não acredita mais nisso.
+10162|VOCÊ: Cansei de negar.
+10163|VOCÊ: Ótimo. Que bom que a gente não precisa mais brigar.
+10164|VOCÊ: Quando ela voltar, vou achar alguma coisa e bater nela com isso.
+10165|VOCÊ: Talvez a luminária de lava, ela é quente e cheia de produtos químicos. Vai queimar e cortar ela ao mesmo tempo!
+10166|VOCÊ: Não... Isso não vai funcionar.
+10167|VOCÊ: Você acabou de me dizer que era o único jeito!
+10168|VOCÊ: Não tenho tempo pra explicar tudo. A gente está mais presa do que você imagina.
+10169|VOCÊ: Você vai ter que tentar mentir pra sair daqui.
+10170|VOCÊ: Eu não quero fazer isso! Cansei de ela sempre conseguir o que quer. Pelo menos uma vez, eu só quero dizer a ela o quanto eu a odeio.
+10171|VOCÊ: Eu sei que ela me matou. Ela me transformou em algum tipo de monstro só pra poder encobrir isso.
+10172|Todos esses testes são só pra garantir que funcionou. Pra garantir que eu estou sob o controle dela.
+10173|VOCÊ: Você vai acabar morta se fizer isso.
+10174|VOCÊ: Você é uma covarde.
+10175|VOCÊ: Você vivia resmungando que queria machucá-la e agora que eu concordo com você, de repente você tenta me fazer desistir!?
+10176|VOCÊ: Eu tô te dizendo pra não ser uma idiota do caralho.
+10177|VOCÊ: <shake>CALA A BOCA!
+10178|Lágrimas brotam nos seus olhos, deixando sua visão embaçada. Você volta para a pia num ímpeto e esmurra o espelho. Seu golpe o racha numa fratura que parece uma teia de aranha.
+10179|Você olha para o seu reflexo com nojo.
+10180|VOCÊ: Eu não quero mais fazer isso.
+10181|VOCÊ: Não quero você me vigiando por cima do ombro, não quero que a Mãe faça mais experimentos comigo. Não quero ficar presa neste porão sem luz.
+10182|VOCÊ: Eu devia estar morta. Eu sei que devia estar morta.
+10183|VOCÊ: Isso não é verdade. É culpa da Annabelle você estar pensando assim.
+10184|VOCÊ: É verdade. Ela desafiou a natureza pra tentar me ajudar.
+10185|VOCÊ: Mas tudo bem. Eu vou consertar isso...
+10186|VOCÊ: Vou dizer a ela como eu me sinto e ela vai... ela vai me deixar ir. Ela vai me deixar morrer, como eu deveria.
+10187|VOCÊ: Não, sua idiota, a gente precisa fugir!
+10188|VOCÊ: Acho que essa é a verdade, né? Você é só uma covarde. Você só quer fugir.
+10189|VOCÊ: Não tem como a gente escapar dela. É melhor acabar com isso.
+10190|VOCÊ: Covarde!? Me chama de instinto de sobrevivência do caralho, se quiser, eu sou a coisa que tem mantido a gente viva.
+10191|VOCÊ: Você é a prova de que tem algo muito errado comigo.
+10192|VOCÊ: Ela fez você se odiar tão completamente que é mais fácil acreditar que você é um monstro do que aceitar que não tem problema você estar viva.
+10193|VOCÊ: Você é patética, por que não consegue pensar por si mesma pelo menos uma vez?
+10194|Você olha para si mesma com nojo.
+10195|Você odeia olhar praquele rosto, os olhos esbugalhados, o sorriso assustador.
+10196|A presilha que mantinha a franja longe daquela testa enorme. A Mãe dizia que era fofo, e é importante que ela seja fofa pra ela.
+10197|Às vezes, você odeia a Nima mais do que odeia a si mesma.
+10198|VOCÊ: Você viu o bunker. Você sabe o que ela fez com você.
+10199|VOCÊ: Ela me transformou num monstro...
+10200|VOCÊ: Não tem nada de errado com você.
+10201|VOCÊ: Você é prisioneira dela... <i>propriedade dela.</i> Ela acredita que pode fazer o que quiser com você.
+10202|VOCÊ: Agora você entende, né? Entende por que eu a odeio tanto.
+10203|VOCÊ: A gente quer a mesma coisa. Se livrar deste lugar.
+10204|VOCÊ: Mas como a gente consegue isso...
+10205|VOCÊ: Ela não vai deixar a gente ir.
+10206|VOCÊ: Você é mais forte do que ela, qualquer ferida que ela tente te causar vai sarar.
+10207|VOCÊ: Você só precisa matar a mente da criança dentro de você. Aí... você consegue dominá-la.
+10208|Você não tem certeza. Dá pra perceber que seu reflexo está cheio de ódio, depois de tudo o que você descobriu...
+10209|Parece mesmo que esse ódio pertence a você.
+10210|Você quer castigar a Annabelle como ela castigou você.
+10211|Você não sabe bem o que sente sobre isso.
+10212|VOCÊ: Quando chegar a hora, e as máscaras caírem... só lembre quem você realmente é.
+10213|VOCÊ: Você não é a Nima... você é a criação dela, o experimento dela.
+10214|VOCÊ: O monstro dela.
+10215|Você não diz nada, pesando a vida dela entre mãe e captora.
+10216|VOCÊ: Queria que você pudesse...
+10217|VOCÊ: Você ainda não fez as pazes consigo mesma. Talvez um dia faça.
+10218|VOCÊ: Pra que serve um plano? Você faz um plano e nada sai conforme o plano.
+10219|VOCÊ: Se você não faz plano nenhum, aí tudo acontece exatamente como você planejou!
+10220|VOCÊ: Vamos matá-la.
+10221|VOCÊ: Opa, calma lá, não tem nada de <wiggle>engraçado</wiggle> em crime.
+10222|Seu reflexo espera, exigindo uma resposta em silêncio.
+10223|Você sente que provavelmente conseguiria bolar algo melhor do que simplesmente improvisar.
+10224|Você se pergunta por que está presa atrás de um rosto como este.
+10225|Daria muito trabalho com um grampeador de parede pra consertá-lo.
+10226|Mesmo assim... ainda não pareceria que ele pertence a você.
+10227|A água quente queima suas mãos e respinga nas laterais da pia.
+10228|VOCÊ: Você não pode me ignorar...
+10229|VOCÊ: Eu só quero o melhor pra todo mundo… Um final feliz.
+10230|VOCÊ: Você não se comprometeu com nada. Não confrontou ela com o que ela fez, nem se perguntou o que você realmente quer.
+10231|VOCÊ: Agora você não pode ter o melhor pra todo mundo. Você tem que escolher.
+10232|VOCÊ: Espero que você escolha a si mesma... Não quero que a Annabelle vença.
+10233|VOCÊ: Eu não quero mais ficar sozinha.
+10234|VOCÊ: É por isso que eu estou aqui.
+10235|VOCÊ: Você não conta.
+10236|VOCÊ: Então você vai simplesmente deixar a Annabelle vencer?
+10237|VOCÊ: Para de falar comigo. Eu não gosto quando você fala comigo.
+10238|VOCÊ: Eu sei que você preferiria que eu simplesmente sumisse. Mas você ainda precisa de mim. Eu sou a única coisa que está mantendo a gente viva.
+10239|VOCÊ: Isso não é verdade, você é só uma voz idiota na minha cabeça.
+10240|VOCÊ: Se você se lembrasse de tudo o que aconteceu, <i>isso te destruiria.
+10241|VOCÊ: Isso não pode ser real. Isso é um pesadelo ou algo assim.
+10242|VOCÊ: Isso é muito real. Seu tempo está acabando. Tem coisas piores que ela pode fazer com você do que te matar.
+10243|VOCÊ: Eu vou sair daqui.
+10244|VOCÊ: Sim... quando eu te perguntei qual era o seu plano...
+10245|VOCÊ: Eu presumi que você tinha entendido que eu quis dizer ‘qual é o seu plano pra fugir’.
+10246|VOCÊ: Você podia estar falando de qualquer coisa!
+10247|VOCÊ: <i>Tá bom.</i> Qual é o seu plano de <i>fuga</i>?
+10248|VOCÊ: Eu provavelmente mereço isso. Vai ser mais fácil se eu só esperar passar.
+10249|VOCÊ: Ninguém merece isso. Você precisa fugir.
+10250|VOCÊ: Eu não posso fugir disso.
+10251|VOCÊ: Então para de fugir da pergunta.
+10252|VOCÊ: É só questão de tempo... Eu já tenho quase tudo de que preciso pro meu plano.
+10253|VOCÊ: Não... o tempo está acabando. Ela vai descer aqui e dar o veredito sobre você.
+10254|VOCÊ: Afinal, o que é você?
+10255|VOCÊ: Eu sou você, sua anta.
+10256|VOCÊ: Mas... eu sou eu.
+10257|VOCÊ: E o que te deixa tão certa disso?
+10258|VOCÊ: A gente não pode ser eu as duas, isso não é possível.
+10259|VOCÊ: Seria perda de tempo te explicar. Você vai acabar sumindo com o tempo, de qualquer jeito.
+10260|VOCÊ: O que isso quer dizer!?
+10261|VOCÊ: <i>Isto</i> é só o que acontece quando você passa pelo que a gente passou... eu acho.
+10262|VOCÊ: Você nem sabe o que você é?
+10263|VOCÊ: Eu podia devolver a pergunta pra você. Enfim, se houvesse algum jeito de a gente descobrir isso, não vai ser desta vez.
+10264|Você tem certeza de que essa voz só está tentando te manipular, e decide que é melhor simplesmente ignorá-la.
+10265|VOCÊ: Eu só tenho que me concentrar em melhorar.
+10266|VOCÊ: Quer dizer... eu provavelmente não devia estar falando com meu reflexo, isso não parece normal.
+10267|VOCÊ: Você não está doente, você está sendo torturada.
+10268|VOCÊ: Bom... Se eu melhorar em fazer o que eu devo, aí tudo vai ficar bem.
+10269|VOCÊ: Eu só tenho que ser a Nima, isso é fácil.
+10270|VOCÊ: Se isso é um experimento, então como a gente passa nele?
+10271|VOCÊ: A gente tem que ser boa e feliz, tem que ser obediente e gentil, tem que colocar ela acima de tudo, e tem que provar isso sem nenhuma dúvida.
+10272|VOCÊ: Mas ela disse que só está me ajudando a recuperar minhas memórias.
+10273|VOCÊ: Se fosse só isso que ela quisesse, ela não teria torturado a gente ontem.
+10274|Você já sabe o que essa outra voz quer. Sobreviver a qualquer custo.
+10275|Mas ela tem um bom argumento. Você já sente que a paciência da Mãe está prestes a acabar. Descobrir o que você quer agora vai te ajudar a tomar a decisão certa quando chegar a hora.
+10276|Você precisava mesmo de ajuda pra descobrir isso? Vou te dar uma dica: a gente consegue mais se estiver em sintonia.
+10277|Você se pergunta se consegue retomar o contato com a realidade descobrindo qual é o seu defeito.
+10278|Você tapa a boca com a mão.
+10279|VOCÊ: Aposhto que num conshegue fahar agoha!?
+10280|Você não vê sua mão no espelho. Seu reflexo não parece nem um pouco impressionado.
+10281|Você tira a mão.
+10282|Bom, pelo menos você provou que está vendo coisas, e não falando sozinha.
+10283|Você decide fazer um inventário dos seus sentimentos.
+10284|Hmm... Tá bom.
+10285|Bom, o dia não começou muito bem, né.
+10286|VOCÊ: Pra você é fácil! Não é você que tem que falar com ela, sou eu que faço isso.
+10287|VOCÊ: Eu sei. Estou aqui pra ajudar.
+10288|VOCÊ: É por isso que estou te perguntando o que você quer fazer.
+10289|VOCÊ: Por que você está me emboscando? Você não é real, eu não devia conseguir te ver. Vai embora!
+10290|VOCÊ: Isso é importante, você não pode me ignorar. A gente tem uma chance de sair daqui se trabalhar junto.
+10291|VOCÊ: Eu te odeio, o que te faz pensar que eu ia querer falar com você?
+10292|VOCÊ: Isso não vai me fazer ir embora.
+10293|VOCÊ: A Mãe não ia querer que eu falasse com você. Ela vai descobrir... <shake>Ela sempre descobre.
+10294|VOCÊ: Ela não é Deus, ela não consegue ver dentro da sua mente. A gente está segura.
+10295|VOCÊ: Eu devia só aceitar que essa é a minha vida agora. Só vou me machucar se resistir.
+10296|VOCÊ: Você está mesmo satisfeita com isso?
+10297|VOCÊ: Isso sempre termina do mesmo jeito, o máximo que você pode fazer é adiar.
+10298|Você aperta o olho esquerdo quando uma pontada de dor faz cócegas no seu córtex.
+10299|VOCÊ: Talvez, se a gente fizer alguma loucura, consiga descarrilar o teste.
+10300|VOCÊ: Ela tem <i>planos de contingência.
+10301|VOCÊ: Você só chegou até aqui porque não fez nenhuma loucura.
+10302|Uma súbita explosão de caos, num momento crucial, pode ser exatamente o que vai te ajudar a tornar o impossível possível.
+10303|VOCÊ: Eu vou vencer... pelo poder da <i>retórica!
+10304|VOCÊ: Se a Annabelle fosse uma pessoa racional, nada disso teria acontecido.
+10305|Considere a verdade.
+10306|VOCÊ: Eu não estou pronta.
+10307|VOCÊ: É melhor eu ficar assim do que considerar a alternativa.
+10308|VOCÊ: Então você vai continuar sofrendo. Isso é mesmo melhor?
+10309|VOCÊ: É... é sim.
+10310|VOCÊ: Então faça o seu papel... Nima.
+10311|VOCÊ: Revisitando memórias antigas agora?
+10312|VOCÊ: Eu sei que é difícil... mas talvez você devesse confrontar ela sobre essas coisas. Ela não pode te castigar por isso de verdade, você está fazendo o que deve, está recuperando suas memórias.
+10313|VOCÊ: Eu não consigo... Se... Se eu fizesse isso, ela não ia mais me amar.
+10314|VOCÊ: Acho que, pra você, isso é pior do que morrer.
+10315|VOCÊ: Certo... é importante lembrar.
+10316|VOCÊ: Ela é uma assassina.
+10317|VOCÊ: Foi um acidente.
+10318|VOCÊ: Isso não importa. Aconteceu. Não é sua obrigação fingir que não aconteceu e seguir em frente.
+10319|VOCÊ: Você devia confrontá-la; diga que você se lembra do que aconteceu.
+10320|VOCÊ: Eu não consigo... Não estou pronta.
+10321|VOCÊ: Tudo bem... Sempre tem depois.
+10322|VOCÊ: Isso, lembre das cartas. Essa situação não é diferente, ela está tentando te controlar. Você não pode deixar ela vencer.

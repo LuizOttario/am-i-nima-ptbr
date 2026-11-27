@@ -1,0 +1,500 @@
+6000|Eles cantavam músicas e tudo.
+6001|O filme inteiro passa na sua cabeça e você balança um pouco no ritmo de uma música que meio que simplesmente vem até você.
+6002|VOCÊ: Desculpa... música chiclete.
+6003|MÃE: Nem me fala, não quero pegar.
+6004|Existem lugares piores para se estar do que o porão.
+6005|Ela poderia ter te colocado numa caixa de vidro, te erguido sob uma luz forte para ver como sua pele brilhava.
+6006|Ela poderia ter te colocado numa carapaça justa ao corpo. Deixando visível apenas o seu rosto, para que você pudesse responder às perguntas dela.
+6007|Como é que se chama?
+6008|Não há nenhuma palavra no seu cérebro que corresponda.
+6009|É uma luz longa e achatada. É usada por artesãos para enxergarem melhor o trabalho.
+6010|Sua carne queima sob a intensidade dela. Como é que se chama?
+6011|Nada vem à mente.
+6012|Você tenta se controlar. Pisca algumas vezes.
+6013|Este dia inteiro pareceu um sonho. Desde o momento em que você acordou até agora.
+6014|Você olha para as fatias de carne suculenta dispostas à sua frente.
+6015|É um presente, uma coisa gentil.
+6016|Está tentando te dizer alguma coisa.
+6017|Que ridículo, é só um gesto gentil.
+6018|É um sonho acordado, um símbolo do seu confinamento, um símbolo da sua dor.
+6019|Isso não existe.
+6020|Sim. Concordo. Você não pode se distrair agora.
+6021|É uma coisa vergonhosa.
+6022|Estar aqui.
+6023|Ter sobrevivido.
+6024|Você se lembra de uma coisa ruim.
+6025|Depois que seu pai morreu... você pegou o Garoto Tomate e abriu ele ao meio.
+6026|Você tirou todo o enchimento com cuidado e empilhou do lado dele.
+6027|Você não sabe bem por que fez isso. Talvez quisesse descobrir se ele tinha mesmo um coração de herói.
+6028|Sua mãe ficou brava com você, mas acabou comprando um novo.
+6029|A marrella, uma adição tardia ao caderno de desenhos do cânone da Nima.
+6030|Um personagem inspirado na pesquisa da Annabelle; essa criaturinha pode parecer comum, mas tem um poder secreto.
+6031|Quando a situação exige, ele pode se transformar usando o poder do seu <i>Coração de Herói</i>
+6032|Isso seria legal, tipo um robozão.
+6033|Forte o bastante para enfrentar os monstros.
+6034|Você sente cheiro de sangue por algum motivo.
+6035|Você olha para o outro lado da mesa e vê umas manchas suspeitas nas mangas da sua mãe.
+6036|Fazendo coisas esquisitas de vampiro de novo, você imagina.
+6037|Em todos os desenhos do seu caderno, James Pond era um espião. Difícil fazer isso sendo um peixe.
+6038|O maior disfarce dele era o de uma menina adolescente humilde e despretensiosa.
+6039|Ninguém desconfiou de nada.
+6040|O mundo respira devagar. Tão devagar que, desde o princípio, só agora conseguiu expirar.
+6041|Dá para sentir, se você fechar os olhos e encostar o ouvido na pedra.
+6042|O pulsar de um coração vulcânico, o tremor de um músculo litosférico.
+6043|As coisas se movem devagar, tão devagar que são invisíveis para quem vive a vida rápido demais.
+6044|Você presta atenção no seu corpo.
+6045|Sua pele está arrepiada, parece que o tempo está passando mais devagar que o normal. Seu coração está acelerado, se preparando para você sair correndo.
+6046|Parece não haver motivo nenhum para você se sentir assim.
+6047|Você pensa em como se sente.
+6048|Isso não faz o menor sentido...
+6049|Você devia tirar um tempo para só... relaxar e se acalmar.
+6050|Não temos tempo suficiente para isso.
+6051|Você examina o padrão na carne mais de perto.
+6052|Recorrendo ao conhecimento do seu cérebro de nerd de peixes, você o reconhece como um padrão de Turing, como o das costas de uma cavala.
+6053|Mas normalmente não se vê isso em uma carpa koi.
+6054|Não parece seguro comer isso.
+6055|Você precisa se concentrar.
+6056|Você precisa comer essa coisa, só... pare de respirar e se concentre em passar por isso.
+6057|Você se lembra de um som gostoso, um zumbido como o ronronar de um gato.
+6058|Um hálito frio sobre sua pele ensanguentada.
+6059|MÃE: Acho que, no fim das contas... você é só mais um fracasso.
+6060|MÃE: Você foi tão bem... Você personificou tudo o que a Nima deveria ser. Feliz, madura, amorosa, correta, e sua memória era boa também.
+6061|Num movimento rápido, ela saca um espeto escondido e o aponta para o seu rosto.
+6062|VOCÊ: Mãe... O que você está fazendo?
+6063|MÃE: Achei que finalmente tínhamos conseguido. Achei que tinha acabado, mas... <i>sempre</i> tem alguma coisa errada com você.
+6064|MÃE: <b><shake>Chega!
+6065|MÃE: Cansei de discutir com você! Isso tudo é tão inútil.
+6066|MÃE: Eu tentei de novo e de novo fazer isso dar certo, mas toda vez sempre tem alguma coisa errada com você.
+6067|Lágrimas começam a se formar no canto dos olhos da sua mãe.
+6068|Mesmo assim, o espeto chega mais perto do seu rosto.
+6069|VOCÊ: Mãe, por favor, para!
+6070|MÃE: Não me chame de "Mãe". Só vai tornar isso mais difícil.
+6071|MÃE: Eu não queria que fosse assim. Eu só queria minha filha de volta.
+6072|MÃE: É você que está me obrigando a fazer isso!
+6073|MÃE: Por que você não podia simplesmente ser a Nima?
+6074|Ela é fraca. Você conhece sua verdadeira natureza. Agora o poder é nosso.
+6075|VOCÊ: Espera, Mãe! Por favor, não me machuca!
+6076|VOCÊ: Só me explica o que aconteceu, talvez eu possa ajudar.
+6077|MÃE: Não me chame de "Mãe".
+6078|VOCÊ: Mãe, por favor, você está me assustando!
+6079|MÃE: Não vai funcionar.
+6080|Você olha para a ponta do espeto pairando perto do seu olho.
+6081|Nada vai funcionar.
+6082|MÃE: Chega. Chorar não vai te ajudar.
+6083|VOCÊ: O que você vai fazer comigo!?
+6084|MÃE: Eu vou te matar.
+6085|VOCÊ: Mas você disse que nunca faria nada pra me machucar!
+6086|MÃE: Não… Eu disse que nunca faria nada pra machucar a Nima.
+6087|No silêncio abafado, você jura que consegue ouvir o som de água corrente.
+6088|A Nima teria querido isso?
+6089|O olhar dela. É o mesmo.
+6090|O mesmo do dia em que você nadou de encontro à parede e se nocauteou.
+6091|Agora você percebe: era desprezo o que ela sentia, não preocupação.
+6092|Ela atrapalha. Ela te isola e te tranca.
+6093|Depois ainda tem a cara de pau de te rejeitar quando você está sozinha.
+6094|Pela primeira vez desde que acordou aqui embaixo, você não consegue pensar em nada engraçado pra dizer.
+6095|Tem muita coisa pra analisar aqui.
+6096|Então, temos umas coisas superficiais. Bem padrão.
+6097|Abaixo disso, temos o pavor existencial: ela não acha que você é <i>você</i>, e isso é meio preocupante.
+6098|Você não é você.
+6099|Não vamos tirar conclusões precipitadas. Você é quem você quiser ser, então só… descubra isso e tudo deve ficar bem.
+6100|VOCÊ: Por favor, Mãe, eu sei que você me ama, você não é o tipo de pessoa que machuca quem ama.
+6101|MÃE: Eu amo a Nima.
+6102|VOCÊ: Isso… você me ama.
+6103|Nada mais importa, você foi pega, precisa descobrir um jeito de sobreviver a isso.
+6104|Teria sido melhor pensar nisso <i>antes</i> de sentar na cadeira e deixar ela apontar um espeto pro seu rosto.
+6105|Não tem mesmo nenhuma saída?
+6106|É melhor você insistir de vez agora.
+6107|Se você mergulhar mais fundo dentro de si, se encarar o teto, se se recusar a falar.
+6108|Talvez ela simplesmente vá embora.
+6109|É matar ou morrer.
+6110|Isso! A gente dá conta dela!
+6111|Qual é a coisa mais Nima que a gente pode fazer aqui.
+6112|Provavelmente devíamos ter pensado nisso antes de chegar aqui.
+6113|Não há nada que você possa fazer.
+6114|Ela não vai aceitar se você rastejar. É hora de mostrar a ela sua verdadeira força.
+6115|Um futuro que você nunca vai ter.
+6116|Teria sido divertido. Muito mergulho.
+6117|Que pena.
+6118|Talvez seu caixão seja bonito.
+6119|Ainda não acabou.
+6120|Não… já acabou faz tempo.
+6121|Você não deveria aborrecer sua mãe.
+6122|É ela quem está com o espeto apontado pro seu olho.
+6123|Ela não faria isso se você não merecesse.
+6124|Ela grampeou você no tecido do mundo.
+6125|Agora você está pendurada aqui, entre decisões.
+6126|Simplesmente não é natural você continuar aqui.
+6127|Ela te trouxe de volta.
+6128|Você tem com ela uma dívida que não pode pagar.
+6129|Você precisa oferecer sua lealdade a ela.
+6130|VOCÊ: Me desculpa.
+6131|O espeto treme.
+6132|Não adianta mais lutar.
+6133|Você sente a dama sombria com você; ela quer saber se você está pronta para aceitá-la.
+6134|Não vá com ela, você é amada.
+6135|Não pela Mãe, não pelo mundo; você não deveria estar aqui.
+6136|Eu te amo.
+6137|Você se pergunta se havia algo que deveria ter feito diferente.
+6138|Não seja tão dura consigo mesma. A Annabelle é assim mesmo.
+6139|Ainda assim, você provavelmente poderia ter feito algo diferente, pra não acabar nessa situação.
+6140|Foque menos nela e mais em si mesma.
+6141|Você acha melhor se colocar em segundo lugar. Sua mãe é importante pra você.
+6142|Foi assim que chegamos aqui.
+6143|Você acha legal ter tantos confortos aqui pra te ajudar.
+6144|Bichos com personalidade, pedras com emprego, balas concentradas de nostalgia que te mantêm de pé.
+6145|Você é grata principalmente pelo Garoto Tomate. Provavelmente não teria sobrevivido tanto tempo sem ele.
+6146|Você se arrepende de não ter passado mais tempo com seus amigos.
+6147|E também se arrepende de ter afastado os amigos que você <i>tinha</i>.
+6148|Mesmo assim… nenhum deles entendia o que você estava passando.
+6149|Você viveu uma vida plena, embora não tenha sido muito longa.
+6150|Não precisa terminar aqui.
+6151|Depois de todos aqueles testes, todo aquele rigor científico, ela vai simplesmente te perguntar na lata?
+6152|Parece que ela nem consegue mais fingir que existe algo de lógico nesse processo.
+6153|Vocês estavam todos juntos naquela época. Os três, no aquário.
+6154|Essa é a melhor lembrança dela. As outras ficam acinzentadas em comparação.
+6155|Os testes até que foram legais, na verdade.
+6156|Pela primeira vez, parecia que os interesses da sua mãe finalmente coincidiam com você.
+6157|Você conseguiu prender a atenção dela tão profundamente que ela parou de comer e de dormir.
+6158|Ela está olhando pra você agora mesmo.
+6159|Talvez não seja tão ruim.
+6160|Pelo menos você vai poder ver o Pai de novo.
+6161|Onde quer que o Allan esteja... você não vai se juntar a ele lá.
+6162|Você se pergunta se ainda há esperança de conseguir escapar.
+6163|Só abrace a mentira.
+6164|Você se pergunta, por um momento, por que deveria sequer ter que provar algo a ela.
+6165|Bem lembrado. Pra que se dar ao trabalho.
+6166|Ela é só uma estranha pra você. Uma mulher qualquer que por acaso te deu a vida.
+6167|Você é mais importante que ela.
+6168|VOCÊ: Quantas vezes eu vou ter que provar quem eu sou!
+6169|MÃE: Quantas vezes eu pedir.
+6170|Você sabe que tem alguma coisa errada com você.
+6171|A verdade é que... você é uma abominação.
+6172|Como a gente consegue o nosso final feliz?
+6173|Nada diferente da primeira pergunta que ela te fez.
+6174|Só diga a ela o que ela quer ouvir.
+6175|A gente não pode continuar fingindo que é normal.
+6176|Essa mulher te dá nojo. Por que você deveria continuar fingindo por causa dela?
+6177|Você é a predadora dela, e ela é sua presa.
+6178|Aquela viagem de acampamento foi a última vez que vocês estariam juntas...
+6179|Você não é mais aquela menina.
+6180|Mas eu deveria ser ela.
+6181|É igualzinho à primeira pergunta que ela te fez. Você pode dar a mesma resposta, se quiser, ou pode contar a verdade.
+6182|A gente não pode contar a verdade, ela não vai nos aceitar.
+6183|Seu globo ocular dói só de olhar para a ponta do espeto.
+6184|MÃE: Os testes acabaram, Nima. Acho que dá pra dizer que você está totalmente curada. Fico aliviada por não ter havido complicações no seu tratamento.
+6185|VOCÊ: Você... Você está falando sério?
+6186|MÃE: Sim, Nima. Muito bem. Você realmente provou quem é.
+6187|Você é tomada pelo alívio.
+6188|VOCÊ: Não acredito. Quer dizer que eu posso subir?
+6189|MÃE: Claro. Eu mesma te levo lá pra cima, amanhã logo cedo.
+6190|VOCÊ: Amanhã?
+6191|MÃE: Só mais uma noite aqui no porão. Ainda tenho algumas coisas pra preparar lá em cima antes de estar pronto pra você.
+6192|Você murcha enquanto sua liberdade é adiada mais uma vez.
+6193|MÃE: <bounce>Ei, ei, qual é,</bounce> não faz essa cara. Que tal assim? Amanhã de manhã eu também peço uns hambúrgueres pro nosso café da manhã.
+6194|VOCÊ: Sério! Eu sabia que você não ia esquecer.
+6195|MÃE: Eu só estava esperando a gente ter um motivo pra comemorar.
+6196|MÃE: Vou te deixar descansar. Seu dia foi tão cheio.
+6197|MÃE: Estou tão orgulhosa de você, Nima. Eu te amo muito.
+6198|VOCÊ: Eu também te amo, Mãe.
+6199|Com isso, ela te conduz gentilmente de volta ao seu quarto. A porta é trancada atrás de você, e você percebe um saltitar nos passos dela enquanto ela volta lá pra cima.
+6200|Só falta uma última coisa. Tudo isso pode desmoronar nas suas mãos se você vacilar.
+6201|Você precisa enfrentar a voz dentro de você.
+6202|Você atravessa o quarto e entra no banheiro.
+6203|Quando você acende a luz, seu reflexo já está pronto para te receber.
+6204|VOCÊ: Esse tempo todo você me dizendo pra não confiar nela. Parece que a gente só tinha problemas porque eu não confiava nela.
+6205|VOCÊ: Não, não. Ela vai fazer alguma coisa, eu sei que vai. Ela não ia simplesmente... deixar a gente ir.
+6206|VOCÊ: Não sei por que você odeia tanto ela... tanto faz. Eu não preciso mais de você. Descobri como viver por conta própria.
+6207|VOCÊ: Não! Eu... Eu tenho certeza de que tem alguma coisa. Você precisa aproveitar essa oportunidade pra tentar escapar!
+6208|VOCÊ: Você ouviu o que a Mãe disse. Os testes acabaram e a gente vai comer hambúrguer amanhã.
+6209|VOCÊ: Você sabe que tem algo errado. Não vai sumir só porque você decidiu ignorar.
+6210|VOCÊ: Por que você não cala a boca e morre logo?
+6211|VOCÊ: Pra mim chega de você.
+6212|VOCÊ: Tudo bem...
+6213|VOCÊ: Acho que... era assim mesmo que tinha que acabar.
+6214|A voz vai sumindo. O espelho só reflete você mesma de volta. Você fica parada, hiperventilando por alguns instantes, antes de perceber que venceu.
+6215|A outra voz finalmente se foi. Finalmente está tudo quieto.
+6216|Você dá uma última olhada antes de sair do banheiro e se enfiar na cama.
+6217|No silêncio e na escuridão, você consegue refletir sobre como está se sentindo.
+6218|Você passou nos testes. A resposta era confiar na sua mãe.
+6219|O pensamento te faz sorrir.
+6220|Você sabe que ainda tem muito trabalho pela frente, mas, pela primeira vez, você vai dormir sem se preocupar com o que quer que o amanhã traga.
+6221|Você sabe que você e a Mãe vão enfrentar isso juntas.
+6222|Você sabe quem você é.
+6223|Você é Nima Lee, e esta é sua mãe, Annabelle Lee.
+6224|Vocês duas podem ter tido seus altos e baixos, mas, no fim, tudo o que vocês têm é uma à outra.
+6225|Este é o momento de mostrar isso a ela.
+6226|VOCÊ: Mãe, sou eu. Você sabe que sou eu.
+6227|Isso não vai funcionar.
+6228|MÃE: Não, eu <i>não</i> sei.
+6229|VOCÊ: Por favor, eu só quero voltar pra nossa vida normal. Pra gente ser uma família de novo.
+6230|MÃE: Você acha mesmo que eu posso simplesmente acreditar em você!?
+6231|MÃE: Eu sei do que você é capaz... mentir e matar.
+6232|MÃE: Esse tempo todo você esteve tão perto de ser um <i>ser humano normal.</i> O que eu devo fazer se você não consegue se comportar?
+6233|MÃE: Isso nunca foi sobre mim. Sempre foi uma questão de saber se dá pra confiar em você pra viver.
+6234|MÃE: Você acha o porão difícil? O mundo lá fora nunca vai ser gentil com você.
+6235|Não tem saída disso.
+6236|Apesar de tudo o que você fez pra provar quem é, todos os sacrifícios que fez. Ainda não é o bastante.
+6237|A gente devia ter matado ela quando teve a chance.
+6238|Cala a boca. É por sua causa que tudo isso está desmoronando.
+6239|Se você quer sair disso viva... precisa oferecer a ela a única coisa que te resta.
+6240|VOCÊ: Tá bom!
+6241|VOCÊ: Se você não confia em mim-
+6242|VOCÊ: -então <shake>ME MATA!
+6243|Opa, peraí...
+6244|A confusão inicial dela com a sua explosão dá lugar à contemplação. Ela alterna o olhar entre você e a ponta do espeto posicionada sobre o seu coração.
+6245|VOCÊ: Ou eu sou a Nima, ou eu não valho nada!
+6246|Você cansou de falar; fecha os olhos com força e ergue o queixo. Tira a mão do espeto. Você se entrega completamente à misericórdia dela.
+6247|MÃE: Ah, querida.
+6248|Você sente o espeto afundar no seu coração.
+6249|Você abre os olhos a tempo de vê-la se inclinar sobre a mesa para acariciar seu rosto.
+6250|MÃE: Sempre há mais tempo pra se tornar a Nima.
+6251|Você tenta se afastar dela aos tropeços, mas ela empurra o espeto ainda mais fundo.
+6252|Seu corpo começa a ficar frio enquanto a consciência escapa de você. Você bate no chão com um baque pesado.
+6253|Você se vê acordada na cama. Há pesos enormes sobre seus braços.
+6254|Você tenta se mexer, mas seus braços esbarram numa série de cordas apertadas que te mantêm imóvel.
+6255|Sua mãe entra no quarto limpando uma pequena agulha de aço com um lenço antisséptico.
+6256|MÃE: Ah, você está acordada?
+6257|MÃE: Desculpa. Acho que não usei anestesia suficiente.
+6258|Você tenta gritar, mas descobre que está amordaçada.
+6259|MÃE: Eu gostei muito do que você disse, querida. Foi um progresso muito bom.
+6260|Ela se inclina sobre você, apoiando o joelho na sua barriga para te prender enquanto agarra seu rosto com a mão em garra. A agulha se aproxima centímetro a centímetro do seu olho.
+6261|MÃE: "Ou eu sou a Nima, ou eu não valho nada!" Que fofo. Depois disso, eu quase quis simplesmente acreditar em você.
+6262|Ela começa a acariciar sua bochecha. As mãos dela tremem só um pouquinho.
+6263|MÃE: Mas... eu preciso ser forte. Por você, Nima.
+6264|MÃE: Até você se tornar quem deveria ser.
+6265|MÃE: Vamos tentar de novo. Acho que dá pra acertar os detalhes.
+6266|MÃE: Não se preocupa, não vai doer nadinha.
+6267|Você sente a lâmina raspar pela sua órbita e avançar até os nervos do seu cérebro.
+6268|Sua mãe para e olha para você por um segundo antes de soltar um suspiro aliviado.
+6269|MÃE: Estou tão feliz de ter você de volta, Nima.
+6270|VOCÊ: Estou feliz de estar aqui com você, Mãe. Mal posso esperar pra voltar lá pra cima.
+6271|MÃE: Reapresentar você ao resto da casa vai ser um desafio à parte. A mudança de ambiente pode afetar sua psicologia, então vou te adaptar aos poucos.
+6272|MÃE: Você vai continuar aqui embaixo por mais um tempinho.
+6273|Traga-a para mais perto.
+6274|VOCÊ: Tudo bem, mas...
+6275|VOCÊ: Eu ando tendo pesadelos toda noite. É assustador ficar sozinha no porão.
+6276|VOCÊ: Eu estava pensando... Será que você podia dormir no meu quarto hoje? Que nem você fazia quando eu era criança.
+6277|MÃE: Ah...
+6278|Ela pensa por um instante, depois olha para você com um sorriso suave.
+6279|MÃE: Claro, Nima, não vejo por que não.
+6280|VOCÊ: Eba! Vai ser tão divertido. Tipo uma festa do pijama!
+6281|Ela solta uma risadinha.
+6282|MÃE: Acho que você tem razão. Vamos fazer disso um evento, já que você está totalmente recuperada.
+6283|MÃE: Acho que você mais do que mereceu aquele hambúrguer.
+6284|MÃE: Se distrai aqui embaixo. Enquanto isso, a mamãe vai pedir uns hambúrgueres pra gente.
+6285|MÃE: Estou tão orgulhosa de você.
+6286|MÃE: Eu te amo muito, Nima.
+6287|Enquanto espera sua mãe voltar com os hambúrgueres, você tem um momento para refletir consigo mesma.
+6288|Você entra no banheiro e se vira para a figura no espelho.
+6289|VOCÊ: Você tinha razão. Eu segui seu conselho e deu tudo certo.
+6290|VOCÊ: Você se saiu muito bem.
+6291|VOCÊ: E agora, o que acontece?
+6292|VOCÊ: Descanse. Aproveite seu hambúrguer e tenha uma boa noite de sono com a Mãe. Você merece.
+6293|VOCÊ: A parte difícil acabou. Agora vai ficar tudo bem com a gente.
+6294|Ouvir isso do seu outro eu é reconfortante. Você gosta de saber que tem alguém sempre do seu lado.
+6295|Você faz o que mandaram. Mais tarde, sua mãe se junta a você no quarto, com hambúrgueres fresquinhos nas mãos.
+6296|Juntas, vocês comem na cama e, quando terminam, varrem as migalhas para o chão, rindo da travessura.
+6297|Ela te põe na cama e as duas conversam por horas, compartilhando histórias do passado e bolando planos empolgantes para o futuro.
+6298|Quando você começa a pegar no sono, sua mãe te envolve nos braços, e você se aninha nela como fazia quando era criança.
+6299|Você se sente segura.
+6300|A noite é quente e nostálgica. A fatia perfeita de eternidade para você relembrar.
+6301|<waitfor=2>Levanta.
+6302|Você não sabe que horas são. Seus olhos levam um instante para se acostumar com a escuridão.
+6303|Você desloca o peso até ficar ajoelhada no colchão e consegue alcançar a arma que vinha escondendo nas suas roupas.
+6304|<waitfor=1.5>Você saca a agulha de aço favorita da sua mãe; a agulha que ela não percebeu sumir durante um abraço.
+6305|Tão descuidada com os brinquedos dela.
+6306|O cabo de madeira parece grande na sua mão, mas você segura firme.
+6307|<waitfor=0.7>Você se agacha de novo até ficar na altura dos olhos dela.
+6308|Mechas do cabelo dela caem suavemente sobre o rosto. Um assobio tranquilo escapa do nariz dela. Ela dorme tão serena.
+6309|O que mais chama atenção é o sorriso nascente espalhado pelo rosto dela.
+6310|Não é hora de hesitar.
+6311|<waitfor=1>Você apoia o joelho ao lado do peito dela e se posiciona acima dela.
+6312|Ao olhar para o rosto da sua mãe uma última vez, você se sente em paz.
+6313|Mesmo depois de tudo o que aconteceu entre vocês, você fica feliz de ver sua mãe sorrindo.
+6314|De saber que, nos seus últimos momentos, você conseguiu dar a ela o que ela sempre quis.
+6315|<speed=0.5>Uma filha grata.
+6316|<waitfor=5><color=#fff0>. . .
+6317|Você sabe o que você é.
+6318|Você sabe quem deveria ser.
+6319|Você é Nima Lee: filha, melhor amiga e heroína de Annabelle Lee.
+6320|Ela depende de você para tudo: como sentir, como pensar.
+6321|Você achava que o poder estava com ela... Mas quem esteve no controle sempre foi você.
+6322|VOCÊ: Mãe... sua mão está tremendo. Eu sei que você não quer fazer isso.
+6323|VOCÊ: Você não quer me machucar.
+6324|MÃE: Eu vou fazer o que for preciso.
+6325|VOCÊ: Você precisa mesmo fazer isso?
+6326|VOCÊ: O que te faz pensar que eu não sou sua filha?
+6327|Você sabe que uma parte dela ainda quer acreditar em você. Agora basta devolver as mentiras dela com um sorriso.
+6328|Primeiro, conquiste-a com algo pessoal.
+6329|VOCÊ: Eu me lembro de quando comecei a cozinhar pra você. O Pai tinha acabado de morrer e você não comia nada.
+6330|O rosto dela continua frio.
+6331|MÃE: O que você está tentando fazer?
+6332|VOCÊ: A primeira coisa que eu fiz pra você foi um misto-quente. Eu queria te fazer sentir melhor de qualquer jeito que eu pudesse.
+6333|A postura agressiva da sua mãe parece se suavizar só um pouquinho.
+6334|MÃE: É, eu lembro.
+6335|VOCÊ: Eu era tão pequena, não fazia ideia do que estava fazendo. Queimei aquele sanduíche até virar carvão.
+6336|MÃE: É, mas eu comi mesmo assim. Na verdade, eu nem liguei pro pão queimado.
+6337|Ela solta o ar e olha para o chão, provavelmente tomada pelas lembranças do que você já foi.
+6338|Você fecha os olhos e também se lembra.
+6339|VOCÊ: Eu sei... eu não sou perfeita. Tenho me comportado mal. Fazendo birra... mas é só isso.
+6340|VOCÊ: Eu me lembro de quando as coisas eram boas, quando o Pai estava aqui e nossa família era inteira.
+6341|VOCÊ: A gente ainda é uma família, né?
+6342|Ela guarda o espeto de volta no suéter e se curva. Algumas lágrimas escorrem pelas bochechas e molham a pele ressecada.
+6343|MÃE: O que eu estou fazendo?
+6344|MÃE: Por que nada dá certo…
+6345|Você puxa sua mãe para um abraço frouxo. Ela se encolhe um pouco com o seu toque, mas aceita e retribui o carinho.
+6346|Mais apertado.
+6347|MÃE: Parece que é sempre você quem me traz de volta pra terra.
+6348|Os braços dela te apertam com mais força.
+6349|Está... difícil respirar.
+6350|Agora finaliza.
+6351|VOCÊ: Obrigada por me salvar. Eu te amo tanto, Mãe.
+6352|Ela se afasta e sorri para você.
+6353|MÃE: Obrigada.
+6354|VOCÊ: Vamos subir e comer alguma coisa!
+6355|VOCÊ: Mas dessa vez <wave>eu</wave> que vou cozinhar.
+6356|Ainda há uma distância fria nos olhos dela, como se estivesse vivendo um sonho.
+6357|De mãos dadas com sua mãe, vocês duas sobem para fora do porão podre e rumo a uma nova vida.
+6358|Ela põe a mão na porta...
+6359|<speed=100><waitfor=2.5>TUM <waitfor=.63>TUM <waitfor=.63>TUM
+6360|VOCÊ: <speed=0.5><shake>Aaargh...
+6361|Seu corpo desaba num monte no pé da escada.
+6362|MÃE: Eu já te disse<speed=0.5>...<speed=1> não disse<speed=0.5>...
+6363|Ela não perde tempo e enfia uma seringa no seu braço, injetando em você um sedativo doloroso.
+6364|A adrenalina dispara um pouco tarde demais. Seu coração acelerado leva rapidamente o sedativo até o cérebro.
+6365|MÃE: Eu queria que a gente pudesse.
+6366|MÃE: Eu adoraria te levar lá pra cima.
+6367|MÃE: Conversar com você tomando uma xícara de chá. Relembrar os velhos tempos.
+6368|MÃE: Você achou mesmo que ia conseguir se safar disso na conversa?
+6369|Merda... Achei que a gente tinha pegado ela.
+6370|O mundo começa a borrar enquanto suas pálpebras tremulam entre o sono e a vigília.
+6371|MÃE: A verdadeira você está aí dentro em algum lugar. Eu sei que está.
+6372|<waitfor=1>Sua mente escurece.
+6373|Eu te disse que ela não gosta de fracasso.
+6374|Sua mãe se agiganta sobre você, limpando uma pequena agulha de aço com um lenço antisséptico.
+6375|MÃE: Tudo bem, você não vai precisar disso.
+6376|MÃE: Logo, logo você vai esquecer tudo isso.
+6377|MÃE: Sabe, você está ficando cada vez mais esperta.
+6378|Ela desvia o olhar e ri um pouco.
+6379|MÃE: Acho que não posso me culpar por ter baixado a guarda. Você me lembra tanto ela.
+6380|A voz dela vai sumindo no fim da frase.
+6381|MÃE: Vou ter que me afastar disso por um tempo. Sinto que estou ficando apegada... demais.
+6382|MÃE: Se eu não conseguir ser objetiva, corro o risco de me colocar em perigo.
+6383|MÃE: Mas... eu vou voltar. Não vou desistir de você, Nima.
+6384|MÃE: Não até você se tornar quem deveria ser.
+6385|<waitfor=4.5>Você sente a lâmina raspar pela sua órbita e avançar até os nervos do seu cérebro.
+6386|Seus olhos escurecem.
+6387|Você está dominada, mas não inconsciente. Como se tivesse sido sufocada com uma toalha molhada.
+6388|Me desculpa. A gente não foi forte o bastante.
+6389|No seu estado paralisado, você capta vagos sinais da realidade. Ecos que conseguem escorrer até o poço cerebral onde sua consciência permanece.
+6390|Sua mão está sendo arrastada pelo cimento. Você a sente bater num batente de metal.
+6391|Você cai como uma trouxa de roupa suja num buraco no chão. Há movimento e sons de metal tilintando, mas tudo se embaralha na sua mente.
+6392|Você está presa. Imóvel e inquieta.
+6393|Aos poucos, você começa a voltar a si.
+6394|Você se vê acordada; pesos enormes prendem seus braços a uma cadeira de jardim.
+6395|Ah, não... Este lugar não.
+6396|Você não reconhece o cômodo onde está. Frascos estranhos se enfileiram pelas paredes, uma brisa fria e agressiva resseca seus olhos. Você ouve o guinchar ansioso de ratos escondidos fora de vista.
+6397|Sua mãe sorri enquanto você recobra a consciência.
+6398|MÃE: Este é o meu laboratório.
+6399|MÃE: Normalmente, faríamos o procedimento no seu quarto, mas… dessa vez vamos precisar de um pouco mais de trabalho.
+6400|MÃE: As paredes têm isolamento acústico.
+6401|MÃE: Você não está errada. Se você <i>fosse</i> minha filha, eu não teria que passar por tudo isso.
+6402|Ela vira seu rosto de um lado para o outro, avaliando você.
+6403|MÃE: Normalmente é bem simples: uma remoção e uma inserção rápidas. O cérebro só fica morto por alguns segundos antes de começar a se regenerar.
+6404|MÃE: Mas… algo deve ter dado muito errado pra você sair assim… <i>desse jeito.</i>
+6405|MÃE: Vou precisar destruir a amígdala; com sorte, regenerar essa parte do cérebro vai melhorar seu comportamento.
+6406|MÃE: Vou precisar aparar um pouco o hipocampo. Ele parece meio hiperativo no momento… vou ter que tomar cuidado.
+6407|MÃE: Preciso ajustar seu comportamento. Da última vez tentei provocar a regeneração da amígdala- vou ver se podar o hipocampo funciona dessa vez.
+6408|MÃE: Vou precisar destruir uma parte do córtex pré-frontal maior que o normal. Com sorte, um pouco de regeneração nova nesse quadrante vai te deixar mais… empática.
+6409|MÃE: Vamos precisar regenerar seu lobo frontal… Você está começando a me fazer pensar que seria melhor deixar uma obstrução ali. Talvez te deixe mais dócil.
+6410|Você chora e se contorce nas amarras, tenta escapar das mãos dela, mas as drogas te deixam lenta.
+6411|Por que você não dorme? Eu cuido disso...
+6412|MÃE: Estou fazendo isso por você, querida. Se houver anormalidades na sua mente, na sua pele, nos seus olhos, as pessoas vão te rejeitar.
+6413|MÃE: Eu não, claro… Eu te criei, você é minha responsabilidade.
+6414|MÃE: Eu sei que a Nima está aí dentro em algum lugar, vejo um pouquinho mais dela cada vez que fazemos isso. Significa que estamos no caminho certo.
+6415|MÃE: Talvez eu a veja de novo… da próxima vez.
+6416|MÃE: Confortável, Nima?
+6417|Você ouve sua mãe te chamando; por algum motivo, a voz dela está abafada. Você desperta devagar do sono.
+6418|MÃE: Estou tão orgulhosa de você, querida. Você superou todas as minhas expectativas.
+6419|MÃE: Finalmente, tenho tudo de que preciso pra continuar.
+6420|MÃE: Você e eu provamos que esse procedimento funciona. Agora só preciso de um tempo pra recriá-lo.
+6421|Você se debate, mas descobre que suas mãos estão amarradas. O espaço para se mexer é apertado; sempre que você flexiona os braços, bate em alguma coisa.
+6422|Você está presa no espaço entre as paredes.
+6423|Ah, não...
+6424|Isso não está certo. Normalmente ela te reinicia nesse ponto. Você não deveria estar consciente pra isso.
+6425|VOCÊ: Mãe, qual é... me deixa sair...
+6426|MÃE: Não, não, querida. Isso é uma coisa boa. Você só vai dormir um pouquinho. Eu prometi que não ia te perder de vista.
+6427|MÃE: Tenho um soro ligado aqui fora. Vou te dar uns sedativos gostosos.
+6428|MÃE: Quando você acordar, vamos ser uma <i>família</i> de novo. Todos nós. Juntos.
+6429|MÃE: Dá pra imaginar?
+6430|O pequeno quadrado de luz é eclipsado por um retângulo duro. Um último tijolo na parede.
+6431|VOCÊ: <shake>MÃE!!
+6432|MÃE: Boa noite, Nima.
+6433|O tijolo raspa enquanto é encaixado no lugar.
+6434|VOCÊ: Por favor! Eu vou me comportar! Eu vou...
+6435|Toda vez que você respira, sente o próprio hálito batendo na parede a centímetros do seu rosto.
+6436|Ela cantarola baixinho. Você ouve os passos dela indo embora.
+6437|O medo te faz hiperventilar. Sem querer, você aspira poeira pela boca enquanto o pânico sacode seu corpo inteiro.
+6438|Você cospe e depois chora.
+6439|As horas passam.
+6440|Por fim, você só fica batendo a cabeça na parede.
+6441|Ei...
+6442|É culpa da voz você estar aqui.
+6443|Pode me culpar, se quiser... Eu só quero te ajudar.
+6444|Me deixa assumir. Você pode dormir um pouco.
+6445|Você apoia a cabeça na parede de tijolos; lágrimas exaustas escorrem pelas suas bochechas.
+6446|Pra onde você quer ir? A gente tem umas lembranças boas aqui dentro. A praia de Kitsilano com a Mãe e o Pai. Talvez o aquário de novo.
+6447|VOCÊ: Eu quero ir pro aquário.
+6448|Claro... é só se deixar levar.
+6449|Você não precisa estar aqui pra isso...
+6450|Você deixa a escuridão te envolver.
+6451|Há partes de você que acham que você merece ficar trancada, que merece ser tratada assim.
+6452|Mas elas só têm medo de aceitar a verdade.
+6453|Você sabe o que você é. Você é um monstro.
+6454|VOCÊ: Eu não sou sua filha.
+6455|VOCÊ: Dá pra ver nos seus olhos o quanto você tem medo, o quanto você me odeia.
+6456|VOCÊ: Você quer que eu me odeie. Você me olha como se eu fosse uma estranha. Como se eu fosse nojenta.
+6457|VOCÊ: Eu quero arrancar a carne deste corpo e me esconder.
+6458|MÃE: Você precisa parar de falar assim…
+6459|VOCÊ: Você vai me rejeitar de novo?
+6460|VOCÊ: Foi você que me fez assim.
+6461|VOCÊ: Não importa quantas vezes você tente cortar fora as imperfeições… Nunca vai ficar certo.
+6462|VOCÊ: O ódio sempre volta a crescer.
+6463|A Mãe desce o braço na sua direção.
+6464|Você estende a palma da mão, aparando o espeto com a própria carne. A ponta da lâmina espirra sangue no seu rosto ao brotar das costas da sua mão._Up"
+6465|MÃE: <i>Cala a boca.
+6466|Ela se ergue e usa o tamanho maior para forçar o espeto contra você.
+6467|MÃE: Você é minha filha boa e feliz, Nima.
+6468|As palavras dela te fazem recuar. Uma descarga de dor ardente sobe pela sua espinha e seu braço cede.
+6469|O espeto afunda no seu coração.
+6470|Você sente uma agulha deslizar no seu pescoço; enquanto suas feridas se curam, você tenta lutar contra o torpor que se espalha pelo seu corpo.
+6471|VOCÊ: Me deixa ir…
+6472|MÃE: É tarde demais pra isso. A única coisa que importa pra mim é você ser a Nima.
+6473|MÃE: Esse é o papel que te foi dado.
+6474|MÃE: Essa é a única forma de você ter permissão pra viver neste mundo. A única forma de você algum dia encontrar paz.
+6475|MÃE: Vamos fazer isso de novo e de novo até você entender.
+6476|Você é embalada por uma maré até flutuar num oceano. Um lençol negro de nada que se estende até a eternidade.
+6477|Você pega no sono enquanto o torpor começa a se infiltrar no seu cérebro.
+6478|As palavras dela te fazem tremer; o espeto se aproxima centímetro a centímetro do seu coração.
+6479|Você sabe que ela está errada. Você não é a Nima. A hora é agora.
+6480|Você não queria encarar isso. A verdade. Era mais fácil só ser... a Nima.
+6481|Você finalmente a deixa ir.
+6482|Você não é a Nima. Você é algo completamente diferente.
+6483|<waitfor=5>Sua pele racha, a dissonância da sua alma cava trincheiras pela carne, e você permite que ela te transforme.
+6484|Você exulta na liberdade enquanto a máscara finalmente cai.
+6485|VOCÊ: Não, Annabelle, eu não sou sua filha boa e feliz.
+6486|Você torce o pulso dela de um jeito antinatural e ouve um osso estalar dentro do braço dela.
+6487|VOCÊ: A Nima está <i>morta.</i>
+6488|Você a joga no chão. A cabeça dela bate no concreto frio e ela fica imóvel, inconsciente.
+6489|Agora você pode fazer o que quiser. Sua mente dança com as possibilidades.
+6490|Você começa a trabalhar. Vai precisar agir rápido para montar tudo isso.
+6491|Você decide levá-la para o bunker.
+6492|É mais fácil do que você pensava erguer o corpo dela e jogá-lo sobre o ombro.
+6493|Você pula para dentro do subsolo secreto do porão.
+6494|Não demora muito para amarrá-la à cadeira e preparar para ela um palco à altura do final da vida dela.
+6495|Você é o cadáver ambulante de uma menina. Um crime contra a natureza, forçado a permanecer aqui pela vontade da sua mãe enlutada.
+6496|VOCÊ: Cansei de fingir.
+6497|Não faça isso...
+6498|Você ignora a voz. Agora você sabe que ela é a parte monstruosa de você.
+6499|VOCÊ: Eu morri, Mãe. Eu não devia ter voltado.

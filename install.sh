@@ -1,12 +1,14 @@
 #!/usr/bin/env bash
-# Instala a tradução PT-BR do Am I Nima Demo (Linux / Steam Deck, via Proton).
-# Uso: ./install.sh ["/caminho/para/Am I Nima Demo"]
+# Instala a tradução PT-BR do Am I Nima (jogo completo ou demo) no Linux / Steam Deck (Proton).
+# Uso: ./install.sh ["/caminho/para/Am I Nima" ou "/caminho/para/Am I Nima Demo"]
 set -euo pipefail
 HERE="$(cd "$(dirname "$0")" && pwd)"
 STEAM="${STEAM_DIR:-$HOME/.local/share/Steam}"
-GAME="${1:-$STEAM/steamapps/common/Am I Nima Demo}"
+GAME="${1:-$STEAM/steamapps/common/Am I Nima}"
+[ -d "$GAME" ] || GAME="$STEAM/steamapps/common/Am I Nima Demo"
+case "$GAME" in *Demo|*Demo/) PASTA=traducao; APPID=3317110;; *) PASTA=completo; APPID=3224600;; esac
 DATA="$GAME/Am I Nima_Data"
-PREFIX="$STEAM/steamapps/compatdata/3317110/pfx/user.reg"
+PREFIX="$STEAM/steamapps/compatdata/$APPID/pfx/user.reg"
 BEPINEX=https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.6/BepInEx_win_x64_5.4.23.6.zip
 XUNITY=https://github.com/bbepis/XUnity.AutoTranslator/releases/download/v5.6.3.1/XUnity.AutoTranslator-BepInEx-5.6.3.1.zip
 
@@ -15,7 +17,7 @@ command -v uv >/dev/null || { echo "Precisa do uv: https://docs.astral.sh/uv/"; 
 
 echo "== Falas (data.unity3d)"
 [ -f "$DATA/data.unity3d.orig" ] || cp "$DATA/data.unity3d" "$DATA/data.unity3d.orig"
-uv run -q --with UnityPy python "$HERE/patch.py" "$DATA/data.unity3d.orig" "$DATA/data.unity3d.tmp"
+uv run -q --with UnityPy python "$HERE/patch.py" "$DATA/data.unity3d.orig" "$DATA/data.unity3d.tmp" "$PASTA"
 mv "$DATA/data.unity3d.tmp" "$DATA/data.unity3d"
 
 echo "== BepInEx + XUnity.AutoTranslator"
@@ -26,7 +28,7 @@ unzip -oq "$TMP/bep.zip" -d "$GAME"
 unzip -oq "$TMP/xu.zip" -d "$GAME"
 mkdir -p "$GAME/BepInEx/config" "$GAME/BepInEx/Translation/pt/Text"
 cp "$HERE/AutoTranslatorConfig.ini" "$GAME/BepInEx/config/"
-cp "$HERE/traducao/AmINima_ptBR.txt" "$HERE/traducao/AmINima_resizer.txt" "$GAME/BepInEx/Translation/pt/Text/"
+cp "$HERE/$PASTA/AmINima_ptBR.txt" "$HERE/$PASTA/AmINima_resizer.txt" "$GAME/BepInEx/Translation/pt/Text/"
 
 echo "== Proton: carregar winhttp.dll do BepInEx"
 if [ -f "$PREFIX" ]; then

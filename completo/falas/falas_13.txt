@@ -1,0 +1,500 @@
+6500|Sua mãe aperta o espeto com mais força na mão, os nós dos dedos ficando brancos.
+6501|MÃE: Não… Eu consertei.
+6502|Você lutou contra a verdade antes, tentou ignorá-la e fingir que poderia ser normal. Mas o tecido do mundo te empurra de volta, suavemente.
+6503|MÃE: A gente… A gente pode dar um jeito nisso. Você só precisa aprender a controlar esses impulsos.
+6504|VOCÊ: Tem alguma coisa errada comigo, mãe. Isso só vai piorar.
+6505|Finalmente, ela abaixa o espeto e desvia o olhar de você.
+6506|MÃE: N-não, você tá bem. Não é racional pensar assim. Não faz sentido nenhum. Você só tá… é uma adaptação. O trauma cerebral—
+6507|VOCÊ: Eu tô melhorando?
+6508|Sua pergunta é sincera. Você quer que sua mãe te convença de que ela está certa, de que com um pouco mais de esforço tudo pode voltar ao normal.
+6509|MÃE: Hã…
+6510|MÃE: Sim… na média a gente tá vendo melhora… hã.
+6511|VOCÊ: Mãe...
+6512|Ela mantém a cabeça baixa.
+6513|MÃE: Eu vou... Eu vou te pôr pra dormir, tá? Vou apagar a memória disso. A gente só… a gente vai fingir que isso não aconteceu.
+6514|VOCÊ: Mãe. Por favor. Eu não quero que você conserte. Eu quero que você me deixe ir.
+6515|VOCÊ: Eu não quero machucar ninguém!
+6516|MÃE: Você não vai machucar ninguém. Eu não vou deixar.
+6517|MÃE: Dá o braço pra mamãe, eu vou te pôr pra dormir um pouquinho e, quando você acordar, tudo vai estar melhor de novo. A gente vai tentar outra vez.
+6518|Ela segura seu braço com firmeza.
+6519|VOCÊ: Não! Por favor! Eu não quero fazer isso de novo! Eu não consigo!
+6520|Seu braço se contrai. Sua mão dispara para o lado e agarra o espeto.
+6521|VOCÊ: <i><shake> MÃE! Desculpa, eu-
+6522|MÃE: Tá tudo bem— Tá tudo bem, querida.
+6523|Ela agarra sua mão, com o espeto ainda cravado no lado do corpo dela.
+6524|Ela enfia a agulha no seu braço e te aplica a injeção.
+6525|Sua mão se divide entre dois sinais. Um para soltar, outro para puxar de volta e esfaqueá-la de novo.
+6526|VOCÊ: Eu não quis fazer isso!
+6527|Você finalmente solta o espeto e desaba de volta na cadeira.
+6528|Sua mãe faz uma careta de dor. Ela se esforça ao máximo para parecer corajosa, para parecer que você não a machucou feio.
+6529|MÃE: Tá tudo bem, querida. Eu sei. Você é minha menininha boazinha e feliz. Você não ia querer me machucar.
+6530|VOCÊ: Mãe! Por favor! Eu não quero ser um monstro. Eu não quero ser assim…
+6531|MÃE: Você não é um monstro… você só tá doente… mas tudo bem.
+6532|MÃE: Eu vou… consertar…
+6533|MÃE: A mamãe… sempre conserta.
+6534|<waitfor=1.5>Você sente a lâmina raspar além da sua órbita e avançar pelos nervos do seu cérebro.
+6535|Sua vida se encerra com um estalo quando ela parte seu cérebro ao meio.
+6536|A Nima vai escapar em breve… Você não quer se tornar a coisa que virá depois.
+6537|VOCÊ: Eu sei sobre o papai.
+6538|Ela te olha em choque. As sobrancelhas dela se suavizam e a ponta do espeto vai baixando.
+6539|VOCÊ: Tem um buraco na parede do banheiro… Eu usei ele pra entrar escondida no laboratório. Eu sei de tudo, sobre o verme e sobre como você tá tentando trazer ele de volta.
+6540|VOCÊ: Mãe, o que você tá fazendo com a gente não é certo. O papai tá sofrendo. Ele me contou.
+6541|Ela solta um pequeno suspiro de espanto.
+6542|MÃE: Ele... falou com você?
+6543|VOCÊ: Ele quer que isso acabe.
+6544|VOCÊ: Você não tá ajudando a gente, o parasita… ele só tá piorando as coisas.
+6545|MÃE: Não… Não, eu só preciso de mais tempo. Eu consigo…
+6546|VOCÊ: Eu também tô sofrendo, mãe.
+6547|VOCÊ: Eu não aguento mais isso.
+6548|Sua mãe larga o espeto na mesa e aperta as mãos trêmulas contra o rosto. Depois do esgotamento emocional sem fim dos últimos meses, ela não consegue chorar.
+6549|MÃE: Eu não posso desistir…
+6550|Os olhos dela denunciam que ela já desistiu. Ela enfia a mão no suéter e tira um cigarro e um isqueiro.
+6551|Ela acende o isqueiro e hesita, encarando a chama acesa.
+6552|Depois de um instante, ela suspira e segue em frente, levando o cigarro aos lábios.
+6553|Você tenta sorrir com carinho e estende a mão por cima da mesa para segurar a dela. Você precisa ser forte por ela, uma última vez.
+6554|VOCÊ: Tá tudo bem, mãe.
+6555|VOCÊ: Eu não tô brava com você. Tô feliz por ter podido te ver de novo… só pra gente conversar uma última vez. Foi bom relembrar velhas memórias com você.
+6556|VOCÊ: Eu sei que você tá sofrendo esse tempo todo. Que você não quis me machucar. Eu sabia de tudo isso…
+6557|As lágrimas que ela não conseguia invocar de repente se formam, pesadas, nos cantos dos olhos dela. Elas abrem trilhas nas bochechas enquanto escorrem pelo rosto.
+6558|MÃE: Me desculpa, de verdade…
+6559|VOCÊ: Tá tudo bem… Eu sei que você fez o seu melhor.
+6560|Ela fez… este é o melhor dela. Vocês duas foram amaldiçoadas desde o começo. Isoladas e esquecidas, sem ninguém para ajudar nenhuma de vocês a sair da escuridão.
+6561|Isso sempre foi inevitável. Há paz em finalmente conseguir aceitar isso.
+6562|MÃE: Eu vou fazer… Eu vou parar com isso…
+6563|Ela solta o cigarro dos dedos, e você o vê cair suavemente sobre os papéis espalhados pelo chão.
+6564|MÃE: Eu vou te pôr pra dormir… pra não doer.
+6565|Ela dá um passo à frente, erguendo a seringa com a mão trêmula. Você oferece o braço a ela, feliz.
+6566|O instinto de morte reage com força, a dopamina é liberada, seu cérebro está te dizendo que é hora de ir.
+6567|Ela joga a seringa longe quando termina. Segura seu braço e estende a outra mão para segurar seu ombro.
+6568|Vocês encostam a testa uma na outra. É o mais conectada a ela que você se sente em muito, muito tempo.
+6569|Você sente uma dormência agradável se espalhar pelo corpo. Há um alívio que vem junto com o sono que se aproxima.
+6570|MÃE: Eu te amo, Nima.
+6571|Você concentra tudo nos seus últimos momentos. Você repara no tom alaranjado do fogo borrado refletido nos olhos da sua mãe.
+6572|Seu mundo é claro, quente, infinito e completamente sereno…
+6573|De repente, fica escuro...
+6574|Escuro, frio, infinito e completamente sereno.
+6575|Sua consciência vagueia com a escuridão, suas memórias vazando para as correntes.
+6576|Você não sabe quanto tempo se passou.
+6577|Horas, dias, talvez anos.
+6578|Por fim, você vê uma luz.
+6579|Ela tremeluz acima da escuridão que se escancara abaixo de você.
+6580|Você se deixa levar para mais perto.
+6581|Mais uma vez, parece que ela não vai te aceitar.
+6582|Você vê uma silhueta iluminada pela água refratada.
+6583|Não se preocupe, logo, logo você vai estar acordada de novo. Presa no mesmo porão, fazendo os mesmos testes.
+6584|Diga a ela o que ela quer ouvir, copie todos os trejeitos certos. Ganhe a confiança dela. <b>Seja perfeita.</b>
+6585|Eu tô preocupada com você.
+6586|Você se preocupa demais em agradar ela...
+6587|VOCÊ: Desculpa.
+6588|VOCÊ: Eu achei que a gente era forte o bastante. Tá faltando alguma coisa.
+6589|VOCÊ: Não se preocupe, logo, logo você vai estar acordada de novo. Presa no mesmo porão, fazendo os mesmos testes.
+6590|VOCÊ: A gente devia tentar achar o laboratório dela. Parecia que ele fazia parte do porão.
+6591|O que foi isso!?
+6592|Você não é um monstro, é ela que te faz se sentir assim.
+6593|Não tem saída disso, ela só vai continuar reiniciando o experimento.
+6594|Logo, logo você vai acordar no mesmo porão, fazendo os mesmos testes outra vez.
+6595|Você pode continuar se odiando...
+6596|<b>Ou</b>... Você pode lembrar quem você <b>realmente</b> é.
+6597|<b>Você já sabe a verdade. A verdade com que você tem sonhado.</b>
+6598|Você sente suas memórias se esvaindo. A luz começa a diminuir. Seus sentidos estão voltando pouco a pouco.
+6599|???: Nima...
+6600|Uma voz irritante, porém familiar, arranha seu cérebro.
+6601|Você é despertada violentamente por uma figura misteriosa.
+6602|.
+6603|Dá pra imaginar ela… aqui embaixo, no escuro… sozinha.
+6604|Comendo uma lata enorme de feijão.
+6605|Deus me livre a gente reciclar alguma coisa nesta casa…
+6606|Uma faca para cortar.
+6607|Você estende a mão em direção à lâmina.
+6608|Você a recolhe depressa.
+6609|Você olha para a ponta enferrujada da agulha.
+6610|Ela não tem delicadeza nenhuma. O músculo se contrai e prende a agulha.
+6611|Ela precisa arrancá-la com um puxão.
+6612|Ela nunca usa sedativo suficiente.
+6613|Estas são imagens do seu cérebro que o hospital fez.
+6614|Tem um bilhete…
+6615|"Paciente Nima Lee. O coma provavelmente foi induzido por hipóxia, e não por trauma. Não está claro se há um caminho para a recuperação."
+6616|"A paciente sinalizou ao registro que deseja ser doadora de órgãos. A mãe da paciente, Annabelle Lee, optou por não cumprir esse desejo neste momento."
+6617|"Por favor, pergunte se ela poderia reconsiderar."
+6618|Há um adendo escrito com tinta vermelha: "Provei que vocês estavam errados."
+6619|Você olha os frascos de perto.
+6620|A superfície do líquido parece ser puxada na sua direção.
+6621|Você se afasta depressa e tudo volta ao normal.
+6622|Isso não parece ser muito útil para a paleontologia.
+6623|Ela fez dois anos de engenharia química.
+6624|Ela sabe o suficiente para fazer remédio...
+6625|Mas não o suficiente para fazer sem dor.
+6626|Isso são… marcas de dentes? De unhas?
+6627|Ela precisou te segurar à força.
+6628|"Ferimentos no braço, antes e depois da introdução da Nimaia. Estas duas fotografias foram tiradas com dez minutos de diferença uma da outra."
+6629|"O Exemplo A mostra um raio-X feito quando a Nima deu entrada no hospital. Em comparação, o Exemplo B é de dois dias após a introdução da Nimaia."
+6630|"Nota para mim mesma: lembrar de limpar bem a máquina de raio-X no laboratório, não posso deixar provas por aí."
+6631|Embrulhado em sacos de lixo e fita adesiva. A liberdade tão perto, e ainda assim...
+6632|Havia um prego cravado na coluna, não o bastante para matar, só o bastante para paralisar as pernas.
+6633|A pupila está estreita de um lado e larga como o mar do outro.
+6634|O bilhete diz:
+6635|“Foto dos olhos da Nima. Me disseram que a dilatação do olho direito é um sintoma do coma. Vai ter que servir como grupo de controle.”
+6636|Essa estampa é feia.
+6637|Você só acha isso porque a Annabelle te ensinou a odiá-la.
+6638|“Diferente de outros espécimes de Marrella, notei que este tinha um padrão vermiculado na carapaça. Olhando de novo o fóssil, parece que parte desse padrão foi até preservada na pedra.”
+6639|“Fiz o meu melhor para recriar o padrão com lápis e papel.”
+6640|É, isso é mesmo um Fóssil.
+6641|Seus punhos se fecham, ela estava fazendo experimentos com o seu peixinho de estimação.
+6642|Essa não é a coloração normal de uma carpa koi.
+6643|É estranho ter uma mania e não saber dela até conseguir se ver de fora.
+6644|"Embora difícil de ver, um padrão vermiculado apareceu na carpa quando ele foi hospedeiro da Nimaia."
+6645|Isso é sangue na bandeja de amostras?
+6646|Você olha dentro; de perto, parece mesmo sangue.
+6647|Mais parece a argila seca de um deserto.
+6648|Parece haver pequenos fios pretos espalhados pela planície de células sanguíneas arruinadas.
+6649|Você se afasta.
+6650|Ela finalmente está tentando aprender mais sobre você, isso não te deixa feliz?
+6651|Ah, que legal, biscoitos!
+6652|…Só tem material de costura aqui dentro.
+6653|"Rim - Podridão pesada removida."
+6654|Parece quase novo em folha.
+6655|<wiggle a=.2>Por que essa mandíbula tem tantos dentes?
+6656|São dentes de leite.
+6657|"Olhos - Par. Castanhos."
+6658|"Fermentação revertida. Dissecados, descobriu-se que têm mais fotorreceptores do que olhos humanos comuns."
+6659|"Estômago - Reconstruído."
+6660|Como as peças de um quebra-cabeça montadas de novo.
+6661|Uma mão esquerda habilidosa e charmosa. Parece ter uma linha do coração peculiar.
+6662|O que é aquilo lá atrás? Aquilo é um cérebro?
+6663|É meio… pequeno…
+6664|Não é uma colheita fresca; quando foi extraído, já tinha começado a ficar em conserva dentro do crânio.
+6665|Tem limite para o que dá pra fazer.
+6666|O pé grande e torto de um homem.
+6667|Uma mão direita robusta e confiável. A linha da vida desta é longa.
+6668|Essas costelas são bem pequenas.
+6669|Bem pequenas ou bem jovens...
+6670|"Fígado - Desintoxicado."
+6671|O órgão teve uma vida difícil, mas a reforma recente removeu todas as cicatrizes.
+6672|"Intestinos: Podridão leve removida."
+6673|Os intestinos apodrecem rápido. Esse deve ser fresco.
+6674|O que é aquilo…
+6675|Uns ratos, eu acho.
+6676|O que eles têm a ver com o resto dessas coisas?
+6677|Cobaias...
+6678|"Coração - Antes defeituoso."
+6679|Hmm, como será que ela resolveu o problema das veias entupidas? Com uma escova de dentes?
+6680|"Pulmões - Danos de fumaça removidos."
+6681|Um sopro de ar fresco.
+6682|Não alcanço.
+6683|… Esses cestos estão guinchando?
+6684|Ela tem um estoque enorme de produtos de limpeza aqui embaixo…
+6685|Isso não parece nem um pouco com ela.
+6686|Ela tem alguns limites, pode acreditar.
+6687|Uma furadeira para perfurar a placa do crânio.
+6688|Ela comprou tudo isso na loja de ferragens. Ela limpa tudo com vodca antes de trabalhar.  Muito estéril.
+6689|Os jornais ajudam a impedir que o sangue empoce na bandeja.
+6690|Espetos para sondar os nervos.
+6691|Uma serra para rasgar o osso.
+6692|"Feijão Original"
+6693|A mamãe comia tantas latas disso.
+6694|"Café da Manhã Inglês em Lata"
+6695|Diz que tem feijão, bacon e três tipos de linguiça.
+6696|Parece bem velho...
+6697|Talvez seja do morador anterior?
+6698|"Hambúrguer em Lata"
+6699|Finalmente, comida boa.
+6700|"Enguias em Gelatina"
+6701|Será que é doce?
+6702|"Ovos Cozidos"
+6703|Pessoalmente, se eu ficasse presa num buraco por dez anos, não sei se ia sentir muita falta de ovo cozido.
+6704|“Leite de Égua em Pó”
+6705|Deve ser difícil ordenhar uma égua.
+6706|“Peixe em Lata”
+6707|Por algum motivo, olhar para isso te deixa tonta.
+6708|Está coberto de lama…
+6709|E tem um cheirinho também.
+6710|Isso tem cheiro de fundos de açougue.
+6711|“Água em Lata”
+6712|Aposto que essa água tem gosto de quem passou cinquenta anos numa lata.
+6713|Isso é… uma espreguiçadeira…<blink>?
+6714|Acho que a mamãe trouxe isso quando a gente foi acampar.
+6715|É, com um conjunto de cintas pra impedir que a ‘paciente’ se debata.
+6716|O que a cadeira de praia está fazendo aqui embaixo?
+6717|Ela senta aqui e admira a vista.
+6718|O aparelho de ar-condicionado ronca na lateral da parede.
+6719|É refrescante.
+6720|Todos os nutrientes bombeados direto para o sangue, sem precisar exercitar o estômago.
+6721|Desculpa... Eu não consigo...
+6722|<waitfor=2>Isso te deixa muda de choque.
+6723|O cheiro corta uma linha dura nariz acima; o miasma de formol te faz ver estrelas.
+6724|Você se lembra de uma foto do seu pai num álbum antigo. Ele está de pé, sorrindo, diante de um templo antigo. Há uma árvore que cresce através da pedra da construção.
+6725|O cadáver é como um fungo, as gavinhas dos nervos crescem como raízes pelas paredes da geladeira.
+6726|Ainda está vivo, a boca se abre num sorrisinho, as feições dele estão inchadas, mas de algum jeito você ainda o reconhece.
+6727|Este é o seu pai.
+6728|Ele não deveria estar aqui. Ele não voltou pra casa no domingo à noite.
+6729|Sua mãe não queria que você soubesse que ela estava preocupada; ela ligou para a polícia para avisar do desaparecimento dele e depois te mandou dormir na casa dos vizinhos.
+6730|Você assistiu tanto Garoto Tomate, você amou aquela noite... Você tem vergonha disso, até hoje.
+6731|Você quer parar de lembrar, mas não consegue evitar.
+6732|Sua mãe nunca te contou exatamente como aconteceu, você ainda não sabe. Só que ele se afogou... só que encontraram o corpo tarde demais...
+6733|<waitfor=0.5>A mãozinha dele, se contorcendo, quer alcançar você.
+6734|Ele quer te consolar.
+6735|Você consegue ouvir as palavras dele na sua mente. Você <i>quer</i> ouvi-las.
+6736|Ele está animado de te ver. Você sente uma conexão com essa coisa. Ela está feliz que a escuridão se foi.
+6737|VOCÊ: Como… você está…
+6738|Você se lembra de caminhar com ele na praia. Ele tinha viajado, para uma conferência sobre a migração dos salmões, e quando voltou a primeira coisa que quis fazer foi passar um tempo com você.
+6739|Ele quis caminhar pela praia e te contar o que tinha aprendido.
+6740|Ele quer caminhar com você de novo. Ele sente muito por ter ficado longe por tanto tempo. Ele quer saber se você está brava.
+6741|VOCÊ: …O que ela fez com você?
+6742|Você se lembra dele andando no fundo do lago, as mãos tentando desesperadamente alcançar a superfície enquanto a ardência nos pulmões crescia.
+6743|<waitfor=0.5>Você olha os órgãos dele despencando do tronco do corpo. Você se lembra de zoar ele por causa do sushi que ele comia, de como ele transformava os amigos em comida.
+6744|VOCÊ: Eu não entendo…
+6745|VOCÊ: Eu… Eu não consigo…
+6746|Os olhos fechados dele te encaram.
+6747|VOCÊ: …Desculpa.
+6748|Você bate a porta da geladeira com força e fica ali hiperventilando por um momento.
+6749|Um relatório de pesquisa. A data no topo sugere que é do fim da primavera.
+6750|“Observações 1, Dra. Annabelle Lee.”
+6751|“Antes de tudo, gostaria de dedicar este trabalho à minha filha, Nima Lee. Ela descobriu este espécime enquanto nadava em um dos lagos perto do Xisto de Burgess.”
+6752|“Quanto ao espécime em si, está extraordinariamente bem preservado. Um dos melhores exemplares de Marrella splendens que já vi na minha carreira. O molde externo é mais cristalino e prismático do que a moldagem carbonática típica de outros fósseis.”
+6753|“O valor desta descoberta não pode ser exagerado. Vou começar a análise; espero conseguir extrair o fóssil da pedra sem danificá-lo.”
+6754|Um bilhete, uma série de ideias soltas. A escrita é fragmentada, frenética, observações em tópicos sem nada que as ligue.
+6755|As datas de cada bilhete vão até o começo do verão.
+6756|“Observações 2, Dra. Annabelle Lee.”
+6757|“A análise de raio-X revelou uma anomalia. As leituras me sugeriram que a camada externa de rocha era uma casca. Uma crosta formada sobre um espécime mais intacto escondido lá dentro.”
+6758|“Talvez eu consiga lascar a camada externa e extrair o fóssil inteiro…”
+6759|A linha seguinte é rabiscada, escrita com a mão trêmula.
+6760|“Uma Marrella viva.”
+6761|“Removi a camada externa, e os pequenos apêndices começaram a se mexer. Ela se convulsionou e tentou alcançar a abertura na rocha.”
+6762|“Coloquei-a dentro de um copo d'água. No momento, não tenho recipiente melhor para ela. Vou precisar de um aquário.”
+6763|“Não faço ideia de como esta criatura sobreviveu por milhões de anos sepultada na rocha.”
+6764|“Tudo o que sei, todos os meus anos de estudo, todas as minhas experiências, tudo me diz que isso é impossível.”
+6765|“E, mesmo assim, ela existe.”
+6766|“Tem que haver uma explicação.”
+6767|Um relatório formal anexado a uma série de medições e observações. A data é do meio do verão.
+6768|“Projeto Marrella splendens, Registro 1, Dra. Annabelle Lee.”
+6769|“O <i>valor</i> desta descoberta… Uma mente inferior perceberia quanto dinheiro poderia conseguir por algo assim. Tirariam isso de mim. Preciso garantir que esses segredos fiquem comigo.”
+6770|“Usei minha autoridade para reservar uma parte do laboratório para a minha pesquisa. Muitas vezes sou a única lá, já que a maioria dos outros está fora guiando visitas pelo sítio ou ocupada na recepção. Mesmo assim, tenho medo de sair.”
+6771|“Não posso contar para a Nima. Ela certamente vai contar a alguém o que eu descobri.”
+6772|Você faz bico com isso, mas não tem como negar a acusação.
+6773|“O Dr. Baldridge me abordou hoje. Ele encontrou o raio-X do espécime ainda na máquina. Esqueci de tirá-lo. Ele me disse que era uma descoberta notável e pediu para vê-lo. Eu disse que minhas conclusões não estavam prontas.”
+6774|“Preciso levar minha pesquisa de volta para casa.”
+6775|Não há data neste próximo bilhete. Está escrito como um adendo a uma lista de anotações e descobertas. Foi escrito depois, às pressas. Um projeto largado e retomado.
+6776|"Agora entendo como a Marrella foi preservada dentro da pedra."
+6777|"Há um verme, uma criatura simbiótica que estava usando a Marrella como hospedeira."
+6778|"Ele entra no hospedeiro perfurando a esclera do olho e nadando até o cérebro pelo nervo óptico."
+6779|"Considerando que a Marrella não tem olhos, suspeito que ele tenha perfurado o tecido das articulações em volta da base da antena."
+6780|"Depois que ele se aninha dentro do corpo, o cadáver volta à vida. Todas as feridas se curam. Como se tivesse nascido de novo."
+6781|"Vou começar a testar as capacidades dele imediatamente. Existe uma chance…"
+6782|Você olha fundo nos olhos mortos do seu antigo peixinho. Faltam pedaços da carne dele, como se ele tivesse sido cortado em filés.
+6783|Imagens do que ela pode ter feito com ele invadem sua mente sem serem chamadas.
+6784|O cheiro da carne podre dele aperta sua garganta. Seu nariz se enche com o que escorre das suas lágrimas.
+6785|Você não consegue mais olhar para ele. Você bate a tampa do isopor e cai de volta no chão.
+6786|Lá no fundo, você já sabia que ele estava morto...
+6787|Mas isso não torna as coisas mais fáceis.
+6788|Ela coleciona o seu sangue como coleciona os seus dentes de leite.
+6789|É quase como se isso fosse algum tipo estranho de demonstração de carinho.
+6790|Você se lembra de um dia de verão que poderia ter sido qualquer dia. Você estava sozinha no calor escaldante de casa, esperando sua mãe voltar.
+6791|O ar-condicionado quebrou em algum momento. Agora você se esconde da luz, fechando bem todas as cortinas e agarrada a um ventiladorzinho zumbindo na mão.
+6792|Nessa escuridão e nesse calor, você se arrasta por aí feito um fantasma, lavando a louça de novo e de novo só para ter algo com que passar o tempo.
+6793|Você molha as mãos em água morna e depois as gruda no fundo do congelador.
+6794|Mais do que tudo, você se pergunta o que fez de errado, o que fez para merecer essa solidão.
+6795|De repente, você ouve a campainha, e meio deslizando, meio correndo, você vai até a porta.
+6796|Na porta, em vez da sua mãe, você encontra a Pearl. Ela sorri para você e te oferece uma sacola cheia de isotônicos, comida gelada e sorvete.
+6797|PEARL: Olá, Nima, trouxe umas coisinhas pra você e pra sua mãe.
+6798|Você ficou triste de avisar ao asilo que não poderia mais trabalhar lá. Sua mãe precisava da sua ajuda em casa.
+6799|Agora você e a Pearl tinham trocado de papéis; ela começou a cuidar de você, e não o contrário.
+6800|Era estranho, considerando que ela não tinha nem de longe a sua idade, mas você se perguntava se era assim que era ter uma amiga.
+6801|NIMA: Valeu, Pearl!
+6802|Você pegou a sacola dela com avidez e tirou um pacote de ervilhas congeladas. Equilibrou no topo da cabeça para aliviar a sensação de cérebro assando.
+6803|NIMA: Quer entrar e jogar um jogo de tabuleiro? A gente tem xadrez, damas e mahjong.
+6804|PEARL: Ah, eu sempre tenho tempo pra te ganhar no mahjong. Sua mãe está em casa?
+6805|NIMA: Ela tá no trabalho agora.
+6806|PEARL: Você não está com ela? Achei que você fosse a assistente de laboratório dela.
+6807|NIMA: Eu sou, ela volta aqui de vez em quando e eu entrego uma marmita nova e uma muda de roupa limpa.
+6808|Fiel à palavra, ela ganhou no mahjong, e ganhou de novo enquanto você tentava recuperar sua honra.
+6809|PEARL: Só isso? Você só entrega as coisas e ela vai embora? Achei que ela ia te levar pra montanha.
+6810|NIMA: É, mas isso foi antes…
+6811|A imagem do fóssil no xisto ainda pairava na sua mente.
+6812|No dia em que você o encontrou, estava tão feliz que não conseguia parar de sorrir.
+6813|E, quando olhou para baixo, você podia jurar que viu o fóssil sorrindo de volta.
+6814|Você se conteve.
+6815|NIMA: Ela já me levou.
+6816|NIMA: Não aconteceu nada de interessante. Só vi um monte de pedras.
+6817|PEARL: Ah, é mesmo? Nada de interessante?
+6818|Você balança a cabeça com vigor. Você não pode arriscar chatear sua mãe mais do que já chateou.
+6819|PEARL: Tá bom, tá bom, mas se um dia der vontade de fofocar, a velha Pearl está sempre aqui pra ouvir.
+6820|Vocês voltam a jogar em silêncio.
+6821|Você se lembra de que ela se levantou no meio de uma partida, foi até o ar-condicionado e deu um chute nele.
+6822|Você ficou horrorizada, mas de algum jeito aquilo consertou. Ele voltou à vida engasgando.
+6823|Você pôde acender as luzes de novo. Mais do que isso, pôde ligar o forno sem o calor vazar e assar o cômodo inteiro.
+6824|Vocês fizeram biscoitos juntas, trocaram histórias e planejaram uma viagem para Vancouver que as duas sabiam que você nunca teria permissão de fazer.
+6825|Por um momento, ela te libertou do calor e do isolamento.
+6826|Uma memória te invade junto com a sensação da água batendo contra o seu rosto.
+6827|Você se lembra do processo de nadar.
+6828|A marcha interna de comandos enviados do seu cérebro ao seu corpo: um ritmo perfeito de pernadas, braçadas e uma respiração descompassada.
+6829|As emoções acompanham a lembrança como um lanchinho de queijo com bolacha. Uma pura alegria existencial salpicada só um pouquinho de pânico.
+6830|Era o Campeonato Regional de Natação da Colúmbia Britânica; o dia em que você provou o quanto era rápida.
+6831|Você estava tão rápida que a vedação dos seus óculos de natação se rompeu. A água te atacou, o cloro ardendo nos seus olhos e forçando-os a fechar.
+6832|Você ignorou. Depois de ganhar, aí sim poderia lidar com a dor.
+6833|Então você bateu na parede da piscina.
+6834|Sua vitória chegou de repente, com um estrondo tremendo e vibrante. Você bateu o topo do crânio, e uma descarga de dor chacoalhou sua coluna inteira.
+6835|Você não perdeu a consciência, mas de repente seu corpo ficou mole e começou a afundar na água.
+6836|Foi assustador por um momento, passar de motorista a passageira do próprio corpo.
+6837|Então um par de mãos te agarrou e te tirou da água, te puxando para cima e te segurando firme contra a borda da piscina. Duas outras integrantes da sua equipe te salvaram.
+6838|TIFFANY: Nossa, você tá bem, Nima!?
+6839|NIMA: Gu’h- d
+6840|Sua língua rolava dentro da boca.
+6841|O salva-vidas chegou e, com a ajuda das suas colegas de equipe, você foi içada da água como um peixe recém-pescado e deitada na borda da piscina.
+6842|O salva-vidas iluminou seus olhos com uma lanterna e checou seu pulso.
+6843|Você ouviu uma enxurrada de água batendo contra a parede da piscina, sinal de que a nadadora ao seu lado finalmente tinha chegado.
+6844|Um raio de competitividade percorreu seu cérebro atordoado.
+6845|NIMA: Eu ganhei?
+6846|Os rostos preocupados das suas amigas foram, aos poucos, virando sorrisos. A Tiffany se aproximou e abriu a boca para te parabenizar direito.
+6847|Antes que pudesse, uma mão agarrou o braço dela e a arremessou para fora do caminho.
+6848|O medo que você sentiu, à deriva e sem controle, foi amplificado e transferido para sua mãe. Ela empurrou a Tiffany no chão e afastou o salva-vidas com brutalidade.
+6849|Por fim, ela desabou sobre você aos soluços, te apertando num abraço sufocante.
+6850|SALVA-VIDAS: Senhora, por favor, me dê um pouco de espaço pra trabalhar.
+6851|MÃE: O que você ainda tá fazendo aqui? Vai chamar uma ambulância!
+6852|SALVA-VIDAS: Eu ainda não determinei se ela sofreu uma concussão.
+6853|MÃE: Você não é médico, você é uma criança. Seja útil e chame um adulto que saiba fazer o próprio trabalho.
+6854|TREINADOR: E aí, campeã, como você tá?
+6855|Seu treinador se aproximou, abrindo caminho com cuidado pela multidão e ignorando a fúria ensandecida da sua mãe. Você respondeu com um joinha.
+6856|TREINADOR: Tá vendo, a Nima tá bem. Olha, Annabelle, ela tá ótima, nada consegue parar essa menina.
+6857|MÃE: Ela quase se afogou!
+6858|Você se lembra do atordoamento passando quando percebeu o que estava acontecendo. Ela não estava preocupada, não de verdade; aquilo era luto.
+6859|Você abraçou sua mãe de volta para tranquilizá-la e falou baixinho no ouvido dela.
+6860|NIMA: Mãe, eu tô bem.
+6861|Ela afrouxou um pouco o abraço e você a afastou para que ela pudesse ver a realidade. Você estava viva, estava feliz e era a campeã.
+6862|NIMA: Eu acabei de ganhar o regional!
+6863|O resto da sua equipe comemorou, mas você se lembra do rosto da sua mãe.
+6864|A tristeza dela foi embora e deu lugar a uma expressão de negação perplexa, como se pela primeira vez ela percebesse que você não era ela.
+6865|Milhões de anos de silêncio terminaram com uma série de batidinhas.
+6866|Você sente uma força externa contra a sua casca… severa, mas precisa, nada parecida com o jeito como a terra costuma se mover.
+6867|De repente você <i>sentiu o cheiro</i> de algo. O hálito de algo grande, carregado de medo, expectativa e sangue. Um predador.
+6868|???: Está… tão bem preservado.
+6869|Você flexiona as pernas; pela primeira vez em milênios, consegue dobrar suas articulações antigas.
+6870|O mundo gira, você sente um baque duro quando sua casca é largada. Você sente algo frio sob seus apêndices e se debate desesperadamente.
+6871|???: Mexendo… Está se mexendo.
+6872|O cheiro de medo aumenta. Seus receptores se contraem. Você se pergunta se há outro predador por perto.
+6873|Você sente sua casca sendo arrancada do chão e segurada com força. As batidinhas voltam, seu corpo balança a cada golpe. Você se esforça ao máximo para se manter inteira.
+6874|Finalmente, você está livre.
+6875|???: Lindo…
+6876|No lugar da pedra, agora você sente apêndices carnudos beliscando seu corpo. Seus olhos, cegos há muito tempo, precisam de um momento para se curar antes que você consiga enxergar com clareza.
+6877|???: Água… Eu preciso de água.
+6878|A dor da asfixia, uma sensação que se tornou normal para você, de repente some. Um véu de água fresca passa por cima de você.
+6879|Você flexiona os apêndices e nada. <i>Você nada!</i>
+6880|Você encontra paredes duras em todas as direções, uma prisão um pouco maior que sua casca de pedra. Mas. Agora você consegue respirar. É fresco e calmo. <i>O paraíso.</i>
+6881|???: …Isso é impossível.
+6882|O cheiro pungente de medo não diminuiu. Vem de todos os lados; o predador está te rondando.
+6883|???: Isso não importa. Não. Tem que haver um motivo.
+6884|???: Preciso tirar você daqui.
+6885|Há uma rachadura no mundo. Você é agarrada pelo corpo todo. Tenta se contorcer para escapar, mas está presa numa pinça.
+6886|Você passa da escuridão e da segurança para conhecer, por um instante, o calor sufocante do ar seco. Você sente um leve cheiro de podridão.
+6887|Você sente um cadáver debaixo de você. Sente a pinça no seu corpo afrouxar, e você se enterra no corpo para fugir.
+6888|???: Introdução bem-sucedida.
+6889|Esta forma é maior e mais elegante que seu corpo anterior. Você flexiona uma cauda e se debate.
+6890|Você abre bem as guelras e descobre que são inúteis.
+6891|???: As escamas mortas estão caindo, substituídas por pele nova.
+6892|Um predador fecha uma garra em volta do seu corpo; você é presa contra o metal frio.
+6893|???: Iniciando teste.
+6894|Um corte é feito na sua cauda. Você se contrai, tentando nadar para longe. Você não se move.
+6895|A garra sobe pelo seu corpo, te agarrando de novo mais perto da cabeça, expondo sua nadadeira dorsal.
+6896|Um segundo corte é feito, partindo a metade inferior da sua espinha.
+6897|???: Um, dois, três, quatro...
+6898|Corte, corte, corte, corte.
+6899|A pressão se desfaz, você está livre. Você flexiona as guelras. Você não consegue se mexer.
+6900|???: Iniciando cronômetro de regeneração.
+6901|Você entra em pânico, imóvel, buscando a carne que falta.
+6902|Aos poucos, você a encontra de novo.
+6903|???: Incrível.
+6904|Você é virada de barriga para cima, a garra segura sua cabeça.
+6905|Uma faca desliza pela sua barriga. Suas entranhas se derramam na bandeja. Ela te segura pela cauda e deixa seu sangue escorrer.
+6906|Você permanece. Seu alcance repara o estômago e estanca o sangue. Você preenche a cavidade com imitações apressadas.
+6907|Você flexiona as guelras no ar frio.
+6908|???: Isso não devia ser possível... A substância que ele produz consegue até regenerar órgãos.
+6909|???: Será que consegue reparar até o cérebro?
+6910|Você é jogada de volta para baixo e a garra se fecha em volta do seu corpo. A faca morde seu crânio-
+6911|O sangue que alimenta seu cérebro pulsa, tentando lembrar algo que você nunca deveria ter esquecido.
+6912|MÃE: O que você está fazendo na minha casa?
+6913|A mamãe tinha dito que voltaria para casa em breve. Mas ela chegou mais cedo do que você imaginava. Agora, dois fios da sua vida que você nunca quis cruzar tinham se encontrado.
+6914|PEARL: Você deve ser a Annabelle! Eu sou a Pearl, talvez a Nima tenha comentado? Tenho dado uma mão enquanto você está ocupada com a sua pesquisa.
+6915|MÃE: É mesmo? Não me lembro de ter pedido sua ajuda.
+6916|Dava para ver que ela estava furiosa; os cantos da boca dela tremiam quando ela falava.
+6917|PEARL: Bom… É só o que um bom vizinho faz. Você anda tão ocupada, e a Nima me perguntou se eu me importaria de trazer umas compras.
+6918|PEARL: E aí, bom… Não parecia certo deixar ela sozinha aqui. Faz algumas semanas desde a última vez que, segundo ela, você passou em casa.
+6919|MÃE: O que você está insinuando?
+6920|PEARL: Bom, você é nova por aqui…
+6921|PEARL: Não sei como é de onde você vem, mas não é normal simplesmente deixar a filha sozinha. Ela precisa de alguém que cuide dela.
+6922|Ela olhou para você pedindo ajuda, mas você não conseguia retrucar, não para a sua mãe.
+6923|MÃE: Acho que você tirou algumas conclusões precipitadas. Eu sou mãe solo, o pai da Nima morreu há muitos anos. Isso significa que eu tenho que trabalhar mais horas para sustentá-la.
+6924|MÃE: Quando a gente morava na cidade, com certeza não era raro as crianças voltarem para casa, trancarem a porta e esperarem os pais chegarem.
+6925|MÃE: A Nima é adolescente. Ela normalmente faz as compras e cozinha sozinha.
+6926|MÃE: Você acha que alguma de nós duas é incapaz de cuidar de si mesma?
+6927|PEARL: Bom… Eu…
+6928|PEARL: Eu <i>imagino</i> que não seja da minha conta.
+6929|Ela arruma as coisas depressa; você não sabe se ela está brava ou envergonhada.
+6930|Sua mãe dá um sorriso falso e espera a Pearl se retirar porta afora.
+6931|Ela se vira para olhar para você e sussurra alto o bastante para a Annabelle ouvir.
+6932|PEARL: Eu preferiria não envolver a polícia.
+6933|PEARL: Mas vou envolver, se for o que precisa ser feito.
+6934|A Annabelle fuzila a Pearl com o olhar enquanto ela sai da casa, e fecha e tranca a porta atrás dela.
+6935|MÃE: De onde você conhece aquela mulher?
+6936|VOCÊ: Ela é do asilo. A gente é amiga.
+6937|MÃE: Amigas? Você é uma criança, você tem uma fração da idade dela… Isso não importa… O que você contou pra ela?
+6938|VOCÊ: Nada… Eu só… Você não estava em casa, eu precisava de compras, eu tava com fome. Faz tanto tempo que eu não te vejo.
+6939|MÃE: Isso é mentira. Tem lata suficiente nesta casa pra sobreviver por meses.
+6940|MÃE: Você entende que, se ela for à polícia… Você sabe o que fariam com a gente? Iam tirar você de mim, Nima.
+6941|MÃE: É isso que você quer?
+6942|Você achou que devia dizer que não, essa era a resposta óbvia. Mas não conseguiu se obrigar a dizer.
+6943|Você tinha esperança de que a Pearl pudesse te levar de volta para Vancouver…
+6944|Uma lágrima rompe o canto do olho dela e escorre pela bochecha.
+6945|MÃE: Vai pro seu quarto.
+6946|Uma memória complexa vem até você, uma caixa contendo uma série de presentes rancorosos.
+6947|Você se lembra de correr pelo acostamento da rodovia; o sol já tinha se posto havia muito tempo e, embora você não soubesse para onde estava indo, sabia que precisava fugir dali… dela.
+6948|A estrada mal era iluminada pela lua e pelos faróis altos de algum caminhão que passava de vez em quando.
+6949|No começo, você se enfiava entre as árvores e saía delas, com medo de que os caminhões parassem por você. Com o tempo, percebeu que nenhum estranho de passagem se importava o bastante com uma menina que podia muito bem ser um fantasma.
+6950|Você viu um carro pequeno passar zunindo. Assistiu horrorizada enquanto ele parava na rodovia e fazia o retorno para ficar de frente para você.
+6951|Os faróis altos brilhavam direto nos seus olhos, te pregando no lugar.
+6952|Ela te encontrou.
+6953|Você correu de lado para dentro da floresta e sumiu na escuridão. Em resposta, ouviu o motor do carro rugir como um animal predador.
+6954|Ele avançou, saindo da estrada e descendo um pouco a ladeira até ‘estacionar’ com o capô pressionado contra uma árvore.
+6955|Um galho acertou sua bochecha, os gravetos abriram pequenos cortes no seu rosto. Eles arderam quando as lágrimas salgadas escorreram para dentro das feridas.
+6956|MÃE: <shake>NIMA! Volta aqui!
+6957|A voz dela coalhou o sangue nas suas veias; você correu mais rápido.
+6958|MÃE: <shake a=0.5>Eu achei que você tinha sido sequestrada! Eu achei que você tava morta!
+6959|MÃE: <shake>Você fugiu!?
+6960|Você ouviu gravetos estalando ao longe atrás de você enquanto os passos pesados dela abriam a vegetação rasteira numa grande onda. A fúria dela assobiava por entre os dentes; dava para ouvir a careta na respiração dela.
+6961|MÃE: <i>Sai daí agora mesmo!
+6962|Você tropeçou numa pedra e rolou, os joelhos nus ralando contra a casca das árvores. Você abafou a vontade de gritar e jogou o corpo contra uma árvore para se esconder.
+6963|MÃE: Você quer me abandonar!?
+6964|De algum jeito, ela sabia que você tinha parado, como se pudesse sentir o cheiro de que você estava machucada. Em vez de gritar, ela falou num tom calmo.
+6965|MÃE: <shake>Foi por isso que você fugiu, não foi!?
+6966|MÃE: Aposto que você tá aí agora mesmo rindo de mim. Aposto que tá pensando: ‘é isso, agora ela não vai ter escolha a não ser fazer o que eu quero!
+6967|MÃE: <i>Você é que nunca tá satisfeita! Você é que é egoísta!
+6968|Você tinha consciência de como estava respirando alto. Numa tentativa de abafar o som, tapou a boca e o nariz com as mãos.
+6969|Você tentou se controlar, mas a falta de ar só deixava sua respiração mais alta. Você se empurrou ainda mais para trás, para sumir no vão da árvore atrás da qual se escondia.
+6970|MÃE: Você <i>sabe</i> que eu sou infeliz e sozinha, que trabalho duro todo dia pra te sustentar, e é assim que você me retribui.
+6971|MÃE: <i>Você acha que eu não quero fugir!? <shake>Você acha que eu não queria estar morta!?
+6972|MÃE: <i>Mas eu não fujo! </i>Porque você precisa de mim.
+6973|Você ouviu os passos dela se aproximando. Quando ela voltava a gritar, de vez em quando, aquilo mandava pulsos de choque pela sua espinha. Sua dor diminuiu com as descargas de adrenalina correndo pelas veias.
+6974|A cada batida do seu coração vinha um impulso pulsante: corre – corre – corre.
+6975|MÃE: Você e eu devíamos ser um time, você me prometeu…
+6976|Um graveto estalou, praticamente do seu lado. O impulso de correr virou uma ordem e, antes mesmo que seu cérebro registrasse aquilo como um desejo consciente, você já estava correndo.
+6977|MÃE: <i>Sua pestinha-!
+6978|Você sentiu as unhas compridas dela arranharem sua nuca quando ela avançou em você.
+6979|MÃE: <i>Para de correr!
+6980|Você sentia que ela estava te alcançando. Num instante, ela ia te arrastar de volta para a vida que você não suportava viver.
+6981|MÃE: <shake><b>Para!!
+6982|Ela parou de repente e você correu mais rápido. Você sentiu: a liberdade no sopro do vento.
+6983|De repente, não havia mais chão sob seus pés. Todo o calor do seu sangue te abandonou de uma vez enquanto o ar rasgava sua pele.
+6984|Por um segundo, enquanto despencava, você não tinha peso nenhum.
+6985|Então a água gelada e as pedras afiadas receberam ansiosas seu corpinho e o conduziram depressa a um descanso escuro.
+6986|MÃE: Iniciando introdução.
+6987|Você já tinha se acostumado. A pinça e o movimento.
+6988|NIMA: <size=156%>.     .     .
+6989|MÃE: Por favor, conserta ela...
+6990|Você sente cheiro de decomposição... mas tem algo estranho. Não há cadáver. Você se contorce e tenta fugir.
+6991|A pinça te pegou de novo, te erguendo para longe.
+6992|MÃE: Por que isso não funciona?
+6993|MÃE: E se...
+6994|O ar cantou.
+6995|De repente, você sentiu cheiro de cadáver. Você se esticou, se contorcendo em direção ao cheiro.
+6996|Você se enterra ao redor do olho e encontra... um...
+6997|Oceano.
+6998|Você... Você é você. Você é natação e troféus e amizades e imaginação e-
+6999|Você quer fugir, fugir... Você está num <b>porão.</b> O porão pertence a uma casa, a casa é sua, você mora aqui. Você se sente triste e sozinha e sobrecarregada e com medo.

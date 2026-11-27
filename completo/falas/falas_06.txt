@@ -1,0 +1,500 @@
+3000|Você subiu para sentar no colo da sua mãe e lançou um olhar fulminante para a sua Nai Nai. Annabelle nem percebeu; ela te abraçou bem apertado e parou de chorar.
+3001|Foi uma declaração clara. Você sabia quem era a sua família.
+3002|Você se arrepende dessa decisão agora?
+3003|Isso te lembra de alguma coisa...
+3004|Você ouve algo ao longe, o som de ar sendo sugado.
+3005|Você sente um orvalho frio se condensando nas suas bochechas quentes.
+3006|Seus olhos ardem.
+3007|Você não tem pensamentos, está reduzida a uma necessidade primitiva.
+3008|Fugir.
+3009|Você se pergunta qual resposta deixaria sua mãe feliz.
+3010|Você se concentra demais nisso...
+3011|É importante para a sua sobrevivência que a sua mãe esteja feliz.
+3012|Você se amaldiçoa por ter se colocado nessa situação.
+3013|Como você ousa fazer algo que magoe os sentimentos da sua mãe!
+3014|Você se lembra de uma sombra emergindo do porão.
+3015|Ela está possuída pelo trabalho. Dá para perceber pelo cheiro azedo de suor do corpo dela.
+3016|A sombra se arrasta pela cozinha e pega uma lata de feijão cozido. Você sabe que vai comer frio mesmo.
+3017|Ela se recolhe de volta ao porão, e você rapidamente limpa a bagunça deixada pela passagem dela.
+3018|Sua mãe... tinha alguma coisa estranha acontecendo... o que era?
+3019|Ela te inscreveu como voluntária no asilo, mas, com a mesma rapidez, mandou você largar e ficar em casa.
+3020|Ela precisava de você por perto. Precisava de você pronta. Seu trabalho era manter a casa funcionando enquanto ela... trabalhava?
+3021|Isso não parece certo, ela trabalha o tempo todo. Por que esse trabalho era tão... estranho?
+3022|Você se lembra de pedir ajuda à Pearl...
+3023|Isso não terminou bem...
+3024|Aconteceu uma coisa, e a Pearl deixou de ser só uma pessoa qualquer e começou a ser uma amiga.
+3025|Você roubou a carteira dela...
+3026|Ela te pegou no flagra, perguntou por quê, e você explicou que precisava de dinheiro pra comprar sapatos.
+3027|Você nunca chegou a dizer que tipo de sapatos...
+3028|No fim, ela simplesmente te deu o dinheiro.
+3029|Depois disso, porém, você começou a se abrir um pouco mais com ela. Sua mãe nunca estava por perto, então era bom ter uma adulta te ajudando.
+3030|Ela achou que você podia estar deprimida, então te deu alguns dos antidepressivos dela.
+3031|Mas a sua mãe achava ela muito intrometida...
+3032|Você aprendeu o horizonte da entropia. A vida útil das maçãs frescas, o verdadeiro valor da comida em conserva.
+3033|Ela comia quase tudo direto da lata. Desde que você fornecesse os mantimentos básicos, a casa se mantinha. Do que mais alguém precisa além de feijão e arroz?
+3034|Em alguns dias, quando as coisas faziam sentido, você acordava e fazia algum trabalho: repunha a comida, tirava o pó das prateleiras, limpava o mofo que avançava pelos cantos do batente da janela.
+3035|Então, com o trabalho feito, você podia se entocar por mais três dias e dormir em meio à apatia.
+3036|Você desenhou isso, mas ao mesmo tempo não desenhou.
+3037|Isso é perturbador; a implicação é que existe um "você" que não é você.
+3038|Pensando bem, isso parece óbvio.
+3039|É claro que existe uma você que está aqui para sobreviver e uma você que vai simplesmente suportar.
+3040|O que isso representa é uma brecha... Um lapso de "você-dade" que resultou nesse pedido de socorro.
+3041|O outro "você" diz: "Por favor, eu não quero mais suportar, eu quero ser ouvida."
+3042|É importante reprimir esse "você".
+3043|Você se sente decepcionada?
+3044|Você não lembra de nenhuma promessa que a sua mãe tenha feito na qual você realmente tenha botado fé.
+3045|Você esperava que ela fosse te ouvir?
+3046|Você provavelmente está decepcionada consigo mesma. Seu trabalho aqui era simples, e você claramente fez uma bela besteira.
+3047|Você quer gritar com ela. Quer finalmente transbordar e dizer a ela o quanto ela é inútil.
+3048|Ela espera tanto de você e, no entanto... não oferece nada em troca. Não existe nada de mútuo nisso.
+3049|Você sabe que não tem permissão para sentir "raiva"; é uma emoção ilegal.
+3050|Será que eu posso te oferecer algo mais útil no lugar?
+3051|Você inspira e expira para retomar o controle de si mesma.
+3052|Você precisa se lembrar de que é ela quem tem o poder aqui.
+3053|Ela pode fazer o que quiser com você, ninguém sequer sabe que você está viva. Provavelmente, ninguém se importa.
+3054|Sua única solução é aceitar o seu lugar no universo.
+3055|Ela faz um gesto para você se levantar, e você obedece prontamente. Melhor não provocá-la ainda mais.
+3056|Ela marcha depressa até o seu lado da mesa, agarra seu braço e te arrasta de volta para o seu quarto.
+3057|Ela te larga bruscamente do outro lado.
+3058|MÃE: O teste de amanhã vai ser <i>difícil.</i>
+3059|MÃE: Vá dormir um pouco...
+3060|Ela fecha a porta. Deixando você sozinha no quarto.
+3061|Você se pergunta o que foi que fez de errado.
+3062|Nada. Você está indo bem. Está agindo normalmente... ela é quem tem um problema.
+3063|E, mesmo assim, a única opinião que importa é a dela.
+3064|Você não sabe ao certo o que ela vai fazer amanhã.
+3065|Você se arrasta para a cama e puxa o lençol por cima da cabeça.
+3066|Melhor encarar o próximo teste bem descansada...
+3067|<speed=0.4>...
+3068|MÃE: Esses eram todos os testes que eu tinha planejado para hoje.
+3069|MÃE: Houve algumas anormalidades, mas terminamos bem.
+3070|MÃE: Como recompensa, vou te dar uma dica…
+3071|MÃE: O teste de amanhã vai ser difícil.
+3072|MÃE: Vai parecer muito estranho, mas, desde que você se lembre de que a mamãe te ama de todo o coração… você vai passar com sucesso.
+3073|Ela faz um gesto para você se levantar, e você obedece prontamente.
+3074|MÃE: Por favor. Volte para o seu quarto.
+3075|Ela te acompanha sem força desnecessária. Levando você até a porta.
+3076|MÃE: Tenha uma boa noite de sono. Tá bom, querida?
+3077|Ótimo… ela caiu.
+3078|Você tem a sensação de que deixou passar alguma coisa. Você se sente agitada, como se quisesse confrontar sua mãe sobre algo.
+3079|Essa relação não tem conserto. Mesmo que você dissesse a ela como se sente, só ia piorar.
+3080|Assim... nós temos ela exatamente onde queremos.
+3081|Você não sabe ao certo o que ela vai fazer amanhã. Você se arrasta para a cama e puxa o lençol por cima da cabeça. Melhor encarar o próximo teste bem descansada.
+3082|VOCÊ: Tem uma segunda voz na minha cabeça
+3083|<shake>NÃO!
+3084|VOCÊ: Ela é má comigo, me diz pra não confiar em você e pra... te machucar.
+3085|Eu só disse aquelas coisas porque você concordava comigo. Não conta pra ela sobre mim.
+3086|MÃE: Nima, eu não me importo com o que seus amigos imaginários estavam dizendo durante o teste. Você já está velha demais para inventar alguém pra levar a culpa no seu lugar.
+3087|O desdém dela traz de volta sentimentos de negligência. Você se lembra de tantas outras conversas que já teve com ela e que terminaram do mesmo jeito.
+3088|Você deixa os sentimentos de lado e tenta seguir em frente.
+3089|VOCÊ: <i>Mãe, me escuta! Por favor! </i> Eu acho que tem alguma coisa muito errada comigo!
+3090|VOCÊ: Eu preciso da sua ajuda.
+3091|Ela está prestes a te mandar para o quarto, mas, por um segundo, o rosto dela se suaviza e ela solta um suspiro.
+3092|MÃE: Tudo bem, Nima, me diga o que está acontecendo.
+3093|VOCÊ: Essa voz… ela não é imaginária. Não parece ser eu. Ela me diz que você é minha inimiga. Ela quer que eu faça coisas ruins com você.
+3094|VOCÊ: Eu tô com muito medo. Eu só quero ser normal… Você pode me consertar?
+3095|<shake>PORRA!</shake> Isso não vai sair do jeito que você quer.
+3096|Ela se vira de você para o caderno e folheia várias páginas para consultar outros aspectos da pesquisa.
+3097|MÃE: Não gosto disso, Nima. Isso simplesmente não é do seu feitio. Há muitas discrepâncias na sua personalidade entre agora e antes do acidente.
+3098|VOCÊ: É a voz! Às vezes ela me faz mexer, ou toma conta e eu digo alguma coisa estranha.
+3099|VOCÊ: Esse tempo todo, eu tenho tentado ser a sua filha boazinha e feliz.
+3100|MÃE: Como são? Esses supostos lapsos de controle?
+3101|VOCÊ: É como se de repente eu não tivesse mais controle do meu corpo. Minha cabeça fica toda embaralhada e confusa. Isso me dá medo.
+3102|Ela se volta para as anotações, folheando as páginas. Você dá uma olhada para tentar ver o que ela escreveu. Parece uma lista de substâncias químicas.
+3103|MÃE: Eu devia ter estudado química cerebral… Sei que ele tem aplicadores químicos, mas não sei o que eles fazem.
+3104|Depois de deliberar consigo mesma, ela finalmente volta a olhar para você.
+3105|MÃE: O tratamento que eu desenvolvi pra você. É… holístico. Ainda tenho só uma compreensão abstrata dos efeitos colaterais, mas ele se mostrou muito eficaz em te curar.
+3106|VOCÊ: A voz tem alguma coisa a ver com o meu tratamento?
+3107|MÃE: Não tenho certeza, com certeza não faz sentido. Suponho que, com um coquetel químico específico, seja possível que você tenha desenvolvido algum tipo de neurose.
+3108|Você a encara em silêncio, insistindo com um olhar prolongado para que ela diga o que fez com você.
+3109|MÃE: É um verme… implantado no seu cérebro. É completamente simbiótico, eu te garanto.
+3110|VOCÊ: Um verme... no meu cérebro.
+3111|Você é só um verme no meu cérebro!?
+3112|Não, não sou, eu sou você! <shake>Sua idiota do caralho.</shake> Na verdade, a Nima de verdade sou eu, e o verme é você.
+3113|MÃE: Ele produz um plasma rico em células-tronco que... Bom, vou te poupar dos detalhes.
+3114|MÃE: Existe a possibilidade de que todos os problemas que temos tido sejam porque o verme vem influenciando levemente a química do seu cérebro.
+3115|VOCÊ: Dá pra tirar ele?
+3116|MÃE: Acho que sim. Ele já te curou. Se tomarmos cuidado, talvez a gente consiga separar o verme sem te machucar.
+3117|Eu não vou deixar você se matar.
+3118|VOCÊ: <bounce>Hahaha!</bounce> Mãe, você é muito ingênua. Eu só tô brincando.
+3119|<shake><i>TAPA</i>
+3120|Você dá um tapa na própria cara.
+3121|VOCÊ: Não fui eu que falei aquilo!
+3122|MÃE: Ele consegue fazer isso?
+3123|MÃE: Certo, eu... amanhã vamos tentar removê-lo sem cirurgia invasiva. Tenho algumas ideias, mas preciso consultar minhas anotações primeiro.
+3124|MÃE: Você está... segura pra ficar sozinha?
+3125|VOCÊ: Eu sou mais forte que ele.
+3126|Você fala com confiança, esmagando suas dúvidas ao supor que são mensagens subliminares do parasita no seu cérebro. Sua mãe se levanta e contorna a mesa. Os testes, você sente, acabaram.
+3127|<bounce>Você finalmente passou.
+3128|Passou? Ela só te manipulou pra achar que você era duas pessoas diferentes.
+3129|Você não é burra. Você conhece a sua própria mente e sabe quais partes são estranhas.
+3130|Sua mãe te abraça, abaixando-se até o chão para conseguir te envolver direito.
+3131|MÃE: Eu vou consertar isso, tá? Eu vou... vou dormir do seu lado, tá bom? Só pra garantir que nada aconteça.
+3132|VOCÊ: Acho que... seria mais seguro pra você se não dormisse. Acho que você estava certa em trancar a porta. Se ele tomar conta de mim enquanto eu estiver dormindo, eu posso te machucar.
+3133|MÃE: Tudo bem... então eu durmo no laboratório. Se precisar de mim, é só gritar que eu venho correndo.
+3134|Você assente e se levanta sozinha. Marcha de volta para o seu quarto como uma soldada partindo para a guerra. Sua mãe te segue, estoica.
+3135|Você olha para trás, para ela, quando chega ao quarto, e fecha a porta você mesma.
+3136|Esse tempo todo sua mãe estava certa: ela é sua aliada, e o monstro é você.
+3137|Você ouve uma tranca deslizar na porta. Agora convenientemente sozinha, você se ajeita na cama e faz o possível para pegar no sono.
+3138|Seus sonhos trazem de volta algumas sensações estranhas.
+3139|Você está inquieta demais para voltar a dormir logo...
+3140|Você decide que não faria mal dar uma voltinha.
+3141|MÃE: Nima... está na hora de levantar.
+3142|VOCÊ: Tá bom... mãe.
+3143|Você espera um instante e então abre a porta.
+3144|Ela olha para você lá de cima.
+3145|MÃE: Venha comigo.
+3146|Ela te leva de volta à mesa de testes. O item que ela está prestes a te apresentar já está lá: uma grande gaiola metálica.
+3147|VOCÊ: Mãe... Você disse ontem que o teste de hoje ia ser difícil.
+3148|MÃE: O teste de hoje vai se concentrar em processos mentais de nível superior - julgamento, resolução de problemas.
+3149|Como um rato procurando a saída de um labirinto. Logo ela vai revelar o incentivo.
+3150|MÃE: Você tem um parceiro de laboratório hoje. Este é o Whiskers.
+3151|Ela abre a gaiola e faz um gesto para você olhar lá dentro.
+3152|MÃE: Primeiro, por favor, pegue o rato.
+3153|Você enfia a mão e segura o rato com firmeza.
+3154|Você sente a pulsação acelerada do coraçãozinho dele, mas ele não resiste.
+3155|MÃE: Muito bem.
+3156|MÃE: Pode interagir com ele à vontade.
+3157|VOCÊ: O que você quer que eu faça?
+3158|MÃE: Isso é com você. Me mostre como você cuidaria dele.
+3159|Ela faz um gesto para você continuar, sem dar mais nenhuma instrução.
+3160|O que você quer fazer?
+3161|MÃE: Tente fazer alguma coisa com o Whiskers... É importante para o teste.
+3162|Você devolve o Whiskers ao centro da gaiola.
+3163|Ele parece satisfeito em retomar a higiene que o teste interrompeu.
+3164|VOCÊ: O Whiskers é meu bichinho de estimação?
+3165|MÃE: Você é responsável pelo Whiskers.
+3166|Você faz um biquinho, entendendo aquilo como uma esquiva muito diplomática da pergunta.
+3167|Mesmo assim... A ideia de um rato de estimação te deixa estranha por algum motivo. Você não sabe se quer brigar por isso.
+3168|Você decide que é hora de comer.
+3169|O Whiskers começa a se servir, pegando uma bolinha de ração com as duas patinhas e comendo como se fosse uma espiga de milho.
+3170|VOCÊ: Se importa se eu pegar um pouco?
+3171|Você enfia a mão. O Whiskers não se importa.
+3172|Você pega uma bolinha de ração de rato e come como se fosse uma gota de chocolate.
+3173|Ela estala… tem gosto de nada… estranhamente arenosa e seca. Notas de tudo o que existe numa lata de lixo.
+3174|VOCÊ: Nada mal.
+3175|MÃE: ...Não coma a comida do rato.
+3176|Depois de um tempo, o Whiskers parece satisfeito com a refeição. Ele volta ao seu lugar na frente da gaiola e limpa as migalhas do pelo.
+3177|Você o pega de novo.
+3178|Você conhece a sensação da inanição. Ele precisa se abastecer se quiser sobreviver aos cuidados da mamãe.
+3179|Você coloca o Whiskers perto da tigela de novo, empurrando-o de leve em direção ao resto da ração.
+3180|VOCÊ: Você tem sorte, eu queria que a comida fosse do tamanho da minha cabeça.
+3181|O Whiskers não come. Parece que está cheio.
+3182|O Whiskers come até se fartar.
+3183|Você recompensa o Whiskers com o  encontrado ao lado da gaiola.
+3184|Ele devora tudo, guloso.
+3185|Ele parece satisfeito com o prêmio.
+3186|Um bom trabalho merece uma recompensa.
+3187|Você se sente menos culpada por não conseguir brincar com ele.
+3188|Ele te olha querendo mais, mas simplesmente não tem.
+3189|Você dá ao Whiskers o doce encontrado ao lado da gaiola.
+3190|Ele não resiste à guloseima e mastiga o doce com voracidade.
+3191|Ele parece um pouco enjoado.
+3192|VOCÊ: Ei, amiguinho.
+3193|VOCÊ: Tem água aí dentro?
+3194|Você enfia a mão, encosta o dedo no bico do bebedouro e consegue umas gotinhas de água no dedo.
+3195|Você lambe tudo, gulosa.
+3196|MÃE: Nima, não seja nojenta.
+3197|VOCÊ: Vamos fazer essa refeição descer com uma bebida.
+3198|VOCÊ: Depois de tanto correr, você deve estar com sede.
+3199|Você coloca o Whiskers no chão da gaiola, convidando-o a te acompanhar.
+3200|VOCÊ: A água que ela deixa na minha gaiola é velha, você tem sorte, essa aqui é fresquinha.
+3201|Ele bebe até se fartar e volta para a frente da gaiola.
+3202|Você se pergunta se ratos arrotam… Parece que seria apropriado para o momento.
+3203|Você enfia a mão e gira a rodinha da gaiola. Você se pergunta se fazem dessas grandes o bastante para pessoas; seria legal correr dentro de uma.
+3204|Você enfia a mão na gaiola para colocar o Whiskers na rodinha, torcendo para que ele corra pra você.
+3205|Ele corre!
+3206|Ele se cansa e pula para fora da rodinha. Volta para a sua mão, enriquecido.
+3207|Você se pergunta se o Whiskers consegue bater o próprio recorde.
+3208|Você devolve o Whiskers à rodinha para ver se ele consegue bater o próprio recorde.
+3209|Energizado pelo petisco, o rato e a rodinha parecem virar um borrão enquanto ele corre com todas as forças.
+3210|VOCÊ: Você consegue, Whiskers!
+3211|Você pega o rato, agora exausto, e faz carinho nele com orgulho.
+3212|Um verdadeiro campeão.
+3213|O rato se esforça ao máximo para correr, mas não há como ignorar a barriga cheia demais e enjoada.
+3214|O Whiskers parece ainda mais enjoado; você se sente um pouco culpada ao pegá-lo de volta na mão.
+3215|Ele corre até não conseguir mais correr... ou pelo menos até a alegria de correr acabar.
+3216|Você pega o rato, agora exausto.
+3217|Ele parece... satisfeito?
+3218|Você solta o Whiskers na mesa e começa a balançar o dedo, torcendo para que ele brinque com você.
+3219|Sua mãe te interrompe.
+3220|MÃE: Nima!
+3221|Ela recolhe o Whiskers e o devolve à gaiola.
+3222|MÃE: O que você está fazendo? Eu mandei você cuidar dele.
+3223|MÃE: Ele podia ter fugido. Pare de brincadeira.
+3224|VOCÊ: Desculpa, Whiskers... Eu brinco com você depois.
+3225|Você pega um rato meio confuso.
+3226|O Whiskers boceja. A cabeça inteira dele vira uma boca aberta e então se fecha num estalo. O focinho se contrai, fazendo os bigodes roçarem o ar.
+3227|Ele corre para o cantinho para dormir.
+3228|VOCÊ: Own... ele é tão fofinho.
+3229|A fofura é avassaladora. Há um impulso crescendo dentro de você. Uma <wiggle>neceeeessidade<wiggle>
+3230|Você vai fazer cócegas na barriguinha dele.
+3231|VOCÊ: Hihihi!
+3232|Você perde o autocontrole, e um dedo vagabundo rompe a curva de croissant do corpo do rato para alcançar a barriguinha fofa lá dentro.
+3233|O Whiskers acorda. Ele não está chateado... só decepcionado.
+3234|Dá para ver que ele está com sono. Está cansado de todos os testes.
+3235|Você o devolve ao ninhozinho no canto; ele se enrola e cai no sono na hora.
+3236|VOCÊ: Ele dormiu. O teste é só isso?
+3237|MÃE: Ainda não.
+3238|Ao olhar para o Whiskers, tudo o que você consegue ver é você mesma.
+3239|Contida, cutucada e impotente.
+3240|Você solta o Whiskers. Observa por um momento enquanto ele se limpa. Talvez tentando tirar o seu cheiro do pelo.
+3241|Você fecha a portinha da casa dele e volta o olhar para a sua captora em comum.
+3242|MÃE: Nima...?
+3243|VOCÊ: Ele parece ter medo de mim. Prefiro deixar ele se acostumar comigo no tempo dele.
+3244|MÃE: Isso não ajuda muito nos testes.
+3245|MÃE: Se você sabe que não vai machucá-lo, pode mostrar a ele que o medo dele é irracional.
+3246|MÃE: Mas acho que isso pode nos levar à próxima pergunta.
+3247|Você não gosta do jeito como o rato se contorce na sua mão.
+3248|Você manda o Whiskers de volta para a gaiola e limpa os pelos soltos da mão.
+3249|VOCÊ: Por que você me fez sequer encostar nele? Você não tem medo de ele me deixar doente?
+3250|MÃE: Eu fiz questão de limpá-lo. Esse não é o objetivo do teste.
+3251|VOCÊ: Ele sabe se cuidar sozinho! Você nem me deu luvas.
+3252|MÃE: É importante garantir que você mesma cuide dele.
+3253|Você se pergunta se tem medo de ratos. Muita gente tem medo de ratos.
+3254|Você olha nos olhos do Whiskers.
+3255|Ele só parece um carinha fofinho.
+3256|Você confirma que não tem medo de ratos.
+3257|Que bom, você já tem muitos outros problemas.
+3258|Você procura na gaiola qualquer sinal de sujeira.
+3259|O pelo dele está limpo, ele cuida bem da pelagem.
+3260|Tem um certo cheiro, mas não tão de bicho quanto você esperava. Meio que cheira a produto de limpeza.
+3261|VOCÊ: Ei, Whiskers. Você tem uma família de ratos te esperando em algum lugar?
+3262|O rato pisca para você.
+3263|VOCÊ: Você sente saudade deles?
+3264|O rato pisca para você de novo.
+3265|VOCÊ: Tudo bem, eu entendo. Não tem problema chorar, Whiskers… Você não precisa mais se segurar.
+3266|VOCÊ: Então, eu também sou meio nova nesse lance de rato de laboratório.
+3267|VOCÊ: Tem algum conselho pra uma novata?
+3268|O rato te olha, pensativo. Ele deve ter muita experiência; é difícil resumir uma carreira inteira numa pepita sucinta de sabedoria.
+3269|Ele dá um guincho.
+3270|Poxa, se ao menos você falasse a língua dos ratos.
+3271|VOCÊ: Ela também te deu congee pra comer?
+3272|O rato não responde. Mas você conhece bem aquele olhar.
+3273|Os ratos são famosos pelo talento na cozinha; deve ter sido tão torturante para ele quanto foi para você.
+3274|VOCÊ: Gostei da sua casa.
+3275|VOCÊ: É bem conceito aberto.
+3276|VOCÊ: A rodinha ali une utilidade e função. Sem falar no bebedouro na parede.
+3277|VOCÊ: Gosto que o seu banheiro seja só o chão.
+3278|O Whiskers alisa o pelo.
+3279|VOCÊ: Você daria um bichinho de pelúcia muito fofo.
+3280|O rato não responde e, depois de um momento, você pensa no que acabou de dizer.
+3281|VOCÊ: Não foi uma ameaça, eu só quis dizer que você é fofo!
+3282|Agora você está envergonhada. O Whiskers deve achar que você é uma sociopata.
+3283|Você passou as últimas noites ouvindo os ratos correndo dentro das suas paredes.
+3284|O Whiskers provavelmente seria mais feliz se também estivesse nas paredes, não seria?
+3285|Você também seria.
+3286|VOCÊ: Você gosta de nadar?
+3287|VOCÊ: Vi que você tem uma rodinha aí e já ouvi falar de ratos do mar, então só fiquei pensando…
+3288|VOCÊ: Desculpa… isso foi insensível? Talvez ratos do mar sejam tipo piratas ou algo assim…
+3289|O rato parece apático. Melhor mudar de assunto, só por garantia.
+3290|VOCÊ: Beleza, me para se você já ouviu essa.
+3291|VOCÊ: Dois diplomatas estão se encontrando pela primeira vez. Um representa o Ducado dos Ratos, e o outro, o Principado dos Camundongos. O que você acha que eles dizem um pro outro?
+3292|VOCÊ: O rato diz: "Olá, vim <shake>RATIFICAR</shake> a nossa amizade."
+3293|O Whiskers não entende a piada.
+3294|VOCÊ: E o camundongo diz, o camundongo diz: "Que nenhuma intriga <shake>ROA</shake> a nossa relação."
+3295|O Whiskers continua sem se impressionar.
+3296|VOCÊ: Os reinos deles estão em guerra, milhares morreram.
+3297|Você enfia a mão e faz carinho no Whiskers. Ele se encosta na sua mão e te oferece a parte de baixo do queixo.
+3298|Ele é bem fofinho.
+3299|De repente, os olhos dele começam a vibrar, inflando e murchando como um par de balões descontrolados. Você puxa a mão como se tivesse acabado de tocar no fogo.
+3300|VOCÊ: AH! O que foi isso!?
+3301|VOCÊ: "Oi, Nima."
+3302|VOCÊ: Nossa, Whiskers, de repente você sabe falar.
+3303|VOCÊ: "Era só você acreditar!"
+3304|VOCÊ: Whiskers, eu preciso da sua ajuda. Preciso que você vá ao Ducado dos Ratos e diga que eu estou em perigo. Preciso de um pelotão dos melhores cavaleiros ratos para me resgatar.
+3305|VOCÊ: "Eu posso fazer isso, Nima."
+3306|VOCÊ: "Mas tenho medo de te deixar aqui nas garras da Rainha Demônio."
+3307|VOCÊ: Ela não vai me fazer mal, Whiskers. Eu sou importante demais para o plano dela.
+3308|O Whiskers dá um guincho.
+3309|VOCÊ: Agora não, Whiskers, eu tô falando por você.
+3310|MÃE: Com licença, quem exatamente é essa "Rainha Demônio"?
+3311|VOCÊ: Mãe! Onde você arranjou o rato?
+3312|MÃE: Existe uma empresa que fornece ratos de laboratório, eu posso trabalhar com eles porque sou diretora de laboratório.
+3313|MÃE: Mas eles ficaram confusos com o motivo de um laboratório de paleontologia precisar de um rato. Consegui convencê-los de que tinha a ver com um estudo de icnitos.
+3314|VOCÊ: É isso que a gente tá fazendo? Isso é… icnito?
+3315|MÃE: ...Não. Eu menti para eles.
+3316|Sua boca se abre um pouco, horrorizada: sua mãe mentiu.
+3317|VOCÊ: Você conhece o Garoto Tomate?
+3318|VOCÊ: MEU DEUS. Você <bounce>aaaaaama</bounce> o Garoto Tomate. Que coincidência, eu também amo o Garoto Tomate.
+3319|VOCÊ: Eu gosto que ele é um herói com quem todo mundo pode contar. Não importa o quanto a situação fique difícil, ele sempre dá a volta por cima e salva o dia. Eu acho isso muito inspirador.
+3320|Ele poderia ser o seu novo bichinho… mas e o… James?
+3321|Faz tempo que você não o vê, e sua mãe não quer falar sobre isso.
+3322|Mesmo que pareça bem sombrio, você não pode seguir em frente até ter feito o luto do James direito.
+3323|VOCÊ: Desculpa, Whiskers, acho que ainda não tô pronta pra outro bichinho.
+3324|O Whiskers pisca para você com aqueles olhões pretos.
+3325|VOCÊ: Não torna isso mais difícil do que já é.
+3326|VOCÊ: Faz tanto tempo que eu não faço um amigo novo!
+3327|Você segura as patinhas do Whiskers e o faz dançar um pouquinho.
+3328|VOCÊ: Ebaaa!
+3329|Você pensa em fazê-lo dançar um pouquinho.
+3330|Isso é um rato, ele não consegue falar com você. Para ele, você não passa de uma possível fonte de queijo.
+3331|MÃE: Vamos conversar.
+3332|MÃE: Considerando que você vai trabalhar com o Whiskers no próximo teste, quero saber se você está devidamente preparada.
+3333|MÃE: O que você sente em relação ao Whiskers?
+3334|Seus sentimentos são confusos, porque você sabe o que acontece com os seus bichinhos. O aquário do James Pond está vazio. A ausência dele, embora óbvia, não foi mencionada.
+3335|Os testes dela com ele não exigiam uma mente... só uma tábula rasa de carne que pudesse ser esculpida com uma faca. Você se lembra, não lembra?
+3336|VOCÊ: Eu não quero lembrar!
+3337|Você cobre a boca, para que seus pensamentos não vazem de novo.
+3338|Mesmo assim, você está explorando as partes da sua mente que guardam a verdade trancada.
+3339|Você tenta ignorar a voz e se concentrar na sua mãe.
+3340|VOCÊ: Eu não quero substituir o James Pond.
+3341|Você olha de relance para o aquário que um dia abrigou o James Pond.
+3342|MÃE: Ah... entendi.
+3343|MÃE: Ele morreu enquanto você estava em coma... A culpa é minha. Eu estava distraída e esqueci de alimentá-lo.
+3344|VOCÊ: Por que você não me contou antes!
+3345|MÃE: É só um peixe, Nima… Eu posso te arranjar outro.
+3346|VOCÊ: Substituir ele!? Eu amava ele e você simplesmente deixou ele morrer. O papai me deu ele… a gente tinha um laguinho pra ele lá em Vancouver. Ele era parte da nossa família!
+3347|VOCÊ: E se eu morresse? De repente ia ficar tudo <i>bem</i> se alguém aparecesse e me substituísse!?
+3348|MÃE: Nima... Chega. Pare de drama...
+3349|MÃE: Estou te perguntando se você gosta do Whiskers agora. Seu peixe antigo não tem nada a ver com os testes de hoje.
+3350|VOCÊ: ...Ele é legal.
+3351|VOCÊ: Você sabe que eu gosto de animais.
+3352|MÃE: Sim... Você gosta mesmo de animais. Nisso você puxou ao seu pai.
+3353|VOCÊ: Mas eu já tenho um bichinho…
+3354|VOCÊ: Mãe, cadê o James? Você não falou nada sobre ele.
+3355|MÃE: Ah… sim.
+3356|MÃE: Eu não pretendia falar sobre isso, mas é compreensível que você o associe a isto.
+3357|MÃE: Nima… Tenho uma notícia triste. Seu peixe morreu durante o tempo em que você esteve em coma.
+3358|VOCÊ: P-por quê? O que aconteceu?
+3359|MÃE: Eu ficava muito com você no hospital e... perdi o controle de alimentá-lo e limpar o aquário. Foi um acidente. Me desculpe.
+3360|VOCÊ: Você simplesmente <i>deixou</i> ele morrer!?
+3361|Você sabe como é passar fome, ser deixada esquecida numa prisão escura que vai se enchendo de imundície aos poucos. Você aperta os cotovelos.
+3362|VOCÊ: <i>Como você pôde fazer isso comigo!?</i> Você sabe o quanto o James era importante pra mim. Você deixou ele morrer de fome!?
+3363|MÃE: Nima. Se acalme. Ele era só um peixe.
+3364|MÃE: O Whiskers não é para ser seu bichinho de estimação, ele está aqui para te ajudar no teste de hoje.
+3365|VOCÊ: Mas...
+3366|MÃE: Só responda à pergunta, Nima.
+3367|VOCÊ: ...Ele é fofo. Você sabe que eu gosto de todos os animais.
+3368|Ela sorri para você; você sente que essa era a resposta que ela estava procurando.
+3369|VOCÊ: Eu gosto dele.
+3370|VOCÊ: ...Se bem que, na verdade, eu devia evitar fazer julgamentos assim. Eu não falo a língua dele, e ele não tem a capacidade de realmente interagir comigo no contexto dele.
+3371|VOCÊ: É arrogante da minha parte, como humana, presumir que o rato se encaixa nas minhas ideias pré-concebidas. Ele aceita ser pego no colo e obedece sugestões com facilidade. Um jeito de ver isso é dizer que ele é "um bom rato".
+3372|VOCÊ: Mas também devíamos ter em mente que ele provavelmente está apavorado com tudo isso. Ele não sabe o que está acontecendo, só que resistir ao toque é uma falha no treinamento dele e, portanto, vai fazer com que ele seja castigado.
+3373|VOCÊ: Então, como captora dele, como controladora dele, que direito eu tenho de dizer que "gosto dele" porque ele não resiste a mim?
+3374|VOCÊ: Coloque qualquer humano na posição dele - na hora, o critério se inverte. A gente <i>esperaria</i> que ele resistisse, mordesse a minha mão e fugisse.
+3375|VOCÊ: Sério... É hipocrisia.
+3376|Ela te interrompe antes que você continue.
+3377|MÃE: Dizer "eu gosto dele" já basta.
+3378|MÃE: Você sempre gostou de animais. Faz sentido que você pense nesse tipo de coisa.
+3379|VOCÊ: Como assim? Essas são perguntas básicas!
+3380|VOCÊ: Por favor, mãe!
+3381|VOCÊ: Ele é muito fofo, eu amo ele. Vou cuidar dele <i>pra sempre.</i>
+3382|MÃE: Ele não é para ser seu bichinho de estimação.
+3383|VOCÊ: O quê!? Por que não?
+3384|MÃE: Rato não é um bichinho adequado. São sujos. O Whiskers é um rato de laboratório, ele está aqui para te ajudar no teste de hoje e depois disso ele vai embora.
+3385|MÃE: Não quero que você se apegue demais a ele. Entendeu?
+3386|VOCÊ: E se eu for muito bem no teste de hoje? Aí eu posso ficar com ele?
+3387|MÃE: Nima, chega. Ele não é seu bichinho e ponto final.
+3388|MÃE: Se bem que... É bom ter uma resposta concisa sobre o que você sente por ele.
+3389|Ela se volta rapidamente para as anotações e rabisca a sua resposta.
+3390|Quer ela queira que ele seja seu bichinho ou não, você ainda precisa cuidar dele.
+3391|VOCÊ: Você tem comida e serragem de reposição pra gaiola dele?
+3392|MÃE: Você não precisa se preocupar com isso. O teste de hoje não vai ser de longo prazo.
+3393|VOCÊ: Bom... ele é responsabilidade nossa agora. A gente tem comida pra ele, né?
+3394|MÃE: Sim, Nima... Eu não sou burra. Tenho um saco de ração de rato.
+3395|MÃE: Por que você está fazendo perguntas assim? Ele não é seu bichinho.
+3396|De repente, uma onda de decepção te atinge. Ter um bichinho seria uma boa companhia aqui embaixo. Cuidar de algo além de você mesma sempre foi uma...
+3397|Uma fonte de conforto.
+3398|Que sensação estranha. Você está acostumada a cuidar de animais. Pensando bem, é estranho que isso não seja algo que você precise fazer agora.
+3399|MÃE: O Whiskers está aqui para te ajudar no teste de hoje. Nada mais. Entendeu?
+3400|VOCÊ: Sim... mãe.
+3401|MÃE: Você gosta dele?
+3402|VOCÊ: Gosto... Eu gosto de todos os animais, você sabe disso.
+3403|MÃE: Sei... querida, eu sei.
+3404|VOCÊ: Tanto faz...
+3405|Ela te olha intrigada, e você evita o olhar dela.
+3406|MÃE: Isso não é do seu feitio. Por que você disse isso?
+3407|VOCÊ: Até parece que você vai me deixar ficar com ele de bichinho ou algo assim. Não quero me apegar se ele vai simplesmente embora.
+3408|MÃE: Ah... Isso é verdade.
+3409|MÃE: Suponho que você não queira se decepcionar... O que você acha dos ratos em geral?
+3410|VOCÊ: Eles são legais. Muita gente acha que eles são sujos, mas eles são muito limpos. Eles conseguem fazer um monte de coisas bacanas com as mãozinhas. E são muito inteligentes também.
+3411|MÃE: Certo, suponho que seja uma resposta boa o bastante.
+3412|"Boa o bastante", ela disse. Você se pergunta o que ela queria que você dissesse.
+3413|VOCÊ: Desculpa, mãe.
+3414|MÃE: Tudo bem, Nima. Acho bem prudente não querer se apegar. Acho que é uma lição que nós duas aprendemos muito bem...
+3415|Ela olha para o caderno e escreve alguma coisa. Os olhos dela ficam um pouco marejados, mas ela não chora.
+3416|VOCÊ: Ele é ok.
+3417|MÃE: Só ok?
+3418|VOCÊ: Acho que eu prefiro peixes. As escamas são bonitas e os aquários são muito legais. Gaiolas são meio... deprimentes.
+3419|Há uma espécie de reflexo da sua própria situação. O Whiskers é esperto, ele sabe que está preso; se você ficasse por perto tempo suficiente, ele acabaria te reconhecendo também.
+3420|Você se pergunta se ele te olha do mesmo jeito que você olha para a mamãe.
+3421|É uma sensação desconfortável.
+3422|MÃE: Bom... Isso não me ajuda muito.
+3423|Você sorri de repente; de vez em quando você consegue atrapalhar os testes da sua mãe sem oferecer nada de substancial.
+3424|É bom. Ela não pode ficar brava com você, e você não é obrigada a recompensá-la.
+3425|Por algum motivo, você sente que ela está te oferecendo o rato como consolo por alguma coisa.
+3426|VOCÊ: Eu odeio ele!
+3427|Embora esteja falando do rato, você olha bem nos olhos dela.
+3428|MÃE: Que tipo de resposta é essa? Isso não é nada do seu feitio.
+3429|VOCÊ: Por que você tá me oferecendo ele, hein? Com que tipo de teste ele deveria me ajudar?
+3430|VOCÊ: A maioria desses testes é mentira ou sei lá o quê, por que eu deveria te dizer o que eu sinto pelo rato, afinal?
+3431|MÃE: Agora isso é <i>muito</i> fora do seu feitio.
+3432|MÃE: A Nima que eu conheço é muito meiga e gentil. Ela gosta de todos os animais, grandes e pequenos. Ela nunca diria que "odeia" um rato.
+3433|VOCÊ: Pois é... Vai se acostumando.
+3434|Você cruza os braços e faz bico. Você não vai entrar no joguinho dela.
+3435|MÃE: "Ódio" é uma palavra muito forte, e eu gostaria que você a tirasse do seu vocabulário.
+3436|Ela olha para as anotações e, de forma audível, descarrega a raiva pela caneta no papel.
+3437|MÃE: Bom... se você <i>realmente</i> odeia o rato, este próximo teste deve acabar rápido.
+3438|VOCÊ: Ratos são nojentos. Eu não gosto dele.
+3439|MÃE: Bom... isso é verdade. Concordo, ratos são repugnantes. Mas é estranho você dizer isso...
+3440|MÃE: Você ama animais. A maior parte da sua decoração são pôsteres de animais.
+3441|VOCÊ: Os olhos dele conseguem saltar da cabeça ou sei lá, é esquisito, eu não gosto.
+3442|MÃE: Isso se chama "boggling"; os ratos fazem isso quando estão felizes. Acho que é como os gatos ronronando.
+3443|VOCÊ: Eu não gosto.
+3444|MÃE: Certo...
+3445|Ela se volta para as anotações e acrescenta seus pensamentos ao papel.
+3446|MÃE: Suponho que esta próxima parte do teste vá acabar rápido, então.
+3447|VOCÊ: Ele parece gostoso. Posso comer ele?
+3448|MÃE: Não!
+3449|MÃE: Qual é o seu problema? Você está brincando de faz de conta ou algo assim!?
+3450|VOCÊ: Eu tô com <i>muita</i> fome. Não jantei ontem à noite... nem na noite anterior.
+3451|VOCÊ: Se eu comer o rato inteiro, consigo todos os tipos de nutrientes de uma vez só. É assim que as cobras fazem, só desencaixam a mandíbula e engolem inteiro.
+3452|MÃE: Você não é uma cobra. Eu te dou comida mais tarde, tá bom?
+3453|VOCÊ: Sério!?
+3454|MÃE: Sim, <i>depois</i> que você concluir este teste.
+3455|MÃE: Agora, se me permite repetir, o que você sente em relação ao rato?
+3456|VOCÊ: Acho que eu não ligo muito. Quero acabar logo com esse teste pra poder comer.
+3457|Claro, o rato é fofo. Mas há uma sensação da qual você não consegue se livrar...
+3458|Você tem quase certeza de que já tem um bichinho de estimação.
+3459|Você tinha uma pedra de estimação, que ficava num terrário no seu quarto.
+3460|Em comparação, o Whiskers consegue aprender truques e tal, tipo buscar coisas e... hã... outras coisas, provavelmente.
+3461|A mamãe se livrou daquela pedra...
+3462|VOCÊ: É um inseto interessante.
+3463|MÃE: Não é um inseto, é um rato.
+3464|VOCÊ: Ah... ah, isso muda <i>tudo.</i>
+3465|VOCÊ: Tô com inveja, ele tem petiscos, água e uma rodinha pra correr.
+3466|VOCÊ: E mais! Ele pode fazer cocô no chão quando quiser!
+3467|Você ri da própria piada, mas sua mãe não acha graça.
+3468|MÃE: Responda à pergunta com seriedade.
+3469|VOCÊ: Hmm... Acho que, se você quisesse que eu lutasse com ele, eu provavelmente ganharia.
+3470|VOCÊ: E, se fosse um quiz de conhecimentos gerais, acho que ele não teria a menor chance.
+3471|VOCÊ: Mas ele talvez me vencesse num concurso de comer cachorro-quente.
+3472|MÃE: Não, eu quero saber o que você sente por ele.
+3473|VOCÊ: Bom... Eu sinto que sou mais forte e mais inteligente que ele.
+3474|MÃE: Obviamente... Eu quero saber se você tem um apego emocional ao Whiskers.
+3475|Não há dúvida de que você venceria o Whiskers em qualquer competição. A questão, na verdade, é se você se sentiria mal por <i>destruí-lo</i>.
+3476|Você se pergunta se deveria ter medo do rato.
+3477|Não há muitas formas de ele te ameaçar.
+3478|Se ele não estivesse na gaiola, poderia te comer devagarinho enquanto você dorme.
+3479|Talvez isso te acordasse, talvez você tentasse correr atrás dele.
+3480|Seria só uma questão de tempo. Ele poderia se esconder de você até, finalmente, conseguir comer tanto de você que você não conseguiria mais se levantar.
+3481|Esse é um jeito de ele te matar.
+3482|VOCÊ: A gente pode soltar o Whiskers?
+3483|MÃE: Não... Não quero um rato solto pela casa.
+3484|VOCÊ: Acho que ele não gosta de ficar numa gaiola.
+3485|MÃE: Ele correria mais perigo se estivesse simplesmente livre... Há armadilhas por toda parte, sem falar nos predadores, como os gatos.
+3486|MÃE: A maioria dos ratos é praga. O Whiskers não é, porque ajuda na pesquisa.
+3487|VOCÊ: Ah... Tá bom.
+3488|Por um momento, você considera quantas coisas poderia fazer com esse rato.
+3489|Ele é pequeno, não consegue revidar. Você poderia <i>comê-lo</i> se quisesse.
+3490|Isso seria meio nojento...
+3491|VOCÊ: Ei, mãe, posso comer alguma coisa? Faz tempo que eu não como.
+3492|MÃE: Eu te dou comida mais tarde.
+3493|Você se pergunta se consegue esperar tanto.
+3494|VOCÊ: Ei... Você acha que, se tipo uns cem ratos se juntassem e matassem uma pessoa...
+3495|VOCÊ: Você acha que eles conseguiriam, tipo, esvaziar o corpo e transformar a pessoa num robô gigante pilotável?
+3496|MÃE: <i>Nima!?</i>
+3497|VOCÊ: Que foi? Acho que ia ser meio engraçado, sabe.
+3498|MÃE: Você só está tentando me irritar.
+3499|MÃE: Concentre-se na pergunta.

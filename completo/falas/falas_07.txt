@@ -1,0 +1,500 @@
+3500|VOCÊ: <i>Quic, quic, qui-quic.
+3501|MÃE: Nima... por favor.
+3502|VOCÊ: Que foi? Eu respondi a pergunta na língua dos ratos!
+3503|MÃE: Bom... agora responda a pergunta em português.
+3504|VOCÊ: Ele é um rato de laboratório? Que tipo de teste a gente vai fazer hoje?
+3505|VOCÊ: Algum tipo de coisa de resolver problemas? Talvez um labirinto? A gente vai ganhar queijo no final?
+3506|MÃE: Você já devia saber que eu não posso te contar. Isso estragaria o propósito do teste.
+3507|VOCÊ: Quer dizer... antes, quando era sobre memória e, hã...
+3508|Você pensa em como ontem foi estranho.
+3509|VOCÊ: Enfim, isso é tipo os testes que a gente fez antes?
+3510|MÃE: Não... acho que você está certa. De modo geral, isso é sobre resolução de problemas.
+3511|VOCÊ: Eu vou ganhar queijo?
+3512|Ela te olha com olhos cansados. Ela suspira.
+3513|Estranhamente, ela então parece achar graça, talvez percebendo alguma coisa.
+3514|MÃE: Na verdade... Sim. Vai.
+3515|VOCÊ: Isso! Ouviu, Whiskers? A gente vai ganhar queijo!
+3516|MÃE: Mas primeiro você tem que me dizer o que sente pelo Whiskers.
+3517|VOCÊ: Mãe... não tô entendendo. Por que importa o que eu sinto?
+3518|Principalmente depois de ontem, parecia que ela não queria que você sentisse nada além de felicidade. Talvez você devesse fazer isso de novo...
+3519|Quem liga pro que ela quer que você sinta. Você devia ser sincera.
+3520|MÃE: Só estou tentando estabelecer parâmetros.
+3521|MÃE: Garantir que eu te apresentei tudo de que você precisa pra passar no teste.
+3522|Tudo de que você precisa, menos uma explicação.
+3523|VOCÊ: Tá bom...
+3524|Tem uma pergunta queimando dentro de você: você quer saber por que ela escondeu as cartas que seus amigos te mandaram.
+3525|Talvez seja melhor guardar. Assim você pode usar se precisar sair de uma situação complicada.
+3526|De qualquer jeito, é meio difícil relacionar isso com o rato.
+3527|Você pondera: ela deve ter algum objetivo com isso, tudo o que ela faz é uma avaliação.
+3528|O raciocínio dela não está claro no momento, mas você tem certeza de que isso é só mais uma armadilha.
+3529|Você acaba olhando de lado, fixando o olhar na porta que leva do porão de volta ao andar principal.
+3530|MÃE: Será que você pode responder a pergunta, Nima.
+3531|VOCÊ: Pra quê...?
+3532|VOCÊ: Se eu ficar animada, você vai ficar brava comigo. Se eu ficar chateada, você vai ficar decepcionada.
+3533|MÃE: É importante que eu receba um retorno imparcial seu.
+3534|MÃE: Minhas reações não deveriam importar pra você.
+3535|Você se sente meio desconfortável com a pergunta.
+3536|VOCÊ: O que você vai fazer com o rato!?
+3537|MÃE: Isso não é relevante.
+3538|MÃE: Tudo o que você precisa saber é que eu tenho bons motivos para o que faço.
+3539|Ela baixa os olhos para as anotações e te ignora. Ela não vai continuar a conversa se você tentar fugir da pergunta.
+3540|Você também poderia se recusar a responder. Sentir-se neutra e indiferente <i>é</i> uma resposta razoável.
+3541|Afinal, um rato é só um rato.
+3542|VOCÊ: O que eu deveria sentir por ele?
+3543|MÃE: ...Talvez você devesse se preocupar menos com o que eu sinto.
+3544|MÃE: O propósito dos testes é que você seja você mesma.
+3545|VOCÊ: Mas... não é isso que você quer.
+3546|MÃE: O que eu quero não é importante.
+3547|VOCÊ: Isso não é verdade, mãe. Eu quero que você seja feliz.
+3548|MÃE: Fico feliz o bastante por você estar saudável.
+3549|MÃE: Por favor, só responda com sinceridade: o que você sente pelo Whiskers?
+3550|Para responder <i>de verdade</i> a essa pergunta, você vai precisar investigar suas emoções.
+3551|Você tira um tempo para <i>sentir</i>. Você deixa seu cérebro em infusão nas memórias do Whiskers e bebe o chá de emoção que ele produz.
+3552|Tem um gosto amargo.
+3553|Você analisa como a pergunta foi formulada. Ela está tentando determinar uma linha de base.
+3554|Você sabe como lidar com o rato, teve algum tempo para se familiarizar com ele.
+3555|Provavelmente ela está procurando uma resposta confiante de que você está disposta a trabalhar com ele.
+3556|Racionalmente falando, é claro...
+3557|Você vai precisar descobrir qual emoção corresponde a isso.
+3558|Você se lembra da sensação do pelo dele na sua palma.
+3559|O coraçãozinho dele palpitando, os ossos estranhos mal cobertos pelos músculos. Era como segurar fogo.
+3560|Aquilo te deixou feliz.
+3561|Você se lembra de ontem, quando ela perguntou como você se sentia.
+3562|Ela espera que você sinta alguma coisa. Essa expectativa te lembra que você não sente as coisas do jeito certo.
+3563|Foi difícil pra você se mudar para Goldenfield. Você deixou muitos amigos para trás, e o silêncio infinito da floresta foi a única coisa que preencheu o vazio deles.
+3564|Na época, você juntou coragem para confessar à sua mãe que estava triste.
+3565|Ela disse que você estava sendo egoísta.
+3566|Ela disse que, pela primeira vez na vida, queria fazer algo que a deixasse feliz.
+3567|Ela pediu que você tentasse ser positiva por ela.
+3568|Você observa os grandes olhos escuros do rato. O brilho de inteligência lá no fundo.
+3569|Você se pergunta se ele reconhece que vocês são parentes, como todos os mamíferos são. Que ele é seu ancestral venerável, que ele foi o primeiro da sua peluda classe do reino animal.
+3570|Ele já estava aqui no Mesozoico, desviando das enormes pegadas dos gigantes, e continua aqui. Observando você, sua descendente, e de vez em quando roubando seu queijo e seus grãos.
+3571|Provavelmente, quando tudo isso acabar, quando o último dos mamíferos desaparecer deste mundo, ele ainda vai estar lá para apagar as luzes e roer os últimos pedacinhos de osso.
+3572|VOCÊ: Acho que é assim que o amor se parece.
+3573|MÃE: <speed=0.5>...Quê.
+3574|VOCÊ: Dá pra ver nos olhos dele que ele é uma alma velha. Ele já viu muita coisa. Tem muito que ele pode me ensinar.
+3575|MÃE: Nima... não brinque agora. Por favor, responda a pergunta.
+3576|MÃE: Certo, Nima. Concluímos a primeira fase do teste.
+3577|MÃE: Por favor, pegue a gaiola do Whiskers e venha comigo.
+3578|Você pega a gaiola do Whiskers. É bem pesada, você precisa segurá-la com os dois braços.
+3579|MÃE: Por favor, me siga.
+3580|VOCÊ: Aonde a gente vai?
+3581|Ela aparece do seu lado e, com a mão firme nas suas costas, te vira. Por um momento, você se pergunta se ela está te levando de volta pro seu quarto.
+3582|Ela te conduz até uma porta velha.
+3583|<shake a=0.5><size=24> NÃO NÃO NÃO NÃO NÃO! Isso não! Lute com ela! Morde a mão dela e corre. Isso não! NÃO NÃO NÃO NÃO!
+3584|MÃE: O teste de hoje está montado em outro cômodo.
+3585|Ela abre a porta antiquíssima.
+3586|MÃE: Por favor, entre.
+3587|Está escuro aqui dentro, o ar é quente e abafado. Você ouve algo zumbindo na escuridão.
+3588|VOCÊ: ...Mãe?
+3589|Ela não entra atrás de você.
+3590|MÃE: Pode colocar o Whiskers no chão. Você vai precisar ter acesso a ele para completar a tarefa.
+3591|Você encontra uma superfície no escuro e descarrega a gaiola do Whiskers.
+3592|Há um ronco abafado. A massa volumosa ao seu lado começa a zumbir, ganhando vida. Uma onda de calor pressiona seu rosto, fazendo o suor brotar dos seus poros.
+3593|MÃE: Esta é a sala da caldeira. Você será liberada quando tiver concluído sua tarefa.
+3594|MÃE: Não cumprir a tarefa resultará em dor.
+3595|A porta se fecha na sua cara. Ela tranca a porta, impedindo sua fuga.
+3596|<shake>Ela vai te matar. É o fim. Você falhou você falhou você falhou. <size=150%>DEVIA TER ESCUTADO</size> devia ter corrido. NÃO não Não nãonãonão</shake>
+3597|Há um chiado eletrônico e você nota uma babá eletrônica se acender acima de você. A voz da mamãe começa a sair dela.
+3598|MÃE: <speed=0.5>Quero que você mate o Whiskers.
+3599|<shake>SIM, saímos no lucro. Isso é ótimo! Incrível, mata o rato rápido antes que ela te mate. Por favor por favor por favor por favor mata o rato. Por favor, faz isso. </shake>
+3600|VOCÊ: Espera... Por que eu tenho que matar o Whiskers?
+3601|A voz da sua mãe se encerra com uma estática cadenciada.
+3602|<br>
+3603|Há muitos canos; você não sabe para que serve nenhum deles, mas imagina que todos funcionam em conjunto para aquecer sua casa.
+3604|VOCÊ: Mãe, tá muito quente aqui. Dá pra abaixar o aquecimento?
+3605|MÃE: Dizem que saunas fazem muito bem para a saúde.
+3606|Sai de perto dessa coisa.
+3607|Em cima de uma caixa de ventilação há uma babá eletrônica com uma câmera embutida. Você espia dentro dela, imaginando se sua mãe está assistindo atentamente do outro lado.
+3608|VOCÊ: Mãe, me desculpa, você pode me deixar sair da sala da caldeira?
+3609|MÃE: Você já matou o Whiskers?
+3610|Você se pergunta se é mesmo a coisa certa a fazer, matar um rato. É mesmo isso que sua mãe quer?
+3611|Talvez você consiga convencê-la do contrário...
+3612|A gente <i>não</i> vai ficar aqui tempo suficiente pra descobrir o que acontece se você não fizer!
+3613|Você olha atentamente para a gaiola e vê a carinha de um rato te olhando lá de dentro. A criatura fica de pé de um jeito estranho sobre as patas traseiras e te olha com olhos inteligentes.
+3614|<shake>Mata essa coisa agora.
+3615|Ele olha para você, as patinhas unidas em súplica.
+3616|VOCÊ: Ele é só um bichinho. Você quer mesmo que eu mate ele?
+3617|Sua mãe não responde.
+3618|Você bate na porta e sacode a maçaneta. Está trancada, e sua mãe ignora seu sinal claro de que você deseja liberdade.
+3619|Ela não vai abrir esta porta até você terminar de cozinhar ou o rato estar morto.
+3620|Lá no fundo há um pequeno buraco na parede. Talvez um dia tenha sido para um cano, mas agora está vazio.
+3621|<size=150%><shake>FORCE SEU CORPO PRA PASSAR. QUEBRE OSSOS. CONTORÇA-SE. FUJA.
+3622|O buraco é pequeno demais para você passar rastejando, mas isso não quer dizer que seja inútil.
+3623|Você vê, mais acima na parede, um prego enferrujado saindo de um pedaço de madeira.
+3624|Você se pergunta se a pessoa que pregou a parede achou que não teria problema, já que ninguém jamais ficaria presa na sala da caldeira.
+3625|Está praticamente derretido… Não ajuda em nada com o cheiro.
+3626|Você se pergunta se é assim que é olhar para o sol.
+3627|Você examina essa moldura estranha no chão.
+3628|Parece uma tela de janela com um buraco aberto no meio.
+3629|Você olha em volta, esperando encontrar uma janela.
+3630|O cômodo não tem janelas.
+3631|O que você quer fazer com isso?
+3632|Você paira a mão sobre a caldeira e sente o calor que emana do casco de metal.
+3633|AHHHH—
+3634|Você sente a dor, mas ela não parece real. Você se pergunta se o calor no cômodo é mesmo tão insuportável quanto parece.
+3635|AH, VOCÊ SE PERGUNTA!?
+3636|Você estica a mão, hesitante, para um toque rápido na superfície da caldeira.
+3637|Você sente as pontas dos dedos queimarem, mas sua mão volta só um pouco vermelha.
+3638|Você se afasta um passo da caldeira e se acalma.
+3639|<shake>Se acalma!? SE ACALMA?! Você quer ficar parada aqui assando até a morte!?
+3640|Você se pergunta se a única maneira de realmente passar neste teste é se recusar a ser avaliada.
+3641|Por que você não tenta dizer isso a ela?
+3642|Você sempre pode simplesmente não fazer nada.
+3643|Isso não é um plano!
+3644|Para deixar claro que não tem a menor intenção de entrar no jogo dela, você pode ir até a babá eletrônica e encarar a câmera até ela aceitar sua rendição.
+3645|POR FAVOR, NÃO FAÇA ISSO!
+3646|Você dá um sorrisinho; se ela perguntar, você pode simplesmente dizer que não viu outra maneira de matá-lo.
+3647|Whiskers se contorce na sua mão, usando os pezinhos para tentar abrir seus dedos à força. De algum jeito, ele pressente suas intenções.
+3648|Você pressiona as costas do Whiskers contra a lateral da caldeira. Junto com o guincho nauseante que sai da garganta queimando, você sente o cheiro de pelo e carne queimando.
+3649|Prender a criatura miserável exige que seus dedos encostem na caldeira. Ótimo, isso te ajuda a imaginar com mais clareza o quanto ele deve estar sofrendo.
+3650|O Whiskers para de se contorcer.
+3651|Você solta o cadáver, deixando-o cair no chão.
+3652|Com seu sacrifício feito, a porta se escancara e sua mãe aparece na soleira junto com uma onda reconfortante de ar frio.
+3653|MÃE: Nima! O que diabos foi aquilo!?
+3654|Você aninha a mão queimada e olha de volta para ela.
+3655|VOCÊ: Mamãe, você disse que alguma coisa tinha que acontecer com o Whiskers ou você não ia abrir a porta. Eu só fiz o que você me pediu.
+3656|MÃE: Ah, coitadinha.
+3657|Ela te entrega uma toalha fria para enrolar a mão e te leva para fora da sua cela.
+3658|Faz muito tempo desde a última vez que você saboreou uma refeição. Você poderia simplesmente devorar o rato inteiro, mas não haveria arte nisso.
+3659|Você aquieta o estômago roncando. Vai ser melhor se você não apressar sua refeição.
+3660|O correto é tirar a pele e as tripas da criatura antes de grelhá-la.
+3661|Mas o ótimo é inimigo do bom, e sua mãe é inimiga da sua nutrição.
+3662|Você pressiona as costas dele contra a lateral da caldeira. Junto com o guincho nauseante que sai da garganta queimando, você sente o cheiro de pelo e carne queimando.
+3663|Depois de dar uma boa tostada, você vira para cozinhar o outro lado. A carne do flanco vai ser a melhor, então você não pode descuidar da exposição dela ao calor.
+3664|Trabalhar com a mão direto na fonte de calor infelizmente cozinha também a carne dos seus ossos. Você segue em frente, considerando isso um sacrifício necessário no caminho até o jantar.
+3665|Sim, assar, grelhar e flambar. Se ao menos você tivesse um pouco de manteiga e tomilho para realmente elevar essa experiência culinária.
+3666|Você tira o petisco e examina a tostadura. Está cozinhando, mas não rápido o bastante. Seu nariz se franze um pouco. Isso é mesmo o melhor que dá pra fazer com o que você tem...
+3667|Um verdadeiro artista nunca culpa as ferramentas.
+3668|Você ouve passos pesados se aproximando da porta. Uma chave chacoalha na fechadura.
+3669|Você tira o rato depressa e crava os dentes no flanco dele.
+3670|Você arranca, rasgando a pele e revelando longos tendões de suculenta carne de costela.
+3671|MÃE: Nima, o que você está fazendo!?
+3672|Você engole depressa, sem mastigar, e parte para outra bocada. Você raspa os dentes nas costelas do rato, raspando a carne para dentro da boca.
+3673|Sangue estoura na sua língua.
+3674|MÃE: <shake>PARE!
+3675|Ela dá um tapa e arranca o rato da sua mão.
+3676|VOCÊ: Hã... Mamãe! Você disse que alguma coisa tinha que acontecer com o Whiskers ou você não ia abrir a porta. Eu só fiz o que você me pediu.
+3677|MÃE: Não foi isso que eu te pedi...!
+3678|Ela limpa sua boca com uma toalha, de forma bruta, e te leva para fora da sua cela.
+3679|MÃE: Qual é o seu problema!?
+3680|VOCÊ: Eu quase não comi nos últimos dias, tava com muita fome.
+3681|MÃE: O motivo de você estar lá dentro era testar a sua <i>moralidade.</i>
+3682|MÃE: Eu queria ver se você machucaria o Whiskers se eu te colocasse em perigo.
+3683|VOCÊ: Quê!? Então eu devia me recusar e me machucar?
+3684|MÃE: Havia algumas maneiras de você salvar o Whiskers, mas isso não importa agora.
+3685|MÃE: Eu não esperava que você <i>fracassasse</i> de forma tão horrenda.
+3686|MÃE: A Nima de que eu me lembro nunca teria feito algo tão cruel e nojento quanto o que você acabou de fazer.
+3687|A hipocrisia te enfurece. É você quem está sendo trancada em cômodos quentes e passando fome por dias.
+3688|VOCÊ: Ah, é? Bom...
+3689|NÃO! Por favor, qualquer coisa menos isso! Se esfaqueia ou bate a cabeça na parede!
+3690|Seus pensamentos ficam erráticos enquanto você dá um passo em direção à caldeira.
+3691|VOCÊ: É melhor você me deixar sair agora mesmo, mãe.
+3692|Ao seu ultimato, a babá eletrônica responde com uma determinação silenciosa.
+3693|Uma ameaça só tem poder se você provar que está disposta a cumpri-la.
+3694|Você estica os braços para os lados, dá um passo à frente e abraça desajeitadamente a caldeira, pressionando o rosto e o corpo contra o metal quente.
+3695|<shake a=0.66>GAHHHhhh—
+3696|O cheiro de pele queimada atinge seu nariz antes de você, de repente, perder o olfato por completo.
+3697|As terminações nervosas do seu rosto e dos seus braços se rebelam antes de queimarem até o fim, como pavios de vela.
+3698|<shake a=1>AAAHHHH—
+3699|MÃE: Nima! Que merda você está fazendo!?
+3700|Finalmente, sua mãe irrompe na sala da caldeira e te arranca da sua tentativa de sacrifício.
+3701|Ela arrasta seu corpo para fora da câmara de testes e joga uma toalha gelada sobre sua carne borbulhante.
+3702|No fim, parece que você estava certa: sua mãe não ia simplesmente te deixar cozinhar na caldeira. Você sabia disso o tempo todo.
+3703|Seus pensamentos estão estranhamente quietos.
+3704|Há algo curioso nos seus pensamentos. Você sente a cabeça ficar enevoada quanto mais perto da caldeira você fica.
+3705|Você decide testar isso e dá um passo à frente, até seu nariz quase encostar no metal.
+3706|<shake>NÃO! Sai daqui, eu não quero!
+3707|Sensações estranhas chacoalham na sua mente. Uma ansiedade passageira e então uma pontada aguda e dolorida de traição. Tudo isso ricocheteia na sua confusão de fundo.
+3708|Presa, presa, calor e pressão, não consigo me mexer, não consigo  gritar, não consigo morrer.
+3709|Você dá um passo para trás.
+3710|<shake>Morra. Morra. Te matar. Te queimar.
+3711|Você dá um passo à frente de novo.
+3712|<shake>NÃOOOOOO
+3713|Você dá um passo para trás de novo. Sua mente, antes zumbindo, fica em silêncio enquanto você contempla a caldeira enferrujada à sua frente.
+3714|Você sente apreensão. Uma disposição para dar o bote assim que surgir uma oportunidade.
+3715|Você encara o monólito. É uma fera que você reconhece dos seus pesadelos.
+3716|Ela rosna para você.
+3717|Você tem certeza de que essa criatura um dia vai te consumir.
+3718|VOCÊ: Pai... se você estiver vendo, pode me salvar?
+3719|MÃE: ...
+3720|Você ouve o microfone da babá eletrônica ligar por um momento, mas sua mãe não diz nada. Depois de um segundo, ele desliga silenciosamente.
+3721|Até olhar para esse tirano enferrujado dói nos olhos.
+3722|Ele evoca medos indesejados. Você imagina o que aconteceria se seu rosto fosse pressionado contra o metal.
+3723|Uma pergunta surge na sua mente: como seria sentir seus globos oculares queimando.
+3724|Enquanto você observa, os canos rangem.
+3725|Essa coisa é velha e perigosa. O tipo de caldeira capaz de virar um foguete e atravessar a casa inteira se for regulada alto demais.
+3726|As laterais enferrujadas podem explodir para fora, te encharcando de água fervente e vapor. Te cozinharia na hora.
+3727|<shake>A GENTE PRECISA SAIR DAQUI!!</shake>
+3728|Olhar para a caldeira traz uma lágrima aos seus olhos.
+3729|Ela escorre pela sua bochecha, abrindo um caminho que esfria sua pele, que está cozinhando.
+3730|Você não consegue desviar o olhar.
+3731|Estranhamente, você acha esse touro de bronze enferrujado… <wave>lindo.</wave>
+3732|Você tenta pensar apesar do medo e planejar um jeito de escapar.
+3733|Isso é só um grande teatro, né? Ela provavelmente não quer te ver machucada...
+3734|Se você fizesse um grande teatro de se sacrificar, ela talvez acreditasse.
+3735|Aí você poderia salvar o Whiskers!
+3736|Não! Não faz isso. Por favor!
+3737|É culpa sua você estar aqui dentro. Você não foi boa ou feliz o bastante para merecer o laboratório hoje.
+3738|É importante lembrar que ficar no laboratório é um privilégio. Com um pouquinho de mau comportamento, ele pode ser tirado de você facilmente.
+3739|Ainda assim, isso é melhor do que poderia ser. Ela sempre pode te castigar mais.
+3740|Faça exatamente o que sua mãe quer.
+3741|???: Você é a minha filha boa e feliz, Nima.
+3742|O que foi isso?
+3743|Mãe idiota, me enfiando na sala da caldeira e me fazendo fazer coisas idiotas com um rato.
+3744|VOCÊ: Quero ver se você ia gostar se eu te enfiasse aqui dentro...
+3745|É, vamos fazer isso. Vamos cozinhar ela viva!
+3746|MÃE: Você está falando?
+3747|VOCÊ: Não!
+3748|Você se pergunta se seu sangue vai ferver se você ficar aqui dentro por tempo demais.
+3749|VOCÊ: Mãe, essa situação não é muito segura.
+3750|MÃE: Tem um termômetro no cômodo, você está bem.
+3751|VOCÊ: Posso ganhar uma bolsa de gelo?
+3752|MÃE: Não.
+3753|Você resmunga e balança a cabeça. Como esperam que você trabalhe nessas condições?
+3754|O ar está sufocante de tão quente. A superfície da caldeira deve estar mais ou menos tão quente quanto a de um fogão. Uma boa temperatura para cozinhar. Você vai se queimar se encostar nela.
+3755|Isso dá medo.
+3756|Valeu pela sábia sabedoria.
+3757|Você está com dor.
+3758|Você medita e pede que seu corpo se explique. Você quer localizar exatamente de onde a dor está vindo.
+3759|Pernas e braços, relatando desconforto.
+3760|Coluna, relatando formigamento.
+3761|Cabeça— <i>AI!</i> É, é a sua cabeça que está doendo.
+3762|Que estranho.
+3763|Às vezes é bom sentir dor. Te lembra que você está viva.
+3764|Você se lembra de um sol falso.
+3765|Uma pequena esfera brilhante que emite uma luz dura. Dava pra ouvir sua pele estalando.
+3766|É a mesma dor, naquela época e agora.
+3767|Você contempla esse grande monumento de poder. Ele tem um grande poder com o qual pode te fulminar.
+3768|VOCÊ: Por favor, caldeira todo-poderosa, poupe esta mortal diante de ti.
+3769|Suas preces ficam sem resposta.
+3770|O sol!?
+3771|Não, a questão é… está quente.
+3772|É, <i>cabeça-oca</i>, está quente, é isso que eu tô te dizendo!
+3773|Mas se a caldeira é quente, e o sol é quente, e a gente não gosta da caldeira…
+3774|Isso quer dizer que o sol machuca a gente também?
+3775|...Não sei... <size=75%>talvez.
+3776|<shake>O QUÊ?</shake> Isso é um problemão! E se a gente nunca mais puder sair lá fora?
+3777|Eu vou dar um jeito.
+3778|Dentro desse invólucro de metal, a água está fervendo. Seu poder e seu vapor estão condensados, pressurizados.
+3779|Se não tomar cuidado, ela pode explodir e queimar todo mundo por perto.
+3780|A mãe provavelmente tem razão, eu só tô <i>imaginando</i> que está quente aqui. A gente pode ir com calma e descobrir um jeito de sair sem machucar o Whiskers.
+3781|Nem tão ruim assim... <i>NEM TÃO RUIM ASSIM!?</i>
+3782|De repente, você é inundada por memórias. Você se lembra de sentir sua pele pressionada contra uma superfície em brasa, como se você fosse um peixe fritando numa frigideira.
+3783|Você junta as mãos e sopra ar frio desesperadamente no que você percebe como mãos em chamas.
+3784|Só... se concentra em sair daqui.
+3785|As sensações se dissipam e você fica confusa.
+3786|Como sua mãe pôde fazer isso com você?
+3787|Você não pode confiar na mãe. Ela usa sua confiança para te colocar em situações assim. É assim que ela funciona.
+3788|Você pondera as implicações éticas desta situação.
+3789|Ficar aqui dentro dói muito, mas ela obviamente está tentando te ensinar alguma coisa fazendo isso. Se ela está buscando um bem maior que você ainda não consegue enxergar, então isso terá sido necessário.
+3790|Isso é tortura.
+3791|Você quase consegue ouvir o metal te chamando.
+3792|Ele quer um abraço.
+3793|Só mata o rato!
+3794|Você calcula quantas bolsas de gelo seriam necessárias para cobrir a caldeira e esfriá-la… Provavelmente muitas.
+3795|Seu sangue se revolve nas veias.
+3796|Faça uma última tentativa de convencer a mãe...
+3797|Você pensa no que quer dizer para a sua mãe...
+3798|Você pensa no que quer dizer para o aparelho silencioso.
+3799|MÃE: Quer saber, cansei dessa sua má atitude. Vou te deixar no mudo agora.
+3800|VOCÊ: Má atitude! Você tá tentando me matar!
+3801|Sua hostilidade é recebida com silêncio. Você acha que não vai mais conseguir convencê-la a te deixar sair.
+3802|Não há resposta da mãe.
+3803| Mais um empurrão, e ela talvez te deixe ir...
+3804|VOCÊ: Mãe, por favor, olha pra você. Você é mesmo o tipo de pessoa que obriga a própria filha a matar um rato?
+3805|Ela se perde num longo silêncio, que termina de repente com um suspiro.
+3806|MÃE: Tudo bem. Você vai matar o rato ou não?
+3807|VOCÊ: Claro que não, eu não vou torturar e matar um animal indefeso só porque você está me ameaçando.
+3808|MÃE: Entendido.
+3809|Você ouve a babá eletrônica desligar com um chiado, e o zumbido da caldeira vai diminuindo enquanto ela é regulada para baixo.
+3810|Uma chave chacoalha na fechadura da porta, que se abre e revela sua mãe.
+3811|MÃE: Vem, você passou no teste.
+3812|Ela faz um gesto para você sair, e você a segue de volta para a sala de testes. Ela te senta no seu lugar de sempre à mesa e se senta à sua frente.
+3813|MÃE: Aquilo foi um teste de moralidade. O objetivo era ver o que você faria se fosse ameaçada e lhe oferecessem uma saída matando o rato.
+3814|MÃE: Basicamente era… se você faria a coisa ‘moral’ ou salvaria a si mesma.
+3815|MÃE: Enfim, você passou, pode se dar um tapinha nas costas.
+3816|É... só isso?
+3817|VOCÊ: Isso ainda faz parte dos testes?
+3818|MÃE: Se eu te contasse, então–
+3819|VOCÊ: Certo, estragaria o propósito do teste. Você sabe que me deixar estressada também estraga o teste, né? Você só tá me assustando e me fazendo pensar umas coisas estranhas.
+3820|MÃE: Bom… não seja estranha…
+3821|Dá pra perceber pelo tom de voz dela que ela não está confiante nessa defesa.
+3822|VOCÊ: Isso é por causa do que aconteceu ontem? Eu me sinto muito mal por ter discutido com você.
+3823|MÃE: Isso ia acontecer de qualquer jeito.
+3824|VOCÊ: Era assim que a sua mãe lidava com você quando você fazia arte?
+3825|MÃE: Por que você está trazendo ela pra conversa!?
+3826|VOCÊ: Você acha mesmo que me trancar na sala da caldeira e me torturar é o tipo de coisa que uma melhor amiga faz?
+3827|MÃE: Isso não vai funcionar aqui.
+3828|VOCÊ: O que eu tenho que fazer pra você me perdoar?
+3829|MÃE: Isso não tem nada a ver com ontem.
+3830|VOCÊ: É óbvio que eu te magoei, eu quero consertar as coisas. O que você quer que eu faça?
+3831|MÃE: Só estou observando o que você faz com o rato, é só isso que me importa.
+3832|VOCÊ: Tô um pouco decepcionada. Trancar alguém numa prisão quente e úmida porque a gente discutiu não é o que se faz com alguém que se ama.
+3833|MÃE: A decepção é mútua.
+3834|VOCÊ: Eu sei que você quer me castigar me fazendo matar esse rato fofo, mas eu não vou fazer isso. O Whiskers não tem culpa do que aconteceu entre a gente, e matar ele não vai consertar nada.
+3835|MÃE: Eu não preciso dele pra consertar nada.
+3836|VOCÊ: Me deixa sair pra gente conversar sobre isso. Eu quero pedir desculpas direito.
+3837|MÃE: ...Não.
+3838|VOCÊ: Lembra quando a gente se mudou pra casa e você estava montando seu laboratório aqui embaixo?
+3839|Lembra como a porta fechou atrás de você e emperrou? Você ficou tão brava comigo porque achou que eu tinha te trancado no porão.
+3840|VOCÊ: Eu lembro que voltei depois de descarregar uma caixa das minhas coisas e você estava chorando na porta do porão.
+3841|MÃE: …Por que você está trazendo à tona memórias constrangedoras?
+3842|VOCÊ: Levei uma semana pra te convencer de que não foi uma pegadinha. Você tá se vingando de mim por aquilo?
+3843|MÃE: O quê… Não, isso é só parte da bateria de testes.
+3844|MÃE: Nima, isso não tem nada a ver com os meus sentimentos. Eu estou bem, quero que você se concentre no rato e no que você quer fazer com ele.
+3845|Você pondera: talvez consiga mais avanço atacando o contexto em torno da sua situação. Você devia tentar descobrir os verdadeiros motivos da sua mãe para te colocar aqui.
+3846|VOCÊ: Mãe… eu não quero matar o rato. Ele é meio fofinho e acho que ia ser muito nojento.
+3847|VOCÊ: Mas se é isso que você quer mesmo, eu faço.
+3848|MÃE: Não… Nima, eu não quero que você mate o rato.
+3849|Seu sorriso se curva; você conseguiu fazer ela admitir a verdade.
+3850|MÃE: Quer dizer, o propósito do teste é determinar o que você quer. Minha opinião não deveria influenciar sua decisão.
+3851|VOCÊ: Hum… Mãe… não tô entendendo.
+3852|Você mente descaradamente.
+3853|VOCÊ: Sua opinião é muito importante pra mim. Se você não quer de verdade que eu mate o rato, então talvez eu não deva fazer isso.
+3854|VOCÊ: Isso é muito difícil… Mãe, não sei se esse teste é justo. Eu não quero fazer uma coisa que você não quer que eu faça.
+3855|MÃE: Eu não devia ter dito nada…
+3856|VOCÊ: Por favor, mãe, você é uma boa pessoa, eu sei que você não quer me machucar.
+3857|MÃE: Esse não é… o objetivo disso.
+3858|VOCÊ: O que você quer que eu faça, mãe? Eu não entendo.
+3859|MÃE: Você precisa fazer uma escolha, querida.
+3860|VOCÊ: Mas eu não quero...
+3861|MÃE: A vida é cheia de escolhas difíceis- você vai ter que aceitar isso.
+3862|Há outra tática aqui. Você poderia simplesmente não fazer nada.
+3863|Você inspira e tenta meditar. Você tenta superar o desconforto dos seus nervos e do seu coração ansioso.
+3864|Você tem que fazer alguma coisa; isso é uma emergência!
+3865|Você não consegue. Você volta bruscamente à realidade.
+3866|Você procura um argumento ético; algum jeito de traduzir seus sentimentos numa justificativa que sua mãe aceite.
+3867|Felizmente, você leu partes daquele livro de ética que sua mãe deixa na escrivaninha, especificamente as partes que ela marcou com orelhas nas páginas. Isso te dá uma vantagem neste debate.
+3868|VOCÊ: Você quer que eu adote uma postura egoísta? Você sugere que, como estou em perigo, tudo bem eu sacrificar outra pessoa? Não consigo ver seu argumento aqui.
+3869|MÃE: Não é uma pessoa, Nima. O Whiskers é um rato.
+3870|VOCÊ: Então, só porque é um rato, de repente passa a ser ético eu priorizar a minha vida e fazer o que você diz?
+3871|MÃE: É você quem tem que responder essa pergunta.
+3872|VOCÊ: Isso não é uma situação hipotética- é uma demonstração bem prática. Eu preciso entender quais são os parâmetros.
+3873|VOCÊ: Se você deixa isso inteiramente a meu critério, isso sugere que o teste está mirando o meu critério.
+3874|MÃE: …Quê?
+3875|VOCÊ: O rato não tem importância nenhuma. Você só quer testar as minhas prioridades. Isso nem é um dilema entre duas opções bem apresentadas- você só quer ver o quanto eu resisto à sua ordem de matar o rato.
+3876|VOCÊ: É a única conclusão razoável. Você nunca me pediu pra me priorizar nos testes anteriores.
+3877|MÃE: Você tem certeza disso?
+3878|Tudo isso pressupõe que ela age de forma racional, e isso é algo de que você não tem muita certeza.
+3879|Você pondera.
+3880|Você não pode deixar ela saber o quanto você descobriu. Mesmo assim, isso abre uma oportunidade de chegar a algumas das motivações dela.
+3881|VOCÊ: Você não gosta de animais, né?
+3882|MÃE: Não vejo como isso é relevante para esta situação.
+3883|VOCÊ: Eu amava muito meu peixe de estimação. Eu gosto muito de animais em geral.
+3884|VOCÊ: Considerando isso, por que você me pediria pra machucar o Whiskers?
+3885|MÃE: ...Isso não é relevante.
+3886|VOCÊ: Acho que isso responde a minha pergunta. Você não liga.
+3887|VOCÊ: Só pra deixar claro: você está aumentando o calor de novo e de novo.
+3888|MÃE: Suas ações determinam o calor dentro do cômodo.
+3889|VOCÊ: Ah, tá, você tá tentando me matar.
+3890|MÃE: A caldeira não pode passar de níveis seguros. Suas ações podem deixar o calor desconfortável, mas ele está bem dentro dos níveis que um ser humano consegue sobreviver.
+3891|VOCÊ: Mas dói! Me deixa sair!
+3892|VOCÊ: Você esqueceu de me dar comida de novo. Eu não comi nada ontem nem anteontem.
+3893|MÃE: Preparei uma surpresinha especial pra quando você terminar com o Whiskers.
+3894|VOCÊ: Socorro! Eu tô presa aqui dentro!
+3895|Você levanta a voz, se perguntando se os vizinhos conseguiriam te ouvir, por mais fundo que você esteja enterrada sob a terra.
+3896|MÃE: Vou repetir. Você não está presa- esta é uma situação temporária para ajudar na sua recuperação.
+3897|VOCÊ: Isso é mentira. Se você quisesse que eu me curasse, não estaria me machucando e tentando me assar viva.
+3898|VOCÊ: Eu vou sair daqui. Quando eu sair, vou te encontrar e vou te matar.
+3899|MÃE: Isso não é coisa que se diga para a própria mãe.
+3900|Ela disse que é sua melhor amiga. Você sabe como falar com uma melhor amiga. Você já leu um monte de livros sobre isso.
+3901|VOCÊ: Ei, miga, acho que a gente teve um mal-entendido, sabe? Te amo pra sempre, que tal você me deixar sair e a gente ir comer uns churros?
+3902|MÃE: ...Tarde demais pra esse teatrinho de ‘miga’ agora.
+3903|VOCÊ: Você é uma péssima mãe; eu te preferia quando você me negligenciava. Agora que tenho a sua atenção, você me tranca na sala da fornalha e me obriga a matar ratos.
+3904|MÃE: Isso é para o seu próprio bem. Uma hora você vai entender...
+3905|VOCÊ: E como é que eu vou matar o rato, afinal? Você podia passar uma faca por baixo da porta ou algo assim?
+3906|MÃE: ...Deve ter bastante coisa pra brincar aí dentro.
+3907|VOCÊ: Claro, você só tá com medo de que, quando essa porta abrir, eu enfie essa faca em você.
+3908|Você sente o calor subir vários pontos.
+3909|VOCÊ: Cadê o seu senso de humor?
+3910|Ela não responde.
+3911|VOCÊ: EU TE ODEIO! Me testando o tempo todo. Me fazendo pular por argolas que nem um cachorro adestrado.
+3912|VOCÊ: Você devia ter vergonha.
+3913|VOCÊ: Tenho quase certeza de que essa é a pior coisa que você já fez comigo.
+3914|A pior coisa que ela fez com você <i>até agora.
+3915|MÃE: Estou fazendo isso por você, querida.
+3916|Você tenta pensar em algo pra dizer, e a futilidade da sua situação se assenta por apenas um segundo. A revelação chega com um soluço convulsivo. Você se curva para a frente, se apoiando na parede, e chora alto por um momento.
+3917| MÃE: Como se eu fosse acreditar nisso.
+3918|Sua tristeza termina abruptamente com um raio de raiva.
+3919|VOCÊ: Você é uma valentona. Eu te fiz sentir que não estava no controle, então você me enfiou aqui pra me lembrar do meu lugar, né?
+3920|MÃE: Isso é irrelevante para o teste. Por favor, mantenha o foco.
+3921|VOCÊ: Tô entediada.
+3922|Você ouve o botão da caldeira estalar enquanto a temperatura sobe. Você ouve aquilo como uma resposta, como se sua mãe tivesse dito: ‘toma, vamos deixar mais interessante pra você.’
+3923|VOCÊ: Você surta assim toda vez que a gente discute? Não é à toa que eu fugi.
+3924|Ela não responde, mas você ouve um estalar violento vindo pelo microfone. Em resposta, a caldeira esquenta mais e sua situação fica mais precária.
+3925|Não deixa ela brava, sua vida está por um fio aqui!
+3926|VOCÊ: Isso não é justo, você tá me castigando, mas eu nem entendo o que eu fiz de errado.
+3927|MÃE: Você espera mesmo que eu acredite que você não sabe?!
+3928|VOCÊ: Eu não sei!
+3929|VOCÊ: Tá tudo bem, mãe. Eu te perdoo.
+3930|MÃE: Eu não te perdoo.
+3931|Você sente a fumaça da raiva se avolumar nos seus pulmões. Você a abraça e expira.
+3932|VOCÊ: Qual é o seu problema!?
+3933|VOCÊ: O que você tá tentando provar? Quer que eu mate o rato? Quer que eu seja obediente? Você vive dizendo que eu sou livre pra fazer minhas próprias escolhas, mas isso não é verdade de jeito nenhum.
+3934|MÃE: Esta babá eletrônica está aqui principalmente para que eu possa te orientar durante o teste. Não tenho interesse em debater com você.
+3935|VOCÊ: Claro! Tudo o que eu devo fazer é ficar quietinha escutando, quem pode falar é você.
+3936|VOCÊ: Você é minha mãe! Você devia me ajudar!
+3937|MÃE: O objetivo de um teste é aprender.
+3938|VOCÊ: E o que é que você quer que eu aprenda, então?
+3939|MÃE: Escolhas têm consequências...
+3940|HarvestHive
+3941|Você pensa num jeito de conseguir mais informações sem deixar transparecer que sabe a verdade.
+3942|VOCÊ: Eu e o Whiskers temos muito em comum.
+3943|Ela não responde de imediato.
+3944|MÃE: Não seja ridícula, Nima. O Whiskers é um rato e você é minha filha.
+3945|Você se pergunta se ela precisou se lembrar de dizer seu nome dessa vez. Talvez ela não precise mais pensar na mentira. Talvez seja só automático.
+3946|VOCÊ: Só acho engraçado, sabe? A gente tá fazendo a mesma coisa: espécimes tentando sobreviver mais um dia no seu laboratório.
+3947|MÃE: Não seja dramática, Nima, não fica bem pra você.
+3948|VOCÊ: Por favor, mãe, o rato não merece isso.
+3949|MÃE: É preciso chegar a um entendimento antes de você sair do cômodo.
+3950|A ira dela é poderosa e ela exige um sacrifício. Melhor o rato do que você.
+3951|Você discorda dessa ideia.
+3952|É só um rato, supera.
+3953|O rato não merece estar aqui; você prefere sofrer por um momento a matá-lo.
+3954|É o jeito mais fácil de sair daqui.
+3955|Você olha em volta da sala da caldeira. Não há muita coisa que você possa usar aqui, é melhor dar uma olhada.
+3956|Ou... você pode tentar pagar pra ver o blefe da sua mãe. Oferecer-se de bom grado à caldeira como sacrifício.
+3957|Você draga as profundezas do seu coração. Você precisa confrontá-la com algo mais profundo que honestidade intelectual: sinceridade verdadeira.
+3958|Você tem que dizer a ela como isso te faz sentir.
+3959| Pegar o rato?
+3960| Devolver o rato?
+3961|Whiskers olha para a tigelinha dele e corre até lá.
+3962|Ele ataca, pegando uma ração com as duas patinhas e comendo como se fosse uma espiga de milho.
+3963|VOCÊ: Que legal, você tem petiscos.
+3964|Faz crec… gosto sem graça… estranhamente arenoso. Notas de tudo o que tem na lixeira.
+3965|Whiskers parece satisfeito com a refeição. Ele volta para o lugar dele na frente da gaiola e limpa as migalhas do pelo.
+3966|Bichinho esfomeado. Ele está indo repetir.
+3967|Whiskers vê a água, e isso desperta sede na sua mente de rato.
+3968|Ele está indo dar mais um gole.
+3969|VOCÊ: Vira! Vira! Vira!
+3970|Uma única bolha sobe pela garrafinha.
+3971|Satisfeito com a bebida, ele volta para a frente da gaiola.
+3972|Whiskers vê o movimento, e isso o inspira a pular dentro da rodinha.
+3973|Ele corre.
+3974|VOCÊ: Você acha que se eu colocar uma furadeira do outro lado dessa rodinha a gente consegue furar a parede até a liberdade?
+3975|Whiskers engata a segunda marcha.
+3976|Ele se cansa e pula para fora da rodinha. Ele volta para a frente da gaiola, enriquecido.
+3977|O campeão volta para ver se consegue bater o próprio recorde.
+3978|Ele corre até não conseguir mais correr… ou pelo menos até a alegria de correr acabar.
+3979|VOCÊ: Own… ele é tão fofinho.
+3980|A fofura é avassaladora. Uma vontade cresce dentro de você. Uma <wiggle>neeeeecessidade.</wiggle>
+3981|Você perde o autocontrole, e um dedo malvado e errante rompe o cachinho de croissant que é o corpo do rato para alcançar a barriguinha fofa lá dentro.
+3982|Whiskers acorda. Ele não está chateado… só decepcionado.
+3983|Ele volta para a frente da gaiola.
+3984|Dá pra ver que ele está com sono. Ele olha para a caminha.
+3985|Ele volta para o ninhozinho no canto. Se enrola e cai no sono na hora.
+3986|<speed=.5>Ele vai dormir por quanto tempo você deixar…</speed>
+3987|VOCÊ: Acorda, acorda, a gente tem trabalho a fazer!
+3988|Whiskers boceja e volta para a frente da gaiola.
+3989|Você não quer matá-lo. Talvez haja um jeito de vocês dois saírem daqui vivos.
+3990|Ei, calma lá, vamos ser razoáveis, quando foi que eu menti pra você? Para de enrolar e mata logo essa coisa idiota pra gente poder sair.
+3991|Não importa se você acha que vai ser castigada por libertar o rato. Lá no fundo, você sabe que é a coisa certa a fazer.
+3992|<shake a=.3>SUA IDIOTA—
+3993|Não... Tenho que ficar tranquila, tenho que ser normal, tenho que ser a Nima.
+3994|Nenhum dos testes é do jeito que ela faz parecer, por que esse seria diferente?
+3995|Claro que é um truque! São todos truques! Só não importa qual é o truque dessa vez, tá? ELA QUER QUE VOCÊ MATE O RATO.
+3996|Libertar o rato é simplesmente a coisa certa a fazer. Isso tem que valer alguma coisa.
+3997|Sim, você sabe que é o único jeito. A gente pode fazer isso rápido, antes que a temperatura suba demais.
+3998|Você olha em volta da sala da caldeira; não é como se houvesse algum jeito fácil de fazer isso.
+3999|Você podia simplesmente comer ele!

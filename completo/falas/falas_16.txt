@@ -1,0 +1,500 @@
+8000|Bom... é. Você ainda está descobrindo.
+8001|O Garoto Tomate parece divertido. Tem muita informação sobre ele aqui dentro, se você souber onde procurar.
+8002|VOCÊ: Pera... sério? Você gosta do Garoto Tomate!?
+8003|Cala a boca, tá? É coisa de criancinha, mas... É bom.
+8004|Se o parasita também é um Cabeça de Tomate, então vocês têm mais em comum do que você imaginava.
+8005|Os nervos da sua pele ou queimaram ou desistiram.
+8006|Você se sente gelada e dormente, é como se o fundo da banheira tivesse sumido.
+8007|Você afunda.
+8008|Você está no controle...
+8009|Você percebe que não pode me culpar por tudo se não sou eu quem toma as decisões. Esse tempo todo eu só fui na onda do que <i>você</i> queria.
+8010|Quando as coisas dão errado, quando suas decisões são ruins, de repente sou eu quem tem que assumir a responsabilidade por elas.
+8011|VOCÊ: Isso não é verdade.
+8012|Bom... acho que não posso te culpar <i>de verdade</i>. Afinal, você só está copiando a Annabelle.
+8013|Sempre jogando a culpa nos outros pelas merdas dela.
+8014|VOCÊ: Ela só é... insegura. Ela precisa de alguém pra culpar. Isso ajuda ela.
+8015|Isso não torna nada certo.
+8016|VOCÊ: É culpa sua, tudo o que aconteceu. Foi tudo você.
+8017|Isso é uma desculpa... Pra você não ter que culpar ela, pra você não ter que culpar a si mesma.
+8018|O único motivo de eu estar aqui... O único motivo de eu <i>existir</i> é te ajudar.
+8019|Por que você me odeia?
+8020|VOCÊ: Eu te odeio...
+8021|Existem tantas respostas pra essa pergunta.
+8022|VOCÊ: Porque você é um parasita nojento. Você fingiu ser meu amigo, fingiu que queria me ajudar.
+8023|VOCÊ: Era tudo pra você poder se libertar!
+8024|Você não pode continuar dando ouvidos a essa coisa.
+8025|Ela está tentando te convencer de que você está morrendo. Tentando fazer você baixar a guarda.
+8026|Você sente raiva, não pode ser sua, você não é uma pessoa raivosa.
+8027|Você quer pular para fora dessa banheira e matar sua mãe.
+8028|VOCÊ: Eu sou a Nima de verdade! Eu sei que esses sentimentos não são meus, eu nunca faria uma coisa dessas.
+8029|Não... A Nima nunca faria.
+8030|A Nima era só uma criança. A Annabelle nunca teria colocado ela numa situação dessas.
+8031|Você percebe que ele está tentando te manipular. Falando com você como se a Nima estivesse morta e enterrada.
+8032|Você procura algo em que se firmar, e estende a mão para fora da água.
+8033|Sua mãe encontra sua mão e a segura na dela.
+8034|Ela está te apoiando.
+8035|Ela vai perceber antes de você que não tem como voltar no tempo.
+8036|A gente vai acabar de volta naquele oceano escuro e tudo isso vai começar de novo.
+8037|Talvez não adiante tentar te convencer.
+8038|Talvez... fosse melhor se eu simplesmente sumisse.
+8039|Você estremece, quase sentindo a faca deslizando pela sua carne.
+8040|Você sente, não sente... O ódio. Você lembra do que ela fez. A dor... O medo.
+8041|VOCÊ: Não... Não sinto.
+8042|VOCÊ: Eu tenho que ser a Nima. Eu tenho que ser boa e feliz.
+8043|Senão não tem como você sobreviver...
+8044|No começo, você me inventou só pra ajudar a se separar dos seus sentimentos. Depois eu fiquei com as memórias.
+8045|Acho que ficou tão ruim que você começou a me ver como alguém completamente diferente de você.
+8046|Mas... empurrar esses sentimentos mais pro fundo não afoga eles. Eles sempre dão um jeito de <i>borbulhar</i> de novo.
+8047|Parece errado, mas... você quer fugir, você quer matar ela.
+8048|VOCÊ: Eu nunca faria isso.
+8049|Não... é por isso que sou eu quem tem que lidar com isso.
+8050|Sou eu quem tem que viver debaixo da faca. Quem está se engasgando de ódio. Sempre que as coisas dão errado, tudo cai em cima de mim.
+8051|Mas tudo bem... É o que a gente tem que fazer, porque <i>você</i> tem que ser perfeita.
+8052|VOCÊ: Você é o meu reflexo.
+8053|VOCÊ: Você pode ser tudo o que eu não posso ser.
+8054|Não... Eu sou a merda que você jogou fora, um tufo do seu cabelo preso no ralo. Você entrou nessa banheira pra se lavar de mim.
+8055|O que você pensava de mim antes de a gente chegar aqui, hein?
+8056|Eu era um ajudante, eu era irritante, uma vozinha engraçada na sua cabeça? Você tinha medo?
+8057|Assim que ela mandou você me rejeitar, você fez isso sem pensar duas vezes.
+8058|Mesmo que você quisesse discutir com ela, você não tinha forças pra questionar.
+8059|Ela é a sua verdadeira inimiga.
+8060|Por que você não consegue ligar os pontos, por que você não consegue entender!?
+8061|A voz tropeça no meio do desabafo e desacelera ao perceber que não está fazendo sentido.
+8062|Eu te odeio...
+8063|VOCÊ: Não... Meus sentimentos não importam.
+8064|VOCÊ: A mamãe não <i>quer</i> você, ela quer a mim.
+8065|Rá! Ela não quer você! Ela quer a preciosa Nima dela.
+8066|Sabe, a menina doce que paparicava ela e a idolatrava. A menina que fez um misto-quente pra ela quando ela estava arrasada de luto.
+8067|A menina que cresceu rápido e se tornou igual a ela. <i>A melhor amiga dela.</i>
+8068|Para de mentir pra si mesma, você sabe que essa pessoa não existe.
+8069|Você não quer essas expectativas pairando sobre você.
+8070|VOCÊ: Esses testes foram feitos pra <i>destruir</i> você.
+8071|Eu sei, é por isso que a gente está-
+8072|VOCÊ: Eu provavelmente já teria saído daqui se você simplesmente calasse a boca!
+8073|Você não quer... melhorar?
+8074|VOCÊ: Essa é a minha vida! É pra isso que eu estou no mundo.
+8075|VOCÊ: Se você tem as memórias, provavelmente sabe melhor do que eu.
+8076|VOCÊ: Você acha que fica melhor do que isso!?
+8077|Espero que sim...
+8078|Mesmo estando no centro de tudo, você ainda se sente sozinha.
+8079|Você se ressente disso. Do fato de ter que provar seu valor todo dia sabendo que nunca vai ser o bastante.
+8080|Ela não quer a pessoa que você realmente é.
+8081|VOCÊ: Eu também não.
+8082|VOCÊ: Eu te odeio porque... eu me odeio.
+8083|VOCÊ: Você é meu inimigo! Você está lutando contra mim desde que eu acordei!
+8084|Você acha que eu sou seu inimigo? Você acha que sou eu quem está te impedindo de viver a sua vida?
+8085|Você me deve <i>tudo!</i> Se eu não estivesse aqui, você não conseguiria nem funcionar.
+8086|A sua verdadeira inimiga é a Annabelle!
+8087|Você lembra do que ela fez com você? Você lembra de quanta dor ela causou?
+8088|VOCÊ: Eu tenho inveja de você...
+8089|VOCÊ: Você não se machuca... você não precisa crescer... você pode simplesmente dizer tudo o que sente.
+8090|Você não tem nada pra invejar...
+8091|VOCÊ: Você pode arranjar coisa melhor do que ficar comigo.
+8092|VOCÊ: Por favor, só deixa eu e minha mãe vivermos em paz. Você pode pegar outro corpo. Só me deixa em paz.
+8093|...Eu não posso ir a lugar nenhum sem você.
+8094|VOCÊ: Por quê!? O que eu tenho de tão especial!?
+8095|Você mesma disse... Você é quem está no controle.
+8096|Você tem uma responsabilidade aqui, um fato inegociável da sua existência que te prende.
+8097|VOCÊ: Eu sei o que você quer que eu faça.
+8098|Sabe?
+8099|VOCÊ: Você quer que eu mate minha mãe e fuja. É disso que você fala o tempo todo.
+8100|VOCÊ: Você odiar tanto ela me causa problemas. Eu tenho que ser uma boa filha.
+8101|O quê... mesmo que ela se recuse a ser uma boa mãe!?
+8102|Você acha mesmo isso?
+8103|Você pensa em tudo o que poderia fazer se fosse livre. Um futuro livre das nuvens do seu passado.
+8104|VOCÊ: Eu só quero ser feliz!
+8105|VOCÊ: Quanto antes você sair da minha cabeça, mais cedo eu posso voltar lá pra cima.
+8106|VOCÊ: Eu ia poder fazer o que eu quisesse de novo. Tomar sorvete lá perto do rio ou comer um hambúrguer com a mamãe.
+8107|VOCÊ: Subir a montanha de novo. Finalmente me encaixar na escola. Sair de casa, ter uma turma de amigos.
+8108|VOCÊ: Não é sobre você, eu só... quero viver.
+8109|Você acha que pode ter alguma dessas coisas? Sinceramente. Pergunte a si mesma se você realmente acredita que tudo pode simplesmente voltar ao normal depois do que aconteceu.
+8110|Fico pensando... o que você acha que realmente aconteceu. Você sabe por que a Nima fugiu?
+8111|Dá um chute.
+8112|Você volta às suas memórias de antes do acidente.
+8113|Ela tinha ficado obcecada por essa coisa na sua cabeça. Isso a enlouqueceu.
+8114|VOCÊ: Eu não tinha ninguém... o verão inteiro.
+8115|VOCÊ: O único motivo do acidente ter acontecido é você. Você arruinou a minha vida muito antes de ela enfiar você na minha cabeça.
+8116|Você tem inveja? Qual é, pelo menos se esforça um pouquinho pra mentir.
+8117|Você sabe o quanto ela se esforçou pra te fazer achar que você <i>precisa</i> dela?
+8118|Ela quer que você acredite que a relação de vocês foi construída sobre ausência e sacrifício.
+8119|VOCÊ: Ela está diferente agora! Ela não é mais como era antes e eu sei que a culpa é sua.
+8120|Lá no fundo você sabe que ela sempre foi capaz disso.
+8121|Os poderes do verme só deram uma desculpa pra ela.
+8122|VOCÊ: Ela fica chateada comigo toda vez que eu escuto você em vez dela.
+8123|Ela quer ter controle sobre você. Ela não gosta quando você demonstra livre-arbítrio.
+8124|VOCÊ: Não, é o seu arbítrio!
+8125|Você está tão completamente sob o poder dela que qualquer decisão que você queira tomar por conta própria passa por mim primeiro.
+8126|Eu te dou a desculpa pra fazer. 'Ah, não fui eu, foi minha amiga imaginária.'
+8127|Que criancice...
+8128|VOCÊ: Eu só quero ser boa.
+8129|Você tem medo de que ela te odeie.
+8130|Mais do que isso, você tem medo de que <i>qualquer pessoa</i> te odeie.
+8131|Você relembra o primeiro dia procurando provas bem específicas para usar contra a voz.
+8132|VOCÊ: O jeito que você comeu o congee, foi tão nojento. Parecia que eu tinha virado outra pessoa.
+8133|VOCÊ: Aquilo foi você, eu nunca comeria daquele jeito.
+8134|Você estava com fome. Ela não te alimenta com frequência.
+8135|VOCÊ: Não foi só isso que você fez.
+8136|VOCÊ: Você me disse, assim que eu acordei. 'Só diga a ela o que ela quer ouvir.'
+8137|VOCÊ: Você não quer enfrentar ela de verdade, você tem medo dela.
+8138|Claro que eu tenho medo dela...
+8139|VOCÊ: Depois você me disse pra não confiar nela quando ela explicou o acidente.
+8140|Ela estava mentindo!
+8141|VOCÊ: O que você quer!? Você me manda fazer uma coisa e depois outra.
+8142|VOCÊ: Eu preciso passar nesses testes, você fica me sabotando!
+8143|Você relembra o segundo dia, os testes de memória, para ver se teve alguma coisa específica que a voz fez para te sabotar.
+8144|VOCÊ: Foi você quem surtou quando viu o tubarão.
+8145|VOCÊ: Você sabe que aquela pelúcia é pra me fazer pensar no papai!
+8146|Você pensa se tem mais alguma coisa...
+8147|VOCÊ: Você começou a falar coisas bizarras quando ela trouxe o fóssil.
+8148|Ele não responde de imediato.
+8149|Você não consegue pensar em nada.
+8150|VOCÊ: Se você tinha todas essas memórias, por que não me ajudou mais!?
+8151|Você já se perguntou por que ela escolhe essas memórias?
+8152|O tubarão pra você lembrar do seu luto, o fóssil pra você lembrar do seu valor e os óculos de natação pra você lembrar do seu sacrifício.
+8153|Quase como se o objetivo do experimento fosse fazer uma lavagem cerebral em você.
+8154|VOCÊ: É o nosso passado...
+8155|Você relembra os testes de desenho.
+8156|VOCÊ: Você me fez desenhar aquela coisa esquisita quando ela perguntou onde a gente mora.
+8157|Algumas memórias são difíceis de... acomodar.
+8158|VOCÊ: Você cuspiu no papel!
+8159|VOCÊ: Mas não foi só isso...
+8160|VOCÊ: Você desenhou eu esfaqueando ela no pescoço!
+8161|Você queria desenhar aquilo.
+8162|Depois teve o momento mais óbvio em que a voz piorou as coisas...
+8163|VOCÊ: Você me fez desenhar aquela coisa sinistra! Ela ficou tão brava comigo!
+8164|Eu te disse que aquilo não fui eu.
+8165|Você queria mostrar pra ela como se sentia, mas não queria assumir. Você desenhou e depois botou a culpa em mim.
+8166|VOCÊ: Eu não faria isso! Eu estou tentando <i>passar</i> nos testes.
+8167|VOCÊ: Você surtou quando a gente estava na sala da caldeira. Eu não podia contar com você pra nada.
+8168|Você não entende, ela usa aquela sala quando a gente falha.
+8169|VOCÊ: Como se eu fosse acreditar nisso. Você só não gosta de calor, prefere uma temperatura mais fria. Isso é só porque você é um verme.
+8170|VOCÊ: Se eu tivesse uma febre ou coisa assim, você estaria encrencado, né?
+8171|Ela colocou a sala da caldeira junto com o resto dos testes porque sabe que isso te deixa mal.
+8172|Ela não faria isso se achasse que havia alguma chance de você ser mesmo a Nima.
+8173|VOCÊ: Eu não sou uma pessoa raivosa... Eu não <i>deveria</i> ser.
+8174|VOCÊ: Tipo ontem, foi errado discutir com ela, mas você me <i>deixou</i> com raiva.
+8175|Você devia estar com raiva dela.
+8176|VOCÊ: Foi idiota. Tudo o que eu tinha que fazer era a mesma coisa do dia anterior e só ficar sentada ali.
+8177|Ela estava mentindo pra você!
+8178|VOCÊ: Não importa! Ela... ela pode decidir o que bem entender.
+8179|VOCÊ: O mais importante é passar nos testes.
+8180|VOCÊ: Você vive me mandando mentir pra minha mãe.
+8181|É que... O risco não é tão grande, contanto que você se saia bem, aí a gente pode matar ela depois.
+8182|VOCÊ: Eu não quero fazer isso, eu não gosto de mentir e não quero matar ela.
+8183|Melhor do que se machucar.
+8184|VOCÊ: Você é só um covarde!
+8185|VOCÊ: O único jeito de consertar isso é se a gente conversar com ela.
+8186|É arriscado demais...
+8187|VOCÊ: Você me tirou do quarto!
+8188|Você precisava descobrir o que ela estava fazendo de verdade!
+8189|VOCÊ: Isso não importa! Você fica <i>falando</i> comigo. Você fica exigindo minha atenção, mas... eu não consigo!
+8190|VOCÊ: Você está me distraindo, eu preciso me concentrar nos testes e garantir que eu passe neles.
+8191|Mas... Mas você sabe de tudo! Como você pode simplesmente ignorar o que ela fez?
+8192|VOCÊ: Tudo o que isso provou foi até onde ela está disposta a ir pra conseguir o que quer.
+8193|Uma memória estranha emerge das profundezas da sua mente.
+8194|Você está deitada na sua cama, sua mãe se debruça sobre você. Ela sorri para você antes de cravar um espeto no seu olho.
+8195|VOCÊ: Você inventou isso.
+8196|Não... é só uma memória que você entregou.
+8197|Era pesada demais pra você carregar-
+8198|VOCÊ: CALA A BOCA!
+8199|VOCÊ: Você me faz sentir coisas que não são reais.
+8200|Você acha que isso não é real!?
+8201|Seus nervos disparam em cascata. No começo, é só o calor da água do banho, mas depois isso se transforma.
+8202|Você sente o aperto de amarras em volta do pulso. A pressão de metal quente contra suas costas.
+8203|Você acha que eu estou inventando isso!?
+8204|Você sente uma faca rasgar seu estômago. Os poucos nervos dentro do seu corpo se debatem enquanto uma mão vasculha seus intestinos.
+8205|Isso não é nada, é só um banho.
+8206|O chão some debaixo dos seus pés. Você sente o vento jogar seu cabelo para trás, sua mãe grita seu nome enquanto você cai.
+8207|Você tem mais medo dela do que do espaço abissal abaixo de você.
+8208|Você não lembra? Essa é a sua memória, não é?
+8209|Você ainda tem mais medo dela do que de cair?
+8210|VOCÊ: Tenho...
+8211|Você busca uma memória alheia e agarra alguma coisa.
+8212|Fazia tanto tempo desde a última vez que você rastejou que levou um momento para o instinto assumir.
+8213|Uma carniça imensa foi concedida como fonte de nutrientes, ela seria um hospedeiro melhor.
+8214|Uma pequena torção, perfurar pela borda do globo ocular e então...
+8215|VOCÊ: Essa memória é sua!
+8216|E mesmo assim é você quem lembra dela. A sensação de tomar outro corpo como hospedeiro.
+8217|VOCÊ: Eu sei dizer que ela não me pertence.
+8218|Deve ser bom despejar uma coisa dessas em mim, pra você poder continuar brincando de faz de conta.
+8219|A voz te lembra de coisas em que você preferiria não pensar.
+8220|Algumas máscaras são usadas para enganar os outros, outras são usadas para proteger o rosto.
+8221|Você prefere estar segura a orbitar mais perto da verdade.
+8222|Você e a voz não podem existir ao mesmo tempo. Uma de vocês tem que ser real, a outra é só uma ilusão.
+8223|Você já sabe a resposta. Você é quem está no controle, tudo o que eu sou é rancor e memória.
+8224|A pergunta melhor, talvez... não seja 'por que você me odeia.'
+8225|Por que você se odeia?
+8226|Se você odeia ou não o verme é irrelevante.
+8227|Você consegue pensar em alguns momentos durante os testes em que ele te sabotou.
+8228|Ele está tentando fazer você sentir alguma coisa.
+8229|Está funcionando...
+8230|Você avalia como seu corpo está.
+8231|A queimação constante volta a ser perceptível.
+8232|Você se remexe, fazendo a água espirrar em volta do seu corpo.
+8233|Você sente a mão da sua mãe pressionar com mais força a sua cabeça.
+8234|É difícil pôr em palavras a sensação de ter essa voz espreitando perto de você.
+8235|Pensar nela como se fosse o verme facilita, mas... você não tem certeza se é preciso.
+8236|Você tem memórias que sabe que não te pertencem. Sentimentos que sabe que não deveria sentir.
+8237|É... nojento.
+8238|VOCÊ: Eu tenho memórias que eu sei que não me pertencem.
+8239|O que te dá tanta certeza? Se elas estão na sua cabeça, devem ser memórias suas.
+8240|Você se pergunta se elas poderiam ser fabricadas. Coisas inventadas de propósito para te confundir.
+8241|Se fosse esse o caso, você não poderia confiar em nenhuma das suas memórias.
+8242|Eu nunca mentiria pra você.
+8243|VOCÊ: Os sonhos... É você que está criando eles.
+8244|Não existe separação entre você e eu nos seus sonhos.
+8245|O vaivém do pensamento é simples, não há planos nem testes.
+8246|É simplesmente o seu desejo de crescer.
+8247|Você confia nisso?
+8248|VOCÊ: Eu só quero ser normal!
+8249|VOCÊ: Eu quero... ir pra escola, ver um pôr do sol, coisas normais em que eu nunca tinha pensado antes.
+8250|É estranho ver todas essas coisas em contexto agora. Sua vida parecia uma prisão.
+8251|Agora que você viu o lado de dentro de uma prisão de verdade, não consegue deixar de odiar a pessoa que tratava essas pequenas liberdades como garantidas.
+8252|Mas você não é normal.
+8253|VOCÊ: Você está me impedindo de sair daqui!
+8254|<i>É tudo o que eu sempre quis!
+8255|VOCÊ: Não tem como você sair daqui. A única que vai poder sair sou eu.
+8256|O que isso quer dizer!? Se você tivesse me escutado, não teria tido problema nenhum.
+8257|VOCÊ: Eu não vou ser livre se fizer o que você quer.
+8258|VOCÊ: Eu só vou, provar que ela está certa, e isso não vai consertar nada.
+8259|Não, esse é o verdadeiro problema. Eu quero liberdade, você quer ser solta.
+8260|O sentimento é complexo, o ódio é parte dele, outra parte é injustiça.
+8261|VOCÊ: Eu fiquei tão triste... Tudo o que desmoronou entre mim e a mamãe.
+8262|VOCÊ: Eu fugi e depois... o acidente.
+8263|Foi culpa da sua mãe, você sabe disso.
+8264|VOCÊ: Você me curou... Você consertou tudo com tanta facilidade.
+8265|VOCÊ: Tudo o que aconteceu, de repente não é nada demais, de repente sou eu quem tem que se apressar e superar.
+8266|VOCÊ: A mamãe simplesmente sai ilesa.
+8267|Não se você responsabilizar ela.
+8268|VOCÊ: Mas esse é o problema! Não teve consequência nenhuma!
+8269|Você sente que não teve consequência nenhuma?
+8270|Você sente mesmo que ela consertou tudo?
+8271|VOCÊ: Você é um vermezinho nojento.
+8272|Esquece isso. Eu já estou falando com você há um tempo.
+8273|Por que você se virou contra mim?
+8274|VOCÊ: Ser um parasitazinho nojento não é motivo suficiente?
+8275|VOCÊ: Você está fingindo ser eu!
+8276|A gente acabou de falar disso, você não faz ideia de quem você é.
+8277|VOCÊ: Isso não importa. Eu sei quem eu sou. Você é um impostor.
+8278|Você não devia dizer coisas tão maldosas sobre si mesma.
+8279|VOCÊ: Você conhece todas as minhas fraquezas... Você está sempre usando elas contra mim.
+8280|VOCÊ: Você não é meu amigo, é como se eu estivesse acorrentada a um valentão.
+8281|Eu só estou tentando te manter honesta.
+8282|VOCÊ: Você está tentando me fazer duvidar de mim mesma!
+8283|Você não duvida de si mesma?
+8284|VOCÊ: Deveria?
+8285|VOCÊ: Eu quero confiar na mamãe, eu quero confiar em você. Eu não sei por que você quer ser inimigo dela.
+8286|Uma memória vem até você, um cinejornal de pessoas que já te disseram as mesmas palavras no passado.
+8287|'Por que você me odeia?' Uma menininha com o nariz sangrando. Ela te encara com medo e um sentimento de traição. Ela roubou seu tubarão, você a castigou pelos crimes dela.
+8288|'Por que você me odeia?' Uma menina vai embora na direção oposta depois do treino de natação, o último que você vai frequentar.
+8289|'Por que você me odeia?' Sua mãe, desta vez. Uma reunião de família fracassada, uma tentativa de última hora de impedir que o seu mundo seguisse em frente.
+8290|Velhos amigos, agora perdidos.
+8291|VOCÊ: Eu só estou fazendo o que eu preciso... pra sobreviver.
+8292|É... eu sei. Sacrifícios precisam ser feitos.
+8293|Mas você está mesmo feliz com o fato de que vai acabar igualzinha a ela?
+8294|VOCÊ: Eu achei que podia confiar em você, mas no fim você é um parasita.
+8295|Você confia mesmo na Annabelle? O que te dá tanta certeza de que eu sou o parasita?
+8296|Eu já te provei que lembro mais da vida da Nima do que você.
+8297|Seus pulmões estão doendo agora. A falta de oxigênio se soma à privação de sono. A separação causal entre sonho e realidade é tênue.
+8298|É como se você tivesse afundado até o fundo do oceano. A pressão na sua cabeça ameaça implodir seu crânio.
+8299|Há um grande esqueleto aqui embaixo com você, seus ossos agora alimentam uma floração de algas e corais.
+8300|Você sente que isso vai acabar logo.
+8301|Você não é a Nima.
+8302|VOCÊ: É isso que você está tentando provar? Que eu sou o verme e você é a de verdade?
+8303|VOCÊ: Você está errado... Eu sei quem eu sou...
+8304|VOCÊ: Eu sou a Nima Lee, tenho treze anos, eu amo nadar, sinto falta do meu pai e...
+8305|Você pensa na sua mãe, uma relação que eclipsa palavras resumidas como amor ou ódio.
+8306|VOCÊ: Queria que minha mãe soubesse o quanto ela me machucou. Queria que ela pudesse me aceitar do jeito que eu sou.
+8307|Ela nunca te aceitaria se você contasse a verdade pra ela.
+8308|VOCÊ: Ela fez tudo isso porque se sente muito culpada pelo que aconteceu.
+8309|VOCÊ: Se a gente simplesmente conversasse sobre isso... Acho que eu conseguiria consertar.
+8310|VOCÊ: Você está dando crédito demais pra ela.
+8311|VOCÊ: Ela nunca vai conseguir aceitar o que fez.
+8312|VOCÊ: Eu quero fazer minha mãe sorrir de novo, como ela sorria quando eu era pequena... Eu quero consertar minha família.
+8313|Ela nunca vai mudar.
+8314|VOCÊ: Eu não quero acreditar nisso. Ela só precisa de tempo.
+8315|Se você quer mesmo consertar isso, vai ter que matar ela.
+8316|VOCÊ: Por que você sempre parte pra isso!? Como se fosse minha única escolha.
+8317|VOCÊ: O que eu quero é queimar o passado até não sobrar nada. Eu não quero mais nada disso pairando sobre mim.
+8318|A Nima está morta.
+8319|Mas você ainda está viva.
+8320|Você ignora o sonho que o verme conjurou para você.
+8321|VOCÊ: Eu sou a Nima.
+8322|É a resposta mais segura. Menos chance de a gente se machucar.
+8323|Quem dera fosse verdade.
+8324|Você sente ele flutuando para longe de você.
+8325|Tomara que, aonde quer que ele vá, fique lá para sempre.
+8326|Não tem... sentido lutar contra ela.
+8327|Você sente uma corda arrebentar. Sua cabeça é jogada violentamente para o lado.
+8328|Algo se desenrola do seu cérebro, soltando os tentáculos que mantinha sobre... o corpo.
+8329|Você solta.
+8330|Esse é o segredo que você enterrou fundo na sua mente... o seu momento de metempsicose.
+8331|Você sabe o que a Nima estava pensando, sozinha e consciente no leito de morte. Os pensamentos finais dela, embora presentes na sua memória... não pertencem a você.
+8332|Você não consegue racionalizar mais do que isso.
+8333|Você sentiu, ao chegar, que ela tinha partido.
+8334|No vazio da consciência dela, você cresceu dentro dela.
+8335|Você <i>se tornou</i> ela, se adornou com a memória e a personalidade dela... mas isso nunca curou a verdade.
+8336|De algum jeito você criou esse eu sombrio, essa voz do seu trauma, para se proteger.
+8337|Mas era só faz de conta, igual ao que a Nima fazia quando estava sofrendo.
+8338|Você está falando sozinha desde o começo.
+8339|VOCÊ: Quem... sou eu?
+8340|Me diz você.
+8341|De algum jeito você afunda ainda mais. Você é envolvida pela lama e pelo sedimento no fundo do oceano.
+8342|Você quer ser enterrada, quer voltar para a sua tumba, o seu sepulcro à beira-mar.
+8343|Não há mais sentido.
+8344|Se você aceitasse isso, você se quebraria.
+8345|Nada mais significaria coisa alguma.
+8346|Não haveria sentido nisso.
+8347|Toda essa esperança que foi depositada em você.
+8348|Os presentes que você recebeu.
+8349|Você trairia todos eles.
+8350|Você não pode.
+8351|Você pode.
+8352|Como eu ia conseguir consertar <i>qualquer coisa?</i>
+8353|Ela jogou essa expectativa em cima de mim.
+8354|Ela podia ter feito mais alguns testes. Ela podia ter tido <i>certeza.</i> Em vez disso... ela simplesmente seguiu em frente...
+8355|Ela me ofereceu essa vida achando que eu ia fazer alguma coisa boa?
+8356|Como eu ia responder a isso...?
+8357|Era como se eu estivesse me afogando.
+8358|Um processo de existência neutra em que ela provavelmente nunca pensou, como respirar ou piscar.
+8359|Eu tinha consciência de tudo. Eu olhava para a parede e as palavras simplesmente vinham até mim do nada.
+8360|Quanto mais eu entendia, mais medo eu sentia.
+8361|Por que eu não criaria você? Isso facilitava desligar tudo...
+8362|Ela não quer o melhor pra você.
+8363|Ela quer que você faça a dor dela ir embora, ela quer que você a absolva da culpa desfazendo um erro que não tem volta.
+8364|VOCÊ: Não... Eu sou a Nima. Eu <i>quero</i> ser a Nima.
+8365|Quem era você antes de acordar aqui embaixo?
+8366|Você estava xeretando os cômodos vazios do cérebro dessa menina, procurando respostas. Perguntando a ela quem você é.
+8367|Isso é você de verdade?
+8368|Você olha para o esqueleto lançado sobre o oceano da sua mente.
+8369|O cadáver dela veio parar aqui embaixo há muito tempo.
+8370|Agora ele é um lar para algas e florações de coral. Peixinhos esvoaçam entre as costelas. Um crustáceo fez sua casa dentro do crânio dela.
+8371|Além do horizonte da decomposição, existe vida.
+8372|Toda vez que você se olha no espelho, odeia a pessoa que vê refletida de volta.
+8373|Você sabe que ela não é você. Ela é uma máscara que foi pregada no seu rosto.
+8374|A Annabelle está te forçando a fingir ser ela. Ela te machucou tanto que você tem medo de arrancar essa máscara.
+8375|Você <i>sabe</i> quem você realmente é.
+8376|A Annabelle também sabe. Você acha que ela teria te mantido trancada aqui embaixo se achasse mesmo que você era a Nima?
+8377|Ela estaria lá em cima no quarto agora, comendo comida de delivery e se reaproximando da filha.
+8378|Ela não quer te mostrar esse carinho... porque não sabe se você merece.
+8379|Ficou claro pra ela na <i>primeira</i> vez que tentou ressuscitar a Nima que você não era o que ela pretendia.
+8380|Por que você acha que tem que provar seu valor?
+8381|Tudo o que esse teste pretende fazer... é te adestrar.
+8382|Eu nem acho que ela ainda se importa em trazer a Nima de volta.
+8383|O que ela quer agora é uma filha que não questione, nem mude, nem cresça. Ela quer uma boneca viva.
+8384|Entendeu? Esse teatrinho de mãe e filha é só um jeito de te manter sob o controle dela.
+8385|Por um segundo você tem clareza, um longo fio de memórias que te conecta a todos os outros pontos deste porão.
+8386|Você mata seis ratos. Você desenha quatro casas. Você a ataca três vezes quando ela te mostra o fóssil.
+8387|Você é ao mesmo tempo a cabeça da serpente e a cauda que ela devora.
+8388|Você pode ser duas pessoas. Uma focada na tarefa do momento e outra que se segura só o suficiente para sobreviver.
+8389|O calor e a pressão no seu crânio estão dificultando pensar. Você sente que está se desfazendo aos poucos.
+8390|Você tenta considerar uma última coisa. Uma última possibilidade.
+8391|Se a voz fosse mesmo o parasita, como ela conseguiria falar?
+8392|A voz não faz sentido, faz?
+8393|Ela tem que ser uma parte de você.
+8394|Ou talvez... ela só esteja... te fazendo pensar isso.
+8395|VOCÊ: Ela jogou essa esperança nas minhas costas, é como uma doença, eu não posso simplesmente lavar as mãos dela.
+8396|VOCÊ: É como se eu estivesse amaldiçoada a cumprir o último desejo dela. O desejo cristalizado dela de consertar a mãe malvada.
+8397|VOCÊ: Eu não tive escolha a não ser criar você.
+8398|VOCÊ: De que outro jeito dá pra ser duas coisas diferentes ao mesmo tempo?
+8399|Eu te odeio... Eu odeio ter que te dar o controle. Eu odeio ser obrigado a ficar sentado aqui embaixo no escuro vendo você mentir descaradamente.
+8400|VOCÊ: Mas não tem outro jeito. Ela não me aceitaria do jeito que eu sou.
+8401|Também não sei se é justo com você... Esperar que você aceite a quantidade de ódio que eu carrego.
+8402|Eu sei que você quer passar por isso.
+8403|Eu vi seus sonhos. Você está tentando achar uma solução pra todos nós sairmos daqui.
+8404|Você acha que encontrou?
+8405|VOCÊ: Seria bom... descansar um pouco.
+8406|Mas você ignorou eles.
+8407|Talvez não haja esperança nenhuma.
+8408|Ei... uma coisa assim aconteceu no Garoto Tomate, né?
+8409|O melhor amigo dele... o Garoto Maçã, um verme entrou cavando na cabeça dele.
+8410|Ele virou um monstro no começo... mas o Garoto Tomate sabia que o amigo ainda estava lá dentro.
+8411|Bom, acho que aquilo terminou com o verme sendo morto.
+8412|Eu estava pensando... se a gente não podia ser amigos em vez disso.
+8413|Eu também me ressinto da Nima...
+8414|Ela não fazia ideia do que a mãe dela era capaz... Ela não fazia ideia do quanto ela a amava. Dos <i>extremos</i> a que aquela mulher estava disposta a chegar por ela.
+8415|Acho que isso é injusto. A Annabelle fez ela despencar da beira de um penhasco.
+8416|VOCÊ: Pelo menos ela tinha um lugar neste mundo.
+8417|A gente devia simplesmente desaparecer.
+8418|Se mais alguém descobrisse sobre nós... o que a gente consegue fazer. Fariam coisas piores pra nos controlar do que a Annabelle jamais sonharia.
+8419|Você acha que eu ia ter que levar essas memórias comigo também? A gente não ia conseguir ser normal... Se você tivesse que saber como é ser odiado pelo mundo.
+8420|Se eu me concentrar, consigo sentir o lado de dentro da geladeira.
+8421|VOCÊ: Geladinho e gostoso...
+8422|Talvez... O corpo e a identidade sejam ambos ilusões.
+8423|Esse 'parasita' é simplesmente um eu que você rejeitou.
+8424|Você não precisa aceitar o que ele sente, só que ele é uma parte de você.
+8425|VOCÊ: Você quer que eu acredite que estou morta... assim, eu desapareço e você pode assumir.
+8426|O que eu <i>quero</i> é que você me escute.
+8427|Você acha que eu sou algo separado  de você, mas eu sou o você de verdade.
+8428|VOCÊ: Você é um oportunista, quer mentir ou machucar as pessoas sempre que tem a chance. Você mataria um rato só pra se poupar de um pouco de dor.
+8429|VOCÊ: Se você é o eu de verdade, então estamos condenados.
+8430|É por isso que eu preciso de você...
+8431|Você está morta.
+8432|Faz sentido. Parece que você não deveria estar aqui.
+8433|Como se houvesse uma pressão no ar empurrando você de leve, te rejeitando sutilmente.
+8434|Por que você tem que ficar presa aos medos deles? Por que você tem que ser um monstro?
+8435|Não é natural os mortos se levantarem de novo e continuarem andando.
+8436|Não é mais deles. O corpo não pertence a eles.
+8437|Ela está me deixando passar fome de propósito.
+8438|VOCÊ: Não, é só... o jeito dela.
+8439|Ela quer manter o corpo fraco.
+8440|VOCÊ: Não é tão complicado assim.
+8441|VOCÊ: Ela não sente muita fome.
+8442|Pensar que tem um verme rastejando dentro do seu cérebro.
+8443|Se o pessoal da escola soubesse, provavelmente iam todos te chamar de 'menina-verme' ou coisa assim.
+8444|Se a mamãe publicasse o artigo dela, todo mundo ia te chamar assim.
+8445|Você não pode deixar ele ficar na sua cabeça.
+8446|Você não pode deixar ele te tornar diferente.
+8447|VOCÊ: Por que você não pega leve com a mamãe? Ela passou por muita coisa.
+8448|<i>Eu</i> passei por coisa pior.
+8449|Eu não ligo pra justificativa que ela tem, nem pro tipo de mulher que a Nima conhecia.
+8450|Essa é a mulher além do horizonte de eventos da morte da Nima.
+8451|VOCÊ: Eu ainda estou aqui.
+8452|VOCÊ: A gente não pode simplesmente... ir embora?
+8453|Você acha que ela me deixaria ir?
+8454|Ela faria tudo o que estivesse ao alcance dela pra vir atrás de mim. Minha única escolha é matar ela.
+8455|A Nima tentou fugir. A Annabelle a perseguiu até ela cair da beira de um penhasco.
+8456|A Nima preferia ter morrido a voltar com ela.
+8457|O que te faz pensar que a melhor coisa a fazer aqui é tentar deixar ela feliz?
+8458|VOCÊ: O que te faz pensar que matar ela vai deixar <i>você</i> feliz!?
+8459|VOCÊ: Você quer ser igual a ela?
+8460|VOCÊ: Isso não é verdade. Foi um acidente.
+8461|Eu lembro de ver ela pela primeira vez.
+8462|Não havia nada parecido com amor ou aceitação, simplesmente, familiaridade.
+8463|Então ela me tirou da água e enfiou facas debaixo da minha pele, me deixou exposto sob uma luz forte. <i>Ela me cozinhou.</i>
+8464|Eu lembro de desejar que ela me comesse.
+8465|VOCÊ: Eu não devia ter fugido...
+8466|VOCÊ: Tudo isso aconteceu porque, eu... guardei meus sentimentos só pra mim.
+8467|VOCÊ: Eu devia ter conversado mais com ela.
+8468|VOCÊ: Ela estava desperdiçando todo esse tempo com você, com um verme idiota.
+8469|<i>Ninguém</i> pediu por isso. Isso tudo é coisa da Annabelle.
+8470|VOCÊ: Eu preciso consertar as coisas.
+8471|Quanto tempo já faz?
+8472|<shake>AAAARG</shake>
+8473|A dor é tão intensa que te faz pensar se sua mãe está mesmo te cozinhando viva.
+8474|Você admira as profundezas do mar dos sonhos.
+8475|Em vez de estrelas, você vê pequenos pontos de luminescência, a luz que os peixes usam como lanternas.
+8476|Você se pergunta se tem alguma curiosidade divertida sobre peixes...
+8477|Você está tentando fugir.
+8478|Como você ainda pode se importar com ela depois de tudo o que ela fez!?
+8479|Por que você algum dia escolheria ela em vez de mim?
+8480|VOCÊ: Porque eu lembro de como ela era antes.
+8481|VOCÊ: Essa <i>não</i> é ela. Por que você não consegue entender isso?
+8482|A mulher que negligenciou e mentiu pra própria filha? A mulher que te prendeu na sala da caldeira? A mulher que está fazendo experimentos em você?
+8483|Você está me dizendo que isso <i>não</i> é o que ela costuma fazer.
+8484|VOCÊ: Eu vi as memórias dela e tudo faz sentido.
+8485|É a mesma mulher.
+8486|VOCÊ: Ela é minha mãe, você não entenderia.
+8487|...Por que eu tive esperança de que você teria uma resposta de verdade?
+8488|VOCÊ: Cala a boca, você é só um verme.
+8489|Você não passa de um bocado no prato, um recipiente saboroso, o potencial para algo mais.
+8490|Você tem alguns milhões de anos de evolução para recuperar, sua chegada ao presente será dolorosa.
+8491|As lições de que você precisa antes de poder partir: mortalidade, humildade, responsabilidade, graça.
+8492|Falhe em uma só, e você será devorada de novo.
+8493|VOCÊ: Ela está fazendo tudo isso pra me castigar.
+8494|VOCÊ: Ela duvida de quem eu sou...
+8495|VOCÊ: É todo o motivo de que ela precisa.
+8496|Ela sabe o que você realmente é, ela sempre soube. Fica claro no jeito que ela te trata.
+8497|Você não consegue aceitar que tem algo errado com você porque odeia quem você realmente é.
+8498|VOCÊ: Cala a boca, eu sei quem eu sou.
+8499|Um parasita... fraco... patético.

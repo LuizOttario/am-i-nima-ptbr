@@ -1,12 +1,13 @@
 """Aplica as falas PT-BR nos scripts Ink do Am I Nima.
 
-Uso: python patch.py <data.unity3d original> <saida.unity3d>
+Uso: python patch.py <data.unity3d original> <saida.unity3d> [pasta]
+  pasta: "traducao" (demo, padrão) ou "completo" (jogo completo)
 Requer: pip install UnityPy
 """
 import glob, json, os, re, sys
 import UnityPy
 
-INK_ASSETS = ("AmINimaAlvin", "Obsession")  # ordem define os IDs de falas/*.txt
+INK_ASSETS = ("AmINimaAlvin", "Obsession")  # ordem define os IDs de falas/*.txt (o jogo completo só tem o 1º)
 TAG = re.compile(r"\{[^}]*\}|<[^>]*>")
 
 
@@ -45,9 +46,9 @@ def choices(x, fn):
     return x
 
 
-def load_pt(*sub):
+def load_pt(pasta, *sub):
     d = {}
-    for f in sorted(glob.glob(os.path.join(os.path.dirname(os.path.abspath(__file__)), "traducao", *sub))):
+    for f in sorted(glob.glob(os.path.join(os.path.dirname(os.path.abspath(__file__)), pasta, *sub))):
         for line in open(f, encoding="utf-8").read().split("\n"):
             if line:
                 i, t = line.split("|", 1)
@@ -55,18 +56,19 @@ def load_pt(*sub):
     return d
 
 
-def main(src, out):
-    pt, ptc = load_pt("falas", "*.txt"), load_pt("escolhas.txt")
+def main(src, out, pasta="traducao"):
+    pt, ptc = load_pt(pasta, "falas", "*.txt"), load_pt(pasta, "escolhas.txt")
     env = UnityPy.load(src)
     assets = {}
     for o in env.objects:
         if o.type.name == "TextAsset":
             d = o.read()
             if d.m_Name in INK_ASSETS: assets[d.m_Name] = d
-    assert set(assets) == set(INK_ASSETS), f"assets Ink não encontrados: {set(INK_ASSETS) - set(assets)}"
+    names = [n for n in INK_ASSETS if n in assets]
+    assert names, "nenhum script Ink encontrado (arquivo errado?)"
 
     trees, en, enc = {}, [], []
-    for name in INK_ASSETS:
+    for name in names:
         raw = assets[name].m_Script
         if isinstance(raw, bytes): raw = raw.decode("utf-8")
         trees[name] = json.loads(raw.lstrip("﻿"))
@@ -81,7 +83,7 @@ def main(src, out):
     m = {s: pt[i] for i, s in enumerate(en)}
     mc = {s: ptc[i] for i, s in enumerate(enc)}
 
-    for name in INK_ASSETS:
+    for name in names:
         trees[name]["root"] = choices(walk(trees[name]["root"], m.__getitem__), mc.__getitem__)
         assets[name].m_Script = "﻿" + json.dumps(trees[name], ensure_ascii=False, separators=(",", ":"))
         assets[name].save()
@@ -90,5 +92,5 @@ def main(src, out):
 
 
 if __name__ == "__main__":
-    if len(sys.argv) != 3: sys.exit(__doc__)
+    if len(sys.argv) not in (3, 4): sys.exit(__doc__)
     main(*sys.argv[1:])

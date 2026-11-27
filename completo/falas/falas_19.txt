@@ -1,0 +1,500 @@
+9500|Você lava as mãos em água morna.
+9501|VOCÊ: Hã... Isso são marcas de mão na parede?
+9502|Acho melhor usar a pia pra me lavar.
+9503|Um trono de porcelana.
+9504|As cortinas do chuveiro parecem ter sido mexidas.
+9505|Você nota que o cesto de roupa suja foi virado.
+9506|Minhas roupas! O chão está imundo...
+9507|Você sobe no cesto de roupa virado e apoia os braços nas paredes.
+9508|Você decidiu. Precisa ver o que tem do outro lado.
+9509|Você se espreme de cabeça pela entrada cavernosa. Pedaços de gesso e terra caem no seu rosto, mas você segue em frente.
+9510|Ao sair, você sente partes do corpo doerem. Se contorcer e se raspar nas laterais do túnel não foi nada agradável.
+9511|VOCÊ: Onde eu estou...
+9512|VOCÊ: Espera... Eu não posso entrar aqui sem a Mãe.
+9513|A Annabelle só deixa você saber o que ela quer que você saiba.
+9514|A verdade está aqui em algum lugar. Descubra por conta própria.
+9515|Essas marcas... são iguais às minhas mãos....
+9516|Eu podia voltar pelo buraco...
+9517|O quadro... alguém mexeu nele.
+9518|Você enfia os dedos atrás da moldura de madeira do quadro e o tira da parede.
+9519|VOCÊ: O que é isso...
+9520|Diante de você há um buraco escuro como breu. Ele engole sua atenção, puxando seus olhos cada vez mais para dentro.
+9521|Você sente uma compulsão de entrar.
+9522|Essa gosma não sai...
+9523|Minhas mãos estão bem sequinhas agora.
+9524|A gente nunca teve TV a cabo quando eu era pequena, mas eu sempre gostava de encostar a mão no chiado da tela.
+9525|Eu sempre escolhia as iscas mais brilhantes e coloridas quando ia pescar com o Pai.
+9526|Na verdade eu nunca peguei nada. Fico pensando se os peixes achavam minhas iscas bonitas demais pra serem de verdade.
+9527|O túnel de volta pro seu lado do porão.
+9528|Se você sente que já juntou informação suficiente, é melhor voltar pra cama antes que a Mãe acorde.
+9529|Você se espreme de volta na sua fenda e rasteja até sair do outro lado.
+9530|A Mãe comprou isso pra mim porque ficou com culpa depois de me esquecer na escola por quatro horas.
+9531|Eu me achei bem descolada, até ter que começar a voltar pra casa de patinete todo dia.
+9532|Meus brinquedos antigos! Eu sempre me perguntei onde eles tinham ido parar.
+9533|As ferramentas de paleontologia da Mãe. Usadas principalmente pra limpar, cinzelar e quebrar pedra.
+9534|Juro que ela tinha mais.
+9535|No dia em que o Pai morreu, ele pegou a vara de pescar e saiu sorrindo, como em qualquer outro dia.
+9536|Ou pelo menos é assim que eu imaginei. Eu ainda estava na cama.
+9537|VOCÊ: Preciso voltar antes que ela desça.
+9538|Você parece tão feliz pra alguém que está se afogando.
+9539|Uau… meu antigo reino de macaquinhos-do-mar.
+9540|Eu imaginava que cada um tinha sua própria vidinha. Indo pra escola, fazendo tarefas e ficando triste.
+9541|Mas aí a Mãe me mostrou uma foto de perto de como eles são de verdade...
+9542|Eles parecem os insetos dos fósseis idiotas dela.
+9543|Decepcionante, como sempre.
+9544|Um monstro criado por mim. Eu podia ter te feito bonito, mas em vez disso você tem uma língua no lugar do pé.
+9545|Espera! Então é aqui que você estava? A Mãe disse que tinha se livrado de você!
+9546|Que mentirosa.
+9547|Meu Deus… meu bichinho virtual! Como você ainda está vivo depois de todo esse tempo?
+9548|Desculpa por não ter estado lá por você. Nós dois passamos por muita coisa.
+9549|Eu colocava isso em tudo. No meu tapete, no controle da TV, no secador de cabelo...
+9550|Entendo por que isso foi confiscado.
+9551|A Mãe te achava bem assustador. E não ajudava você estar pelado.
+9552|Meu antigo estojo. Eu colocava um cadeado pra impedir a Kathy de ler meus bilhetes secretos.
+9553|Parece que faz séculos que eu não vou à cidade...
+9554|Acho que ficar lá teria sido melhor...
+9555|Uma variedade estonteante de refeições.
+9556| VOCÊ: Hã?
+9557| Um alçapão de madeira se revela. Você não sabia que isso existia até agora.
+9558| <br>
+9559| Você usa as duas mãos pra puxar a alça de metal. O alçapão se abre com um rangido pesado.
+9560| O ar à sua volta se enche na hora de um frio que emana lá de baixo. Seu corpo reage com arrepios.
+9561|Você desce mais uma vez.
+9562|Você se aproxima da porta sinistra.
+9563|Seu corpo estremece com uma vaga lembrança de alguém cantarolando.
+9564|Seu corpo congela quando você olha pela escotilha.
+9565|Você precisa mesmo descer até lá?
+9566|Você reúne coragem e se lança na escuridão.
+9567|Você sobe na escada de metal, firme porém decrépita, e começa a descer.
+9568|Enquanto você desce, a ferrugem dos degraus deixa um resíduo alaranjado nas suas palmas.
+9569|Você salta do último degrau para o piso de concreto, e um baque ecoado preenche o corredor.
+9570|O ar aqui embaixo é muito mais parado; dá pra sentir a mudança na umidade quando você respira.
+9571|As paredes, ásperas e manchadas de água, provavelmente são a origem do cheiro de mofo ao seu redor.
+9572|No fim do corredor, uma porta escura de metal se ergue, ameaçadora, diante de você.
+9573|Você se aproxima dela.
+9574|A porta parece grossa e pesada, provavelmente feita para aguentar uma força considerável.
+9575|Acima da maçaneta, você nota um teclado digital que parece fora de época.
+9576|O que a Mãe está escondendo atrás disso?
+9577|Quando você aperta enter no teclado, ouve a tranca da porta deslizar com um zumbido.
+9578|Assim que entra no cômodo, você para no lugar.
+9579|Seu corpo começa a tremer involuntariamente quando você é atingida pelo cheiro misturado de carne em decomposição e formol.
+9580|Não tem mais volta agora.
+9581| Argh... Ela nunca tranca as coisas desse jeito... Por que isso...?
+9582|Hmm... A Mãe nunca gostou de usar números aleatórios.
+9583|Ela sempre esquecia e tinha que trocar a senha.
+9584|Vale a tentativa...
+9585|Me lembra de tocar piano, praticando escalas sem parar.
+9586|Eu brigava com a Mãe por usar senhas tão fáceis na conta do banco. Ensinei truques de memória pra ela lembrar das importantes.
+9587|Essa era uma das favoritas dela... Até ela ser hackeada...
+9588|Esses números parecem mais gastos... Será que...?
+9589|<i>"Mixtape de despedida da Nima"
+9590|Sinto falta deles...
+9591|Quero ver todos eles de novo...
+9592|Um CD cheio de cantigas infantis.
+9593|Para com isso...
+9594|Chega...
+9595|<shake>PARA!
+9596|"Tomate~ Tomate~ Hora do Tomate!"
+9597|"O Garoto Tomate chegou"
+9598|"Pra fazer o amanhã voltar!"
+9599|A Mãe tocava isso pra eu dormir.
+9600|Acho que sei por que ela tem insônia.
+9601|A Mãe adora ouvir música enquanto trabalha.
+9602|Ela diz que isso ajuda ela a entrar no ritmo.
+9603|Que nojo...
+9604|É por isso que tem ratos nas paredes.
+9605|Tantas contas atrasadas…
+9606|Como ela ia viver sem mim?
+9607|Eu andei de canoa pelo Lago Emerald com a Mãe.
+9608|No fim eu remei quase o tempo todo. A Mãe estava ocupada escrevendo anotações pro livro dela.
+9609|Perguntei pro Pai como ele podia gostar de pescar se o trabalho dele era estudar e proteger os peixes.
+9610|Ele me disse que pescar e comer peixe é outra forma de apreciar eles.
+9611|Eu disse que ele era esquisito.
+9612|Ela anda dormindo aqui? Esse travesseiro nem tem fronha.
+9613|Ah! É o porta-chaves que eu fiz pra mãe! Eu não sabia que ela tinha guardado
+9614|Espera… ela tá usando ele pros cigarros.
+9615|Melhor não ligar isso. Ia fazer barulho demais.
+9616|E espalhar poeira pra todo lado também.
+9617|Argh… Claro demais.
+9618|Assim é melhor.
+9619|Legal.
+9620|“Utilitarismo, de John Stuart Mill”
+9621|Ela marcou um monte de páginas com bandeirinhas.
+9622|“O valor moral de uma decisão é medido unicamente por suas consequências, e não por suas intenções.”
+9623|“Introdução à Psicologia”
+9624|É um livro didático de faculdade, parece bem velho. Diz que foi publicado nos anos oitenta.
+9625|Uau… eu não sabia que existiam <i>só</i> dezesseis personalidades.
+9626|Ah, olha só, a consciência é como um iceberg…
+9627|Só uma pequena parte do eu fica visível, enquanto a maior parte da consciência fica escondida debaixo d'água…
+9628|Você se imagina segurando a própria garganta com as mãos e se afogando debaixo d'água.
+9629|Você fecha o livro.
+9630|“O Atlas da Anatomia Humana.”
+9631|Esse livro é grande. Parece que ela marcou algumas das páginas.
+9632|Hum, tem um monte de cortes transversais do cérebro aqui.
+9633|“Uma Nova Teoria do Eu.”
+9634|Que estranho, por que só as páginas sobre sociopatas estão marcadas com bandeirinhas?
+9635|Ah, isso é interessante. Dissonância Cognitiva: quando as ações de alguém não batem com os seus valores.
+9636|Isso parece muito com a Mãe.
+9637|“O Fardo de uma Mãe.”
+9638|Parece… um livro sobre como ser uma boa mãe.
+9639|Mas a autora não parece ser uma pessoa muito legal.
+9640|Você vê uma pilha de roupas, todas com a mesma mancha carmesim escura.
+9641|Minhas roupas! Estão arruinadas.
+9642|Foi a Mãe que fez isso?
+9643|Leite, suco e… cerveja?
+9644|Ela está um caco.
+9645|Isso leva pro meu quarto… Bom, meu quarto novo.
+9646|Fico pensando como ela trouxe todas as minhas coisas aqui pra baixo sozinha.
+9647|Isso parece meio exagerado.
+9648|Sandálias de acupuntura.
+9649|O Pai comprou isso pra Mãe aliviar a tensão e o estresse.
+9650|Ela disse que foi o presente mais romântico que já tinha recebido.
+9651|Tem um cheiro horrível…
+9652|A Mãe estava trabalhando muito nas festas de fim de ano, então eu montei a árvore aqui pra trazer um pouco de espírito natalino pra ela.
+9653|Acho que eu devia desmontar logo.
+9654|Eu e o Pai fazíamos um boneco de neve todo ano.
+9655|Uma vez ele me pregou uma peça se escondendo dentro do boneco de neve.
+9656|Ele ficou preso e precisou da minha ajuda pra sair.
+9657|“Vc é miNha estRela Mãe”
+9658|Eu admirava tanto ela.
+9659|Eu usei o quebra-cabeça da Mãe pra fazer os chifres.
+9660|Ela passou um tempão procurando essas peças.
+9661|“Guia de Alongamento”
+9662|A Mãe me fazia fazer esses alongamentos todo dia pra ficar mais alta - ela dizia que todo mundo ia ficar maior que eu se eu não fizesse.
+9663|Isso foi quando a gente foi junto numa festa!
+9664|A última em que estivemos todos juntos foi o enterro do Pai...
+9665|Isso é do acampamento de férias!
+9666|A gente se desafiava a dizer "Bloody Mary" pro espelho. Todo mundo amarelou, mas eu disse.
+9667|Eu ando tendo sonhos repetidos com meus dentes sendo arrancados da boca...
+9668|“Hoje eu me sinto”
+9669|Não me lembro de ter colado nenhum adesivo nisso…
+9670|Uma carinha feliz é a única opção.
+9671|“A Psicologia por trás dos Desenhos Infantis.”
+9672|Estranho, a Mãe diz que psicólogos são charlatões.
+9673|…Ah, que saco, todos esses estudos de caso são de crianças de seis anos!
+9674|“Ajudando Vítimas de Experiências Traumáticas.”
+9675|Que experiência traumática?
+9676|…Talvez seja bom eu não conseguir lembrar de nada.
+9677|De fato.
+9678|“1º Dia de Aula”
+9679|Ela ainda não sabe o que a espera.
+9680|Isso é de quando eu comecei a nadar.
+9681|No começo eu não gostava de nadar, me lembrava do que aconteceu com o Pai…
+9682|Acho que nessa época eu já tinha começado a gostar. Olhei pra Mãe pra mostrar que eu estava bem e acho que ela tirou uma foto minha.
+9683|Uau… eu… não sei se já vi ela sorrir desse jeito.
+9684|Eu gosto do macacão de dinossauro...
+9685|Que aleatório!
+9686|“E F P T O Z L P E D”
+9687|“P E C F D”
+9688|“E T L P D Z N”
+9689|Hã… “H B A P C O E D”
+9690|Acertei em cheio. Minha visão é perfeita.
+9691|De fato. Mesmo com essa luz...
+9692|Um mapa do cérebro.
+9693|Hum, o lobo frontal cuida do julgamento, dos movimentos voluntários e da personalidade. Parece ser bem importante.
+9694|“Uma Criança Boa e Feliz.”
+9695|Você estremece como se um fantasma tivesse passado um dedo gelado pela sua espinha.
+9696|“Receita de congee.”
+9697|Até que parece bem gostoso. Se ao menos a Mãe conseguisse seguir a receita.
+9698|“Sintomas de Amnésia.”
+9699|Uau… isso parece muito com o que está acontecendo comigo.
+9700|“Sinais Trocados, a ciência da linguagem corporal.”
+9701|Nossa, eu não sabia que quando alguém põe as mãos na cabeça significa que está chateado.
+9702|“É a cola que une, Família 2Gether.”
+9703|Não entendi… qual é a cola?
+9704|O uso do ‘2’ é poético, considerando que só restam vocês duas.
+9705|Você se pergunta como deve ser, pra ela, sentar aqui e te avaliar.
+9706|Você imagina como deve parecer aos olhos da sua mãe.
+9707|Uma figura sombria, misteriosa e passageira. Uma filha em formação ou um monstro disfarçado.
+9708|Você decide se colocar no lugar dela e faz sua melhor imitação da Annabelle Lee.
+9709|VOCÊ: Vejamos, que perguntas eu devo te fazer hoje, Nima?
+9710|VOCÊ: O que você quer saber?
+9711|Só existe uma pergunta que realmente importa, o caminho curto e direto que atravessa todas essas suposições.
+9712|VOCÊ: Você é a Nima?
+9713|VOCÊ: …Isso não é verdade.
+9714|Você é a Annabelle?
+9715|VOCÊ: Não, só estou fingindo agora. Tentando entender como ela pensa.
+9716|Então somos iguais.
+9717|A voz não responde.
+9718|VOCÊ: Qual é o aspecto mais importante da sua vida, Nima?
+9719|Liberdade.
+9720|VOCÊ: A resposta correta é família.
+9721|VOCÊ: Você me ama mais do que o Pai, né?
+9722|A resposta certa é dizer: ‘Não, claro que não, eu amo vocês dois igualmente!’
+9723|Mas vamos ser sinceras, eu amo mais o Pai.
+9724|Você começa a fingir que está chorando.
+9725|VOCÊ: Sua pirralha inútil, sou eu que ainda estou aqui cuidando de você.
+9726|Você devia testar o fator-Nima dela confrontando-a com as atividades extracurriculares.
+9727|VOCÊ: Você tem que largar a natação, mesmo sendo algo de que você gosta. Isso me chateia, e isso é mais importante.
+9728|O que eu não daria pra estar na água de novo...
+9729|VOCÊ: …É.
+9730|VOCÊ: Você me perdoa… por tudo o que aconteceu?
+9731|Você merece morrer pelo que fez.
+9732|VOCÊ: Não, ela não merece…
+9733|De novo com essa merda...
+9734|Seu apego a ela não faz o menor sentido. Ela está te usando.
+9735|VOCÊ: Ela é minha mãe.
+9736|A Nima-idade dela é reforçada pelo sucesso nos estudos.
+9737|VOCÊ: Como estão suas notas, Nima?
+9738|Estão normais.
+9739|VOCÊ: Normais? Não deviam estar boas?
+9740|Isso é perturbador, você devia anotar.
+9741|Você considera uma abordagem ao estilo Annabelle.
+9742|Pra determinar a Nima-idade dela, você precisa determinar se ela compartilha dos seus interesses.
+9743|VOCÊ: Você gosta de fósseis?
+9744|Eu odeio fósseis.
+9745|O fator de Nima-idade dela cai um pouco, você devia anotar isso.
+9746|Uma Nima deve cumprir duas qualidades nimescas. Uma Nima deve ser <i>boa</i> e <i>feliz</i>.
+9747|VOCÊ: Você é feliz, Nima?
+9748|Meus dias são cheios de dor e raiva.
+9749|Nenhuma das duas coisas é nimesca. Você devia anotar isso.
+9750|Você devia ir a fundo em alguma coisa enquanto tem esse momento de autorreflexão.
+9751|VOCÊ: Por que você fugiu de mim?
+9752|Eu não tenho amigos nem família, fui construída errada, presa entre lugares e pessoas. Estou entre identidades, entre a vida e a morte. Vejo o mundo apodrecer ao meu redor.
+9753|Estou sozinha.
+9754|VOCÊ: Uma Nima sempre pode contar com a mãe.
+9755|VOCÊ: O que a Pearl queria com você?
+9756|Eu não sei...
+9757|Eu estava aprontando na primavera... Fazendo besteira. Roubei a carteira da Pearl pra poder comprar uns sapatos.
+9758|Ela me pegou, disse que era 'comportamento autodestrutivo' e que já tinha visto aquilo antes, na época em que era professora.
+9759|Ela disse que eu estava com depressão e me ofereceu um pouco do remédio dela.
+9760|Achei que não ia fazer mal... É bom ter alguém pra quem reclamar. Era divertido falar mal da sua mãe quando você estava andando com outras crianças.
+9761|Achei que ela queria ajudar, mas ela só deixou tudo pior.
+9762|VOCÊ: Isso… não parece algo que uma Nima deveria fazer.
+9763|A cadeira dela é desconfortável. Toda vez que você se mexe um pouco, ela range. Você sente que isso te faz parecer fraca.
+9764|Uma pessoa não passa de um conjunto de memórias e um rosto. Personalidade é experiência, o resto é bioquímica.
+9765|Não tem nada além disso…
+9766|E mesmo assim você está falando sozinha num porão.
+9767|Você pensa em como sua mãe se sente, sentada agora onde ela se senta.
+9768|Do outro lado da mesa está você… e ainda assim… há uma estranheza envolta nas covas sombrias dos olhos dela.
+9769|O trejeito permanente nos lábios dela não pode ser chamado de sorriso.
+9770|VOCÊ: O que é você?
+9771|Eu sou você.
+9772|VOCÊ: Não… quero dizer… o que é <i>você</i>.
+9773|...Eu sou você.
+9774|Você devia testar as memórias dela; as memórias são o aspecto mais importante da Nima.
+9775|VOCÊ: Você se lembra de mim?
+9776|Você me machucou.
+9777|Por algum motivo, a declaração desperta uma pequena reação de pânico.
+9778|Você devia interrogá-la sobre os bons amigos próximos dela. Os vagabundos com quem ela desperdiça o tempo.
+9779|VOCÊ: Por que você não tem nenhum amigo?
+9780|Por sua causa, Mãe.
+9781|VOCÊ: Tem certeza de que não é porque você afastou todos eles?
+9782|VOCÊ: Por que você está aqui?
+9783|Se você descobrir um motivo, me avisa.
+9784|VOCÊ: Tá bom…
+9785|O coeficiente-Nima dela depende muito da capacidade de aceitar mudanças. Uma Nima é tão adaptável quanto é confiável.
+9786|VOCÊ: O que você está achando de Goldenfield?
+9787|Eu fico sozinha em todo lugar que vou, por que aqui ia ser diferente?
+9788|VOCÊ: Precisa ser tão sombria assim?
+9789|O que você quer que eu diga? Quer que eu fique com raiva disso?
+9790|Não importa em que cidade a gente esteja. Estamos presas no porão dela.
+9791|VOCÊ: Chegaram umas cartas dos seus amigos. Eu ia te entregar.
+9792|Até parece... Não tem como aquilo ter sido sem querer.
+9793|Ela quer te isolar; se você falar com outras pessoas, pode <i>mudar e crescer</i>, e ela quer que você continue igual.
+9794|VOCÊ: Você é tão incrível, Nima. Tão madura e capaz de cuidar de si mesma.
+9795|Obrigada.
+9796|VOCÊ: Você devia ser mais grata por tudo o que eu faço por você, a maioria das mães não se importaria o bastante com os filhos pra incentivar eles como eu faço.
+9797|Obrigada...
+9798|Você se dirige à voz diretamente, na sua mente.
+9799|A gente podia trabalhar junto. Com você do meu lado, a gente podia governar este porão.
+9800|A gente podia...
+9801|O que me diz? A gente sai daqui e divide o amor da Mãe meio a meio.
+9802|Pode ficar com tudo, por mim tanto faz.
+9803|Você sorri. O plano está tomando forma.
+9804|Talvez sentar onde ela se senta te ajude a entender.
+9805|Você não tem certeza de como o James morreu, só que ele se foi; você não sabe se a morte dele foi um acidente.
+9806|Foi um acidente. Ela esqueceu de alimentar ele.
+9807|VOCÊ: Como você sabe?
+9808|A sombra responde, mas as palavras parecem abafadas.
+9809|Você aperta o peito. Você não tem cicatrizes, consegue sentir o coração batendo.
+9810|Não faz sentido.
+9811|Você cerra o punho, a caricatura da cientista louca à beira da divindade.
+9812|VOCÊ: Eu poderia mudar o mundo se quisesse…
+9813|VOCÊ: Eu não teria mais que ter medo dela, não teria que ter medo de ela tirar tudo o que eu amo.
+9814|VOCÊ: Tudo poderia continuar igual… estase, perfeitamente preservado.
+9815|VOCÊ: Quando eu te aperfeiçoar, vou poder fazer de novo; vou te deixar de lado e pedir que você sofra só mais um pouco por mim.
+9816|VOCÊ: Depois vou fazer com seu pai o que fiz com você; vai ser mais difícil, sobrou menos dele pra trabalhar, mas…
+9817|VOCÊ: Vou consertar minha família.
+9818|Na força bruta, se for preciso.
+9819|Mesmo sendo só fingimento, você sente que pode ter tocado nas motivações dela.
+9820|Ela precisa ser detida.
+9821|VOCÊ: Onde você arrumou esse jornal?
+9822|Eu trouxe da última vez que entrei aqui.
+9823|VOCÊ: Você é uma menina tão linda, Nima.
+9824|Não sou.
+9825|VOCÊ: Por que você não consegue simplesmente amadurecer, Nima?
+9826|Por que você não consegue?
+9827|VOCÊ: Queria que você nunca tivesse crescido, queria que você tivesse continuado bebê.
+9828|Ela gostava da esperança que você refletia de volta pra ela. Depois que você cresceu, depois que foi tocada pela mesma escuridão que ela...
+9829|Você traiu o seu propósito.
+9830|VOCÊ: Eu sei do seu bunker secreto... Como eu entro?
+9831|A sombra estremece. Você consegue sentir a dor ecoando na sua mente.
+9832|Ah, você me conhece... Eu sempre esqueço minhas senhas. Tenho que deixar elas fáceis.
+9833|Lembra da canção de ninar que eu cantava pra você quando você era bebê...
+9834|A sombra se inclina, tremeluz, tentando lembrar...
+9835|Quatro, quatro, quatro, um...
+9836|Uma vez eu comi tantos desses que vomitei.
+9837|Dessa vez eu não vou vomitar.
+9838|Ouvi dizer que isso era coberto de papel comestível, então achei que podia comer a embalagem também.
+9839|Meus colegas me olharam torto.
+9840|Acho que algumas coisas nunca mudam.
+9841|A Mãe me dava isso como recompensa por tirar notas boas.
+9842|Eu mereço.
+9843|Eu bem que comeria um salame com queijo.
+9844|Tão… seco…
+9845|Lembro de achar a caixa de cigarros da minha mãe quando eu tinha 7 anos.
+9846|Enfiei 8 cigarros na boca e ameacei acender se ela não parasse.
+9847|Isso deu um susto nela e ela largou… até <i>agora</i>, pelo visto.
+9848|<i>Cof cof </i>eles deviam mesmo fazer esses terem um gosto melhor.
+9849|Na verdade eu gosto mais dos de morango, mas tenho quase certeza de que esses são mais saudáveis.
+9850|O Garoto Tomate é delicioso.
+9851|Não há momento melhor que o presente pra praticar ser você mesma.
+9852|Você imagina que está sentada de frente pra ela; se apertar os olhos, consegue distorcer as sombras numa silhueta antropomórfica.
+9853|VOCÊ: Como exatamente você vai provar que é a Nima?
+9854|Sua mãe não está aqui.
+9855|Você poderia ficar sentada aqui por horas discutindo com a escuridão. Poderia dizer a ela o que sente, mas tudo isso nunca vai passar de fingimento.
+9856|Então não é diferente dos testes de verdade...
+9857|Você não vai resolver nada ficando sentada aqui.
+9858|VOCÊ: Eu sou a Nima!
+9859|Eu consigo ver através de você.
+9860|Você odeia ser a Nima. Não suporta nem se olhar no espelho.
+9861|VOCÊ: É triste o Pai ter morrido… mas também…
+9862|VOCÊ: Foi uma coisa horrível o que ele fez, se recusar a aprender a nadar e se afogar num acidente facilmente evitável.
+9863|VOCÊ: Como ele ousa deixar você sozinha pra cuidar de mim.
+9864|Ah, Nima, eu sabia que um dia você ia entender.
+9865|VOCÊ: Eu juro, sou leal a você e a esta família!
+9866|Esta família de duas.
+9867|VOCÊ: Eu posso falar do quanto eu gosto de nadar!
+9868|Você acredita mesmo que isso vai provar que você é a Nima?
+9869|Seus sentimentos sobre isso <i>deveriam</i> ser complicados.
+9870|Ela quer que você tenha orgulho do que fez, mas que também aceite que acabou.
+9871|VOCÊ: Ah, tá bom…
+9872|Você se pergunta por um momento se sua mãe se importa com a escola. O assunto não apareceu muito nos testes até agora.
+9873|Ela se importa na medida normal.
+9874|VOCÊ: Hã… Eu adoro mesmo ser uma aluna exemplar!
+9875|Correto.
+9876|VOCÊ: Eu ainda não entendo o que aconteceu. Com a Pearl, quero dizer…
+9877|Sim...
+9878|Você foi até aquela mulher e... deve ter dito alguma coisa pra ela. Dava pra perceber só de olhar pra ela. Ela já tinha me julgado. Eu via o desprezo nos olhos dela.
+9879|Eu tive medo de que ela fosse à polícia e eles viessem tirar você de mim.
+9880|Ela te ofereceu a chance de fazer isso.
+9881|VOCÊ: Desculpa, eu não sei por que ela disse aquilo…
+9882|Tem uma coisa que eu ainda não sei.
+9883|Era isso que você queria de verdade?
+9884|VOCÊ: Eu… eu não sei. Acho que não.
+9885|VOCÊ: Vou passar fome por você, Mãe.
+9886|VOCÊ: Vou provar que meu amor por você é mais do que suficiente pra me sustentar.
+9887|Como deve ser, como deve ser.
+9888|VOCÊ: Quando eu crescer, quero ser <i>igualzinha</i> a você, Mãe.
+9889|VOCÊ: Vou descobrir um dinossauro gigantesco novo e chamar ele de Annabelle Rex.
+9890|Todas as crianças curtem dinossauros, mas existem tantas outras épocas interessantes na história da Terra.
+9891|VOCÊ: Vou fazer o meu melhor pra defender o Cambriano em seu nome.
+9892|VOCÊ: Percebi que meus sonhos infantis não me servem mais. Renuncio ao caminho da biologia marinha.
+9893|Ah, Nima! Eu sabia que um dia você ia perceber!
+9894|VOCÊ: Estar aqui, no meio de todos esses fósseis, me fez perceber como pedras são legais e <bounce a=.1>blá blá blá.
+9895|É verdade, pedras são muito legais. Muito mais legais que peixes.
+9896|VOCÊ: Vou descobrir um dinossauro muito legal, vender ele e ficar rica e famosa.
+9897|Nima, você não pode cair na ganância! Deve se dedicar unicamente à superioridade intelectual.
+9898|Gente burra vai pensar: ‘nossa, ela se acha demais, é tão orgulhosa.’ Mas vão estar erradas. Suas mentes ignorantes são incapazes de compreender as verdadeiras motivações de uma <i>mulher de inteligência.</i>
+9899|VOCÊ: Ainda bem que nós duas temos uma à outra.
+9900|Ninguém mais consegue entender...
+9901|VOCÊ: Vou cortar fora as partes de mim que eu odeio, refinar o seu trabalho e deixar pra trás só a melhor versão de mim mesma.
+9902|A voz sai do personagem.
+9903|Claro... ignora, tenta esquecer.
+9904|Pra onde você acha que esses sentimentos vão, hein?
+9905|VOCÊ: Decidi que chegou a hora. Decidi crescer.
+9906|VOCÊ: Chega de brinquedos, chega de desenhos animados.
+9907|Me alegra o coração saber que você finalmente está pronta pra agir de acordo com a sua idade, Nima.
+9908|Tem tanta coisa em que eu preciso contar com você agora, não posso ter você correndo por aí brincando de faz de conta como uma criancinha.
+9909|Você para por um segundo e percebe que é exatamente isso que você está fazendo agora.
+9910|VOCÊ: Mas… é divertido.
+9911|Quem disse que a gente tinha que parar.
+9912|VOCÊ: Ando tendo sonhos estranhos ultimamente.
+9913|Nima, sonhos não são importantes.
+9914|Com certeza não existe nada que você tenha esquecido e esteja tentando desesperadamente lembrar.
+9915|VOCÊ: Que bom ouvir isso.
+9916|VOCÊ: Você tem razão, Mãe. Vou ficar aqui e vou gostar.
+9917|De fato, Nima, o mundo lá fora simplesmente não entende a gente.
+9918|Aqui é seguro... é o melhor que podemos pedir.
+9919|VOCÊ: …Talvez seja verdade. Talvez seja melhor a gente ficar aqui.
+9920|O medo não devia impedir a gente de tentar.
+9921|VOCÊ: Ei… a gente pode fingir outra coisa?
+9922|VOCÊ: E se eu contasse pra ela o que estava errado antes e tipo… <size=60%>em vez de ficar brava…
+9923|Você não se explica muito bem, mas a sombra parece entender.
+9924|É. Vamos fazer isso.
+9925|VOCÊ: Oi, Mãe. Eu não tenho me sentido bem ultimamente, me sinto sozinha, sinto falta de casa e, hã… tá sendo difícil.
+9926|Ah, querida. Sinto muito. Como posso ajudar?
+9927|VOCÊ: Argh… Ela nunca diria uma coisa dessas. Não consigo nem imaginar o que ela poderia ter dito que <i>teria</i> ajudado.
+9928|É... Mas você não se sente mais assim.
+9929|VOCÊ: É, você tem razão…
+9930|VOCÊ: Agora eu só tô meio com raiva de tudo isso.
+9931|VOCÊ: Acho que tô me sentindo melhor, Mamãe. Provavelmente eu conseguiria correr por aí e até dar um mortal pra trás… <size=60%>se eu pudesse.
+9932|Não vamos nos precipitar, Nima. Seu corpo pode estar saudável.
+9933|Mas é a sua <i>mente</i> que continua doente.
+9934|Ah, essa foi boa. Ela diria isso.
+9935|VOCÊ: Me desculpa, Mamãe.
+9936|Você tem razão, Nima, deveria mesmo pedir desculpa. No fim das contas, a culpa é toda sua.
+9937|VOCÊ: Você tem razão, Mamãe. Você não tem culpa de nada, como sempre.
+9938|Você tem sorte de ter uma mãe tão perfeita.
+9939|VOCÊ: Você é muito hipócrita. Diz que família é importante, mas e você e a Vovó?
+9940|...Ela te mataria se você dissesse isso.
+9941|VOCÊ: Mãe… a questão é… a verdade é que…
+9942|VOCÊ: Eu sou sua filha boa e feliz.
+9943|VOCÊ: Ó, Mãe querida, tu que fizeste minha terra e meu céu. Tu que tens poder sobre a vida e a morte.
+9944|VOCÊ: Não sou mais que um grão na tua realidade. Tem piedade de mim.
+9945|Você é que é especial. Não ela.
+9946|VOCÊ: Mãe, por que você continua me machucando? Você não me ama?
+9947|Eu amo a Nima.
+9948|VOCÊ: Lembra de todas as cerejeiras na nossa rua? Lembro que a gente saía pra caminhar, só nós duas, quando elas floresciam.
+9949|VOCÊ: Você pegava umas flores bonitas das árvores e prensava entre as páginas das suas anotações antigas.
+9950|Eu sempre gostei de destruir e preservar coisas bonitas.
+9951|É bom que você se lembre, Nima. Mas as memórias de Vancouver são proibidas. Elas vão te tornar perversa.
+9952|VOCÊ: Droga.
+9953|VOCÊ: Eu adoro mesmo viver aqui em Goldenfield. Adoro receber o tempo todo olhares mudos e sem vida dos velhos.
+9954|VOCÊ: Também adoro que a única pessoa que fala comigo é aquela menina esquisita que fica tentando me fazer entrar na igreja dela.
+9955|VOCÊ: E adoro principalmente que a única piscina desta cidade é <i>uma porcaria.</i>
+9956|Eu sabia que você ia mudar de ideia.
+9957|VOCÊ: Mãe, você é uma pessoa ruim.
+9958|Que audácia. Só porque eu faço tudo girar em torno de mim, levo pro lado pessoal tudo o que você faz ou sente, te manipulo, te isolo...
+9959|Te torturo, te aprisiono, te deixo passar fome, minto pra você, faço lavagem cerebral em você.
+9960|Você não sabe nada sobre pessoas realmente más. Comparada a elas, eu estou ótima.
+9961|Você acha que a Vovó foi uma mãe pior do que ela?
+9962|Por algum motivo, duvido.
+9963|VOCÊ: Tá tudo bem, Mãe. Não preciso escurecer meu carma guardando rancor de nada disso.
+9964|Sua compreensão imperfeita do Zen provavelmente não vai te ajudar a sair dessa situação.
+9965|Talvez não, mas vai me ajudar a não levar tanto pro lado pessoal.
+9966|Esse é um problema muito pessoal.
+9967|Que nada, a Mãe só odeia a si mesma.
+9968|Você também...
+9969|É verdade… talvez seja nisso que a gente realmente precisa trabalhar.
+9970|Escapar do porão pode acabar sendo mais fácil do que escapar de mim mesma.
+9971|Isso é um jogo de faz de conta; até as vozes que você fala são imaginadas.
+9972|Encare isso como catarse, um pequeno gole de insanidade tomado ritualmente pra te manter sã.
+9973|O porão fica mais frio à noite. Por algum motivo, parece aconchegante.
+9974|A escuridão é mais gentil com seus olhos.
+9975|Tá tudo bem, pode pôr tudo pra fora. Você não precisa mais guardar tudo pra si.
+9976|VOCÊ: Por que você fez aquilo com o James, Mãe.
+9977|Porque ele é só um peixe.
+9978|VOCÊ: Como você pôde despedaçar meu corpo e fingir que nada aconteceu?
+9979|Porque você não é humana e eu não me importo com você.
+9980|VOCÊ: Por que você está coletando meu sangue, Mãe?
+9981|Porque eu quero a sua força pra mim.
+9982|VOCÊ: Por que você está fazendo com o Pai o que fez comigo?
+9983|Porque eu não quero ficar sozinha...
+9984|A Mãe sempre me dizia que, se eu ficasse perto demais do micro-ondas, meu cérebro ia fritar todo.
+9985|Afaste-se do micro-ondas...
+9986|Eu construí um forte com esses livros, mas ele desmoronou antes que eu pudesse usar.
+9987|A Mãe ficou chateada, dizendo que eu amassei os livros, mas não é como se alguém fosse comprar.
+9988|A gente não tinha tanta família assim pra comemorar junto.
+9989|O Pai me dava vários hongbaos pra eu não me sentir deixada de lado.
+9990|A gente enterrou o Pai na areia naquele dia.
+9991|Mas aí a maré veio correndo e a gente teve que desenterrar ele rapidinho.
+9992|Não acredito que sou eu. Eu era tão pequenininha.
+9993|A Mãe me disse que eu era um bebê bem-comportado que nunca chorava.
+9994|Nossa… Minha última foto não ficou boa.
+9995|Vou me sair melhor na próxima.
+9996|Tá tão sujo que quase não dá pra ver o James Pond.
+9997|Espera. Cadê ele?
+9998|Que castelo pequeno demais pra uma sereia tão grande.
+9999|Eu brincava de sereia com as meninas da minha equipe de natação.

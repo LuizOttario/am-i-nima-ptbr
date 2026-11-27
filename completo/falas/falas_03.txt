@@ -1,0 +1,500 @@
+1500|Seu desejo profundo de dormir trava uma batalha contra a sua empolgação. Para garantir o caminho até a terra dos sonhos, você ergue a cabeça e a bate contra a cabeceira várias vezes.
+1501|O sono te atinge feito um tijolo.
+1502|Ela pensa por um momento e então pega o caderno, folheando as páginas e resmungando consigo mesma.
+1503|VOCÊ: Mãe?
+1504|Ela se assusta e olha de volta para você, aparentemente confusa por você não ter saído por conta própria.
+1505|MÃE: Pode ir.
+1506|Você se levanta e começa a voltar devagar para o seu quarto.
+1507|VOCÊ: Tá, é...
+1508|VOCÊ: Boa noite, mãe...
+1509|Sua mãe coloca o caderno na mesa e continua lendo; ela nem repara na sua saída.
+1510|Você caminha em silêncio até o seu quarto e fecha a porta atrás de si.
+1511|Seu coração começa a bater mais rápido. Ela está brava com você.
+1512|Ei, tá tudo bem!
+1513|Você anda de um lado para o outro por um tempo para se acalmar.
+1514|Você tá tranquila. Só vai pra cama.
+1515|Você se enfia debaixo dos lençóis de olhos arregalados e fica encarando o teto, atenta a qualquer som que denuncie os movimentos da sua mãe.
+1516|Você ouve as várias trancas da sua porta deslizando e se fechando, resmungos e, por fim, o baque dos pés dela na escada.
+1517|Viu só.
+1518|Finalmente você suspira, e a ansiedade se desfaz em exaustão.
+1519|Eu te disse, ela não gosta de fracasso.
+1520|Sua mãe entra no quarto limpando uma pequena sonda de aço com um lenço antisséptico.
+1521|MÃE: Não usei anestesia suficiente.
+1522|MÃE: Tudo bem, você não vai precisar.
+1523|Ela se debruça sobre você, apoiando o joelho na sua barriga para te prender enquanto agarra seu rosto com a mão em garra. A sonda se aproxima do seu olho, centímetro por centímetro.
+1524|MÃE: Não se culpe.
+1525|MÃE: A culpa é minha, sinceramente.
+1526|MÃE: Alguma coisa deve ter dado errado no procedimento pra você sair assim... desse jeito.
+1527|Ela começa a acariciar sua bochecha. As mãos dela tremem levemente.
+1528|MÃE: Mas tudo bem-
+1529|MÃE: Sempre tem a próxima vez.
+1530|Você sente a lâmina raspar pela sua órbita e avançar até os nervos do seu cérebro.
+1531|Sua vida termina com um estalo quando ela parte seu cérebro ao meio.
+1532|De repente, está escuro.
+1533|Você passa uma eternidade nessa escuridão.
+1534|Até que uma voz familiar...
+1535|???: Nima... É você?
+1536|Agora você tem a prova. Ela mentiu pra você.
+1537|Você só precisa descobrir por quê.
+1538|Ela recua na mesma hora. Tenta piscar para afastar a agitação. Pega o caderno e revisa as evidências do seu teste.
+1539|VOCÊ: Acho que sei por que você mentiu.
+1540|VOCÊ: Eu não 'caí'. Acho que você me empurrou.
+1541|MÃE: Como você ousa!?
+1542|MÃE: Você acha mesmo que a gente estaria aqui tendo essa conversa se eu quisesse te machucar? Acha que eu estaria fazendo todo esse trabalho pra te ajudar se eu não me importasse com você?
+1543|VOCÊ: Você fez alguma coisa comigo. E eu vou descobrir o que foi.
+1544|Opa, talvez você não devesse confrontar ela.
+1545|MÃE: Nima. Eu estou tão <i>cansada</i> dessa delinquência.
+1546|VOCÊ: Bom, eu estou cansada das suas mentiras.
+1547|MÃE: Vá para o seu quarto!
+1548|VOCÊ: Não saio daqui até você me contar o que aconteceu de verdade.
+1549|VOCÊ: Desculpa, mãe.
+1550|Você agarra a própria cabeça. Você se levanta sem bem querer e, quando vê, está caminhando de volta para o quarto.
+1551|Sua mãe te persegue até o quarto e bate a porta atrás de você.
+1552|Você ouve as várias trancas da sua porta deslizando e se fechando, resmungos e, por fim, o baque dos pés dela na escada.
+1553|Você se enfia debaixo dos lençóis de olhos arregalados e fica encarando o teto, atenta a qualquer som que denuncie os movimentos da sua mãe.
+1554|Você sente o travesseiro sob a cabeça e o cheiro de poeira no ar viciado. O teto te recebe com frieza, junto com uma série de beliscões e uma pressão que vai e vem no seu braço esquerdo.
+1555|Você olha para o lado e vê sua mãe agachada perto de você, com uma seringa enfiada fundo no seu braço.
+1556|Você observa enquanto ela extrai um frasco cheio de sangue. Ela se vira um pouco e esvazia a seringa num balde antes de voltar ao seu braço para tirar mais.
+1557|Você está fraca demais para continuar acordada…
+1558|...
+1559|<speed=3>Você acorda num sobressalto, e sua mão vai na hora até o braço esquerdo, onde você viu sua mãe tirando sangue.
+1560|Não dói nem um pouco.
+1561|VOCÊ: Acho que… foi um sonho?
+1562|VOCÊ: Que horas são?
+1563|Você olha em volta, meio grogue; seus pensamentos estão estranhamente agitados.
+1564|Você rola para fora da cama e começa o seu dia. Embora pareça que ainda é um pouco cedo.
+1565|Você bate na porta e, depois de um momento, ouve sua mãe se aproximar.
+1566|MÃE: Bom dia, Nima.
+1567|Ela fica em silêncio por um momento. Você a ouve destrancando as várias trancas que lacram sua porta.
+1568|MÃE: Desculpa por ontem. Depois que os testes acabaram, quero dizer. Eu não dormi bem.
+1569|MÃE: Eu estava meio… avoada.
+1570|VOCÊ: Tudo bem, fico feliz que você não esteja brava comigo.
+1571|MÃE: Nima, eu não estava… deixa eu destrancar essa porcaria.
+1572|Ela destranca todos os ferrolhos e correntes e deixa você entrar na câmara de testes.
+1573|Você sai do quarto com cautela.
+1574|Ela faz um gesto para você se sentar à mesa, e você obedece prontamente. Você está pronta para mais um dia de testes.
+1575|MÃE: Nima, eu não estava brava com você.
+1576|MÃE: Você entendeu, pelos testes de ontem, que o objetivo era ver se você ainda tinha suas memórias. Minha intenção era despertar as felizes.
+1577|MÃE: Hoje eu quero focar no aqui e agora. Em quem você é. Na filha que eu amo tanto. Quero que você se conheça como eu te conheço.
+1578|VOCÊ: Tá bom. Estou pronta.
+1579|MÃE: Excelente.
+1580|Você não vê sua mãe; percebe que ela ficou longe da porta ao abri-la. Escondida no ponto cego.
+1581|MÃE: Por favor, entre na sala de testes e sente-se.
+1582|Você dá um passo à frente e obedece. A porta bate atrás de você. Sua mãe se mantém fora de alcance enquanto dá a volta para se sentar à mesa.
+1583|Você sente que ela está te tratando como um predador. Ela é sua tratadora, ciente o tempo todo da distância exata entre vocês duas.
+1584|Ela solta um longo jato de ar viciado dos pulmões.
+1585|VOCÊ: Bom dia, Mãe.
+1586|Lembre-se, não seja você mesma. Ela não vai te aceitar sendo você mesma. Você tem que ser o que ela quer que você seja.
+1587|MÃE: O ritmo da sua recuperação tem sido… um pouco preocupante.
+1588|VOCÊ: Meu corpo está bem. Bom… estou com um pouco de fome.
+1589|Sua mãe te olha sem expressão.
+1590|MÃE: Os testes de ontem foram elaborados para despertar memórias felizes. Considerando nosso… sucesso parcial, hoje vamos mudar de rumo.
+1591|MÃE: Hoje vamos falar sobre o presente. Sobre quem você é. Minha filha boa e feliz. Quero que você se conheça como eu te conheço.
+1592|VOCÊ: Eu não tenho agido como deveria?
+1593|MÃE: Não posso te ajudar, senão vou comprometer o propósito dos testes.
+1594|VOCÊ: Ah…
+1595|Você precisa ser uma Nima melhor do que tem sido.
+1596|Fica uma pergunta ardendo na sua cabeça: como alguém consegue ser 'Nima' melhor se já é a 'Nima'?
+1597|MÃE: Vamos nos sair melhor hoje.
+1598|A máscara da juíza implacável volta, cobrindo as feições da sua mãe. Ela fala num tom monótono e desapaixonado.
+1599|MÃE: Hoje preparei uma série de testes de desenho.
+1600|MÃE: Vou te dar uma frase-chave, um conceito que quero que você desenhe, e então você vai desenhá-lo.
+1601|Ela mexe na sacola e tira várias folhas de papel e uma série de materiais de desenho: lápis, giz de cera e canetinhas.
+1602|MÃE: Vamos começar com algo simples. Por favor, faça um desenho que mostre como você se sente agora.
+1603|VOCÊ: Hã. Como eu tô me sentindo, tipo, emocionalmente?
+1604|Sua mãe assente e aponta para os materiais de arte na sua frente.
+1605|MÃE: Por favor, prossiga com o teste. Não existem respostas erradas.
+1606|Ela disse pra desenhar o que você está sentindo. Você não está se sentindo... muito feliz.
+1607|Se força. Pensa em... peixe ou sei lá.
+1608|Você se pergunta por que deveria. Ela é sua mãe, ela quer saber como você se sente. Você devia ser sincera. Dizer que está se sentindo meio complicada.
+1609|Não... Você tem que estar feliz. Ela disse com todas as letras.
+1610|Você suspira.
+1611|Você desenha você e sua mãe de mãos dadas.
+1612|Tempos felizes…
+1613|Sua mãe pega o desenho e o teatro de neutralidade se desfaz quando o rosto dela se suaviza num sorriso.
+1614|MÃE: Nima, isso é tão lindo. Obrigada.
+1615|Você larga o lápis e dá a ela um sorriso mudo e um joinha.
+1616|Pronto, essa foi fácil.
+1617|MÃE: Certo, então você pegou a ideia, é só desenhar com o coração.
+1618|Você pensa em como se sente; suas emoções estão bem vazias e sem cor, mas você sente uma dor surda e latejante vindo do fundo da sua órbita ocular.
+1619|Você se desenha com a cabeça inclinada para o lado e um espeto cravado no globo ocular.
+1620|Isso mais ou menos representa a sua dor, capturando-a num espeto pungente e simbólico.
+1621|Sua mãe pega o desenho e o examina. O rosto dela empalidece.
+1622|MÃE: Interessante... Posso perguntar o que isso deveria ser?
+1623|VOCÊ: Meu olho tá doendo.
+1624|MÃE: Entendo.
+1625|Ela vai até a bolsa e tira um saquinho de analgésicos e uma garrafa de água.
+1626|Ela os oferece a você.
+1627|Você engole tudo com um gole de água.
+1628|MÃE: Por que você escolheu o espeto para o desenho?
+1629|Ela parece um pouco preocupada. Fica mexendo na barra do suéter.
+1630|Você dá de ombros.
+1631|MÃE: Bom, você pegou a ideia: você desenha alguma coisa e isso me mostra o que você está pensando. Esse é o objetivo dos testes de hoje.
+1632|Você começa a trabalhar na hora para preencher a folha de papel.
+1633|Você faz a palavra quicar na gelatina do seu cérebro. Você se pergunta como transmitir essa emoção.
+1634|Você só se sente tão… <i>confinada.
+1635|Você termina o desenho, e sua mãe o arranca da sua mão para examiná-lo de perto.
+1636|MÃE: Não entendi. Que emoção é essa?
+1637|VOCÊ: Hã. Acho que eu tô me sentindo... como se estivesse presa numa caixa.
+1638|Sua mãe suspira. Coloca o desenho de volta na mesa e aperta a ponte do nariz.
+1639|MÃE: Bom, acho que você está mesmo.
+1640|MÃE: Obrigada por ser sincera comigo e me contar que não estava se sentindo muito bem.
+1641|MÃE: Você não vai ficar presa aqui embaixo por muito mais tempo. Posso até ver você saindo amanhã, se for bem hoje.
+1642|VOCÊ: Sério!? Posso ir nadar?
+1643|MÃE: Um passo de cada vez, querida. Talvez daqui a alguns anos você esteja forte o bastante pra isso.
+1644|Você olha para baixo, desanimada, e sua mãe guarda o desenho numa pastinha.
+1645|Parece que tem um fogo queimando no fundo do seu nariz, franzindo suas sobrancelhas e cozinhando o lobo frontal do seu cérebro.
+1646|Você se desenha com uma cabeça enorme explodindo em linhas vermelhas em zigue-zague.
+1647|Sua ira é uma erupção, e o mundo vai sufocar nas suas cinzas.
+1648|Sua mãe pega a folha e a examina; você espera que ela reflita a reação do papel, mas ela só pisca e te olha de volta, nada impressionada.
+1649|MÃE: Você está com raiva? Com raiva de quê?
+1650|Você gagueja, sem conseguir achar palavras para expressar o que sente. Você aponta para a luz vermelha, aponta para sua mãe e depois gesticula amplamente para o mundo inteiro.
+1651|Tem muita coisa que te dá raiva, coisa demais para resumir.
+1652|MÃE: Tá bom… que tal você se acalmar?
+1653|VOCÊ: Me acalmar!?
+1654|Ela arqueia uma sobrancelha para você, e você faz bico em silêncio.
+1655|Claro, fome é quase uma emoção.
+1656|Você desenha um banquete para os olhos, se não para o estômago.
+1657|Sua boca enche d'água olhando para a fartura servida diante de você.
+1658|Não, não come isso, é papel.
+1659|Você resmunga e se curva, desenhando um retrato perfeito de você comendo uma refeição grandiosa.
+1660|MÃE: Nossa… uau. Olha só isso, Nima.
+1661|Sua mãe pega o papel quando você termina.
+1662|MÃE: Essa é você? Comendo um peixe?
+1663|VOCÊ: Sim.
+1664|MÃE: Então você está com fome, né?
+1665|MÃE: Faz sentido, vou te trazer alguma coisa pra comer assim que os testes acabarem, tá bom?
+1666|Quem sabe ela traz pra gente um baita naco de carne.
+1667|Você olha para baixo, desanimada; você sabe que nunca vai ganhar aquele hambúrguer. Sua mãe guarda o desenho numa pastinha.
+1668|Quando ela desvia o olhar, sua mão dispara, agarra um delicioso giz de cera e o enfia na sua bocarra. Você rapidamente o amassa até virar uma pasta entre os dentes e engole a massa cerosa.
+1669|Bom, uma carinha triste provavelmente está errado. Você quer desenhar a própria tristeza.
+1670|Você tem um buraco na cabeça que já é difícil de explicar com palavras, que dirá com um desenho...
+1671|Você começa a fazer espirais de grafite na folha. Depois as preenche como pode.
+1672|Você basicamente deixa a folha o mais escura possível.
+1673|Você termina o desenho, e sua mãe o arranca da sua mão para examiná-lo de perto.
+1674|MÃE: Isso está horrível. Que emoção é essa?
+1675|VOCÊ: Tipo estar triste, tipo deprimida.
+1676|MÃE: Nima, você não está deprimida.
+1677|VOCÊ: Mesmo antes de eu vir parar aqui embaixo. Eu ando infeliz desde que a gente chegou nessa cidade.
+1678|Você vê as feições dela oscilarem entre confusão e tristeza e, por fim, pararem na raiva.
+1679|MÃE: Então você está dizendo que eu sou uma mãe ruim.
+1680|VOCÊ: Quê? Não, não é isso –
+1681|MÃE: Você acha que eu sou tipo esse grande buraco escuro que suga tudo?
+1682|MÃE: Você não sabe o que eu tive que passar. Não ouse me insultar achando que a sua vida foi difícil.
+1683|VOCÊ: Desculpa, mãe. Não era isso que eu queria desenhar.
+1684|Ela te observa por um tempo. Tentando controlar a raiva.
+1685|MÃE: Bom, se foi um engano, acho que você está perdoada.
+1686|Bom… Você não tem muita certeza de como se sente. Desde que acordou aqui embaixo, você tem feito o possível para não sentir nada.
+1687|Você suspira e fecha os olhos. Medita e se concentra, fazendo a si mesma a grande pergunta. Como você se sente de verdade...
+1688|Você percebe que há um espaço em branco onde deveriam estar seus sentimentos. Uma camada emplastrada de 'tudo bem' desbotado que cobre um vazio profundo e cavernoso por baixo.
+1689|Da última vez que você olhou por baixo dessa fachada, você...
+1690|A gente devia desenhar outra coisa.
+1691|Mesmo assim... você quer saber.
+1692|Você descola a fina camada de pele que te protege da coisa que está por baixo... um vazio.
+1693|Você mal consegue ver algo na escuridão, alguém que você perdeu… ou melhor… alguém que te rejeitou.
+1694|MÃE: Terminou?
+1695|Você abre os olhos e percebe que estava desenhando o que via com os olhos da mente.
+1696|Um autorretrato, uma versão de você que conheceu a paz, com um buraco atravessando a cabeça.
+1697|Sua mãe o pega e examina. Enquanto isso, as feições dela passam para a preocupação.
+1698|MÃE: Certo... vamos em frente.
+1699|Ela leva o desenho embora e o guarda numa pastinha.
+1700|Isso a assustou tanto que ela nem quis falar sobre o assunto.
+1701|Há uma poça rasa de medo, ódio e fome que te morde. A presença de uma mente superior te mandando fingir felicidade em nome dos testes da sua mãe.
+1702|Mais fundo que esses pensamentos e emoções superficiais, estão vastas profundezas de luto, tristeza e raiva que você precisa conter para sobreviver.
+1703|E, mais fundo que qualquer uma dessas emoções, está você.
+1704|Você está aqui. De algum jeito viva, apesar de tudo.
+1705|De repente você se sente muito grata só por estar sentindo todas essas emoções complexas. Elas são a prova de que você ainda está aqui, imersa no processo de ser a Nima.
+1706|Quem sabe quanto tempo isso vai durar.
+1707|Você faz sua melhor tentativa de capturar essa emoção que canta no seu cérebro.
+1708|Sua mãe pega o desenho e o examina.
+1709|MÃE: Isso é uma emoção?
+1710|VOCÊ: Paz. Calma.... Aceitação.
+1711|Ela olha de novo para baixo e considera o desenho com mais atenção.
+1712|MÃE: Gostei disso.
+1713|MÃE: Certo, então você pegou a ideia. Parece que você está pronta para um desafio.
+1714|Você sente nojo.
+1715|Você agarra o papel e libera a energia criativa que tirou diretamente da sua musa fedorenta.
+1716|Você cria um retrato da sua mãe, sentada ali do outro lado da mesa. As linhas de fedor que saem dela evocam uma sensação de decomposição simbólica.
+1717|Para dar mais efeito, você acrescenta um único cogumelo brotando do topo da cabeça dela.
+1718|Sua mãe pega o papel e o examina.
+1719|MÃE: Isso não foi muito gentil, Nima.
+1720|VOCÊ: ...Desculpa, mãe.
+1721|MÃE: O teste é para avaliar as suas emoções, não a mim.
+1722|Ela amassa o papel e o joga de lado com indiferença. Ela te oferece uma folha em branco.
+1723|Você desenha muito bem. Devia fazer um autorretrato.
+1724|Você escolhe uma caneta da pilha de materiais. Isso deve ser fácil, as crianças viviam te pedindo para desenhá-las lá no fundamental.
+1725|Você encosta a caneta no papel e começa a se desenhar. Mas, ih, o segundo olho sai todo errado.
+1726|Dali em diante é só ladeira abaixo. Narizes são muito difíceis de desenhar e sua boca fica esquisita. Você não devia ter escolhido a caneta, mas agora não tem mais volta.
+1727|Você termina o desenho e, relutante, o entrega para sua mãe.
+1728|MÃE: Ah, Nima. Eu sei que tem muita pressão em cima de uma menina da sua idade, mas você não precisa se sentir feia. Eu, por acaso, acho você muito bonita.
+1729|VOCÊ: Não é isso...
+1730|Você vê sua mãe começar a folhear as anotações e murmurar consigo mesma.
+1731|MÃE: Baixa autoestima costuma ser sintoma de questões psicológicas bem maiores. Hmm... talvez algum tipo de complexo de inferioridade.
+1732|<i>Deus, que vergonha.
+1733|VOCÊ: Mãe! Eu tô bem. Eu errei nesse desenho. Posso tentar de novo?
+1734|MÃE: Achei esse desenho bem revelador, mas se você quer tentar de novo, fique à vontade.
+1735|Você ainda não está sentindo nada. Acha que é hora de aquecer a plateia.
+1736|Eu já tô quentinha. Valeu.
+1737|Você usa cada cor e cada material dispostos à sua frente para criar uma cacofonia de tons e texturas. Você inventou a emoção perfeita.
+1738|MÃE: Tem muita coisa acontecendo nesse desenho... Que emoção você está sentindo?
+1739|Você desliza o desenho até ela para que ela veja melhor.
+1740|VOCÊ: Essa é a minha obra-prima. Eu chamo de <i>"Nimaravilha."
+1741|MÃE: <speed=0.5>Então...<speed=1> É pra ser um autorretrato?
+1742|VOCÊ: Não, é tipo maravilha. Só que pra mim. A maravilha da Nima. Nimaravilha. Sacou?
+1743|Você abre um sorrisão para sua mãe para vender o trocadilho. É recebida com um olhar de pedra.
+1744|MÃE: Tente de novo. Desenhe uma emoção de verdade dessa vez, ou você vai ficar Nim... Nim-castigo.
+1745|Eu teria ido de ‘vai ter que se Nimarrepender’
+1746|Você não devia partir para algo simples...
+1747|Talvez algo mais...
+1748|Pretensioso?
+1749|Você agarra o lápis e respira fundo, despejando todos os seus sentimentos na folha.
+1750|Isso captura tudo. A necessidade ardente de liberdade. Seu desejo de voar alto, de transcender. Você deseja ser o pássaro.
+1751|Você desliza o desenho pela mesa até sua mãe, como se estivesse oferecendo um acordo.
+1752|MÃE: Nima, você deveria desenhar o que está sentindo, um pássaro não é uma emoção.
+1753|VOCÊ: Pode ser! É tipo...
+1754|Você se esforça para achar as palavras para o que o seu desenho já expressa.
+1755|VOCÊ: Hã… sabe, é tipo… Os pássaros estão lá fora, no céu, enquanto eu tô aqui dentro.
+1756|Engaiolada.
+1757|VOCÊ: Mas eu sinto que vai chegar uma hora em que, não importa o que eu tenha passado, existe uma chance de que… de que haja um jeito de eu encontrar meu caminho até o céu?
+1758|Você vê irritação no vinco da testa da sua mãe. Ela não parece convencida.
+1759|MÃE: Nima, essa é uma tarefa simples. Tente de novo. Lembre-se de focar no que você está sentindo.
+1760|Agora eu tô me sentindo um picanço-boreal.
+1761|Sinceramente, você só está meio entediada.
+1762|Enquanto pensa na pergunta da sua mãe, você começa a rabiscar nos cantos da folha, deixando o centro em branco para a resposta do teste.
+1763|Você desenha uma série de S estilosos, e toda vez erra um pouquinho e se obriga a tentar de novo e fazer melhor.
+1764|MÃE: Nima… isso não é uma emoção.
+1765|Antes que você tivesse tempo sequer de pensar em como se sente, sua mãe tira de você sua folha de estilo assinado e a guarda numa pasta.
+1766|Ela te dá uma folha de papel nova.
+1767|MÃE: Foco.
+1768|Você se pergunta o que está sentindo.
+1769|Você acabou de acordar; sinceramente, não tem muita coisa acontecendo na sua cabeça além de uma vontade intensa de se enfiar debaixo da mesa e voltar a dormir.
+1770|Você se desenha dormindo, com um desfile de Zzz flutuando para longe do seu rosto.
+1771|Você se lembra de um sonho que teve: os dentes afiados da sua mãe arrancando a pele dos seus ossos enquanto você tentava dormir.
+1772|Ela era enorme, uma titã que te beliscava com hashis.
+1773|Sonhos são mesmo esquisitos.
+1774|Sua mãe pega o desenho e o examina. Ela abre e fecha a boca algumas vezes, formulando uma resposta.
+1775|MÃE: Não está exatamente errado. É razoável se sentir com sono. Mas… isso não me diz nada.
+1776|MÃE: Você poderia tentar de novo, mas se limitando a emoções em vez de sensações do corpo?
+1777|Ela te passa uma folha em branco e guarda seu autorretrato sonolento numa pasta.
+1778|Você sabe <shake>exatamente</shake> como se sente.
+1779|Perfeitamente compreensível. Eu também odeio ela muito, muito mesmo.
+1780|Muito mais do que você poderia imaginar.
+1781|<wiggle a.=1>Porém,</wiggle> a gente não pode deixar ela saber disso, senão vamos descobrir o quanto o amor dela pode queimar.
+1782|Uma sensação estranha sobe pela sua espinha.
+1783|Pega esses sentimentos negativos e empurra pra longe, ou melhor ainda, me dá eles pra você poder se concentrar.
+1784|Em vez disso, por que você não tenta achar um jeito de mentir e trapacear pra passar nesse teste idiota?
+1785|Você descarrega todos os seus sentimentos ruins na voz e agora se sente melhor.
+1786|Talvez uma folha em branco diga tudo. Mas ela pode confundir meu desinteresse com uma vaca branca numa nevasca.
+1787|MÃE: Nima?
+1788|O que você está sentindo, na verdade, é vontade de manipulá-la.
+1789|Vem à sua mente a imagem da sua mãe num pedestal enorme que diz: ‘Melhor Mãe do Mundo.’
+1790|Ela vai adorar, mas isso não é bem uma emoção.
+1791|Talvez só diga a ela que você está feliz.
+1792|Você percebe que precisa aceitar que não vai rolar.
+1793|Você não vai ganhar café da manhã hoje.
+1794|Melhor não consultar a sua mente sobre assuntos do ‘Coração.’
+1795|Finalmente, eis uma tarefa perfeita para o detestável e tantas vezes ignorado <i>coração.
+1796|…Bom, e como <i>você</i> está se sentindo?
+1797|Desde quando ela quer saber o que a gente sente?
+1798|Opa, tem muito <i>ódio</i> aí. Vamos desembrulhar isso.
+1799|Melhor jogar o pacote fora...
+1800|Vamos tentar ficar <b>felizes</b>, afinal a gente é boa e feliz.
+1801|Sim... Boa e feliz.
+1802|Perguntar como você está se sentindo também pode querer dizer como você está <wave>se seeeentindo.</wave>
+1803|Você volta a atenção para o seu corpo. A cadeira é desconfortável; você acabou de acordar, então está um pouco sonolenta.
+1804|Parece também haver uma dor fantasma esquisita vindo da sua órbita ocular esquerda.
+1805|Não importa o que eu desenhe, não vai ficar muito bom. Ela provavelmente não vai gostar de nada que eu fizer.
+1806|O coração exposto sangra à vontade.
+1807|Não é uma emoção, mas evoca <i>uma</i> emoção.
+1808|Qual é a essência da natação? É liberdade? É alegria? <i>É velocidade?
+1809|Hmm... velocidade é difícil de conceituar.
+1810|Também não é uma emoção.
+1811|O enunciado te limita. Ela provavelmente só quer uma emoção clássica e chata para os "testes" dela.
+1812|Você se pergunta quando vai finalmente conseguir se libertar e se expressar.
+1813|Ela não quer isso.
+1814|Se eu me desenhasse como um ursinho e dissesse que tô me sentindo meio pelúcia hoje, você acha que ela aceitaria?
+1815|Eu não aceito.
+1816|Tubaronesca é uma emoção?
+1817|Tipo uma forma <shake>direta e furiosa</shake> de fome.
+1818|A mãe provavelmente não aceitaria isso.
+1819|Isso não é uma emoção. Qual é o seu problema?
+1820|Você não consegue nem sentir direito.
+1821|Você podia se desenhar de cabeça para baixo, amarrada pelo pé e largada balançando ao vento. É o que você merece.
+1822|Por que você não é <i>normal</i> e desenha uma carinha feliz?
+1823|É só isso que ela quer.
+1824|Duas palavras ecoam na sua mente. <bounce>‘Boa’ e ‘Feliz.’<bounce>
+1825|Uma Nima tem que ser feliz...
+1826|Triste? Por que você acabou de se sentir triste? Você não devia se sentir feliz?
+1827|Você sabe que sua mãe não se importa com o que você sente. Ela nem quer saber.
+1828|Ela só escolheu ‘emoção’ porque é fácil, autoexplicativo e prepara o terreno para o que ela quer fazer hoje.
+1829|A única coisa que ela quer ouvir você dizer é que está ‘feliz.’
+1830|Sua mãe rapidamente reorganiza o espaço de testes e se recompõe.
+1831|MÃE: Certo, agora que você entendeu a premissa dos testes de hoje, vamos começar com algo para te deixar com os pés no chão.
+1832|MÃE: Ontem eu queria que você pensasse em memórias felizes, mas hoje quero ver se você está em dia com o presente.
+1833|MÃE: Então, para começar nossa série de testes de hoje, eu gostaria que você desenhasse o seu lar.
+1834|VOCÊ: Tipo a casa onde a gente mora ou a cidade?
+1835|MÃE: O que você considerar o seu lar. Por favor, prossiga, não existem respostas erradas.
+1836|Você olha para a folha vazia à sua frente. O que você vai desenhar desta vez?
+1837|Bom, essa é fácil, você mora em Goldenfield, na Colúmbia Britânica.
+1838|Você começa a desenhar, fazendo sua melhor aproximação de uma paisagem urbana de cartão-postal.
+1839|Você faz questão de incluir as casas vitorianas nas colinas e a velha caixa-d'água lá perto da estação de trem.
+1840|VOCÊ: Bom, a gente morava em Vancouver até um ano atrás, mas agora a gente mora aqui em Goldenfield.
+1841|VOCÊ: Tem sido difícil, mudar e deixar todo mundo pra trás, mas o seu trabalho fez a gente vir pra cá.
+1842|MÃE: Eu fico feliz que a gente veio pra cá, é tão mais tranquilo que a cidade.
+1843|Você termina o desenho e o passa para sua mãe.
+1844|VOCÊ: Bom, a mudança foi difícil pra você também, né? Você nunca tinha saído de Vancouver antes...
+1845|MÃE: Eu queria que a gente tivesse saído há muito tempo.
+1846|VOCÊ: Ah... Eu achei... Você queria se mudar pra cá?
+1847|MÃE: Nima, nós duas concordamos que <i>as duas</i> queríamos isso. Finalmente recomeçar do zero depois de tudo o que aconteceu com a gente.
+1848|Você tenta se lembrar e não encontra nada. Goldenfield é uma cidade fofa, mas toda memória que você tem do lugar é manchada pelo gosto amargo da perda.
+1849|Sua mãe pega o desenho e o guarda na pasta junto com o anterior. Você se pergunta se tudo o que você desenha aqui embaixo está destinado a acabar na geladeira lá em cima.
+1850|MÃE: Certo, bom começo. Vamos manter o trem da arte andando.
+1851|Eu quero descer do trem da arte.
+1852|Você não se lembra exatamente da sua casa, mas...
+1853|Você sabe que mora perto de um grande sítio de fósseis, então começa a desenhar a montanha.
+1854|Sua mãe vive te levando para fazer trilhas lá em cima. Ela tem acesso especial ao sítio, e pouca gente consegue visitá-lo com a mesma facilidade que ela.
+1855|Leva tipo doze horas para chegar lá em cima. Ela diz que toda essa caminhada te faz bem.
+1856|Da última vez que você foi lá, um pika pulou em você e começou a lamber suas mãos. Sua mãe disse que ele estava atrás do seu suor, o que foi nojento. Você inclui o pika em pé numa pedrinha.
+1857|Você termina o desenho e o passa para sua mãe inspecionar.
+1858|VOCÊ: A gente mora perto do Xisto de Burgess. O maior sítio de fósseis da era cambriana do mundo.
+1859|MÃE: Quase isso, é. A gente mora em Goldenfield, que fica perto, mas nós duas passamos muito tempo naquela montanha, então não me surpreende que você se lembre dela.
+1860|MÃE: Na verdade, eu fico feliz, se eu estivesse fazendo o teste talvez desenhasse o Xisto também. Com a minha pesquisa atual, eu me pergunto se vão rebatizá-lo de Xisto de Annabelle.
+1861|VOCÊ: Ah, é, a gente veio pra cá porque você foi demitida.
+1862|De repente você se lembra do dia em que sua mãe te contou o plano: vocês duas iam sair de Vancouver para construir uma vida nova nas montanhas.
+1863|Ela tinha dito que não tinha escolha, mas que estava esperançosa de que vocês duas conseguiriam construir uma vida nova aqui em cima.
+1864|Pelo menos você pode ficar feliz que deu certo para ela.
+1865|MÃE: Quê? Não.
+1866|MÃE: Ah, é. É verdade, eu esqueci que fui demitida.
+1867|VOCÊ: Acho que você está bem feliz aqui em cima, hein?
+1868|MÃE: Parece que nós duas estamos.
+1869|MÃE: Certo, vamos manter essa energia.
+1870|Você sabe o que ela quer ouvir de verdade. O tipo de coisa que caberia direitinho num cartão brega de uma loja brega.
+1871|VOCÊ: Desde que eu esteja com você, mãe, eu estou em casa.
+1872|MÃE: Eu quero saber se você se lembra do lugar físico, Nima.
+1873|VOCÊ: Isso não importa tanto quanto com quem eu estou, né?
+1874|Você termina o desenho e o desliza pela mesa até ela, como uma oferenda.
+1875|Não parece que ela tenha ficado impressionada com isso.
+1876|MÃE: Você está tentando me manipular? Você ficou furiosa quando a gente se mudou pra cá. Não tem como você ter decidido de repente que 'tá tudo bem desde que esteja comigo.'
+1877|Merda, ela não caiu nessa. Mas você ainda pode salvar a situação.
+1878|VOCÊ: Eu sei...
+1879|VOCÊ: Isso é só… o meu jeito de pedir desculpas, acho.
+1880|VOCÊ: Você foi demitida, teve que arranjar um emprego novo, e isso é difícil. Considerando tudo… isso foi o melhor que a gente pôde fazer, e eu devia ter aceitado melhor.
+1881|Os vincos duros de fúria no rosto dela se suavizam. A raiva vai embora tão rápido quanto chegou.
+1882|MÃE: Acho que a gente nunca foi muito boa em dizer o que sentia de verdade…
+1883|MÃE: Obrigada, Nima. Eu… eu também peço desculpas. Mudar é muito difícil quando se é criança, eu devia ter sido mais… compreensiva.
+1884|MÃE: Você vai se adaptar aqui. Eu sei que vai.
+1885|Assim vocês duas podem se acomodar numa mentira conveniente em vez de algum dia chegar perto da verdade.
+1886|MÃE: Certo, vamos manter essa energia.
+1887|Você se esforça ao máximo para se lembrar da casa da sua família.
+1888|Você sorri e pega o lápis, desenhando rapidinho uma versão da casa estilo Vancouver Special onde vocês moram, junto com a cerejeira florida no gramado da frente.
+1889|VOCÊ: A gente mora em Vancouver. Tem um parque grande com piscina ali perto, e minha escola fica só umas quadras subindo a rua.
+1890|Aquele parque é incrível. Por algumas semanas mágicas no meio do verão, ele vira um parque aquático.
+1891|E no Halloween a molecada do bairro costuma ir lá soltar fogos. Nada que sua mãe aprovaria que você mesma fizesse, mas você pode ver as outras crianças brincando da sacada.
+1892|O James Pond também adorava, ele tinha um laguinho grande no quintal. O pai fez um jardim lindo pra ele, com uma redinha pra proteger das garças.
+1893|Você olha para ela, e a reação dela te deixa cautelosa.
+1894|Sua mãe faz uma anotação no caderninho. Você se pergunta se disse algo errado, mas o olhar dela está mais para preocupado do que para bravo.
+1895|MÃE: Bom, Nima. A gente se mudou faz um ano. Agora a gente mora em Goldenfield.
+1896|VOCÊ: Quê? Por quê?! Onde fica Goldenfield?
+1897|MÃE: A gente está no interior. Lembra que eu te falei dos leitos de fósseis do Xisto de Burgess? É a cidade perto de lá. É bem mais tranquilo aqui.
+1898|VOCÊ: Eu não entendo. Por que a gente se mudou? Todos os meus amigos...
+1899|Você tenta se lembrar de uma vida em Vancouver para sentir saudade, mas só recorda uma série de coisas que você queria poder fazer. Lugares onde você gostava de estar perto, mas onde nunca te deixavam entrar.
+1900|MÃE: Bom...
+1901|Sua mãe pondera. Olhando para a parede e medindo as palavras.
+1902|MÃE: Acho que você e eu só precisávamos de uma mudança. Pra mim, Vancouver sempre vai ser a cidade onde eu cresci.
+1903|MÃE: A cidade onde seu pai e eu nos conhecemos e nos apaixonamos. A cidade onde tentamos começar uma família juntos.
+1904|MÃE: Todo dia eu ia trabalhar e me lembrava de vê-lo no escritório dele, ou olhava para o oceano e lembrava que ele não está mais aqui. Eu estava desesperada pra ir embora.
+1905|Isso soa familiar. Você franze a testa, concentrada, tentando lembrar a origem desse déjà vu.
+1906|Finalmente você desenterra a memória que tinha deixado passar: sua mãe te dando a má notícia e dizendo que era hora de ir embora.
+1907|VOCÊ: Espera. Você não disse que tinha sido demitida? Acho que você me disse que a gente não tinha escolha. Que você teve sorte de achar um emprego aqui.
+1908|Os olhos da sua mãe voltam para você em choque e depois caem enquanto ela se encolhe de vergonha.
+1909|MÃE: Com a sua amnésia… eu quis esclarecer as coisas.
+1910|VOCÊ: Mas eu não queria me mudar!
+1911|MÃE: Ah, me dá um tempo. Não é como se alguma de nós tivesse muita coisa em Vancouver, pra começo de conversa.
+1912|MÃE: Você ainda é nova, quando for mais velha vai pensar em Goldenfield como a sua cidade natal e mal vai se lembrar de Vancouver.
+1913|Você não está convencida, mas desiste. Entrega o desenho para sua mãe e enfia as mãos debaixo dos braços. Ela o pega e o guarda numa pasta.
+1914|MÃE: Não me faz essa cara emburrada. A gente ainda tem muito o que fazer hoje.
+1915|E daí se você não se lembra de nada específico? Você confia que dá pra se virar com alguma coisa charmosa.
+1916|Uma parte de você quer realmente mostrar do que é capaz nesses desenhos. Você precisa desligá-la, sufocando-a com a mente consciente.
+1917|De vez em quando, quando começa a resvalar de volta para a qualidade, você segura seu perfeccionismo e o espanca até ele voltar a uma submissão infantil.
+1918|Você produz algo impecável: uma família de palitinho vivendo o sonho palitinho de felicidade e prosperidade.
+1919|Você desliza o desenho pela mesa como uma oferenda e dá a ela um sorriso tímido. Você baixa os olhos e se esforça para parecer envergonhada.
+1920|MÃE: Essa com certeza não é a nossa família.
+1921|VOCÊ: Acho que eu estava pensando em quando o pai ainda estava vivo.
+1922|MÃE: Ah. Eu estava me perguntando por que parecia mais desenho de criança pequena.
+1923|As sobrancelhas da sua mãe se erguem de repente, como quem se dá conta de algo, e ela se vira de você para olhar o caderno. Ela folheia algumas páginas procurando alguma coisa.
+1924|MÃE: Vejamos… <size=75%>simbolismo.
+1925|MÃE: Ah. Certo, isso é bom.
+1926|MÃE: Obrigada, Nima. Acho que é um desenho lindo.
+1927|Ela pega o papel, orgulhosa, e o guarda numa pasta.
+1928|MÃE: Quem sabe a gente pensa um pouquinho mais no próximo teste?
+1929|Você revira os olhos. Só tem um lar de que você se lembra.
+1930|Você dá uma olhada rápida em volta e desenha o porão. Fazendo questão de incluir uma versão sua devidamente triste, completa com roupa de presidiária.
+1931|Isso vai passar o recado.
+1932|Quando termina, você o empurra bruscamente para sua mãe.
+1933|MÃE: Nima! Você não é uma prisioneira, você está se recuperando.
+1934|VOCÊ: Então por que eu não posso ficar lá em cima no meu quarto, com uma janela de verdade e luz natural?
+1935|MÃE: Bom... Eu não quero te superestimular.
+1936|VOCÊ: Tem certeza de que não é porque você tem medo de que eu fuja?
+1937|O comportamento da sua mãe muda levemente. Os olhos dela tentam te pregar na cadeira.
+1938|MÃE: E por que diabos você ia querer fazer isso?
+1939|VOCÊ: Porque...
+1940|Você pondera a pergunta por um momento. É verdade que você não se sente segura aqui, mas fugir ajudaria mesmo?
+1941|Pode se revoltar o quanto quiser, esse porão é a sua realidade.
+1942|MÃE: Talvez você esteja dizendo coisas que não pensa de verdade porque quer me magoar. É isso, Nima?
+1943|Você desvia dos olhos dela e se recolhe dentro de si mesma.
+1944|Ela pega a folha e a guarda numa pasta, reorganizando o espaço de testes. Com ar de ponto final, ela inspira devagar pelo nariz e expira pela boca.
+1945|MÃE: É melhor você pensar com cuidado na próxima pergunta que eu te fizer.
+1946|Por algum motivo estranho você não consegue se lembrar exatamente, mas seu cérebro te dá uma boa pista. Você mora ao lado de um asilo.
+1947|Você começa com uma torre atarracada com telhado de casa de bonecas. Você se lembra de que o prédio já foi um hotel dos velhos tempos.
+1948|O lugar tinha algumas histórias de fantasma à altura da idade; diziam que o espectro de Jeorge Jeronimo Jackson ainda rondava os corredores.
+1949|Aí, como você sabe que sua casa fica do lado, você desenha algo comum ao lado da casa maior e mais detalhada. Um quadrado e um triângulo dos mais básicos.
+1950|Quando você termina, sua mãe pega o desenho.
+1951|Ela o examina, perplexa, coloca o desenho virado para baixo na mesa e fica olhando para a parede da direita.
+1952|MÃE: Esse é o prédio aqui do lado, né?
+1953|VOCÊ: É, o asilo. Tenho quase certeza de que eu ajudava bastante lá.
+1954|MÃE: É... isso é verdade. Por que esse é o único detalhe de que você se lembra quando eu digo lar?
+1955|Ela suspira, frustrada, parecendo ter algo a dizer, mas no fim se recosta com uma careta.
+1956|MÃE: Eu não gosto daquele lugar. É sinistro. Se eu soubesse que ficava aqui do lado, provavelmente não teria comprado esta casa.
+1957|Você se lembra da sua mãe dizendo que queria usar o lugar como babá de graça, então ela te inscreveu como voluntária. Você odiou no começo, mas todos os moradores eram muito divertidos.
+1958|Uma lágrima escorre pela sua bochecha.
+1959|Estranho, é agridoce pensar nisso.
+1960|MÃE: Por que você está chorando?
+1961|Ela dá um pulo ao ver suas lágrimas e, de repente, está na sua cara, te fuzilando com o olhar.
+1962|VOCÊ: Não sei... Só tô.
+1963|Assim que ela lê sua cara confusa como sincera, a raiva de fogo de palha dela se apaga tão rápido quanto acendeu. Ela está de volta ao lado dela da mesa, te olhando passivamente outra vez.
+1964|MÃE: Esses lugares são prisões, é melhor você não me colocar num deles.
+1965|VOCÊ: Não vou, prometo.
+1966|MÃE: Certo, vamos em frente.
+1967|Ela joga o desenho no lixo.
+1968|Lar parece meio... <bounce>flutuante?
+1969|Tem algo de que você se lembra, uma sensação de paz absoluta enquanto você flutua numa eternidade água-marinha.
+1970|Você se desenha suspensa na folha.
+1971|Depois, como não tem aquarela à disposição, você pira um pouco com um lápis de cor azul e cospe um pouco na folha para conseguir mais ou menos o mesmo efeito.
+1972|Você desliza o desenho pela mesa e ela olha para ele com repulsa.
+1973|MÃE: Nima... eu não vou encostar nisso.
+1974|MÃE: O que isso deveria ser, afinal? Você só está flutuando ali num vazio azul.
+1975|VOCÊ: Foi o que eu pensei quando você disse lar. É o recipiente dentro do qual eu posso ficar suspensa. Fácil de transportar e de exibir quando for preciso fazer essas coisas comigo.
+1976|MÃE: O que isso quer dizer?
+1977|VOCÊ: Eu entendo a minha função- você me dá comida e, em troca, eu fico suspensa com graça e te entretenho simplesmente vivendo no seu cativeiro.
+1978|MÃE: Você não é minha prisioneira, Nima, eu já te disse isso, o único motivo de você estar no porão é que você ainda precisa se recuperar.
+1979|Seu estômago ronca alto.
+1980|VOCÊ: Falando nisso, estou com fome. Eu poderia receber sustento?
+1981|MÃE: Eu te dou comida depois.
+1982|Ela tira sua obra-prima da mesa. Joga direitinho na lixeira e arruma o espaço de testes.
+1983|MÃE: Vamos em frente!
+1984|Raiva e um arroto borbulham do seu estômago vazio.
+1985|O contrato é simples: você faz truques e ela deveria te dar petiscos.
+1986|Só uma casa, né? Essa é fácil.
+1987|Você pega um lápis e faz um quadrado com um triângulo em cima. Completa com um conjunto de janelas arquetípicas e uma porta. Parece só um tiquinho com um rosto, mas é assim que casas são.
+1988|Você vira a folha para sua mãe e ela franze a testa.
+1989|MÃE: Nima, você percebe que não desenhou isso direito, né? Foi de propósito?
+1990|VOCÊ: É uma casa bem normal.
+1991|Ela vira a folha para que você possa ver e, com o benefício de uma segunda olhada, você descobre que se esqueceu de colocar qualquer detalhe no lado direito da casa.
+1992|VOCÊ: Ah... Ficou meio torta.
+1993|MÃE: Isso deveria significar alguma coisa!?
+1994|Ela para por um momento e vai até as anotações, folheando algumas páginas. Enquanto passa os olhos, lê algumas das anotações em voz alta.
+1995|MÃE: <size=75%>Casa danificada, possível sinal de que a criança considera a família...
+1996|MÃE: Nima, por que você desenhou a casa assim?
+1997|VOCÊ: Não foi de propósito! Eu nem percebi que tinha feito errado até você me mostrar.
+1998|MÃE: Tem certeza? Eu não gosto do que as minhas anotações de simbologia artística estão dizendo que isso significa.
+1999|VOCÊ: Parecia normal quando estava bem na minha frente. Só um quadrado normal com um telhado. Sério! Eu não sei por que ficou esquisito. Dá pra jogar fora? Dá vergonha de olhar.

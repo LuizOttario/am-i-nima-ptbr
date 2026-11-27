@@ -1,0 +1,977 @@
+0|Rosnar pra ela. 
+1|Isso é congee. 
+2|Que assustador. 
+3|Essa é a Nima? 
+4|Jantares em família. 
+5|Peixes nadando. 
+6|Me faz sentir sozinha. 
+7|Molhado. 
+8|A gente tava acampando? 
+9|Dói. 
+10|Tem uma pedra ali dentro. 
+11|Tô melhor. 
+12|Por que ele? 
+13|Qual o gosto dela? 
+14|Salgado... 
+15|Parece um cérebro. 
+16|Sua barriga ronca. 
+17|Projeto de ciências. 
+18|Coitado do peixe. 
+19|Comida melhor? 
+20|Nova espécie de peixe? 
+21|Foque nos ossos. 
+22|Peixe suspeito. 
+23|Memória de mingau. 
+24|Peraí, isso é lixo. 
+25|Comida afetiva. 
+26|Sem salsicha. 
+27|Sem tubarão. 
+28|Premonição de garoto. 
+29|Não deixa ela te intimidar. 
+30|Traição detectada. 
+31|Sala de jantar imprópria. 
+32|Devia ter vergonha. 
+33|Internalizar ódio. 
+34|Dicas pra prova? 
+35|Siga seu coração. 
+36|Confira seus sentidos. 
+37|"Por que isso?" 
+38|"Curiosidade de tubarão!" 
+39|Pensar em fugir. 
+40|Ele tá dormindo? 
+41|"Isso é meu?" 
+42|"Ele é tão fofo!" 
+43|"Ele é um companheiro." 
+44|Lembra o seu lar. 
+45|"Que chato!" 
+46|"Cozinha ele." 
+47|"Lição de biologia." 
+48|"Lugar dele é na piscina." 
+49|"Ele é um refém?" 
+50|Isso é uma pedra? 
+51|Aja conforme sua idade. 
+52|Pelúcia estranha. 
+53|Formato de travesseiro. 
+54|"Ele não tá se mexendo!" 
+55|Brincar com ele. 
+56|Lugar dele é no nosso aquário. 
+57|Parece fraco. 
+58|Habitat natural? 
+59|Ele é um amigo? 
+60|"Tubarão de desculpas?" 
+61|Use o pensamento crítico. 
+62|Sensorial de bebê. 
+63|Se dedique emocionalmente. 
+64|Contar uma piada. 
+65|Até tu, Tubarus? 
+66|Quem ganharia? 
+67|Memória de peixe grande. 
+68|Ladrão de tubarão. 
+69|Carpas através do tempo. 
+70|A fome cresce... 
+71|"Médico de pedra?" 
+72|"Palavra sobre pedra?" 
+73|"Tem a ver com o Pai?" 
+74|"De volta à escola?" 
+75|Chorar. 
+76|Momento nerd cambriano. 
+77|Tubarão através do tempo. 
+78|Bocejar. 
+79|Lugar dele é no asilo. 
+80|Pensar em morrer. 
+81|A natureza lá fora. 
+82|Fica legal num aquário. 
+83|Evoca tristeza? 
+84|Rastejar pra dentro. 
+85|O leito do mar. 
+86|Memórias de ser livre. 
+87|A origem do Brocs. 
+88|"É uma pedra." 
+89|Hora da piada! 
+90|"Minha pedra de estimação!" 
+91|"Por que você hesitou?" 
+92|Analisar a amostra. 
+93|Procure no seu coração. 
+94|Sensação de importância. 
+95|"Isso é um peixe?" 
+96|"Isso é um inseto." 
+97|Autodesprezo estranho. 
+98|A mãe é nerd. 
+99|É oco. 
+100|Parece sinistro. 
+101|"Isso é pra nadar." 
+102|Isso é meu? 
+103|"Memória de verão?" 
+104|"Como o Pai morreu." 
+105|Felicidade e cloro. 
+106|"Água dá medo." 
+107|Sonhos estranhos. 
+108|Botar na boca. 
+109|Cheiro químico. 
+110|"No tubarão?" 
+111|Agridoce. 
+112|Seu propósito. 
+113|Prisão aquática. 
+114|Lá vai uma piada! 
+115|OVO! 
+116|Óculos de estimação? 
+117|Revelação de peixe. 
+118|Corrida contra o tempo. 
+119|Estimular a mente. 
+120|Sentindo orgulho. 
+121|Voz estranha. 
+122|Mancha artística. 
+123|Arrasa. 
+124|Internalizar fraqueza. 
+125|Escuridão e óculos. 
+126|"Eu esqueço." 
+127|Pense bem. 
+128|Óculos cor-de-rosa. 
+129|Velozes e furiosos. 
+130|Destino na natação 
+131|Fingir estar feliz.
+132|Desenhar você numa caixa.
+133|Põe pra fora.
+134|Desenhar um banquete!
+135|Desenhar uma cara triste.
+136|Desenhar seu coração vazio.
+137|Meditar sobre isso.
+138|Desenhar uma faca.
+139|Desenhar o Dr. Fedido
+140|Desenhar uma obra-prima!
+141|Desenhar sua dor.
+142|Desenhar algo engraçado.
+143|Desenhar um sonho de vida
+144|Desenhar qualquer coisa.
+145|Desenhar seu sono.
+146|Arte é subjetiva.
+147|Entrar na cabeça dela.
+148|Aceitar a verdade.
+149|O que é emoção?
+150|Como <i>você</i> tá se sentindo?
+151|Ouvir seu corpo?
+152|O público não tá pronto.
+153|Nadando nos sentimentos.
+154|Se sentindo pelúcia?
+155|Tubaronesca?
+156|Você se sente nojenta.
+157|Os sentimentos da Nima.
+158|A mãe não liga.
+159|Desenhar Goldenfield.
+160|Desenhar o Xisto.
+161|Ela é o seu lar.
+162|Desenhar Vancouver.
+163|Desenhar uma família feliz.
+164|Desenhar sua prisão.
+165|Perto do asilo.
+166|Você flutua.
+167|Dê o seu melhor.
+168|Voltar pra floresta.
+169|Desenhar um lixão.
+170|Perto de um rio?
+171|Por que não o hospital?
+172|Laboratório desconfortável.
+173|Onde eu tô?
+174|Lar é onde o coração está.
+175|O lar é uma casca.
+176|Onde você está?
+177|Lar são as outras pessoas.
+178|Em casa com o Pai?
+179|Nosso reino à beira-mar.
+180|É tudo igual.
+181|Perto do trabalho?
+182|Perto da escola?
+183|Sentimentos estranhos.
+184|Pensar na realidade
+185|Remoer.
+186|Abrir um restaurante!
+187|Não se preocupa com isso.
+188|Lar no escuro.
+189|Sabedoria de tomate
+190|Proximidade de sushi.
+191|Não faz sentido!
+192|O que conta?
+193|Casa da piscina!
+194|Vida no espaço.
+195|Contar uma piada.
+196|Desenhar sua mãe. 
+197|É uma armadilha.
+198|Enxergar além do teste.
+199|"Eu não tenho amigos."
+200|"Eu te odeio, Annabelle!"
+201|Desenhar seu pai.
+202|Desenhar a família.
+203|Desenhar o James
+204|Laços de mãe.
+205|Desenhar um cara qualquer.
+206|Desenhar a Pearl.
+207|Desenhar a gente.
+208|Desenhar seu tubarão.
+209|Desenhar o Garoto Tomate!
+210|Desenhar você mesma.
+211|Desenhar a equipe.
+212|Desenhar o Rocky Lee.
+213|Desenhar vocês juntos.
+214|Instintos animais.
+215|Memórias de natação.
+216|O que é um amigo?
+217|Amigos do trabalho?
+218|Amigos da escola?
+219|Congee amigo?
+220|Fóssil amigo?
+221|Amiga de todos!
+222|Amiga dos mortos?
+223|Amizade e comida.
+224|Acampar com amigos.
+225|Um amigo nos seus sonhos.
+226|Usar o sono pra fugir.
+227|Internalizar a injustiça.
+228|Amiga da morte?
+229|Sozinha com um livro?
+230|Amiga de uma pedra?
+231|Tem alguém aí?
+232|Amigo de estimação.
+233|Amigo peixe.
+234|"Eu não entendo."
+235|Amigo imaginário.
+236|Médico amigo?
+237|Nima aniN
+238|Tá todo mundo aqui.
+239|Olhar nos olhos dela.
+240|"Eu não lembro."
+241|Inútil.
+242|Amiga de um monstro?
+243|"Planta amiga?"
+244|Amiga da Marrella?
+245|Amiga de Deus?
+246|Nima vê, Nima faz.
+247|Amigos lá de casa.
+248|Deixe o coração te guiar.
+249|"Sou eu."
+250|"Desculpa."
+251|É um fantasma.
+252|"Tipo um sonho..."
+253|Como eu me sinto.
+254|Só um rabisco.
+255|"A morte ceifadora."
+256|"É você, sua bruxa idiota."
+257|"Tô tentando ir embora."
+258|"Eu sou uma aberração."
+259|Pensar nos seus amigos.
+260|O desenho não importa.
+261|Que sentimento é esse?
+262|Só tô com fome.
+263|Carinhas pequenos.
+264|Que legal.
+265|Autorretrato?
+266|Perturbador.
+267|Olha as mãos dele.
+268|Começar a chorar.
+269|"Esse é meu amigo."
+270|Minha professora de inglês.
+271|Coisa no porão.
+272|Depressão em pessoa?
+273|Por que você desenhou isso?
+274|Sangue na boca.
+275|Estimulada pelo drama.
+276|Análise artística.
+277|Calma...
+278|Você é doente
+279|Corrente de memórias.
+280|Memória de família.
+281|Evoca uma memória.
+282|Fazer ela feliz.
+283|A sombra surge.
+284|Tive que largar...
+285|Fiquei triste...
+286|Entropia.
+287|Você e o 'você'.
+288|Decepcionada?
+289|Reprimir a raiva.
+290|Ela tá no controle
+291|Pegar o Whiskers.
+292|"Alimentar o Whiskers."
+293|"Rato com sede."
+294|"Hora da soneca."
+295|"Vai dar uma corrida!"
+296|Brincar com o Whiskers.
+297|Fazer carinho nele.
+298|Dançar com seu novo amigo.
+299|Fazer ele dançar.
+300|Murofóbica?
+301|"Tem família?"
+302|"Um conselho pra mim?"
+303|"Prefere congee?"
+304|"Gostei da sua casa."
+305|"Pelúcia de Whiskers?"
+306|A corrida dos ratos.
+307|Buscar algo em comum.
+308|Contar uma piada pra ele.
+309|Puxar conversa.
+310|"Você roubou o Whiskers?"
+311|"Fã de tomate?"
+312|Lembrar do James.
+313|Só um rato.
+314|"Um espécime como eu."
+315|"Não devo dar valor."
+316|"Uma alma como eu."
+317|"E o James Pond?"
+318|"Eu cuido dele!"
+319|"Tô neutra."
+320|"Não ligo..." 
+321|"Odeio ele!" 
+322|"Ele é nojento!" 
+323|"Parece gostoso!" 
+324|Algo que você esqueceu?
+325|De ratos a pedras.
+326|"Inseto esquisito."
+327|"Gosto da casa dele."
+328|"Eu dou conta dele."
+329|Ele te machucaria?
+330|"Soltar ele?"
+331|Uma tela em branco.
+332|"Marionete de cadáver?"
+333|"Squeek!"
+334|"Qual o teste de hoje?"
+335|"Por que quer saber?"
+336|Pensar nas cartas.
+337|Pra quê...
+338|Enfrentar ela.
+339|"Como eu devia me sentir?"
+340|Considere seus sentimentos.
+341|Pense nisso.
+342|Como foi a sensação.
+343|Associação aleatória.
+344|Tocar.
+345|Aceitar.
+346|Fazer.
+347|Mmm...
+348|Se sacrificar.
+349|Testar o calor.
+350|Encarar a caldeira.
+351|Pai, socorro.
+352|Pensar em fazer bolo.
+353|Isso pode explodir?
+354|Chorar por isso.
+355|Focar na fuga.
+356|Como isso aconteceu?
+357|Memória estranha.
+358|Resmungar ameaças.
+359|Pensar na temperatura do sangue.
+360|Isso não é seguro.
+361|Pense bem.
+362|Como isso te faz sentir?
+363|Confira seus sentidos.
+364|Tá tudo bem.
+365|Falso sol ardente.
+366|O Todo-Poderoso!
+367|Fervendo por dentro.
+368|Duvidar de si mesma.
+369|Ela te traiu.
+370|Implicações éticas?
+371|O destino chama.
+372|Esfriar isso.
+373|Nós sentimos.
+374|"Isso é um teste?"
+375|"Por causa de ontem?"
+376|"Tem a ver com a Vovó?"
+377|"Isso não é amigável."
+378|"Como eu melhoro isso?"
+379|"Tô decepcionada com você."
+380|"Deixa o Whiskers fora disso!"
+381|"Isso é vingança?"
+382|"Tá ficando mais quente aqui?"
+383|"Tô com fome."
+384|"Socorro!"
+385|"Eu vou te matar!"
+386|"Foi mal, migo!"
+387|"Você é uma mãe ruim!"
+388|"Preciso de uma faca!"
+389|"Eu te odeio!"
+390|"Você devia ter vergonha!"
+391|"Você é uma valentona!"
+392|"Tô entediada."
+393|"Você é obcecada por controle."
+394|"Isso não é justo!"
+395|"Eu te perdoo."
+396|"Isso é injusto."
+397|"Qual o seu problema!?"
+398|"Sim, Vossa Majestade."
+399|"Tem bondade no seu coração!"
+400|"O que eu faço?"
+401|Não fazer nada.
+402|"Hã... na verdade..."
+403|Vasculhar seu coração.
+404|"Você não gosta de animais?"
+405|"Eu e o Whiskers..."
+406|Tenho que matar o rato.
+407|Babar...
+408|Empatia de rato.
+409|"É tudo culpa minha..."
+410|Procurar objetos afiados.
+411|Pensar no pelo.
+412|"Rato idiota."
+413|"Eu me identifico."
+414|Ele é tão calmo.
+415|Pérola de sabedoria?
+416|"Um conselhinho..."
+417|Esperança pro Whiskers?
+418|Considere seus ideais.
+419|Um rato na armadilha...
+420|Dilema do assassinato
+421|Fazer por ela.
+422|Ego, me guie.
+423|Planejar a queda do Whiskers.
+424|Meditar sobre isso.
+425|Filosofia de rato.
+426|Pensar na desgraça.
+427|Mais um animal vítima.
+428|Nós consideramos.
+429|Pegar o rato.
+430|Devolver o rato.
+431|Abrace sua força.
+432|Transcender pra fora.
+433|Usar chave.
+434|Dá pra quebrar isso.
+435|Chamar sua mãe.
+436|Não surta…
+437|"O Pai não faria isso."
+438|Dói...
+439|Fungar.
+440|Tô com tanta fome...
+441|"Isso é real?"
+442|Exigir liberdade.
+443|Fazer a vontade dela.
+444|Faz parar...
+445|Eu mereço isso?
+446|O que eu sinto?
+447|Feito de metal.
+448|O simbolismo.
+449|Canalizar sua raiva.
+450|Torcer pra abrir.
+451|Soltar o Whiskers. 
+452|Usar inteligência espacial.
+453|Portal assustador.
+454|Isso é uma armadilha?
+455|Imaginar algo engraçado.
+456|Mas por quê?
+457|Dá pra enganar a mãe...
+458|Veja o buraco como um todo.
+459|Siga pelo tato.
+460|Rato sortudo.
+461|Mentalidade de ermitão.
+462|Isso é real?
+463|Estratégia de sobrevivência.
+464|Sacrificar o Whiskers.
+465|Matar o Whiskers.
+466|Risco de segurança.
+467|Chame um adulto!
+468|Ponta assustadora.
+469|Uma arma!
+470|Gancho de carne da Annabelle.
+471|Seu Faz-Tudo.
+472|Prego enferrujado.
+473|Cravar a solução.
+474|Empatia
+475|Pontudo.
+476|Casa velha.
+477|Matar ele.
+478|Você pode salvar ele.
+479|Compartilhar sua bênção.
+480|Seu sangue ferve.
+481|Implorar ajuda pra mãe.
+482|Ele tem que sobreviver.
+483|Igualzinho a você.
+484|Em outra vida.
+485|Não grita.
+486|Não chora.
+487|Você baba.
+488|Não tem saída.
+489|Bicho de pelúcia.
+490|O sol se põe.
+491|Aprender com livros?
+492|Desleixado...
+493|Claro que ela faria isso.
+494|O propósito dele.
+495|Confira seus sentidos?
+496|Quais são suas opções?
+497|Como você se sente?
+498|Pelo lado bom...
+499|Se culpar.
+500|Uma Nima salva um rato?
+501|O quê?
+502|"Você roubou minhas cartas!"
+503|"Que hipocrisia!"
+504|"A verdade é essa"
+505|"Só por cima do seu cadáver."
+506|"Você tá brava comigo!?"
+507|"Você que me deu!"
+508|"Família sempre perdoa!"
+509|"Você tá me assustando!"
+510|Olha o lado bom!
+511|Contar a verdade?
+512|"Não é o que parece."
+513|"Eu NUNCA faria isso!"
+514|"Nada de mais."
+515|Por que ela tá com medo?
+516|Aliviar com uma piada
+517|"Um amigo que me deu."
+518|É uma chave velha.
+519|"Hã... Minha chave de estimação!"
+520|"Presente da estranha."
+521|"Agora você se importa?"
+522|Me ajuda!
+523|"Tava um tédio."
+524|Roubar é errado.
+525|Ar fresco.
+526|"Por favor, não me mata."
+527|"Que chave?"
+528|Presente do inseto mágico!
+529|Busque na sua mente.
+530|Busque no seu coração!
+531|Isso é perturbador.
+532|Veio num sonho!
+533|Mostrar quem manda.
+534|Viajar na maionese.
+535|Fique firme nos seus ideais!
+536|Pensar na ética.
+537|Saber de sobrevivência?
+538|Pedir desculpa.
+539|Contar sobre a voz.
+540|Mentir pra ela.
+541|"Você me matou!"
+542|"Quem precisa de conserto é você!"
+543|"Você adora poder me controlar!"
+544|"Você tá decepcionada comigo."
+545|"Eu sou sua cobaia!"
+546|"Você é tão mesquinha!"
+547|"Todo mundo me decepciona!"
+548|"Eu precisava de ajuda...!"
+549|"Medo de você..."
+550|"Agora você se importa!?"
+551|"Eu tô feliz!"
+552|Consolar ela.
+553|"Isso não justifica nada!"
+554|Pensar no experimento.
+555|"Você devia morrer."
+556|"Você acabou de me machucar!"
+557|"Você não liga pra família."
+558|"Você nunca me apoiou!"
+559|"Você é burra!"
+560|"Quem cozinha sou eu!"
+561|"Você não tem amigos!"
+562|"Você não é médica!"
+563|Pensar na situação.
+564|Pensar nos seus sentidos.
+565|"Eu não quero crescer!"
+566|"Você me fez largar a natação.
+567|"Eu não queria me mudar pra cá!"
+568|"Os testes são injustos!"
+569|Não dá pra falar assim.
+570|Chorar.
+571|Sentimentos confusos.
+572|O rio...
+573|Isolamento total.
+574|Não é a sua cara.
+575|Lembre do seu papel.
+576|Questionar a lógica dela.
+577|Estudo de você.
+578|O tratamento dela.
+579|Te consertou...
+580|Pensar em fugir.
+581|"Sair daqui."
+582|"O que foi dessa vez?"
+583|"A Nima é feliz."
+584|"A Nima é triste."
+585|"Ter vergonha."
+586|"A Nima é responsável."
+587|"A Nima é criativa!"
+588|"Te amar."
+589|"Te odiar."
+590|"Ser boazinha."
+591|"Desafiar minha natureza."
+592|"Minha memória?"
+593|"Ser sua filha perfeita."
+594|Qual é a sua?
+595|"Minha aparência?"
+596|Como você se sente?
+597|"Ter medo de você?"
+598|"Eu gosto de nadar."
+599|"Me sentir sozinha."
+600|"Eu faço o meu melhor."
+601|"Cozinhar pra você?"
+602|"Ajudar na sua pesquisa?"
+603|"Estar viva?"
+604|"Dormir na hora certa."
+605|"Limpar sua bagunça."
+606|"Ser como o papai."
+607|Pensar nos seus sonhos.
+608|"Ficar no porão."
+609|"Cuidar de velhinhos.
+610|"Roubar coisas."
+611|"Ser perfeita."
+612|Refletir sobre seu reflexo.
+613|Se controla.
+614|"Te perdoar."
+615|"Não sei."
+616|"Fazer arte?"
+617|"Matar o Whiskers."
+618|"Se você diz." 
+619|Engula seu ódio.
+620|"É o James." 
+621|"Sou eu!" 
+622|Enfrentar ela. 
+623|Eco de um eco. 
+624|Sem fome?
+625|"Obrigada pela comida."
+626|"Era pra eu recusar?"
+627|"Foi você que fez?"
+628|Memórias sombrias.
+629|Devaneios de peixe.
+630|Pensar na inanição.
+631|Seu estômago revira.
+632|Memórias de carpa.
+633|Memórias de sushi.
+634|Um eco...
+635|"Você tá brava?"
+636|É só um peixe
+637|Outro teste.
+638|Pensar na felicidade do peixe.
+639|Sentindo frio.
+640|Exultar na agonia.
+641|A praia.
+642|A cura.
+643|Drama médico.
+644|Pensar no caranguejo-eremita.
+645|Flutuando.
+646|Um rio na sua mente.
+647|Uma gota de chuva.
+648|Avistamento de gigante.
+649|Olhar pra mãe.
+650|Um impulso.
+651|Na poça de maré.
+652|Uma prisão pior.
+653|A luz que queima.
+654|Você tá sonhando?
+655|Vergonha.
+656|Coração de herói.
+657|Transformista.
+658|Cheiro estranho.
+659|James Pond, espião.
+660|A terra respira.
+661|Checar seus sentidos.
+662|Um zumbido e uma brisa
+663|"Sou eu, mãe."
+664|"Claro que eu sou a Nima."
+665|"Eu sou um monstro."
+666|"Eu tô morta."
+667|"Você me transformou num monstro."
+668|"Mãe, por favor!"
+669|"Você tá me assustando!"
+670|"Você vai me matar?"
+671|Pensar no isolamento.
+672|Pensar no rio.
+673|Pensar na competição de natação.
+674|"Essa não é você."
+675|Pensar na sobrevivência.
+676|Viajar?
+677|Lutar pra sair?
+678|O jeito Nima?
+679|Sob o poder dela.
+680|Pensar no seu futuro.
+681|Próxima parada?
+682|Você chateou ela.
+683|Pensar na morte-vida
+684|Pensar em reviver.
+685|"Desculpa."
+686|Pensar em se render.
+687|Algum arrependimento?
+688|Uma ajudinha dos amigos.
+689|Pensar nos seus amigos.
+690|"Seu experimento?"
+691|Memória feliz.
+692|Toda a atenção dela.
+693|Ver o papai de novo?
+694|Dá pra fugir?
+695|Como ela ousa!?
+696|"Ainda tenho que provar algo?"
+697|Odeie a si mesma.
+698|Final feliz?
+699|Você é mais forte que ela.
+700|Lembrar do acampamento.
+701|Pensar na pergunta.
+702|Olhar pro espinho
+703|"Você me prendeu numa jaula."
+704|"Você fez lavagem cerebral em mim."
+705|"Você me torturou."
+706|"Você me ignorou."
+707|Fingir ser a Nima.
+708|"Você deve odiar a Nima."
+709|"Tá confortável?"
+710|Memória de peixe.
+711|Presa na pedra.
+712|Saborear a vitória.
+713|"Achou que dava pra consertar a morte?"
+714|"Por que você me deixou passar fome?"
+715|"Belo experimento..."
+716|"Gostou do meu rosto?"
+717|"Você não significa nada pra mim."
+718|Memórias dolorosas.
+719|"Consertar sua família?"
+720|Você odiava seu reflexo.
+721|Que decepção.
+722|Uma onda.
+723|"A sala da caldeira."
+724|Escuridão agradável.
+725|Pregar uma peça nela.
+726|"Devo pegar leve com você?"
+727|"O que você sabe?"
+728|"O padrão."
+729|Infectar ela?
+730|Pensar sobre pensar.
+731|"Outros vermes?"
+732|Humanos têm vida fácil.
+733|O que é justiça?
+734|Contemplar a monstruosidade.
+735|Resetando memória.
+736|"Uma prisão terrível."
+737|Atormentar ela.
+738|"Você é um parasita."
+739|"O que aconteceu com a Marrella?"
+740|"O que é um zumbi?"
+741|"Você vai ver eles logo."
+742|Pontada estranha.
+743|"Perguntar a uma especialista?"
+744|"Você é uma assassina."
+745|"Estado do porão."
+746|"Quer rezar?"
+747|Pensar no sol.
+748|Checagem de sistemas.
+749|"Fase Dois?"
+750|"Coleta de órgãos?"
+751|"Por que o James?"
+752|"Eu libertei eles."
+753|Segura na concha.
+754|Brilho debaixo d'água.
+755|Vida nos sonhos.
+756|Dói.
+757|"Eu me odeio."
+758|Só flutuar.
+759|"Eu sou a filha perfeita dela!"
+760|"Natação não importa."
+761|"Meus amigos..."
+762|"Eu tenho tema oceânico!"
+763|"Você é malvada!"
+764|Pensar no acidente
+765|"Eu quero me encaixar."
+766|Pensar no sol.
+767|"Eu gosto de cozinhar."
+768|"Por quê?"
+769|"Sentimentos complexos."
+770|"Eu gosto de arte!"
+771|O verdadeiro eu.
+772|E se estiver certo?
+773|"Eu sou criativa!"
+774|"Eu sou inteligente!"
+775|"Eu curto a natureza."
+776|"Eu amo o papai!"
+777|"Eu gosto sim de nadar!"
+778|Memórias estranhas.
+779|Como você se sente.
+780|"Para de ser má!"
+781|Choque de realidade.
+782|Pensar na Tiffany.
+783|Racionalizar isso.
+784|"Ignora."
+785|MATAR A MÃE!
+786|Sentir a faca.
+787|"Você é minha inimiga!"
+788|"Eu tenho inveja de você."
+789|"Minha responsabilidade."
+790|"Eu quero ser feliz."
+791|"O isolamento."
+792|"Você decepciona a mãe."
+793|Apresentação sabotada?
+794|Memórias sabotadas.
+795|Desenhos sabotados?
+796|A sala da caldeira.
+797|A discussão.
+798|"Você é uma mentirosa!"
+799|"Você me distrai!"
+800|Lembra do espinho?
+801|Dor fantasma.
+802|Lembrar da queda.
+803|Memória alienígena.
+804|A máscara.
+805|Verdade existencial.
+806|Pensar racionalmente.
+807|Sentiu algo?
+808|Se controla.
+809|Sensação estranha.
+810|Não são minhas memórias.
+811|Seus sonhos.
+812|"Eu quero ser normal!
+813|"Você tá me atrasando!"
+814|"Você me curou."
+815|"Porque você é um verme!"
+816|"Você tá fingindo ser eu!"
+817|"Minhas dúvidas."
+818|"Tentando sobreviver."
+819|"Você me traiu!"
+820|"Eu sou a Nima."
+821|O sacrifício.
+822|Consciência.
+823|Eu quero ser a Nima...
+824|"Ela apodreceu."
+825|Com medo do seu reflexo...
+826|Você tá presa.
+827|Ela tá te adestrando.
+828|Difícil pensar.
+829|Lembrar do bunker.
+830|A esperança da Nima.
+831|Eu te odeio.
+832|Seus sonhos...
+833|Igual ao Garoto Tomate.
+834|Eu me ressinto da Nima.
+835|É uma ilusão.
+836|Discutir.
+837|Eu tô morta?
+838|Tanta fome.
+839|Menina verme.
+840|Passar do limite.
+841|Peixe.
+842|Não devia ter fugido.
+843|Quanto tempo?
+844|Luzinhas.
+845|A dor.
+846|O sonho.
+847|Castigo.
+848|Orgulhosa.
+849|É um paradoxo.
+850|Você vai voltar a ser normal.
+851|Empatia pelo vírus.
+852|Tentando sobreviver.
+853|Parece se afogar.
+854|Rezar.
+855|Como você se sente.
+856|O que você acha.
+857|"Não são minhas memórias."
+858|"Não é meu corpo."
+859|"Não é meu nome."
+860|"Eu sei do bunker."
+861|"Você não conhece a Nima."
+862|"Medo do calor."
+863|"Você sacrificou a Nima."
+864|"Memórias antes da Nima."
+865|Clareza de si.
+866|Racionalizar sua existência.
+867|Pensar nas cartas.
+868|Medo de espelhos.
+869|A culpa da Annabelle.
+870|Família é importante?
+871|Ainda com medo.
+872|Boa e feliz.
+873|A mentira sobre o acidente.
+874|Tentar sentir algo.
+875|O medo da Nima.
+876|"Eu tinha que me provar."
+877|Sua determinação.
+878|Desapego.
+879|"Um punhado de células."
+880|"Ela me encontrou."
+881|"Inveja dos humanos." 
+882|"A voz..." 
+883|"Você já desistiu antes." 
+884|Quem é você?
+885|"Você disse que queria fugir."
+886|Perdoar ela.
+887|Seguir em frente.
+888|"Você é a Nima?"
+889|"O que é importante?"
+890|"Melhor que o papai."
+891|"Uma pergunta de natação."
+892|"Você me perdoa?"
+893|"Como tão suas notas?"
+894|"Interesses em comum?"
+895|"Você tá feliz?"
+896|"Por que fugir?"
+897|"Qual é a da Pearl?"
+898|Onde ela senta.
+899|Como ela pensa.
+900|Como ela se sente.
+901|"O que você é?"
+902|"Suas memórias."
+903|"Seus amigos?"
+904|"Por que você tá aqui?"
+905|"Nosso novo lar?"
+906|"Achei essas cartas."
+907|"Você é demais, Nima."
+908|"Vamos fazer um trato."
+909|O que aconteceu com o James…"
+910|Pensar no que ela fez.
+911|Grandes planos…
+912|Cobaia Dois.
+913|"Tão linda."
+914|"Cresce."
+915|“Sinto falta da Nima bebê.”
+916|Essa não é sua mãe…
+917|"Eu sou a Nima!"
+918|"O papai largou a gente."
+919|"Juro te servir!"
+920|"Nadar é coisa de Nima!"
+921|Teste sobre a escola?
+922|"E a Pearl?"
+923|"Jejum ritual!"
+924|"Ser como a mãe!"
+925|"Eu renuncio aos peixes!"
+926|"Mudar por você!"
+927|"Eu já cresci."
+928|"Meus sonhos."
+929|"Eu não vou embora."
+930|"Uma mãe que apoia?"
+931|"Eu tô curada!"
+932|"Você é uma hipócrita."
+933|"A verdade…"
+934|"A mãe é uma deusa."
+935|"Por que você me machuca?"
+936|"Lembra de casa?"
+937|"Eu amo essa cidade!"
+938|"Você é uma pessoa ruim."
+939|"Eu aceito isso."
+940|Pensar na sua mente.
+941|Pensar no seu corpo.
+942|Pensar no seu coração.
+943|"James…"
+944|"Meu corpo…"
+945|"Meu sangue…"
+946|"Pai…"
+947|"Vou fazer o que mandarem."
+948|"Vou enganar ela."
+949|"...Você tem razão."
+950|"Eu quero morrer."
+951|"A gente vai matar ela."
+952|Aceitar a realidade
+953|"Tá mais pra um plano..."
+954|Olhe pra você.
+955|Focar em lavar as mãos.
+956|"Quero que todo mundo seja feliz."
+957|"Eu não quero ficar sozinha."
+958|"Você tá me chateando."
+959|"Isso é um sonho?"
+960|"Eu vou sair daqui."
+961|"Talvez eu mereça isso."
+962|"É só questão de tempo..."
+963|Não dá pra nós duas sermos eu.
+964|"Vou focar em melhorar."
+965|"Se isso é um experimento..."
+966|Pensar num plano...
+967|Se agarrar à realidade.
+968|"Sua vida é fácil!"
+969|"Por que você tá me emboscando!?"
+970|"A mãe sabe tudo!"
+971|"Tá tudo bem."
+972|"CAOS!"
+973|"Vou debater com ela!"
+974|Pensar na verdade.
+975|Pensar no passado.
+976|Pensar no que aconteceu.

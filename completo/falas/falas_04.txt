@@ -1,0 +1,500 @@
+2000|MÃE: Você acha mesmo que a sua vida é difícil?
+2001|Em vez disso, sua mãe enfia o papel na pasta; ela o catalogou para consultar depois, para o seu desgosto.
+2002|Você sente a necessidade de lembrar à sua mãe que anseia por fugir.
+2003|Você se desenha correndo para a floresta em busca de um futuro novo e brilhante.
+2004|Quando você termina o desenho, sua mão está tremendo.
+2005|Sua mãe tira o papel de você com calma.
+2006|Ela olha para ele por um instante e imediatamente o guarda numa pasta, sem pensar duas vezes.
+2007|MÃE: Por que você desenhou isso?
+2008|VOCÊ: Eu só quero ir brincar lá fora na floresta. A gente tá trancada aqui embaixo há tanto tempo, você não quer sair?
+2009|Sua mãe para de se mexer e encara a mesa por um longo tempo.
+2010|<speed=0.5>Você consegue ouvir a respiração pesada dela enquanto ela pondera algo que você jamais vai compreender.
+2011|MÃE: Você não pode mais sair. É arriscado demais.
+2012|VOCÊ: O quê? Isso não é justo, o que foi que eu fiz de errado!?
+2013|MÃE: Não quero falar sobre isso. Algumas coisas é melhor esquecer.
+2014|MÃE: Vamos passar para o próximo teste.
+2015|Você olha ao redor. Repara nas pilhas imensas de caixas da nostalgia da sua mãe.
+2016|Se aqui embaixo é assim, você não tem dúvida de que o resto da casa segue o mesmo tema.
+2017|Você se volta para o papel e planeja seu próximo passo.
+2018|Você desenha uma casa, uma caixa simples com telhado, firme e resoluta no meio de um lixão.
+2019|Você a cerca de sacos de lixo, espinhas de peixe e outros símbolos de detrito.
+2020|Você passa a folha para sua mãe depois de terminar de acrescentar as linhas de fedor.
+2021|MÃE: Por que... você colocou a casa num monte de lixo?
+2022|VOCÊ: Você gosta de lixo.
+2023|Ela te olha confusa, e você aponta para as caixas.
+2024|MÃE: <i>Nima!</i> Isso não é lixo!
+2025|MÃE: São todas as coisas do seu pai, presentes e lembranças preciosas. Eu não posso simplesmente jogar fora.
+2026|VOCÊ: Não é como se ele ainda quisesse.
+2027|MÃE: <shake>EU NÃO VOU JOGAR ELE FORA!
+2028|Ela bate os punhos na mesa. A explosão de raiva te assusta até o silêncio.
+2029|Ela suspira e rabisca algo no caderno.
+2030|MÃE: Próximo teste... não me decepcione de novo.
+2031|Você adora nadar e tem muitas lembranças ligadas a um rio. Você não lembra exatamente onde mora, mas sabe que provavelmente há um rio por perto.
+2032|Então, primeiro você desenha um rio, a parte mais completa da lembrança.
+2033|Depois você continua, preenchendo uma casinha na margem e acrescentando você mesma ali de pé, observando.
+2034|Você ainda sente que falta alguma coisa, então desenha uma figura de bruços na água, à deriva, com uma nuvem de sangue vazando devagar do crânio aberto.
+2035|Você termina o desenho e fica olhando para ele por um tempo, contemplando a figura na água. Sua mãe pega o desenho e o examina, preocupada.
+2036|MÃE: Nima...
+2037|Ela enfia o papel depressa numa pasta e o deixa de lado.
+2038|MÃE: Quero conversar sobre isso… mais tarde.
+2039|MÃE: Eu entendo que o rio talvez seja muito marcante nas suas lembranças, mas quero que você saiba que ele não tem nada a ver com o lugar onde a gente mora, tá bom?
+2040|MÃE: Tenta de novo, pensa melhor na nossa casa, tá bom?
+2041|VOCÊ: Certo. Casa. Isso me lembrou, mãe, eu queria te perguntar: por que a gente tá em casa?
+2042|MÃE: Acho que não entendi.
+2043|VOCÊ: Tipo, eu sofri um acidente bem feio. Eu acabei indo pro hospital depois? Por que a gente tá em casa em vez de continuar lá?
+2044|MÃE: Tudo bem. Contar isso não deve afetar muito o teste. O hospital não tinha espaço suficiente para tratamento de longo prazo, então perguntaram se eu queria levar você pra casa.
+2045|VOCÊ: Peraí, tratamento de longo prazo?
+2046|MÃE: Eles se enganaram; acharam que você ia precisar de um quarto só pra você por… bom, vários anos. Me passaram algumas exigências que eu tinha que cumprir e, quando cumpri, entregaram você pra mim.
+2047|MÃE: Eu não quero muito falar sobre isso, foi uma quantidade nojenta de escrutínio. Só estou feliz que você está a caminho de ficar saudável de novo.
+2048|VOCÊ: Que estranho, eu achava que o hospital da cidade era enorme.
+2049|MÃE: Ah. Hã... Talvez a gente devesse se concentrar no teste, tá bom?
+2050|Ela fez um gesto para você voltar ao trabalho.
+2051|MÃE: Por favor, desenha a sua casa?
+2052|Por algum motivo, você pensa no fóssil de ontem. Pensar nele é desagradável e faz uma parte de você recuar de nojo.
+2053|Sua casa não passa de um laboratório, um lugar onde você é testada e cutucada sem parar para que avaliem suas reações.
+2054|Você odeia este lugar, mas sabe que expressar esses sentimentos só mostraria à mulher que está na hora de te machucar de novo.
+2055|Você precisa esperar a sua hora.
+2056|Você analisa a pergunta primeiro com base no que vê.
+2057|Você está num porão. O prédio é antigo; o sinal revelador é que parece ter sido construído e reconstruído camada por camada.
+2058|Você não ouve nenhum carro, mas, de vez em quando, o balido assombroso da buzina de um trem ecoa pelas rachaduras nas paredes.
+2059|Onde quer que você esteja, é um lugar isolado.
+2060|Lar não é um lugar físico, não de verdade.
+2061|Lar é um lugar à beira-mar com muitos amigos por perto. Lar é o treino de natação depois da aula, indo saltitando com as colegas de equipe até a piscina.
+2062|Lar é macarrão frito com carne no café da manhã e um pai defendendo em voz alta que macarrão é comida de café da manhã.
+2063|Seu lar é um jardim água-marinha à beira-mar.
+2064|Você considera o óbvio: lar é onde você está agora.
+2065|Você olha ao redor e sabe que este lugar é o porão. Fica embaixo da sua casa. É um lugar para guardar coisas e esconder os órgãos da casa, o encanamento e o aquecimento.
+2066|Além disso, você se pergunta onde fica este lugar.
+2067|Isso não resolveu nada...
+2068|Lar não é um lugar; são as pessoas com quem você o divide.
+2069|O tipo de sentimento que merece ser gravado em marfim sobre um painel preto e exibido no saguão de entrada de uma casa.
+2070|Contanto que você esteja com a sua Mãe. Você está em casa.
+2071|Essa é a regra.
+2072|Lar é uma concha sob medida. O tempo todo, cada centímetro da sua pele é beijado pela pedra.
+2073|Ela pressiona você. Esmaga você.
+2074|Você não quer estar aqui.
+2075|Você se lembra do seu pai. O lugar onde você morava parecia um lar naquela época.
+2076|Depois que ele morreu... era só um quadrado com um triângulo de telhado. Nada de notável. Nada de único.
+2077|Sua casa fica perto da água. Disso você lembra.
+2078|Algumas características especiais daquele lugar. Você morava perto do oceano. Num dia de vento, dava para sentir o cheiro de sal na brisa. No auge do verão, fedia a peixe podre.
+2079|Chovia muito, como se houvesse duas estações: chuva e não-chuva.
+2080|Em certos cruzamentos estranhos, dava para sair da cidade a pé e entrar numa floresta tropical exuberante.
+2081|É a esse lugar que você pertence.
+2082|Oceano, montanha e <shake>prisão.
+2083|Não importa onde você esteja.
+2084|Você está sozinha.
+2085|Você tem um emprego.
+2086|É trabalho voluntário, porque você ainda é uma criança aos olhos da lei.
+2087|Você cuida de idosos. Leva mingau e jogos de tabuleiro para eles.
+2088|O trajeto é ótimo; é logo ali do lado.
+2089|Você não mora na escola. Isso seria um saco.
+2090|...Mas a Mãe ia adorar morar na escola. Ela fazia isso no antigo emprego. Vivia trabalhando a noite inteira direto.
+2091|Você olha para as suas mãos.
+2092|Você observa as veias incharem enquanto o sangue é bombeado pelo corpo.
+2093|VOCÊ: Desculpa… Só estava pensando.
+2094|Você vai começar a filosofar, não vai...?
+2095|A essência da palavra lar é só "o lugar ao qual você pertence".
+2096|Ah, ótimo... lá vamos nós.
+2097|Você não pertence de verdade a lugar nenhum. Nima nunca se sentiu assim. Mesmo nas memórias mais antigas, tudo sempre foi coerente.
+2098|Nima não tem um lar. Por breves e pequenos momentos, ela sentiu que pertencia a algum lugar, antes que isso fosse tirado dela.
+2099|Nada fica.
+2100|Já terminou?
+2101|Lar é uma <i>estranha.</i>
+2102|Para de bancar a sombria...
+2103|Seria legal se você morasse num restaurante.
+2104|Isso não ia prestar. A comida da Mãe ia matar os clientes.
+2105|Obviamente, você seria a chef. É você quem sabe cozinhar.
+2106|...A Annabelle também não ia conseguir ser garçonete.
+2107|Melhor não pensar muito nisso.
+2108|Este é o seu lar agora.
+2109|Você está em casa aqui embaixo, no escuro.
+2110|Você está sendo <i>moldada</i> por ele.
+2111|Tem uma coisa que o Garoto Tomate disse uma vez.
+2112|Ele é um viajante, sabe, sempre indo de um lugar para outro. Ele não volta para aquele vinhedinho onde cresceu desde que era um brotinho.
+2113|Para ele, o lar é qualquer lugar onde estejam os amigos dele.
+2114|Lá na sua antiga casa tinha muito sushi.
+2115|A cidade onde você está agora tem um único lugar de sushi, e sua mãe diz que é uma porcaria e que você nunca vai lá.
+2116|Lar significa um monte de lugares. Pode ser qualquer coisa, onde você mora, onde você pertence. São pessoas e são lugares.
+2117|Se pode significar qualquer coisa, então isso não quer dizer que, no fundo, não significa nada?
+2118|Explica essa.
+2119|Todos os testes são idiotas. Acostuma.
+2120|Um corpo é uma casa?
+2121|Não.
+2122|Água rasa e morna. Um monte de bichinhos abrindo caminho no mundo.
+2123|Não é isso que ela quer ouvir.
+2124|Não, não é.
+2125|Você já ouviu falar de lunáticos e marcianos, mas nunca ouviu falar de gente que mora no sol.
+2126|VOCÊ: Você quer que eu desenhe a minha casa?
+2127|VOCÊ: O que eu sou...<blink>?
+2128|VOCÊ: Uma <wiggle>arquiteta?
+2129|MÃE: Você pode ser arquiteta, se quiser.
+2130|MÃE: Aí você pode projetar uma casa chique pra Mamãe morar.
+2131|VOCÊ: ...Era pra ser uma piada.
+2132|MÃE: Ah... Só pra você saber, uma piada precisa ter uma preparação e depois um desfecho.
+2133|Você assente.
+2134|Material difícil de trabalhar, não te culpo.
+2135|Sua mãe reorganiza o espaço de testes. Você recebe uma folha nova, e seus materiais de arte são rearrumados.
+2136|MÃE: A próxima coisa que eu queria que você desenhasse é: Sua Melhor Amiga.
+2137|VOCÊ: Quê, por quê?
+2138|MÃE: Explicar estragaria o experimento.
+2139|VOCÊ: Você sempre diz isso. O que isso tem a ver com o acidente?
+2140|Esse é um assunto delicado; você lembra que ela é muito ciumenta... às vezes com razão. Talvez seja uma boa hora para falar disso.
+2141|MÃE: Você não lembra quem é a sua melhor amiga?
+2142|Você se lembra dos encontros para tomar café com a sua mãe. Você pedia uma bebida gelada de morango, e ela pedia café preto puro e reclamava do preço.
+2143|É. Você lembra quem é a sua melhor amiga. Você desenha você e a Mãe tomando um refresco de verão feito duas aristocratas.
+2144|Ela contava todas as fofocas suculentas do trabalho e desabafava sobre paleontólogos rivais. Você sempre achou fofo, como se ela passasse o dia inteiro discutindo quais dinossauros eram mais legais que os outros.
+2145|Aí ela perguntava sobre a escola e você sempre dizia "Nada de mais."
+2146|Aí ela perguntava se você estava fazendo amigos e você dizia "Ninguém poderia te substituir, Mãe."
+2147|Ela pega o desenho e solta um suspiro audível antes de cobrir a boca depressa com a mão. Lagriminhas brotam nos cantos dos olhos dela, movidas pela alegria e não pela tristeza.
+2148|MÃE: Finalmente!
+2149|MÃE: Eu me lembro desse dia. Foi no verão passado, né?
+2150|Own, que fofo. A sua mamãe é a sua melhor amiga.
+2151|Você se remexe na cadeira, irritada e desconfortável, mas ainda ciente de que precisa espelhar a reação da sua mãe.
+2152|VOCÊ: Tenho quase certeza que sim. Tinha acabado de rolar uma festona de geólogos com um barraco, e você tava me contando tudo.
+2153|MÃE: Isso. Muito obrigada, Nima. Acho que a sua cura está avançando tremendamente. Quem sabe a gente não recria isso amanhã.
+2154|Ela pega o desenho e o guarda numa pasta de arquivo.
+2155|Vocês usam roupas combinando? Quem sabe uma bolsinha que ela usa pra te carregar por aí feito um chihuahua?
+2156|VOCÊ: Eu devia te agradecer.
+2157|Ela olha para você, com a boca levemente aberta. Os olhos dela tremem, pedindo em silêncio que você continue.
+2158|Não agradece ela, ela não merece isso.
+2159|De repente você se sente sem jeito. Olha para baixo e coloca uma folha nova na mesa. Rabisca alguma coisa para passar o tempo enquanto tenta ser sincera.
+2160|Enquanto tenta mentir para si mesma, você quer dizer.
+2161|VOCÊ: O que quer que tenha acontecido no acidente... Isso não importa agora.
+2162|VOCÊ: Não deve ter sido fácil, acho. Me ajudar a levantar de novo depois que eu caí.
+2163|Você sente que é a coisa certa a dizer. Ela tem dedicado todo o tempo dela a você, isso merece gratidão. Mas... tem alguma coisa raspando contra o seu cérebro.
+2164|MÃE: Obrigada, Nima...
+2165|MÃE: Eu... disse a mim mesma que você ia entender quando fosse mais velha.
+2166|MÃE: Você é muito madura pra sua idade. Sempre foi.
+2167|MÃE: Às vezes eu ouço meus colegas de trabalho reclamando das filhas. Rebeldes e mal-humoradas… Fico feliz que você não é como elas.
+2168|MÃE: Acho que eu devo ter feito alguma coisa certa.
+2169|Você se remexe na cadeira, desconfortável. O elogio dela deveria te deixar feliz, mas, por algum motivo, está fazendo sua cabeça doer.
+2170|MÃE: O que você está desenhando?
+2171|VOCÊ: Ah, é só um rabisco.
+2172|Você só estava arrastando o lápis pelo papel. Era livre, algo para ocupar as mãos enquanto você...
+2173|Você olha para o que criou.
+2174|MÃE: O que é isso...
+2175|VOCÊ: Eu... Eu não sei...
+2176|Ela tira o papel de você e o observa atentamente.
+2177|MÃE: Era tudo mentira?
+2178|VOCÊ: Não... Mãe... Eu...
+2179|MÃE: Que diabos é isso?
+2180|Você olha de novo para o desenho. Tinha sido feito totalmente à mão livre, você não pretendia desenhar nada de verdade, mas acabou criando alguma coisa.
+2181|Ei, não olha pra mim, eu também não sei o que é aquela coisa.
+2182|Você percebeu a armadilha assim que ela disse a palavra "amiga". Você sabe que só existe uma resposta de verdade para essa pergunta. Pelo menos, só uma resposta que a sua mãe vai aceitar.
+2183|VOCÊ: Bom, é você.
+2184|Lagriminhas brotam nos cantos dos olhos dela, movidas pela alegria e não pela tristeza. Ela parece finalmente ter sido pega num momento com que sonhou.
+2185|MÃE: Isso é verdade mesmo? É verdade que eu sou a sua melhor amiga?
+2186|Estranhamente, ela não parece estar falando com você.
+2187|VOCÊ: Não, na verdade não, acho.
+2188|A felicidade da sua mãe desmorona numa determinação sombria. Antes que ela possa agir com base nessa determinação, você continua falando com calma.
+2189|VOCÊ: Eu lembro que a gente saía junto o tempo todo. Desde que o Pai morreu, você foi uma parte enorme da minha vida.
+2190|VOCÊ: Não era uma regra que você me disse, mas foi uma que eu percebi quando era pequena. Eu não podia fazer amigas na escola.
+2191|Você continua explicando sua resposta enquanto começa a desenhar a sua mãe.
+2192|VOCÊ: Você ficava brava comigo quando eu saía com as meninas da equipe de natação.
+2193|VOCÊ: E de novo, poucos meses atrás, com a Pearl. Você fica brava toda vez que eu faço amizade com alguém.
+2194|MÃE: Pearl? Por que você ainda está pensando nela?
+2195|Sua mãe estala a língua e revira os olhos.
+2196|MÃE: Eu não queria tocar nesse assunto, mas talvez te ajude ouvir isso.
+2197|MÃE: Aquela mulher morreu. Ela morreu de um ataque cardíaco algumas semanas atrás.
+2198|VOCÊ: O quê?
+2199|Por um momento, você não consegue processar a informação que ela te apresentou.
+2200|Você fica ali sentada, piscando para segurar as lágrimas, com a boca levemente aberta.
+2201|MÃE: Não seja tão dramática, Nima, você mal conhecia ela.
+2202|Que bonito. O primeiro instinto dela ao te ver chorar é te dar mais bronca.
+2203|MÃE: Isso é uma coisa boa. Agora a gente pode esquecer toda a dor que ela causou pra nós.
+2204|Você não acredita que ela está agindo assim. A frieza dela desperta uma reação explosiva dentro de você.
+2205|VOCÊ: Por que você odeia tanto ela!?
+2206|MÃE: Você está mesmo me perguntando isso? Ela se convidou pra dentro da minha casa, guardou segredos com a minha filha de treze anos, se meteu nos nossos assuntos particulares.
+2207|MÃE: Foi uma invasão. Ela queria que tirassem você de mim.
+2208|MÃE: Não sei por que você idolatrava ela... Que tipo de pessoa se enfia na família dos outros desse jeito.
+2209|VOCÊ: Ela só estava tentando ajudar.
+2210|MÃE: Ela olhava a gente de cima. O objetivo dela era fazer você desconfiar de mim, e parece que ela conseguiu.
+2211|VOCÊ: Pelo menos ela prestava atenção em mim de verdade! Você não parava de me ignorar!
+2212|Suas palavras fazem ela te olhar com desdém.
+2213|MÃE: Entendi. Mais uma vez você está usando ela pra me machucar. Era só isso que você queria com isso tudo, não era?
+2214|Você não sabe bem como responder.
+2215|Há uma pausa enquanto ela pega o desenho e o guarda na pasta. Ela faz um som, metade grunhido, metade suspiro. Há raiva mordendo a respiração dela.
+2216|MÃE: Deixa eu te contar uma coisa...
+2217|Há ferro na voz dela; ela não vai deixar isso passar sem briga.
+2218|Você percebe que ela está tentando te manipular de novo.
+2219|A única resposta que ela vai aceitar é ela mesma. Ela quer que você desenhe algo doentio e falso, vocês duas de mãos dadas formando um coração com os braços, feito crianças.
+2220|Calma. Ela percebe que a proposta te deixou agitada.
+2221|Ela nunca foi sua amiga. Você nunca conseguiu procurá-la com os seus problemas. Se tem alguém que precisa cuidar de alguém, é você que cuida dela.
+2222|Você sabe a resposta. É só forçar um sorriso e desenhar.
+2223|Você não quer deixar ela vencer. Ela sempre consegue o que quer. É sempre ela quem está no controle.
+2224|Você não vai deixar ela vencer...
+2225|Você mantém seus sentimentos em segredo. Enterra eles bem fundo. Desde que você espelhe os sentimentos dela por completo, ela não vai ter motivo para desconfiar de você.
+2226|Aí a gente espera até o momento em que ela achar que venceu... E a gente mata ela.
+2227|De repente você relaxa. Um calafrio percorre o seu sangue. Você se pergunta se a Mãe realmente merece isso.
+2228|Você não faz ideia do que ela realmente fez. Ela é má.
+2229|Sua mente fica vazia. Seria… errado.
+2230|Você pode decidir depois...
+2231|Por enquanto... só desenha ela. Ela vai ficar feliz.
+2232|E você desenha.
+2233|Você admira o seu trabalho. Você conseguiu vomitar uma demonstração de devoção sublime nesta página.
+2234|MÃE: Muito obrigada, Nima. Acho que a sua cura está avançando tremendamente.
+2235|Você sorri para ela.
+2236|Você olha para a página em branco. A brancura ecoa a solidão oca no seu coração.
+2237|Você percebe, com uma risadinha melancólica, que não tem sentido; a pergunta não tem resposta.
+2238|VOCÊ: Acho que eu não tenho nenhuma amiga.
+2239|MÃE: Eu sei que você tem pelo menos uma amiga, Nima
+2240|VOCÊ: Se eu tivesse, provavelmente já teria lembrado.
+2241|MÃE: Eu não acredito em você.
+2242|O tom da voz dela é menos de quem te pegou numa mentira e mais de quem não acredita que você possa se sentir sozinha.
+2243|MÃE: Acho que você sabe qual é a resposta, mas está fingindo que não entende só por teimosia, né?
+2244|MÃE: Você só está descontando em mim de novo...
+2245|VOCÊ: Eu falei alguma coisa errada—
+2246|MÃE: Se você não sabe o que desenhar, pode simplesmente me desenhar. Você sabe disso.
+2247|MÃE: Você não é como as outras crianças, você é madura, e isso quer dizer que você tem dificuldade de se encaixar.
+2248|MÃE: Eu sempre fiquei feliz por você e eu termos uma relação diferente da de outras mães com os filhos. Eu posso contar com você tanto quanto você pode contar comigo.
+2249|MÃE: Você e eu somos uma equipe.
+2250|MÃE: Mesmo assim, apesar de tudo que eu faço por você...
+2251|Você está sozinha.
+2252|Você está sozinha porque ela não te deixa ter amigos, porque ela se preocupa demais com você.
+2253|Só existe uma pessoa na sua vida, <i>para o bem ou para o mal.</i>
+2254|Recomendo que você encontre outra válvula de escape criativa pra isso!
+2255|Chega de fingir, hora de um pouco de honestidade em brasa.
+2256|Você despeja uma enxurrada de criatividade na página e cria uma representação do que mais quer no mundo.
+2257|Um retrato de você enfiando uma faca no pescoço da sua mãe. Um sorrisão que chega até os dois globos oculares.
+2258|Você fica ali sentada, com um sorrisinho de canto, orgulhosa de si mesma e esperando que essa seja a palavra final de uma discussão que você acabou de começar.
+2259|Sua mãe pega o desenho e olha para ele. As mãos dela tremem levemente.
+2260|Ela pega o desenho e o coloca numa pasta. Passa um elástico em volta para mantê-la fechada.
+2261|MÃE: Por que você faria isso, Nima?
+2262|VOCÊ: Porque eu te odeio, Annabelle.
+2263|MÃE: Você não tem o direito de me odiar.
+2264|MÃE: Não depois de tudo que eu fiz por você...
+2265|Você já teve um amigo...
+2266|Você se lembra de estar sentada debaixo de uma árvore no parque com o seu pai. Vocês dois folheavam um livro pesado sobre peixes.
+2267|Ele apontava para cada um e dizia "esse aí se parece com você", e você ria.
+2268|Você o desenha da melhor forma que consegue. Mas agora você tem dificuldade de lembrar o rosto dele sem uma foto para te lembrar.
+2269|Você lembra que ele era meio bonitão. Tipo um ator.
+2270|Quando termina, você desliza o desenho pela mesa como uma oferenda à sua mãe.
+2271|Ela olha para ele e depois de volta para você, com um sorriso compreensivo.
+2272|MÃE: Ele com certeza era o <i>meu</i> melhor amigo… Até <i>você</i> nascer.
+2273|MÃE: Vou te contar uma coisa: se a gente continuar assim, se a gente continuar sendo boazinha, você e eu vamos… a gente vai ver ele de novo.
+2274|MÃE: Mas sabe. Na maior parte da sua vida até agora, ele não esteve aqui com a gente. Foi só você e eu. Você não me vê como sua melhor amiga?
+2275|VOCÊ: Vejo, mas eu ainda penso nele o tempo todo.
+2276|MÃE: Eu não acho muito justo o seu pai levar todo esse crédito.
+2277|MÃE: Você nem lembra dele direito, Nima. Às vezes você fala dele só pra eu comprar comida chique: "Ah, isso era o favorito do Pai, a gente devia levar."
+2278|Ela imita a sua voz, cantarolada e bajuladora.
+2279|MÃE: Você idolatra ele, mas ele ligava mais pra própria felicidade do que pra família. Eu lembro de quando você era só um bebezinho, ele sumia, me deixava com tudo pra poder ir pescar.
+2280|VOCÊ: Ele não faria isso...
+2281|Ela suspira e balança a cabeça devagar.
+2282|MÃE: <speed=0.5>Quer dizer,<speed=0.5> nós duas sentimos falta dele, mas isso não é desculpa pra ignorar tudo que eu fiz.
+2283|VOCÊ: Ele não teria me aprisionado aqui embaixo...
+2284|MÃE: Deixa eu te contar uma coisa.
+2285|Você não sabe bem o que é uma melhor amiga… mas tem muita gente na sua vida que você ama. Talvez sua mãe queira que você desenhe uma delas.
+2286|Então você faz um retrato de família. Você no meio, amparada pelo Pai, pela Mãe, pelo James Pond e pelo Garoto Tomate.
+2287|Você não pode escolher só um, isso seria injusto.
+2288|O que é aquela coisa ali na direita?
+2289|Sua mãe pega a página e a examina.
+2290|MÃE: Isso aqui é mais de uma pessoa.
+2291|VOCÊ: Bom, eu não amo você mais do que o Pai ou o James Pond. É tudo amor, então eu desenhei todo mundo que eu amo.
+2292|MÃE: Quem é o… deixa pra lá, não quero saber.
+2293|MÃE: Acho muito bonito você tentar incluir todo mundo, mas nesta página a única pessoa de verdade sou eu. Então isso quer dizer que eu sou a sua melhor amiga?
+2294|É nojento o quanto ela é desesperada.
+2295|Uma indignação justa cresce dentro de você. Com certeza todo mundo nessa página é uma pessoa de verdade para você. Todos representam partes importantes da sua vida.
+2296|VOCÊ: Não.
+2297|MÃE: Eu faço tanto por você e você nem acha que a nossa relação ganha da sua relação com o seu peixe?
+2298|MÃE: O seu pai também, eu também sinto falta dele, mas ele não estaria disposto a fazer os sacrifícios que eu faço por você.
+2299|Você tem quase certeza de que um bicho de estimação conta como amigo.
+2300|Você desenha o James Pond, seu único e verdadeiro melhor amigo. Mais do que um colega das horas boas, ele está com você pra valer.
+2301|Você sempre se sentiu mais próxima dos peixes do que das pessoas.
+2302|Sua mãe pega o desenho depois que você dá os toques finais.
+2303|MÃE: O que é isso?
+2304|VOCÊ: Esse é o James Pond!
+2305|MÃE: Ele tem partes humanas.
+2306|VOCÊ: É só o jeito que eu desenho ele. Sabe, já que ele é espião. Ia ser difícil ele ser espião se não tivesse mãos.
+2307|MÃE: Certo. Então você considera o peixe da família o seu melhor amigo.
+2308|VOCÊ: É, ele basicamente cumpre todos os requisitos.
+2309|MÃE: E eu? Você não acha que a nossa relação vale mais do que a sua relação unilateral com um peixe? Você acha que ele sequer entende, conceitualmente, o que você é?
+2310|VOCÊ: Bom… você é minha mãe, é diferente.
+2311|MÃE: Quem disse? Eu acho que uma mãe deveria ser a melhor amiga da filha. Eu te amo, eu te apoio, é isso que uma melhor amiga deveria fazer.
+2312|VOCÊ: Você não é a minha melhor amiga.
+2313|Sua mãe enfia o desenho bruscamente numa pasta de arquivo.
+2314|MÃE: Eu faço tanto por você e você nem acha que a nossa relação ganha da sua relação com o seu <shake>peixe?
+2315|Vovó? Você nem conhece direito a sua avó.
+2316|Mas é estranho: você sente que tinha alguém na sua vida que era meio que uma avó. Só que ela não era sua, era só uma vovó qualquer por aí.
+2317|Você começa a desenhar, fazendo questão de começar pela sua mãe.
+2318|VOCÊ: Ei, mãe. Como era a pó pó? Eu não lembro nada dela.
+2319|O humor dela muda assim que a palavra pó pó ecoa no ar parado.
+2320|MÃE: Por que você está pensando na pó pó?
+2321|VOCÊ: Só porque… eu tô pensando na gente.
+2322|VOCÊ: Eu tava me perguntando se você e a pó pó eram próximas como você e eu.
+2323|MÃE: Não… não éramos.
+2324|Você termina o desenho e o passa pela mesa. Sua mãe só dá uma olhada; agora você percebe que ela está furiosa.
+2325|MÃE: Fico feliz que você não se lembre dela. Vamos não falar mais dela, tá bom.
+2326|MÃE: A gente mora aqui agora, ela está muito longe e nunca mais vai machucar a gente.
+2327|VOCÊ: Machucar a gente?
+2328|MÃE: Eu falei pra <shake>esquecer isso.
+2329|VOCÊ: Você é a <i>minha</i> mãe e você me machuca.
+2330|MÃE: Eu não sou nada parecida com ela.
+2331|MÃE: Eu passei cada hora acordada tentando te ajudar. Você tem ideia do que você me fez passar?
+2332|Assim que ela disse a palavra "amiga", uma bile raivosa subiu das suas entranhas. Um fogo que fez cócegas no fundo das suas amígdalas. Ela sabia tão bem quanto você...
+2333|...Você não tem nenhuma amiga.
+2334|Mas havia um motivo para isso. Um tema em comum que emoldurava o seu isolamento... Qual era mesmo?
+2335|Você desenha um garoto da sua idade usando uma camisa de hóquei. Talvez ele fosse alguém que você viu na escola, e a única ligação dele com você é ser uma representação útil de um estranho.
+2336|Você tem uma hipótese e decide colocá-la à prova. Um ato de descoberta empírica do qual você tem certeza de que sua mãe se orgulharia.
+2337|Você termina e se recosta na cadeira. Sua mãe arranca o papel e o examina.
+2338|MÃE: Quem é esse?
+2339|VOCÊ: O Troy, ele é o meu melhor amigo.
+2340|MÃE: <speed=2>O quê? Você nunca falou dele antes… Ele tem cara de problema. Tem cara de quem sai pra atirar em esquilo e virar latinha de cerveja. Nima, não sei se eu fico confortável com você andando com alguém assim.
+2341|VOCÊ: Não, ele é da banda. Ele toca clarinete.
+2342|Você observa o rosto da sua mãe se contorcer enquanto ela inventa um problema novo.
+2343|MÃE: <size=75%><speed=2>Músicos são narcisistas, eles só ligam pra si mesmos. Alguém assim não vai ser um bom amigo pra você, Nima. Eu te proíbo de ver esse garoto de novo. Quer dizer, quem sabe o que ele realmente quer de você. Todo mundo nessas aulas de banda usa drogas, isso eu te garanto.
+2344|VOCÊ: Não se preocupa, mãe.
+2345|VOCÊ: Ele não existe.
+2346|MÃE: O quê?
+2347|VOCÊ: Por que é tão importante pra você que eu não faça amigos?
+2348|MÃE: Você mentiu pra mim?
+2349|VOCÊ: Eu não sou burra, mãe. Você odeia todo mundo; se não tem um bom motivo, você inventa um. Você sempre faz isso...
+2350|MÃE: Eu sempre faço isso...<blink>?
+2351|Você era completamente sozinha. Ia da escola direto para o trabalho. Tinha medo demais de tentar fazer amigos, mas os vínculos inevitavelmente brotam em lugares estranhos, de qualquer jeito.
+2352|Você fez amizade com uma senhora no asilo. Ela era excêntrica, gentil e meio brincalhona. Ela te lembrava o seu pai, de um jeito estranho.
+2353|Ela te ajudou a atravessar uns tempos sombrios.
+2354|Você faz o possível para registrar a imagem dela no papel. Gasta um tempo a mais tentando capturar o brilho travesso nos olhos dela.
+2355|VOCÊ: Eu tinha uma amiga chamada Pearl. Conheci ela no asilo.
+2356|VOCÊ: Ela adorava fazer trocadilho com o próprio nome. "Pearl de sabedoria", "Pearls aos porcos". Ela tinha um monte.
+2357|MÃE: Nima, para!
+2358|Antes que você possa terminar, sua mãe percebe o que você está fazendo e arranca o papel de você.
+2359|MÃE: Quantas vezes eu vou ter que te dizer, essa mulher <i>não</i> é sua amiga.
+2360|VOCÊ: Qual é o problema?
+2361|MÃE: Nima, ela era uma pessoa perigosa. Você trabalhava naquele asilo e, quando saiu… ela… foi atrás de você. Ela tentou continuar na sua vida.
+2362|MÃE: Ela era sinistra.
+2363|VOCÊ: Ela era minha amiga.
+2364|MÃE: Não acredito que você faria isso comigo.
+2365|Tem uma pessoa que está com você desde o começo.
+2366|Opa, ei, não tô gostando de onde isso vai dar.
+2367|Você se desenha com a sua melhor amiga. Como uma sombra que sempre te protege. Ela está sempre por perto, com umas palavras de incentivo ou a chave certa para a vitória na hora certa.
+2368|Você precisa lembrar: você é só a boneca dela. Ela vai te machucar se você não jogar o jogo dela do jeito que ela quer.
+2369|MÃE: O que está acontecendo aqui?
+2370|VOCÊ: Aquela é a minha amiga atrás de mim.
+2371|MÃE: É só uma sombra… É uma amiga imaginária sua ou algo assim?
+2372|Você abre um sorrisão e oferece o desenho à sua mãe.
+2373|VOCÊ: É, ela é legal, ela me ajuda muito.
+2374|MÃE: Nima... você está velha demais pra amigos imaginários, não é isso. Me explica.
+2375|Você dá uma risadinha.
+2376|VOCÊ: Não, é segredo.
+2377|MÃE: Nima, eu sou sua amiga, lembra? Você me contava tudo. Me ajuda a entender o que isso significa?
+2378|VOCÊ: Você não é minha amiga. Eu sou só uma boneca pra você.
+2379|Tá bom... de novo... agradeço por você me ouvir, mas <shake>não fala isso pra ela.
+2380|MÃE: O quê? Isso não é verdade!
+2381|VOCÊ: Você não liga pra mim, só quer que eu faça o que mandam. Tô cansada disso.
+2382|As narinas dela se dilatam enquanto ela tenta conter a fúria.
+2383|MÃE: Você adora me machucar, não é?
+2384|Bom, pelo menos o tubarão é o seu melhor amigo.
+2385|Você desenha o tubarão nadando por um arco-íris enquanto você vai montada nas costas dele. No geral, uma representação bem padrão do seu tubarão.
+2386|Tubarões normalmente não voam... né?
+2387|O seu voa... Ele tem superpoderes.
+2388|Não se preocupa com isso.
+2389|Sua mãe pega o desenho e o examina. Ela sorri um pouquinho, inclina a cabeça e apoia a bochecha na mão, maravilhada com o seu domínio da técnica.
+2390|MÃE: Que fofo. Você vivia desenhando coisas assim.
+2391|VOCÊ: Ei, você não ia me devolver o tubarão depois dos testes de ontem?
+2392|MÃE: Não devolvi?
+2393|VOCÊ: Não! Você esqueceu de novo!
+2394|MÃE: Olha o tom quando falar comigo.
+2395|VOCÊ: ...Desculpa.
+2396|MÃE: Esse desenho é fofo pra uma criança de seis anos. Pra uma menina da sua idade, me preocupa que você não considere nenhum ser humano vivo de verdade como seu melhor amigo.
+2397|Sua mãe guarda o desenho numa pasta e busca outra folha de papel para você.
+2398|MÃE: Por favor, tenta de novo. Desenha a sua melhor amiga.
+2399|Talvez você não saia muito. Talvez não tenha muitos amigos de verdade. E daí? Você tem alguém melhor que um amigo… uma <i>heroína.
+2400|Você queria desenhar a franquia inteira, mas não tem espaço suficiente na página.
+2401|Em vez disso, você se contenta em desenhar o Garoto Tomate voando para combater o crime ao lado da sua personagem original <size=75%>autoinserida</size>, a Garota Anjo Nima.
+2402|"Garota Nimanjo" não ficaria melhor?
+2403|Não, isso soa idiota. A Garota Anjo Nima é <i>maneira</i> e merece um nome <i>maneiro</i>, não um nome de piadinha besta que nem é inteligente.
+2404|Eu achei inteligente...
+2405|Você termina o desenho, e sua mãe o pega com cuidado e o examina.
+2406|MÃE: Isso é… aquele desenho animado que você assistia quando era pequena?
+2407|O Garoto Tomate é atemporal.
+2408|VOCÊ: É.
+2409|MÃE: Então você considera esse personagem de desenho o seu melhor amigo.
+2410|VOCÊ: É que eu me identifico muito com ele, sabe?
+2411|MÃE: Certo… Você acha que pode tentar de novo e pensar numa pessoa humana de verdade que você consideraria a sua melhor amiga?
+2412|Sua mãe guarda o desenho numa pasta.
+2413|MÃE: Por favor. Desenha a sua melhor amiga.
+2414|Afinal, o que é um amigo? Você tem a impressão de que passou a maior parte da vida sozinha.
+2415|Então o que você vai desenhar?
+2416|Bem lembrado; você tem amigos de sobra.
+2417|Você desenha um autorretrato.
+2418|Opa, não sei se isso é uma boa ideia!
+2419|Tarde demais, o desenho está pronto!
+2420|Sua mãe o pega e recua com nojo enquanto o analisa.
+2421|MÃE: Nima, isso aqui era pra ser você?
+2422|VOCÊ: <bounce>Ééééééééé!
+2423|MÃE: Por que você se desenhou assim? É sinistro.
+2424|VOCÊ: Eu sou uma solitária com muita imaginação. Sou maneira demais pra ter amigos.
+2425|MÃE: Tá...
+2426|MÃE: Será que você pode tentar de novo? Dessa vez lembra o quanto eu te amo.
+2427|Você se lembra de quando tinha amigas. Você ia pra casa da Tiffany depois do treino.
+2428|Ela morava perto de uma loja de bubble tea, então vocês passavam lá no caminho e iam procurar sapos no córrego atrás da casa dela.
+2429|Você começa pela Tiffany e, conforme vai se lembrando de cada integrante da equipe, vai acrescentando uma por uma.
+2430|O treinador, um cara grandão, fica atrás do grupo com dois joinhas enormes para mostrar o quanto está orgulhoso.
+2431|Você se desenha ali, feliz, rodeada de amigas.
+2432|Você termina e fica pensando, se perguntando se esqueceu alguém.
+2433|Sua mãe tira o desenho de você e o examina.
+2434|MÃE: Essa é a sua equipe de natação?
+2435|MÃE: Isso é meio triste... considerando que é unilateral.
+2436|VOCÊ: O que isso quer dizer?
+2437|MÃE: Bom, só que elas nunca mais te procuraram depois que a gente se mudou pra cá.
+2438|Você faz bico, tendo esquecido justamente que elas não eram mais suas amigas.
+2439|MÃE: Quer tentar de novo?
+2440|Sua mãe amassa a página e a joga no lixo. Ela reinicia o teste.
+2441|É isso mesmo. Você não pode esquecer.
+2442|Você desenha uma pedra, um disco redondo de basalto com formato de amigo. Dois olhinhos esbugalhados no rosto dele lhe dão um eterno olhar de canto travesso. Você o desenha como um obituário.
+2443|Ele podia não ser um dos pilares da sua comunidade de brinquedos, mas ainda fazia parte da vila.
+2444|Quando termina, você passa o desenho para a sua mãe de má vontade.
+2445|MÃE: Isso é… uma pedra?
+2446|VOCÊ: É o Rocky Lee! Não me surpreende você não lembrar dele.
+2447|VOCÊ: A minha pedra de estimação! Você jogou ele fora! Quando a gente tava se mudando, você disse que eu só podia levar metade dos meus brinquedos. Você… jogou ele fora enquanto eu tava na escola.
+2448|MÃE: Nima… Eu… bom, me desculpa por ter jogado a sua pedra fora.
+2449|MÃE: Não é bem sobre a pedra, é?
+2450|VOCÊ: Claro que é sobre a pedra… Por que mais eu estaria brava.
+2451|MÃE: Tá bom.
+2452|MÃE: Você acha que pode tentar de novo? Quem sabe desenhar uma pessoa?
+2453|Ela tira a folha com cuidado e a coloca com carinho na pasta, junto com o resto dos desenhos. Ela te dá uma folha nova.
+2454|MÃE: Quem sabe alguém que te ama e que você perdoa não importa o quê?
+2455|Ela sorri para você, cheia de expectativa.
+2456|Uma ideia toma conta de você. Algo que você não quer encarar de frente.
+2457|Sua mão aperta o lápis, e você começa a desenhar. Primeiro um oval comprido. Depois você o preenche...
+2458|Você se desenha acenando.
+2459|Você é a sua própria melhor amiga? Narcisista.
+2460|Você hesita antes de entregar o desenho à sua mãe.
+2461|Ela o arranca de você e o examina.
+2462|MÃE: Por que você se desenhou?
+2463|VOCÊ: Acho que... ultimamente eu tenho tido dificuldade de ser amiga de mim mesma, e eu queria fazer algo gentil.
+2464|Sussurrar afirmações positivas baixinho não vai resolver isso.
+2465|VOCÊ: Eu não quero mais ser má comigo mesma.
+2466|Você não está pronta para encarar os seus problemas. Só quer que os sentimentos ruins vão embora.
+2467|Você começa a chorar e esfrega os olhos. Você não consegue quebrar o espelho da sua mente.
+2468|MÃE: Ah, querida. Por favor, não seja dura consigo mesma. Eu quero que você se ame tanto quanto eu te amo.
+2469|MÃE: <i>Você é a minha filha boa e feliz.</i> Lembra?
+2470|Uma sensação de formigamento sobe pela sua espinha e te traz de volta à realidade num tranco.
+2471|VOCÊ: É...
+2472|MÃE: Por que você não tenta de novo? Vê se consegue pensar em outra pessoa que você ama?
+2473|Ela leva o seu eu do espelho embora e o lacra na pasta para todo o sempre… Ela também busca uma folha nova para você.
+2474|Você sente algo por trás das palavras da sua mãe.
+2475|Uma pequena parte primitiva de você pressente; seus instintos dizem que ela está se preparando para te machucar.
+2476|Você se lembra de uma época da sua vida em que tudo fazia sentido.
+2477|Você recebia prêmios pelo seu esforço. As pessoas notavam quando você se esforçava.
+2478|As pessoas com quem você nadava… vocês eram todas uma equipe.
+2479|Um amigo é alguém que te faz feliz.
+2480|Se você quer fazer a sua mãe feliz, talvez devesse dizer que ela é a sua melhor amiga.
+2481|Ou você podia mentir...
+2482|Em algum momento, você teve uma espécie de emprego.
+2483|Você se pergunta se algum dos seus colegas de trabalho era seu amigo.
+2484|Surge na sua mente a imagem de uma senhora com um colar de pérolas e um sorriso travesso torcido no rosto.
+2485|Melhor não.
+2486|Você afasta esse pensamento da cabeça e se concentra em outra coisa.
+2487|VOCÊ: Você tem amigos no trabalho, mãe?
+2488|MÃE: Hã, não... são colegas de trabalho. A gente não faz amizade com colega de trabalho.
+2489|VOCÊ: Por que não?
+2490|MÃE: Pra que dificultar o trabalho de todo mundo mais do que precisa? É só fazer o serviço e manter o profissionalismo.
+2491|Você se põe a fazer o serviço e manter o profissionalismo.
+2492|Você ia à escola. A TV te disse que é normal ter amigos na escola. Era pra vocês brincarem juntos e terem interesses em comum.
+2493|Você folheia seus pensamentos como um catálogo. Não tem muitos nomes ali.
+2494|Você não tem permissão para chamar ninguém de amigo.
+2495|Você se pergunta por quê.
+2496|Porque você é uma pessoa ruim.
+2497|Porque eles vão morrer.
+2498|Faz sentido.
+2499|Congee é seu inimigo.

@@ -1,0 +1,500 @@
+9000|MÃE: Quer dizer… Eu sempre tive medo de que as pessoas descobrissem isso.
+9001|MÃE: Não dá pra confiar nelas…
+9002|VOCÊ: A gente não sabe disso.
+9003|VOCÊ: Lembra quando eu falei da voz na minha cabeça?
+9004|MÃE: Sim… Se você se lembra disso, querida, então com certeza percebe que a sua noção de realidade não está muito firme.
+9005|VOCÊ: Ela sumiu agora.
+9006|MÃE: Ah… é mesmo?
+9007|VOCÊ: Eu achava que era a voz do parasita… ou algo assim. Acho que soa meio estranho falando em voz alta.
+9008|VOCÊ: Acho que… Era só difícil ser duas pessoas ao mesmo tempo.
+9009|VOCÊ: Tinha a eu que você via… E tinha a eu que só eu via.
+9010|VOCÊ: Acho que, pra maioria das pessoas, as duas seriam a mesma pessoa, mas… Não pra mim.
+9011|VOCÊ: Admitir que a Nima se foi, acho que isso é importante. Se eu não admitisse, eu ia voltar a ser duas pessoas.
+9012|Os olhos dela correm de um lado pro outro, confusos; você sente que ela está se esforçando muito pra não te chamar de louca.
+9013|MÃE: Querida… Eu não entendo.
+9014|VOCÊ: …É difícil de explicar.
+9015|Esse sentimento não é humano; você acha que foi algo que você mesma fez. Um jeito de entender a sua própria natureza.
+9016|VOCÊ: Você já deixou a Nima ir uma vez.
+9017|Ela desvia o olhar para a mesa.
+9018|MÃE: Por favor, eu…
+9019|VOCÊ: Quando você me apresentou ao corpo dela, não sabia se ia funcionar.
+9020|VOCÊ: Ela tinha partido, e você tinha fé de que eu ia trazê-la de volta.
+9021|VOCÊ: No começo não eram testes… Da primeira vez que você me trouxe de volta, não deu certo.
+9022|VOCÊ: Eu sei… Se você deixar a Nima ir, vai ter que admitir que estava errada.
+9023|MÃE: <shake>Para!</shake>
+9024|VOCÊ: Eu também me lembro do momento em que me tornei a Nima.
+9025|VOCÊ: Eu me lembro da passagem de existir para saber que existo. Tenho dificuldade de conceber isso, estou limitada pelo que o cérebro dela consegue entender.
+9026|MÃE: Você só é… muito imaginativa!
+9027|VOCÊ: Foi como se eu estivesse numa caverna, e o meu horizonte fosse a parede, e de repente eu saísse e visse o oceano pela primeira vez.
+9028|VOCÊ: Eu vejo a mesa e o meu cérebro se enche de todas essas associações. Tipo... ela não é <i>só</i> uma mesa.
+9029|Essa era a mesa onde o Pai limpava os peixes… Isso me faz pensar em <b>Pai</b> e <b>peixe.</b>
+9030|VOCÊ: No começo era demais, mas eu aprendi a me concentrar.
+9031|VOCÊ: Como você consegue? Você fica meio anestesiada com todas as coisas por aqui?
+9032|MÃE: …Não sei do que você está falando.
+9033|VOCÊ: Eu provavelmente conseguiria passar horas olhando pra tudo e só… <i>pensando</i> nisso.
+9034|Ela olha ao redor da sala. Sorri quando os olhos passam pela árvore de Natal.
+9035|MÃE: Acho que… Eu só não penso nisso.
+9036|Como explicar que você é… bem… <i>você.</i>
+9037|Você não é a Nima, mas isso não ajuda muito a definir o que você é.
+9038|Talvez você possa começar com um nome novo.
+9039|Quando ela "descobriu" o verme, chamou-o de Nimaia, o que soa um pouco poético…
+9040|Mas esse é o nome que ela deu pra você; você não quer dar a ela a honra de escolher o <i>seu</i> nome.
+9041|Novima? Não… Isso é fraco demais. Juntar parasita e Nima pra virar Paranima?
+9042|Na verdade, você prefere que a sua identidade nem faça referência à Nima, considerando o quanto todo esse processo foi sufocante.
+9043|Você percebe que está se distraindo de novo. Contando piadas pra si mesma em vez de encarar ela.
+9044|Você solta o ar e se concentra.
+9045|Você conhece a sua mente, o seu corpo e o seu coração.
+9046|Não há jeito melhor de mostrar a ela quem você é do que dizer <i>exatamente</i> como você se sente.
+9047|Você solta um fio lento de ar pelo nariz.
+9048|Você não pode controlar como ela vai receber isso. A única coisa que pode fazer é manter essa clareza de si trancada na mente.
+9049|Você sabe quem você é; ela é quem está confusa.
+9050|Mesmo que ela esteja certa, mesmo que você seja só a Nima com um simbionte amigável…
+9051|Nenhuma de vocês duas jamais vai conseguir provar isso.
+9052|O mundo em que vivemos, aquele em que a Nima se foi, é simplesmente mais racional.
+9053|Dois indivíduos se fundiram, até o osso, até o sangue; os dois componentes se foram, morrendo no processo de transformação.
+9054|Você é a única coisa que resta.
+9055|Você pensa nas cartas que a Annabelle roubou da Nima.
+9056|Bom lembrar: elas não são suas amigas. Foi uma coisa muito cruel o que ela fez com a Nima, mas a Nima nunca descobriu a verdade.
+9057|Isso importa pra você só como um lembrete de como a Annabelle pensa.
+9058|Existe uma verdade mais profunda do que qualquer racionalização que você possa fazer.
+9059|Você não gosta do seu próprio rosto.
+9060|Você não gosta de saber que a Annabelle te vê e te reconhece por ele.
+9061|Ele não é você.
+9062|O único motivo de você estar aqui é que a Annabelle está fugindo da própria culpa.
+9063|Você conhece a mente da vítima, mas não consegue imaginar o que a Annabelle deve estar sentindo. Ter matado a própria filha e profanado o corpo dela depois.
+9064|Não é de se espantar que ela prefira se agarrar a esse cobertor de mentiras.
+9065|Melhor convencê-la a abrir mão da própria história do que arrancá-la dela… Mesmo assim… isso provavelmente não vai funcionar.
+9066|Depois disso, você vai estar livre, e o trabalho duro de viver a sua própria vida pode começar.
+9067|VOCÊ: Lá no penhasco… Você disse pra Nima que era você quem queria fugir.
+9068|Você sabe que ela não quer estar aqui. Ela é uma participante relutante da própria vida.
+9069|Se ela pudesse aceitar que a Nima se foi. Talvez isso a ajudasse a se encontrar de novo.
+9070|VOCÊ: Algumas vezes eu me perguntei se a verdade não é que você achava a Nima um fardo. Que você se sentia tão presa quanto ela.
+9071|MÃE: <size=75%>Isso não é verdade.
+9072|VOCÊ: Você disse isso em algum momento, aqui embaixo, quando achou que eu não ia lembrar- Você nunca levou jeito pra ser mãe.
+9073|MÃE: O que você quer que eu diga? Que eu sou uma mãe ruim?
+9074|MÃE: É por isso que você está dizendo tudo isso? Pra me castigar de novo?
+9075|VOCÊ: Por que você se importa se eu sou a Nima ou não! Se ela se foi, você finalmente pode ser feliz.
+9076|MÃE: Você acha que eu teria feito <i>qualquer</i> coisa disso se eu realmente quisesse isso!?
+9077|MÃE: Eu estava com raiva. Eu disse que você não tinha o direito de se chamar de minha filha, e você fugiu.
+9078|MÃE: Eu não quis dizer aquilo.
+9079|MÃE: A culpa é minha.
+9080|MÃE: Tá feliz? Nada disso teria acontecido se o Allan ainda estivesse aqui.
+9081|VOCÊ: Eu só acho que a gente é igual.
+9082|VOCÊ: O Allan e a Nima estão te prendendo.
+9083|MÃE: Como você pode dizer isso…?
+9084|Você suspira, isso não está funcionando. É mais fácil reabrir velhas feridas do que curá-las.
+9085|Você se pergunta por um momento se família é mesmo importante pra você.
+9086|Você herdou da Nima um álbum inteiro de lembranças borradas. Mas é só isso que elas são: lembranças.
+9087|Aqueles retratos nunca combinaram de verdade com o conceito de família para o qual a Annabelle tentava te condicionar.
+9088|Talvez um dia você viva o que a Nima viveu um dia.
+9089|Você trava um pouco.
+9090|Quando você olha pro rosto da Annabelle, mesmo ela estando desarmada, mesmo ela tendo se rendido…
+9091|Ela ainda te assusta.
+9092|Você se lembra de respirar.
+9093|Você se lembra de que ela não pode mais te machucar.
+9094|Depois de ter esse desfecho, você pode ir embora.
+9095|Ela não vai conseguir te impedir.
+9096|VOCÊ: O que era mesmo que você dizia, cada vez que me matava? "Minha filha boa e feliz", né?
+9097|MÃE: Bom… você estava sendo malvada. Me ameaçando… mesmo agindo como a Nima, você não estava agindo como um ser humano.
+9098|MÃE: Eu precisava te lembrar de quem você devia ser.
+9099|Às vezes isso era verdade. A primeira vez que ela te trouxe de volta foi confusa; você a atacou.
+9100|Mais tarde, porém, houve algumas "rodadas" em que ela te matou só porque você tinha falado errado.
+9101|VOCÊ: Você sabia o que estava fazendo naquela época. Às vezes só dizer aquela frase já bastava pra eu ter medo de você.
+9102|MÃE: Você parecia nunca guardar suas memórias, mas parecia se lembrar de estímulos fortes, como a sala da caldeira.
+9103|Você estremece ao lembrar o quanto tinha medo daquela sala.
+9104|VOCÊ: Eu me lembro de você me amarrando naquela caldeira…
+9105|MÃE: ...Depois de você tentar me matar.
+9106|Ela desvia o olhar para a porta da sala da caldeira. As sobrancelhas formam uma linha, transmitindo uma mistura de teimosia e vergonha.
+9107|MÃE: Eu nunca vou me perdoar pelo que fiz… Mas ainda acredito que era necessário.
+9108|VOCÊ: É claro que não era.
+9109|MÃE: Você está aqui agora porque cada teste conseguiu te ensinar honestidade, compaixão e medo. É tudo de que você precisa pra viver uma vida feliz no nosso mundo.
+9110|VOCÊ: Se você queria que eu agisse como um ser humano, devia ter me tratado como um. Tudo o que você conseguiu foi me fazer ter raiva de você.
+9111|MÃE: Você tem razão, eu sou mesquinha e rancorosa. Eu aprendi essas lições exatamente do mesmo jeito que te ensinei.
+9112|MÃE: Considerando tudo, você até que saiu bem.
+9113|VOCÊ: Você vivia me dizendo que a Nima cair no rio foi um acidente.
+9114|VOCÊ: Nunca funcionou de verdade- isso sempre me dava a pista de que você não estava me contando a história toda.
+9115|VOCÊ: Por que você continuava fazendo isso?
+9116|MÃE: Se você aceitasse, então podia se tornar verdade.
+9117|Você tenta sentir alguma coisa.
+9118|Aquilo meio que quica pelo seu cérebro, mas a sensação é estranha. É como a Nima se sente, não você. É uma emoção que você conjurou puxando memórias associadas.
+9119|A Nima teria ficado furiosa se a Annabelle fizesse isso com ela. Mas ela nunca teria coragem de dizer isso em voz alta.
+9120|Ela provavelmente teria feito algum comentário atrevido e indireto que ia passar direto por cima da cabeça da Annabelle.
+9121|Ela também ficaria triste, triste por ver a mãe sofrendo assim.
+9122|Estranhamente, ela… talvez também ficasse um pouco feliz.
+9123|O que ela mais queria no mundo era passar mais um tempo com a mãe.
+9124|Mas… Esses são os sentimentos dela, não os seus.
+9125|Você só está cansada.
+9126|A Nima tinha o mau hábito de idolatrar as pessoas.
+9127|Ela gostava de se ver como uma heroína, e quando via outras pessoas assim, pessoas que queriam "salvar" os outros, achava o máximo.
+9128|A Annabelle tinha medo de que a Pearl fosse tirar a Nima dela. A parte assustadora é que você não tem certeza do que a Nima achava dessa possibilidade.
+9129|Você vai ter que lembrar disso no futuro.
+9130|Uma parte de você sempre vai achar pessoas "heroicas" o máximo, mesmo que o heroísmo delas, na prática, só seja destrutivo.
+9131|VOCÊ: Você não sabe do que está falando. Não sei por que eu ainda tenho que tentar te convencer depois de tudo isso.
+9132|MÃE: Você está confusa, sofreu um traumatismo craniano, tem um verme no seu cérebro e ainda é uma criança.
+9133|MÃE: Você se lembrou de tudo, mas isso não quer dizer que você sabe o que aconteceu!
+9134|VOCÊ: Nem você!
+9135|Ela desvia o olhar de você e franze a testa.
+9136|Você se lembra de que essa é a coisa certa a fazer.
+9137|É melhor dizer a verdade do que vocês duas continuarem vivendo uma mentira.
+9138|Você deve buscar se desapegar.
+9139|Você tem a impressão de que herdou um pouco do carma da Nima, das conexões dela e das vaidades materiais dela. Tudo isso é uma ilusão.
+9140|O seu carma com a Annabelle é só seu.
+9141|Faça ela enxergar isso.
+9142|A Nima tinha medo de morrer.
+9143|Mesmo antes do acidente, com o Allan e a Pearl morrendo, parecia que ela era amaldiçoada.
+9144|Depois, ela entrou em coma, e a travessia dela pelo véu foi lenta. Até a "morte" dela, do ponto de vista médico, durou só alguns instantes.
+9145|Essas memórias são excruciantes; a Nima sabia que estava morrendo, que a mãe ia fazer alguma coisa com ela.
+9146|Ela não conseguia se mexer, não conseguia sinalizar de jeito nenhum que ainda estava ali.
+9147|Você quer consolá-la de algum jeito.
+9148|MÃE: É tão difícil assim só <i>fingir</i> ser a Nima…
+9149|MÃE: Você não acha que me deve isso?
+9150|MÃE: Eu sacrifiquei tanto por você, eu despedacei a minha vida por você…
+9151|MÃE: Eu te dei o corpo da minha filha!
+9152|Com uma última confissão rouca, o último fio da ilusão se rompe.
+9153|Você vê o choque da percepção passar pelos olhos dela. Ao contrário da fúria, ela já aceitou a verdade.
+9154|MÃE: Ela se foi.
+9155|As lágrimas se acumulam nos cantos dos olhos dela e escorrem pelas bochechas.
+9156|MÃE: Ela se foi de verdade.
+9157|Você fica em silêncio com ela. Sem vontade de consolá-la, mas também sem vontade de ir embora.
+9158|MÃE: O que eu estou fazendo… qual era o sentido de tudo isso?
+9159|MÃE: Eu matei ela.
+9160|MÃE: O que eu vou fazer?
+9161|Ela funga uma última frase antes de desabar numa bagunça entrecortada de lágrimas e soluços.
+9162|Você espera por ela, enquanto a sombra passa.
+9163|VOCÊ: Eu odeio este porão.
+9164|MÃE: ...Eu também.
+9165|VOCÊ: Quanto tempo levou pra sua vida inteira vir parar aqui embaixo?
+9166|VOCÊ: Primeiro era só um depósito, depois virou o seu laboratório, e agora nós duas moramos aqui embaixo…
+9167|VOCÊ: A Nima não ia querer que você fizesse isso consigo mesma.
+9168|MÃE: Eu sei disso. Eu não quero que você seja assim.
+9169|MÃE: Eu quero ser uma boa mãe... Compassiva, confiável. Um bom exemplo.
+9170|MÃE: Mas essa não sou eu.... Eu nunca devia ter tido uma filha.
+9171|MÃE: Quando o Allan morreu, eu quis ir com ele. Eu fui infeliz... todos os dias em que tive que fazer isso sozinha.
+9172|MÃE: Eu tinha tanto medo disso... de arruinar a vida dela.
+9173|MÃE: Eu sei que sou uma mãe ruim.
+9174|MÃE: Mas eu sempre amei ela... Ainda amo.
+9175|MÃE: Eu não sei o que fazer...
+9176|MÃE: Eu não sei onde colocar todo esse amor que ainda tenho por ela.
+9177|Você pensa no seu próprio amor pela Nima.
+9178|Você sente uma tristeza profunda por ela e pela vida que ela nunca chegou a viver.
+9179|Há gratidão também, misturada com a culpa.
+9180|Sem a morte dela, você ainda estaria presa naquela pedra.
+9181|Depois de passar tanto tempo em estase, cada emoção e sensação que você tem é um presente.
+9182|Você só queria que nenhuma de vocês duas tivesse precisado sofrer tanto pra recebê-lo.
+9183|VOCÊ: Vamos lá pra cima.
+9184|MÃE: M-Mas…
+9185|Você se levanta e, com um sorriso, faz sinal para que ela a siga.
+9186|Ela cede e começa a te seguir escada acima. Evita olhar pra você. Mantém os olhos nos sapatos enquanto se arrasta atrás de você.
+9187|Você esperava que a porta estivesse trancada, mas ela se abre facilmente com um empurrãozinho.
+9188|A casa está escura.
+9189|Você sente o cheiro da poeira suspensa no ar, junto com o odor pungente de comida apodrecendo.
+9190|Você conhece este corredor; ele leva direto à porta da frente. Você vê pequenos feixes de luz escorrendo e arranhando as venezianas.
+9191|MÃE: Espera!
+9192|<waitfor=1>A mão da Annabelle dispara, e os dedos dela se cravam no seu pulso. Um aperto possessivo que você conhece bem.
+9193|MÃE: Por favor… não vai embora.
+9194|MÃE: Eu sei que as coisas que fiz com você são imperdoáveis. Eu te machuquei de novo e de novo.
+9195|MÃE: Você devia me odiar. Eu também me odeio.
+9196|MÃE: Mas…
+9197|MÃE: Mesmo que você não seja a Nima… Eu te criei.
+9198|MÃE: Eu ainda sou sua mãe.
+9199|MÃE: Não importa o que aconteça, eu sempre vou te amar.
+9200|Ela decide ignorar a complexidade da situação. Vai direto a algo… estranhamente reconfortante.
+9201|Você tira um segundo pra colocar todos os seus pensamentos no lugar.
+9202|Você a ama?
+9203|A Nima a amava. Esses sentimentos ficam flutuando na sua mente roubada, pairando em pequenas bolhas de nostalgia.
+9204|Você também tem um carinho estranho por ela.
+9205|Ela é a única pessoa que você já conheceu. Você entende essa mulher melhor do que entende qualquer outra pessoa.
+9206|Você a odeia?
+9207|Você pensa nas suas memórias de quando estava dentro do cérebro do peixe. As facas que cortavam a sua carne, as suas guelras desesperadas procurando água e encontrando só ar seco.
+9208|Você pensa no que ela fez com a Nima. Depois de negligenciá-la e afastá-la, depois de matá-la e oferecer o corpo dela a você como sacrifício.
+9209|Você não pode confiar que ela mudou de repente só porque vocês tiveram essa conversa.
+9210|Parada à beira do mundo lá fora, a sua determinação não mudou; você sabe que precisa ir embora.
+9211|Mas chegou o momento de decidir o que você sente por essa mulher.
+9212|Qual é o seu veredito?
+9213|Há uma dor no seu coração que parece fora de lugar.
+9214|Um instinto de receber o amor que ela está oferecendo e aceitar a proposta de serem uma família.
+9215|A tentação é reconfortante, mas você consegue ver que seria só mais uma jaula.
+9216|Você sabe que nunca vai ser a filha que a Annabelle quer que você seja, e ela nunca vai ser a pessoa que você quer que ela seja.
+9217|Você olha pra Annabelle. Anos de luto, raiva e desespero estão gravados nas linhas do rosto dela, no aperto firme das mãos dela em volta das suas.
+9218|Quando você se olhava no espelho, era ela que você via refletida.
+9219|Você não quer ser consumida do jeito que ela foi.
+9220|VOCÊ: Eu não quero mais te odiar.
+9221|Ela pisca, espantando as lágrimas, em choque.
+9222|VOCÊ: O ódio que eu sentia por você parecia necessário pra minha sobrevivência, mas agora parece… inútil. Como se só estivesse me prendendo.
+9223|VOCÊ: Depois de passar todo esse tempo juntas, eu vi todos os lados possíveis de você.
+9224|VOCÊ: Eu passei a te aceitar como a pessoa que você é.
+9225|VOCÊ: Você não é minha mãe.
+9226|VOCÊ: Esse amor que você tem pela Nima, esse amor que você tem por mim… Eu não posso aceitar.
+9227|VOCÊ: Mesmo que você mudasse agora, mesmo que a gente pudesse ser uma família, não é isso que eu quero.
+9228|Ela afrouxa o aperto na sua mão. Você sente as lágrimas dela pingando nos seus dedos. Ela leva um tempo pra formular uma resposta.
+9229|ANNABELLE: Então… Você vai mesmo embora.
+9230|Você olha pra ela, encolhida na escuridão do corredor.
+9231|<waitfor=7>Você abre a porta e sente a brisa morna do começo do outono nas bochechas. Você espera que o calor queime, mas, em vez disso, ele é acolhedor.
+9232|Você pega a mão dela e a puxa para a luz do sol.
+9233|É um dia de outono perfeito. O céu parece impossivelmente azul contra as folhas de outono.
+9234|Está fresco o bastante para um suéter, e o ar limpo e revigorante se acomoda gostoso nos seus pulmões.
+9235|Parece um novo começo.
+9236|VOCÊ: Eu também vou sentir falta dela.
+9237|VOCÊ: Tem uma parte de mim que ainda se agarra a ela.
+9238|VOCÊ: Mas está na hora de deixá-la descansar.
+9239|A Annabelle solta a sua mão.
+9240|Você vê o corpo dela se retesar e a respiração vacilar.
+9241|Quando ela finalmente olha nos seus olhos, parece em paz.
+9242|ANNABELLE: …Adeus, Nima.
+9243|Você sorri de volta pra ela.
+9244|Você percebe que só falta uma coisa da qual se desapegar.
+9245|Você sempre se sentiu desconfortável neste corpo; afinal, ele nunca foi seu.
+9246|Você gostaria de devolvê-lo à Nima.
+9247|Você tenta imaginar um corpo que preste homenagem às suas experiências. Você traça essas experiências na tela da sua forma.
+9248|<waitfor=2>Agora o seu corpo reflete a sua alma.
+9249|Você se vira para encará-la uma última vez.
+9250|A Annabelle te olha, maravilhada.
+9251|Você reconhece essa emoção.
+9252|O rosto dela tem o mesmo encanto que tinha quando a Nima nasceu.
+9253|VOCÊ: Adeus, Annabelle.
+9254|Você se obriga a olhar a Annabelle nos olhos.
+9255|Anos de luto, raiva e desespero estão gravados nas linhas do rosto dela, no aperto firme das mãos dela em volta das suas.
+9256|Você não quer nada com ela…
+9257|VOCÊ: Você acha mesmo que eu consigo acreditar nisso depois de tudo o que você fez.
+9258|MÃE: Não. Eu… Eu quero mudar.
+9259|MÃE: Eu já perdi a Nima... Não quero perder você também.
+9260|MÃE: Eu te entendo agora. Todas as suas partes.
+9261|MÃE: Eu posso te ajudar a descobrir quem você quer ser.
+9262|Você volta a algumas das suas primeiras memórias do porão. O amor dela já foi tudo o que você mais desejava.
+9263|VOCÊ: Eu me lembro de olhar pra você pela primeira vez através dos olhos dela.
+9264|VOCÊ: Eu me lembro de sentir o amor que ela tinha por você. A confiança.
+9265|VOCÊ: Você se aproveitou disso.
+9266|VOCÊ: Você nunca nem me deu uma chance.
+9267|VOCÊ: Talvez a gente pudesse ter sido uma família... mas é tarde demais pra isso.
+9268|VOCÊ: Eu não preciso mais de você.
+9269|ANNABELLE: Se você quer mesmo ir embora… Eu não vou te impedir.
+9270|ANNABELLE: Só saiba que sempre vai ter um lugar pra você aqui… Se você mudar de ideia.
+9271|As mãos dela se soltam, deixando você ir.
+9272|É um dia de outono perfeito. O céu parece impossivelmente azul contra as folhas de outono. Está fresco o bastante para um suéter, e o ar limpo e revigorante se acomoda gostoso nos seus pulmões.
+9273|Uma parte de você ainda se agarra à Nima… mas está na hora de deixá-la descansar.
+9274|<waitfor=1.2>Você se vira para encará-la uma última vez.
+9275|Uma parte de você sente pena dela, ao vê-la ainda espreitando na escuridão da própria casa.
+9276|Você nunca mais vai vê-la, e tem esperança de que, olhando pra você assim, ela entenda isso.
+9277|Você se volta para a montanha e o sol nascente.
+9278|Você se lembra destas montanhas. Elas faziam parte deste lugar muito antes de os humanos existirem.
+9279|Você estava lá durante os milhões de anos que os picos levaram para subir do fundo do mar e roçar as bordas das nuvens.
+9280|O mundo mudou tanto desde a última vez que você o conheceu.
+9281|Você quer ser despreocupada. Quer acariciar o ponto onde a atmosfera encontra o vazio do espaço e ver o calor do seu hálito no ar gelado.
+9282|Você quer cair, sentir o vento chicoteando a sua pele e se espatifar no oceano.
+9283|Ele era o seu lar, seu e da Nima. Você gostaria de nadar como ela nadava e flutuar pelos baixios como fazia na aurora dos tempos.
+9284|Você deslizaria pelos litorais, sentindo o gosto da passagem da água doce para a salmoura do mar aberto, apostando corrida com criaturas que lembram suas memórias de muito tempo atrás.
+9285|Quando descansasse, seria sob estrelas mais velhas que você, e você usaria aquelas constelações familiares para guiar o seu caminho.
+9286|Finalmente, você dá um passo à frente, decidida a fazer desta vida a sua.
+9287|Fico pensando no que tem lá fora.
+9288|Parece tão bonito lá fora.
+9289|Sempre foi tão encaroçado assim?
+9290|Essas coisas feias vão nos meus pés?
+9291|Por que eu fui comprar isso...
+9292|Uma lâmpada de lava.
+9293|Quente ao toque.
+9294|Por que ele está tão feliz?
+9295|Me tira do sério...
+9296|Parece solitário...
+9297|Ela precisa de uma amiga.
+9298|Essa água está aqui fora faz um tempão...
+9299|Fico pensando no que está vivendo dentro dela agora.
+9300|Era assim que o meu pai era... Eu me lembro dele.
+9301|Um pinguim.
+9302|Será que eles sentem inveja dos pássaros no céu...
+9303|Eu não tinha talento nenhum...
+9304|Será que eu bato na porta da Mãe?
+9305|O banheiro está trancado...
+9306|Mas e se eu precisar...
+9307|Ah, é, acho que agora eu consigo entrar aqui.
+9308|Antes tarde do que nunca...
+9309|Este livro é sobre evolução.
+9310|Fico pensando no que a gente vai virar com a evolução.
+9311|"Contos do Garoto Nada Legal, de Benson Briar"
+9312|Eu me identificava tanto com esse livro.
+9313|Agora eu só acho ele um fracassado.
+9314|"Zhong Wen 7"
+9315|Mesmo depois de todos esses anos estudando, o meu mandarim ainda é um lixo.
+9316|"Entendendo a Paleobiologia, de Helen Tamerlane"
+9317|A Mãe comprou esse pra mim porque uma vez eu perguntei sobre o trabalho dela com fósseis.
+9318|Até hoje eu não consegui terminar...
+9319|"101 piadas de dinossauro que vão fazer seus amigos RUGIREM de rir, por JP"
+9320|"Como os dinossauros pagam as contas?"
+9321|"Com o tesourossauro!"
+9322|"O que um dinossauro grita quando bate o carro?"
+9323|"Tiranossocorro!"
+9324|"O que o dinossauro ganhou depois do exame de vista?"
+9325|"Um par de tiranóculos!"
+9326|"O que um dinossauro mandou pro outro dinossauro?"
+9327|"Um tiranossáudio!"
+9328|"O que os dinossauros fazem na academia?"
+9329|"Tiranossupino!"
+9330|"Qual é a bebida favorita de um dinossauro vampiro?"
+9331|"Tiranossangria!"
+9332|"Como um dinossauro advogado contesta uma acusação falsa no tribunal?"
+9333|"Com uma tiranobjeção!"
+9334|"O que um dinossauro ganha quando diz NÃO às drogas?"
+9335|"Tiranorrespeito!"
+9336|"O que um dinossauro responsável faz antes do casamento?"
+9337|"Pratica tiranossexo seguro!"
+9338|Chega. Já deu, por favor.
+9339|Não querendo me gabar, mas eu nado muito bem!
+9340|Ela passou muito tempo trabalhando nesse aqui... Ninguém nem leu.
+9341|Esses peixes estão presos num mundo falso...
+9342|Eu era filha dele, e era filha dela.
+9343|Neste reino junto ao mar.
+9344|Um desenho de criança, lembra vagamente uma carpa koi.
+9345|“James Pond.”
+9346|Queria poder ser a usina de energia da célula.
+9347|A Nima-côndria!
+9348|Eu costumava mastigar esses lápis.
+9349|Esse humano parece estranho...
+9350|Já é julho? Parece que se passaram um milhão de anos.
+9351|O Garoto Tomate é o mais legal! Eu li TODOS os gibis.
+9352|Queria poder encolher, só pra ver como as minhas bonecas vivem.
+9353|"Melhor Filha do Mundo."
+9354|Fico pensando qual foi o tamanho da amostra dessa pesquisa.
+9355|"Minha razão de sereia."
+9356|Fico pensando qual é a <i>minha</i> razão de ser...
+9357|Este é o meu potinho especial de desejos.
+9358|Agora mesmo, eu queria poder sair daqui.
+9359|Será que a Mãe teve tempo de fazer compras enquanto eu estava fora... Parece que não.
+9360|"Ajudar a Mãe com o imposto de renda."
+9361|A Mãe sempre ficava tão estressada com isso…
+9362|"BAGRE BURRO."
+9363|Ei, esse bagre está se esforçando ao máximo…
+9364|"Salvem as Baleias."
+9365|Hmm… Se bem que é lindo quando uma baleia morre. Ela abriga um ecossistema inteiro.
+9366|Ah. Isso foi gostoso.
+9367|Não parece tão ruim assim. Acho que ele está fingindo.
+9368|Acho que NIMA seria óbvio demais...
+9369|Talvez outro nome?
+9370|Mas eu amo peixes...
+9371|Espera... Ele era uma carpa koi, não era?
+9372|Nome... Hmm... É um nome, né?
+9373|Tem que ser algo que eu amo...
+9374|Pelo meu comando, cadeado, abra-te!
+9375|ARGHHH! Eu odeio cadeados...
+9376|Não... Não é essa palavra...
+9377|Não... Não é isso...
+9378|Uau! Abriu!
+9379|Quem escreveu por cima do meu diário?
+9380|Esse é o meu namorado? Ou eu só imaginei que ele era...
+9381|Príncipe Romã. Esse cara é ultra raro. Tenho que deixar ele guardado a sete chaves.
+9382|Ei, amigão, não deixa as pessoas pisarem em você.
+9383|Crescendo onde não devia.
+9384|Vou fingir que você não existe.
+9385|A Mãe aprendeu a fazer um mensageiro dos ventos de conchas numa revista.
+9386|Ela achou que seria fofo se a gente fosse até a praia de Kits catar umas conchas pra fazer o nosso.
+9387|O Pai ficou meio desconfortável; ele não queria perturbar o meio ambiente.
+9388|No fim, a gente nem achou concha nenhuma, e o Pai comprou esse pra ela numa lojinha hippie ali perto.
+9389|Foi um dia bom.
+9390|Mais um pouco e vão nascer cogumelos…
+9391|Parece que isso foi tapado com tábuas há pouco tempo.
+9392|Eu e a Mãe somos muito mais encaradas aqui do que em Vancouver.
+9393|Esta cidade parece presa no passado.
+9394|Às vezes eu usava isso no lugar de roupa. É tão multifuncional.
+9395|Esses canos devem dar em algum lugar lá fora.
+9396|Como eu queria poder me jogar na descarga e sumir daqui.
+9397|Essa planta está morrendo desde o dia em que a Mãe comprou.
+9398|Sr. Desentupidor e Sra. Escova de Privada. A vida de vocês é dura.
+9399|Minha coleção especial de coisas nojentas e abjetas.
+9400|"Bradley: Inacreditável!" Um livro cheio de fatos e recordes bizarros.
+9401|Quão esquisito você tem que ser pra entrar aqui? Tipo, e se eu conseguisse encostar nos dedos dos pés… em pé!
+9402|Talvez um dia eu esteja nesse livro.
+9403|Uma vez eu tentei pregar uma peça no meu pai colocando sachês de ketchup debaixo do assento da privada.
+9404|Precisou de um rolo inteiro de papel higiênico pra limpar.
+9405|'Ilusões de Ótica: Veja entre a realidade'
+9406|Eu passava horas lendo na privada, mas a Mãe ficava brava comigo.
+9407|Ela dizia que o meu intestino ia cair…
+9408|Eu achava que misturar esses ia me dar uma poção especial.
+9409|Mas a minha mãe me impediu. Algo sobre mostarda?
+9410|A Mãe fazia questão de secar o meu cabelo quando eu chegava do treino de natação.
+9411|E também fazia questão de penteá-lo direitinho depois.
+9412|Ela me disse que a gente ia morar numa cidade agrícola.
+9413|Eu achei que ia virar fazendeira. Imaginei que ia ficar gritando com ovelhas e mascando palha.
+9414|Típico, tudo sempre é uma decepção.
+9415|Peraí, tem alguma coisa no bolso.
+9416|Esses são os meus pijamas especiais de transformação.
+9417|Garota comum de dia, Guardiã do Raio de Lua à noite!
+9418|A Mãe não quis comprar um pra mim, mas uma das integrantes mais velhas me deu o dela pra eu me sentir parte da equipe.
+9419|Eu sou da parte hippie de Kits, não da parte rica. A Mãe odiava, mas o Pai fazia parte de um grupo local de ação ambiental.
+9420|Achei isso na seção masculina… GGG… Muito elegante.
+9421|Eu só uso em ocasiões especiais.
+9422|Não ligo pro que está na moda. A melhor roupa é a prática. Aquele tipo de coisa que dá pra usar no ônibus e depois subir correndo uma montanha.
+9423|Isto aqui. Isto é o ápice da moda.
+9424|Aberração nojenta.
+9425|Um par de colares fofos de prata com pingentes em forma de coração. A inscrição diz "Melhores Amigas."
+9426|A Mãe sempre ficava com a metade que diz "Melhores" e eu sempre ficava com a que diz "Amigas."
+9427|A Mãe sempre dizia que, se eu não penteasse o cabelo, ela ia cortar tudo.
+9428|Toda vez que eu falava palavrão na frente da Mãe, ela ameaçava lavar a minha boca com sabão…
+9429|Eu e a Mãe ficávamos lado a lado escovando os dentes juntas.
+9430|"Pomada de Salmão: Fresquinha para articulações doloridas."
+9431|O Pai tinha uma camiseta com o logo. A Mãe odiava, dizia que era "brega."
+9432|Eu acho bem legal.
+9433|Curativos de gel refrescante.
+9434|"Todo o poder de uma geleira ártica aplicado direto no peito. Deixa a tosse— <wiggle>congelada</wiggle>."
+9435|Eu gosto das propagandas deles.
+9436|"Acetaminofeno"
+9437|Esquisito. Parece o nome de um dos fósseis que a Mãe estuda no trabalho.
+9438|Se fosse, seria o superpredador da <wiggle>dor<wiggle>.
+9439|Eu gosto de colocar curativos, mesmo quando não estou machucada. Sem eles, os meus joelhos parecem meio vazios.
+9440|"Cola & Alivia"
+9441|Esses ajudavam muito na minha carreira de nadadora.
+9442|Protetor labial em bastão.
+9443|Alguma coisa está me obrigando a comer isso…
+9444|Aposto que tem gosto de doce.
+9445|Enxaguante bucal sabor melão.
+9446|Eu achava que dava pra ficar bêbada fazendo gargarejo com isso.
+9447|A primeira vez que eu menstruei, escondi da Mãe.
+9448|Achei que ela ia ficar brava comigo.
+9449|Um pote de vaselina.
+9450|Vai ser útil se eu me arranhar. Se bem que, agora, eu pareço estar perfeitamente bem.
+9451|Um desodorante em bastão.
+9452|Alguns dos meus colegas de classe bem que precisavam disso.
+9453|Pasta de dente para dentes sensíveis.
+9454|Hmm, menta! O meu quinto sabor de sorvete favorito.
+9455|Uma vez eu enfiei isso no ouvido e, quando tirei, tinha uma <wiggle>gosma rosa nele.</wiggle>
+9456|Achei que tinha furado o meu cérebro.
+9457|No fim, era só uma infecção.
+9458|O que isso está fazendo aqui?
+9459|Às vezes eu uso isso como parte da minha fantasia de Guardiã do Raio de Lua.
+9460|Mas, na maior parte do tempo, eu só uso pra limpar a casa.
+9461|Pra evitar mofo nas paredes. Parece que é tarde demais pra isso.
+9462|Quando eu era pequena, tinha todo um sistema de banho com dois baldes - agora eu sou grande demais pra isso…
+9463|Sinto falta do sabonete líquido 3 em 1. Ter três frascos diferentes é tão ruim pro meio ambiente.
+9464|Você parece meio tristinho.
+9465|Assim é melhor!
+9466|Ora, ora, orca...
+9467|Eu não quero tomar banho.
+9468|Quanto. Cabelo.
+9469|O que é isso?
+9470|Eu e a Mãe somos muito mais encaradas aqui do que em Vancouver.
+9471|O ar fresco faz bem pra sua pele.
+9472|Será que eu volto a dormir?
+9473|Você sobe na cama e puxa os lençóis por cima de si.
+9474|Você acorda com alguém batendo na sua porta.
+9475|Morto.
+9476|Está frio ao toque.
+9477|Meio assustador no escuro...
+9478|Uma figura fantasmagórica me assombrando.
+9479|Quando é que isso vai me deixar em paz...
+9480|Argh... As minhas habilidades de desenho não melhoraram nada.
+9481|Será que a Mãe penduraria os meus desenhos novos na geladeira...
+9482|Ainda está tão tarde... Eu devia ir pra cama.
+9483|<i>Ai!</i> Meu pé...
+9484|<i>Ui!</i> Meu dedão...
+9485|Está escuro demais pra enxergar.
+9486|Você olha para as letras pretas e duras.
+9487|Por algum motivo, você se lembra de uma canção de ninar que a Mãe cantava pra você.
+9488|Como era mesmo?
+9489|Queria poder abafar os meus pensamentos com a sua voz.
+9490|Me resgate da escuridão, Príncipe Romã!
+9491|Ei, amigão, não deixa as pessoas pisarem em você.
+9492|A Mãe aprendeu a fazer um mensageiro dos ventos de conchas numa revista. Ela achou que seria fofo se a gente fosse até a praia de Kits catar umas conchas pra fazer o nosso.
+9493|O Pai ficou meio desconfortável; ele não queria perturbar o meio ambiente. No fim, a gente nem achou concha nenhuma, e o Pai comprou esse pra ela numa lojinha hippie ali perto.
+9494|A qualquer momento vão nascer cogumelos…
+9495|Não dá pra sair por aqui...
+9496|Uma trilha de papel!
+9497|Aonde será que isso leva...?
+9498|Finalmente, limpinho.
+9499|VOCÊ: As minhas mãos estão meio empoeiradas.
