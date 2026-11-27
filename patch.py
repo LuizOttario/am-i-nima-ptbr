@@ -2,7 +2,7 @@
 
 Uso: python patch.py <data.unity3d original> <saida.unity3d> [pasta]
   pasta: "traducao" (demo, padrão) ou "completo" (jogo completo)
-Requer: pip install UnityPy (jogo completo: também numpy TypeTreeGeneratorAPI)
+Requer: pip install UnityPy (jogo completo: também numpy TypeTreeGeneratorAPI fonttools)
 """
 import glob, json, os, re, sys
 import UnityPy
@@ -99,6 +99,7 @@ def main(src, out, pasta="traducao"):
         import fonte
         n = fonte.aplicar(env, os.path.join(os.path.dirname(os.path.abspath(src)), "Managed"))
         print(f"fonte: {n} letras desenhadas")
+        print(f"fonte Nima: {fonte.aplicar_nima(env)} letras desenhadas")
     open(out, "wb").write(env.file.save(packer="lz4"))
     print(f"ok: {len(en)} falas e {len(enc)} escolhas traduzidas -> {out}")
 

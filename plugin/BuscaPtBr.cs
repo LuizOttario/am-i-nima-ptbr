@@ -7,6 +7,7 @@ using System.IO;
 using System.Text;
 using BepInEx;
 using HarmonyLib;
+using UnityEngine.Localization.Settings;
 
 [BepInPlugin("ptbr.aminima.busca", "Am I Nima PT-BR Busca", "1.0.0")]
 public class BuscaPtBr : BaseUnityPlugin
@@ -29,6 +30,28 @@ public class BuscaPtBr : BaseUnityPlugin
         if (m == null) { Logger.LogError("ConceptSearchTermsManager.IsMatch não encontrado"); return; }
         new Harmony("ptbr.aminima.busca").Patch(m, postfix: new HarmonyMethod(typeof(BuscaPtBr), nameof(Postfix)));
         Logger.LogInfo("Busca em português ativa (" + Pt.Count + " termos)");
+    }
+
+    // Nome de quem fala: o jogo põe a chave ("MOM") no rótulo e lê de volta para buscar na tabela
+    // Keywords; se o XUnity traduzir o rótulo antes, a busca falha. Então o nome é traduzido na própria tabela.
+    static readonly Dictionary<string, string> Falantes = new Dictionary<string, string> {
+        { "MOM", "MÃE" }, { "YOU", "VOCÊ" }, { "LIFEGUARD", "SALVA-VIDAS" }, { "COACH", "TREINADOR" } };
+    UnityEngine.Localization.Tables.StringTable feito;
+
+    void Update()
+    {
+        if (!LocalizationSettings.InitializationOperation.IsDone) return;
+        var loc = LocalizationSettings.SelectedLocale;
+        if (loc == null || loc.Identifier.Code != "en") return;
+        var t = LocalizationSettings.StringDatabase.GetTable("Keywords");
+        if (t == null || t == feito) return;  // tabela nova (ou recarregada) -> aplica de novo
+        foreach (var kv in Falantes)
+        {
+            var e = t.GetEntry(kv.Key);
+            if (e != null) e.Value = kv.Value;
+        }
+        feito = t;
+        Logger.LogInfo("Nomes de falante traduzidos na tabela Keywords");
     }
 
     static void Postfix(string __0, string __1, ref bool __result)

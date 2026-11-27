@@ -217,3 +217,99 @@ def aplicar(env, managed):
         if par[0] == "_TextureHeight": mat.m_SavedProperties.m_Floats[mat.m_SavedProperties.m_Floats.index(par)] = (par[0], float(novo.shape[0]))
     mat.save()
     return n
+
+
+# ---------------------------------------------------------------------------
+# Fonte "Nima" (pensamento interno / mente): é dinâmica, o TMP rasteriza do TTF
+# original. Aqui o TTF ganha os acentos, desenhados como traço de pincel.
+# ---------------------------------------------------------------------------
+import math
+
+NIMA_FONT = "Nima"
+TRACO = 46  # raio do pincel (a fonte usa traços de ~100 de largura)
+# acentos como caminhos (x, y) com origem no centro de baixo
+CAMINHO = {
+    "agudo": [(-45, 0), (45, 120)],
+    "grave": [(45, 0), (-45, 120)],
+    "circ": [(-80, 0), (0, 100), (80, 0)],
+    "til": [(-95, 10), (-55, 80), (-10, 45), (40, 15), (95, 85)],
+    "cedilha": [(0, 0), (8, -70), (60, -105), (25, -170), (-35, -175)],
+}
+
+
+def _pincel(pen, caminho, dx, dy):
+    """Círculos encadeados ao longo do caminho, com leve tremida (visual feito à mão)."""
+    pts = []
+    for (x0, y0), (x1, y1) in zip(caminho, caminho[1:]):
+        n = max(2, int(math.hypot(x1 - x0, y1 - y0) / 14))
+        pts += [(x0 + (x1 - x0) * k / n, y0 + (y1 - y0) * k / n) for k in range(n)]
+    pts.append(caminho[-1])
+    for i, (x, y) in enumerate(pts):
+        r = TRACO * (0.92 + 0.08 * math.sin(i * 1.7))
+        pen.moveTo((round(dx + x + r), round(dy + y)))
+        for k in range(1, 14):  # sentido horário (contorno externo no TrueType)
+            a = -2 * math.pi * k / 14
+            pen.lineTo((round(dx + x + r * math.cos(a)), round(dy + y + r * math.sin(a))))
+        pen.closePath()
+
+
+def acentuar_ttf(data):
+    import io
+    from fontTools.ttLib import TTFont
+    from fontTools.pens.ttGlyphPen import TTGlyphPen
+    from fontTools.pens.recordingPen import DecomposingRecordingPen
+    f = TTFont(io.BytesIO(data))
+    cm = f.getBestCmap()
+    if 0xE3 in cm: return None
+    glyf, hmtx, gs = f["glyf"], f["hmtx"], f.getGlyphSet()
+    ordem = f.getGlyphOrder()
+    novos = {}
+    for ch, (base, nome) in NOVAS.items():
+        nb = cm[ord(base)]
+        g = glyf[nb]
+        pen = TTGlyphPen(gs)
+        if base == "i":  # i sem pingo: tira o contorno mais alto
+            rec = DecomposingRecordingPen(gs); gs[nb].draw(rec)
+            contornos, atual = [], []
+            for op, args in rec.value:
+                atual.append((op, args))
+                if op in ("closePath", "endPath"): contornos.append(atual); atual = []
+            pingo = max(contornos, key=lambda c: min(p[1] for op, a in c for p in a) if any(a for op, a in c) else -1e9)
+            for c in contornos:
+                if c is pingo: continue
+                for op, args in c: getattr(pen, op)(*args)
+            topo = max(p[1] for c in contornos if c is not pingo for op, a in c for p in a)
+        else:
+            gs[nb].draw(pen)
+            topo = g.yMax
+        cx = (g.xMin + g.xMax) / 2
+        if nome == "cedilha":
+            _pincel(pen, CAMINHO[nome], cx, g.yMin + 40)
+        else:
+            _pincel(pen, CAMINHO[nome], cx, topo + 55 + TRACO)
+        nn = "pt_%04X" % ord(ch)
+        novos[nn] = (pen.glyph(), hmtx[nb], ord(ch))
+    for nn, (gl, mtx, cp) in novos.items():
+        ordem.append(nn)
+        glyf[nn] = gl
+        hmtx[nn] = mtx
+    f.setGlyphOrder(ordem)
+    for t in f["cmap"].tables:
+        if t.isUnicode():
+            for nn, (_, _, cp) in novos.items(): t.cmap[cp] = nn
+    f["maxp"].numGlyphs = len(ordem)
+    out = io.BytesIO(); f.save(out)
+    return out.getvalue()
+
+
+def aplicar_nima(env):
+    for o in env.objects:
+        if o.type.name == "Font":
+            fo = o.read()
+            if fo.m_Name == NIMA_FONT and fo.m_FontData:
+                novo = acentuar_ttf(bytes(fo.m_FontData))
+                if novo is None: return 0
+                fo.m_FontData = list(novo) if isinstance(fo.m_FontData, list) else novo
+                fo.save()
+                return len(NOVAS)
+    return 0
