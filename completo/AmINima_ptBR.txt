@@ -881,3 +881,18 @@ To add new word to the brain, click on the word you want to add from the word li
 In the library, you can use various filter option to help you find the concept you are looking for. \r=Na biblioteca, você pode usar várias opções de filtro para ajudar a encontrar o conceito que está procurando. \r
 Dialogue\nHistory=Histórico de\nDiálogo
 Quit without saving?=Sair sem salvar?
+// ===== Jogo completo: interface com '=' (tags) =====
+Delete Shared Data\n<size\=66%>Seen story, tutorials, collections, etc.=Apagar Dados Compartilhados\n<size\=66%>História vista, tutoriais, coleções etc.
+Debug options for developers \n<size\=75%>thanks for playing our game <3=Opções de depuração para desenvolvedores \n<size\=75%>obrigado por jogar nosso jogo <3
+Delete Player Pref\n<size\=66%>Settings=Apagar Preferências do Jogador\n<size\=66%>Configurações
+[pic\=2] It's locked...=[pic\=2] Está trancado...
+<size\=16>Bu-by<size\=14>e<size\=13>e<size\=12>e<size\=10>ee<size\=8>eee<size\=6>eeee<size\=4>eeeee<size\=3>eeeee<size\=2>eeeeeee.=<size\=16>Tcha<size\=14>u<size\=13>u<size\=12>u<size\=10>uu<size\=8>uuu<size\=6>uuuu<size\=4>uuuuu<size\=3>uuuuu<size\=2>uuuuuuu.
+<color\=#61D997><b>Click here</b></color> to pause. The save, tutorial, and settings menus can also be found here.=<color\=#61D997><b>Clique aqui</b></color> para pausar. Os menus de salvamento, tutorial e configurações também ficam aqui.
+<color\=#61D997><b>Drag words to your head</b></color> to unlock dialogue options=<color\=#61D997><b>Arraste palavras até sua cabeça</b></color> para desbloquear opções de diálogo
+<color\=#61D997><b>Double click a word</b></color> to duplicate it=<color\=#61D997><b>Clique duas vezes numa palavra</b></color> para duplicá-la
+<color\=#61D997><b>Click here</b></color> to check dialogue history and word combination history.=<color\=#61D997><b>Clique aqui</b></color> para ver o histórico de diálogo e o histórico de combinações de palavras.
+<color\=#61D997><b>Click any words</b></color> in the library to add to your brain=<color\=#61D997><b>Clique em qualquer palavra</b></color> da biblioteca para adicioná-la ao seu cérebro
+<color\=#61D997><b>Drag and combine</b></color> words in your brain to unlock new words=<color\=#61D997><b>Arraste e combine</b></color> palavras no seu cérebro para desbloquear novas palavras
+<color\=#61D997><b>Click the clear button</b></color> to remove all words in the brain=<color\=#61D997><b>Clique no botão de limpar</b></color> para remover todas as palavras do cérebro
+Words highlighted in green can be used in conversation. <color\=#61D997><b>Click here</b></color> to filter by "Available Choices."=Palavras destacadas em verde podem ser usadas na conversa. <color\=#61D997><b>Clique aqui</b></color> para filtrar por "Escolhas Disponíveis."
+<color\=#61D997><b>Right click a word</b></color> to delete it=<color\=#61D997><b>Clique com o botão direito numa palavra</b></color> para apagá-la

@@ -29,6 +29,8 @@ unzip -oq "$TMP/xu.zip" -d "$GAME"
 mkdir -p "$GAME/BepInEx/config" "$GAME/BepInEx/Translation/pt/Text"
 cp "$HERE/AutoTranslatorConfig.ini" "$GAME/BepInEx/config/"
 cp "$HERE/$PASTA/AmINima_ptBR.txt" "$HERE/$PASTA/AmINima_resizer.txt" "$GAME/BepInEx/Translation/pt/Text/"
+# busca da biblioteca em português (só o jogo completo tem essa busca)
+[ "$PASTA" = completo ] && mkdir -p "$GAME/BepInEx/plugins" && cp "$HERE/plugin/AmINima.BuscaPtBr.dll" "$GAME/BepInEx/plugins/"
 
 echo "== Proton: carregar winhttp.dll do BepInEx"
 if [ -f "$PREFIX" ]; then
