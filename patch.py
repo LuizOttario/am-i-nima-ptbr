@@ -28,6 +28,13 @@ def walk(x, fn):
     return x
 
 
+def is_choice(x, i, j):
+    """Texto logo após "ev" cuja avaliação termina num ponto de escolha {"*": ...} (outras condições além de brainspace)."""
+    if i < 2 or x[i - 2] != "ev" or "/ev" not in x[j:]: return False
+    k = x.index("/ev", j)
+    return k + 1 < len(x) and isinstance(x[k + 1], dict) and "*" in x[k + 1]
+
+
 def choices(x, fn):
     """Aplica fn no texto das escolhas (os pensamentos arrastáveis): o 1º str de uma escolha, antes do teste de brainspace."""
     if isinstance(x, list):
@@ -35,9 +42,9 @@ def choices(x, fn):
         for i, e in enumerate(x):
             if isinstance(e, str) and e.startswith("^") and i and x[i - 1] == "str":
                 j = i + 1
-                if j < len(x) and x[j] == "#":
+                while j < len(x) and x[j] == "#":  # pode ter várias tags (#id:..., #next)
                     j = x.index("/#", j) + 1
-                if x[j:j + 1] == ["/str"] and x[j + 1:j + 2] in ([{"VAR?": "brainspace"}], ["choiceCnt"]):
+                if x[j:j + 1] == ["/str"] and (x[j + 1:j + 2] in ([{"VAR?": "brainspace"}], ["choiceCnt"]) or is_choice(x, i, j)):
                     x[i] = "^" + fn(e[1:])
             elif isinstance(e, (list, dict)): x[i] = choices(e, fn)
         return x
