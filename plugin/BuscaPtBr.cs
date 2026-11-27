@@ -74,6 +74,50 @@ public class BuscaPtBr : BaseUnityPlugin
                 Logger.LogInfo("diag " + f.name + ": modo=" + f.atlasPopulationMode + " src=" + (src == null ? "null" : src.name) + " load=" + err + " a=" + ga + "/" + ia + " ã=" + gt + "/" + it + " atlasReadable=" + (f.atlasTexture != null && f.atlasTexture.isReadable));
             }
         }
+        // modo de teste: só com o arquivo BepInEx/ptbr_teste presente; desenha amostras e tira print
+        if (File.Exists(Path.Combine(Paths.BepInExRootPath, "ptbr_teste")))
+            StartCoroutine(Amostra(t.GetEntry("MOM")?.GetLocalizedString()));
+    }
+
+    System.Collections.IEnumerator Amostra(string mom)
+    {
+        var go = new UnityEngine.GameObject("ptbr_teste");
+        var canvas = go.AddComponent<UnityEngine.Canvas>();
+        canvas.renderMode = UnityEngine.RenderMode.ScreenSpaceOverlay;
+        canvas.sortingOrder = 32000;
+        var fundo = new UnityEngine.GameObject("fundo").AddComponent<UnityEngine.UI.Image>();
+        fundo.transform.SetParent(go.transform, false);
+        fundo.color = UnityEngine.Color.black;
+        fundo.rectTransform.anchorMin = UnityEngine.Vector2.zero; fundo.rectTransform.anchorMax = UnityEngine.Vector2.one;
+        fundo.rectTransform.offsetMin = fundo.rectTransform.offsetMax = UnityEngine.Vector2.zero;
+        float y = -60;
+        foreach (var f in UnityEngine.Resources.FindObjectsOfTypeAll<TMPro.TMP_FontAsset>())
+        {
+            if (f.name != "Nima SDF" && f.name != "NotJamScrawl9 SDF") continue;
+            var tx = new UnityEngine.GameObject(f.name).AddComponent<TMPro.TextMeshProUGUI>();
+            tx.transform.SetParent(go.transform, false);
+            tx.font = f; tx.fontSize = 48; tx.color = UnityEngine.Color.white; tx.enableWordWrapping = false;
+            tx.rectTransform.anchorMin = tx.rectTransform.anchorMax = new UnityEngine.Vector2(0, 1);
+            tx.rectTransform.pivot = new UnityEngine.Vector2(0, 1);
+            tx.rectTransform.anchoredPosition = new UnityEngine.Vector2(40, y);
+            tx.rectTransform.sizeDelta = new UnityEngine.Vector2(1800, 200);
+            tx.text = f.name + "\nEla não parece gostar de você. Ação, coração, pé, avó, irmã, João.\náàâã éê í óôõ ú ç  ÁÀÂÃ ÉÊ Í ÓÔÕ Ú Ç  … “ ” ‘ ’ —";
+            y -= 260;
+        }
+        var nome = new UnityEngine.GameObject("nome").AddComponent<TMPro.TextMeshProUGUI>();
+        nome.transform.SetParent(go.transform, false);
+        nome.fontSize = 40; nome.color = UnityEngine.Color.green;
+        nome.rectTransform.anchorMin = nome.rectTransform.anchorMax = new UnityEngine.Vector2(0, 1);
+        nome.rectTransform.pivot = new UnityEngine.Vector2(0, 1);
+        nome.rectTransform.anchoredPosition = new UnityEngine.Vector2(40, y);
+        nome.rectTransform.sizeDelta = new UnityEngine.Vector2(1800, 100);
+        nome.text = "Keywords[MOM] = " + mom;
+        for (int i = 0; i < 10; i++) yield return null;
+        var arq = Path.Combine(Paths.BepInExRootPath, "ptbr_teste.png");
+        UnityEngine.ScreenCapture.CaptureScreenshot(arq);
+        yield return new UnityEngine.WaitForSeconds(2);
+        UnityEngine.Object.Destroy(go);
+        Logger.LogInfo("Print de teste salvo em " + arq);
     }
 
     static void Postfix(string __0, string __1, ref bool __result)
