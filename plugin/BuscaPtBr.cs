@@ -30,6 +30,24 @@ public class BuscaPtBr : BaseUnityPlugin
         if (m == null) { Logger.LogError("ConceptSearchTermsManager.IsMatch não encontrado"); return; }
         new Harmony("ptbr.aminima.busca").Patch(m, postfix: new HarmonyMethod(typeof(BuscaPtBr), nameof(Postfix)));
         Logger.LogInfo("Busca em português ativa (" + Pt.Count + " termos)");
+        UnityEngine.SceneManagement.SceneManager.sceneLoaded += (cena, modo) => Carregando();
+    }
+
+    // Tela de carregamento: "Carregando..." não cabe na caixa e quebra a linha; passa para a fonte
+    // Nima (a da mente), sem quebra e encolhendo se precisar.
+    void Carregando()
+    {
+        TMPro.TMP_FontAsset nima = null;
+        foreach (var f in UnityEngine.Resources.FindObjectsOfTypeAll<TMPro.TMP_FontAsset>())
+            if (f.name == "Nima SDF") nima = f;
+        foreach (var t in UnityEngine.Resources.FindObjectsOfTypeAll<TMPro.TextMeshProUGUI>())
+        {
+            if (t.name != "Text Loading" || !t.gameObject.scene.IsValid()) continue;
+            if (nima != null) t.font = nima;
+            t.enableWordWrapping = false;
+            t.enableAutoSizing = true; t.fontSizeMin = 18; t.fontSizeMax = t.fontSize;
+            Logger.LogInfo("Tela de carregamento ajustada (fonte " + t.font.name + ")");
+        }
     }
 
     // Nome de quem fala: o jogo põe a chave ("MOM") no rótulo e lê de volta para buscar na tabela
@@ -54,6 +72,7 @@ public class BuscaPtBr : BaseUnityPlugin
             if (e != null) e.Value = kv.Value;
         }
         feito = t;
+        Carregando();  // a Nima só existe depois que as fontes do jogo carregam
         Logger.LogInfo("Nomes de falante traduzidos na tabela Keywords: MOM -> " + t.GetEntry("MOM")?.GetLocalizedString() + ", YOU -> " + t.GetEntry("YOU")?.GetLocalizedString());
         // autoteste: as fontes conseguem gerar as letras acentuadas sozinhas (sem fonte reserva)?
         foreach (var f in UnityEngine.Resources.FindObjectsOfTypeAll<TMPro.TMP_FontAsset>())
