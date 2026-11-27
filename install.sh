@@ -31,6 +31,10 @@ cp "$HERE/AutoTranslatorConfig.ini" "$GAME/BepInEx/config/"
 cp "$HERE/$PASTA/AmINima_ptBR.txt" "$HERE/$PASTA/AmINima_resizer.txt" "$GAME/BepInEx/Translation/pt/Text/"
 # busca da biblioteca em português (só o jogo completo tem essa busca)
 [ "$PASTA" = completo ] && mkdir -p "$GAME/BepInEx/plugins" && cp "$HERE/plugin/AmINima.BuscaPtBr.dll" "$GAME/BepInEx/plugins/"
+# sem isso o jogo desativa o objeto do BepInEx e o plugin não roda
+CFG="$GAME/BepInEx/config/BepInEx.cfg"
+if [ -f "$CFG" ]; then sed -i 's/^HideManagerGameObject = false/HideManagerGameObject = true/' "$CFG"
+else printf '[Chainloader]\nHideManagerGameObject = true\n' > "$CFG"; fi
 
 echo "== Proton: carregar winhttp.dll do BepInEx"
 if [ -f "$PREFIX" ]; then

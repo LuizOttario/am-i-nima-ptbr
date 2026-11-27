@@ -38,11 +38,14 @@ public class BuscaPtBr : BaseUnityPlugin
         { "MOM", "MÃE" }, { "YOU", "VOCÊ" }, { "LIFEGUARD", "SALVA-VIDAS" }, { "COACH", "TREINADOR" } };
     UnityEngine.Localization.Tables.StringTable feito;
 
+    bool avisou;
+
     void Update()
     {
+        if (!avisou) { avisou = true; Logger.LogInfo("Update ativo"); }
         if (!LocalizationSettings.InitializationOperation.IsDone) return;
         var loc = LocalizationSettings.SelectedLocale;
-        if (loc == null || loc.Identifier.Code != "en") return;
+        if (loc == null || !loc.Identifier.Code.StartsWith("en")) return;
         var t = LocalizationSettings.StringDatabase.GetTable("Keywords");
         if (t == null || t == feito) return;  // tabela nova (ou recarregada) -> aplica de novo
         foreach (var kv in Falantes)
