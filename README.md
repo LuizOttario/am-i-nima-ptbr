@@ -52,7 +52,7 @@ Verifique a integridade dos arquivos na Steam. Depois apague a pasta `BepInEx` e
 
 `patch.py` confere se a tradução bate com a versão do jogo e aplica.
 
-Se o jogo receber uma atualização, apague os arquivos `.orig` (`Am I Nima_Data/data.unity3d.orig`, `StreamingAssets/aa/catalog.json.orig` e o `.bundle.orig` em `StreamingAssets/aa/StandaloneWindows64`), porque são da versão antiga, e rode a instalação de novo. Se o `patch.py` reclamar que a quantidade de falas mudou, a tradução precisa ser atualizada para a nova versão.
+**Quando o jogo atualiza, a Steam troca os arquivos e o jogo volta para o inglês.** No Linux, rode `./install.sh` de novo; ele percebe a atualização sozinho. No Windows, apague os arquivos `.orig` (`Am I Nima_Data/data.unity3d.orig`, `StreamingAssets/aa/catalog.json.orig` e o `.bundle.orig` em `StreamingAssets/aa/StandaloneWindows64`), porque são da versão antiga, e rode a instalação de novo. Se o `patch.py` reclamar que a quantidade de falas mudou, a tradução precisa ser atualizada para a nova versão.
 
 Achou algo em inglês ou um erro? Abra uma issue.
 Am I Nima é © HO! Games. Projeto de fã, sem afiliação.

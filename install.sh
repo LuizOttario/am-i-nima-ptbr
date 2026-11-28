@@ -16,9 +16,16 @@ XUNITY=https://github.com/bbepis/XUnity.AutoTranslator/releases/download/v5.6.3.
 command -v uv >/dev/null || { echo "Precisa do uv: https://docs.astral.sh/uv/"; exit 1; }
 
 echo "== Falas (data.unity3d)"
+# Arquivo mais novo que a última instalação = a Steam atualizou o jogo; o .orig é da versão velha.
+MARCA="$DATA/.ptbr_instalado"
+AA="$DATA/StreamingAssets/aa"
+for f in "$DATA/data.unity3d" "$AA/catalog.json" "$AA/StandaloneWindows64/localization-assets-english(en)_assets_all.bundle"; do
+  if [ -f "$MARCA" ] && [ -f "$f.orig" ] && [ "$f" -nt "$MARCA" ]; then echo "atualizado pela Steam: $(basename "$f")"; rm -f "$f.orig"; fi
+done
 [ -f "$DATA/data.unity3d.orig" ] || cp "$DATA/data.unity3d" "$DATA/data.unity3d.orig"
 uv run -q --with UnityPy --with numpy --with TypeTreeGeneratorAPI --with fonttools python "$HERE/patch.py" "$DATA/data.unity3d.orig" "$DATA/data.unity3d.tmp" "$PASTA"
 mv "$DATA/data.unity3d.tmp" "$DATA/data.unity3d"
+touch "$MARCA"
 
 echo "== BepInEx + XUnity.AutoTranslator"
 TMP="$(mktemp -d)"; trap 'rm -rf "$TMP"' EXIT
